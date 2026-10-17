@@ -42,7 +42,7 @@
       el.querySelectorAll("button").forEach(b => b.onclick = () => { tab = b.dataset.k; render(); });
     };
     const load = async () => {
-      try { const r = await fetch(src + (src.includes("?") ? "&" : "?") + "t=" + Date.now()); data = await r.json(); }
+      try { const r = await fetch(src + (src.includes("?") ? "&" : "?") + "t=" + Date.now(), { cache: "no-store" }); data = await r.json(); }
       catch (e) { if (!data) el.innerHTML = "<p>News unavailable.</p>"; return; }
       render();
     };
