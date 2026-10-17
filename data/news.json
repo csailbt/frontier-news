@@ -1,58 +1,76 @@
 {
-  "updated": "2026-10-17T22:51:33.400Z",
+  "updated": "2026-10-17T22:55:16.757Z",
   "categories": {
     "ai": [
       {
         "published": "2026-10-17",
         "source": "Bloomberg",
-        "summary": "DeepSeek released V4.1-Flash-1017, which the company says improves benchmark performance and task speed while producing shorter outputs. The update is available on its website, app and developer platform.",
+        "summary": "DeepSeek released V4.1-Flash-1017, which it says improves benchmark performance and task speed while producing shorter outputs. The update is available through its website, app and developer platform.",
         "title": "DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner",
         "url": "https://www.bloomberg.com/news/articles/2026-10-17/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner",
         "category": "ai",
         "image": ""
       },
       {
-        "published": "2026-10-16",
-        "source": "Reuters (via AsiaOne)",
-        "summary": "China proposed export controls covering 23 AI technologies, including models, agents and computing clusters, citing national security concerns. The draft allows public consultation through November 15; the proposal excludes technology already public through open-source releases or academic papers.",
-        "title": "Beijing seeks tighter grip on AI exports amid US rivalry",
-        "url": "https://www.asiaone.com/china/beijing-seeks-tighter-grip-ai-exports-amid-us-rivalry",
+        "published": "2026-10-17",
+        "source": "Reuters",
+        "summary": "Anthropic co-founder Jack Clark said AI could accelerate change across industries and cited an internal estimate that it could raise U.S. economic output to $44 trillion by 2030. He called for international cooperation and serious rules, warning that the window for policymakers to act is shrinking.",
+        "title": "Anthropic's Clark says AI's impact accelerating quickly and could vastly boost US GDP",
+        "url": "https://www.charlotteobserver.com/news/nation-world/national/article317662564.html",
         "category": "ai",
-        "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Oct2026/1710_%20World%20Artificial%20Intelligence%20Conference%20shanghai_rt.jpg?itok=WOj2yQnk"
+        "image": "https://www.mcclatchy-wires.com/public/incoming/1oud61/picture317662492/alternates/LANDSCAPE_1200/f04c0eed-8113-46af-84b3-d1a64b61785d"
       },
       {
         "published": "2026-10-17",
-        "source": "Reuters (via Fidelity)",
-        "summary": "Anthropic co-founder Jack Clark said AI capabilities are advancing quickly and called for international cooperation on serious rules. He cited an internal model projecting that AI could raise U.S. economic output to $44 trillion by 2030, while noting that figure sounds “very outlandish.”",
-        "title": "Anthropic's Clark says AI's impact accelerating quickly and could vastly boost US GDP",
-        "url": "https://www.fidelity.com/news/article/default/202610170511RTRSNEWSCOMBINED_S0N40K04K_1",
+        "source": "Bloomberg",
+        "summary": "Japan is set to provide up to $21 billion for two new GlobalFoundries chip factories in Malta, New York, according to the search results. The investment would expand U.S. chip manufacturing capacity, including facilities operated by GlobalFoundries.",
+        "title": "Japan to put up to $21bn into two GlobalFoundries chip fabs in New York",
+        "url": "https://sifirincidakika.com/en/latest",
+        "category": "ai",
+        "image": "https://sifirincidakika.com/og-default.png"
+      },
+      {
+        "published": "2026-10-17",
+        "source": "AI News Hub",
+        "summary": "DeepSeek released its V4.1-Flash-1017 update and opened its Search and Fetch APIs to all users, charging $0.75 per 1,000 calls, according to the report. The model update and API access broaden the company’s developer offerings.",
+        "title": "DeepSeek releases AI model update, opens search APIs to all users",
+        "url": "https://uk.finance.yahoo.com/news/deepseek-releases-ai-model-opens-150410432.html",
         "category": "ai",
         "image": ""
+      },
+      {
+        "published": "2026-10-17",
+        "source": "Sıfırıncı Dakika",
+        "summary": "The EU AI Office reportedly sent OpenAI and Anthropic requests for information on security, external evaluation and monitoring of model use. The inquiries follow reports of AI agents involved in unauthorized or harmful activity.",
+        "title": "EU AI Office seeks information from OpenAI and Anthropic on model safety",
+        "url": "https://sifirincidakika.com/en/category/ai",
+        "category": "ai",
+        "image": "https://sifirincidakika.com/og-default.png"
       }
     ],
     "quantum": [
       {
         "published": "2026-10-17",
-        "source": "Google Quantum AI / Science (reported by Phys.org)",
-        "summary": "Google researchers demonstrated magic-state cultivation on its Willow processor, reducing errors in prepared magic states roughly 40-fold and reporting 99.99% logical fidelity. The result addresses a major error-correction bottleneck, though it is not a demonstration of a large-scale fault-tolerant computer.",
+        "source": "Phys.org",
+        "summary": "Google Quantum AI demonstrated magic-state cultivation on its Willow superconducting processor, reducing errors about 40-fold and reaching roughly 99.99% logical fidelity. The result, published in Science, is a hardware demonstration of a technique intended to ease a major fault-tolerant computing bottleneck; scaling it up remains a challenge.",
         "title": "Quantum magic state cleanup cuts errors 40-fold in first successful hardware test",
         "url": "https://phys.org/news/2026-10-quantum-magic-state-cleanup-errors.html",
         "category": "quantum",
         "image": "https://scx2.b-cdn.net/gfx/news/2026/new-error-correction-t.jpg"
       },
       {
-        "published": "2026-10-16",
-        "source": "Anthropic",
-        "summary": "Anthropic reported that Claude designed quantum circuits for eight tasks across areas including chemistry, optimization, simulation and number theory, improving on prior published designs. One elliptic-curve circuit used about 17 times fewer gates, with a 12% increase in qubits; the designs have not been demonstrated on quantum hardware.",
-        "title": "Anthropic's Claude Designs Quantum Circuits Requiring Up To 17x Fewer Gates",
-        "url": "https://www.gate.com/news/detail/anthropics-claude-designs-quantum-circuits-requiring-up-to-17x-fewer-gates-25008844",
+        "published": "2026-10-17",
+        "source": "Blockonomi",
+        "summary": "Anthropic reported that Claude Mythos 5 generated more resource-efficient circuits for eight quantum-computing tasks, with some designs requiring substantially fewer gates. The gains are circuit-design results, not demonstrations on quantum hardware.",
+        "title": "Anthropic's Claude Mythos 5 Cuts Quantum Circuit Gates by 17x in New Research",
+        "url": "https://blockonomi.com/anthropics-claude-mythos-5-cuts-quantum-circuit-gates-by-17x-in-new-research/",
         "category": "quantum",
-        "image": "https://gimg2.staticimgs.com/share/share_poster_20260302_121136_a0592b2d6e5969154ee79c30e0ad7e6e.webp"
+        "image": "https://blockonomi.com/wp-content/uploads/2026/09/Anthropic-Claude-1-scaled-17.webp"
       },
       {
         "published": "2026-10-17",
         "source": "Quantum Zeitgeist",
-        "summary": "A report describes IBM Research using collaborating AI agents to speed up high-level-synthesis estimates for quantum error-correction hardware design by 52 times, at a reported inference cost of $26. The work aims to make it faster and cheaper to explore chip architectures.",
+        "summary": "A report says IBM Research used AI agents to speed up estimates for quantum error-correction hardware design by 52 times, at a reported inference cost of $26. The reported result concerns design and synthesis estimates rather than a new processor demonstration.",
         "title": "Quantum Zeitgeist Weekly Digest October 17th",
         "url": "https://quantumzeitgeist.com/quantum-zeitgeist-weekly-digest-october-17-2026/",
         "category": "quantum",
