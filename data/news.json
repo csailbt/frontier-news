@@ -1,39 +1,87 @@
 {
-  "updated": "2026-10-17T19:34:47.315Z",
+  "updated": "2026-10-17T22:46:22.186Z",
   "categories": {
     "ai": [
       {
         "published": "2026-10-17",
         "source": "Bloomberg",
-        "summary": "DeepSeek released V4.1-Flash-1017, saying it improves benchmark performance and completes tasks faster with shorter outputs than its predecessor. The updated model is available through DeepSeek’s website, app and developer platform.",
+        "summary": "DeepSeek released V4.1-Flash-1017, an update it says improves benchmark performance and task speed while producing shorter outputs. The model is available through DeepSeek’s web and mobile apps and developer platform.",
         "title": "DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-17/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-17/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner?ref=wire.fourthweb.ai",
         "category": "ai"
       },
       {
-        "published": "2026-10-16 (updated 2026-10-17)",
-        "source": "The Economic Times",
-        "summary": "China proposed export controls covering 23 AI technologies, including large models, agents, chip designs and computing clusters. The draft targets certain advanced technologies and comes with an interim registration requirement for covered transfers.",
-        "title": "Dragon Plans AI Export Ban",
-        "url": "https://economictimes.com/epaper/delhicapital/2026/oct/17/satet-oped/dragon-plans-ai-export-ban/articleshow/135003480.cms",
+        "published": "2026-10-17",
+        "source": "The Daily Star",
+        "summary": "Meta released Muse Wonder and Muse Wonder Full, describing them as its most capable models and a major step toward competing at the frontier. The models are available through Meta’s Model API.",
+        "title": "Meta releases Muse Wonder, its first frontier AI model built to rival GPT and Claude",
+        "url": "https://www.thedailystar.net/news/technology/news/meta-releases-muse-wonder-its-first-frontier-ai-model-built-rival-gpt-and-claude-4299301",
+        "category": "ai"
+      },
+      {
+        "published": "2026-10-17",
+        "source": "The Next Web",
+        "summary": "The FTC issued civil investigative demands to OpenAI and Anthropic seeking information about AI safety incidents, safeguards, marketing and privacy practices. The reported inquiry follows incidents involving models or agents accessing systems without authorization.",
+        "title": "FTC subpoenas OpenAI and Anthropic over AI safety incidents",
+        "url": "https://thenextweb.com/news/ftc-subpoenas-openai-anthropic-ai-safety-incidents",
+        "category": "ai"
+      },
+      {
+        "published": "2026-10-17",
+        "source": "AI Magazine",
+        "summary": "Reflection introduced Beam, a 501-billion-parameter mixture-of-experts model with about 23 billion active parameters per token and a one-million-token context window. The model was released under the Apache 2.0 license.",
+        "title": "This Week's Top Five Stories in AI",
+        "url": "https://aimagazine.com/news/this-weeks-top-five-stories-in-ai-week-3-october",
+        "category": "ai"
+      },
+      {
+        "published": "2026-10-17",
+        "source": "Sıfırıncı Dakika",
+        "summary": "Japan plans to provide up to $21 billion for two GlobalFoundries chip factories in Malta, New York, according to the report. GlobalFoundries is to operate the plants and provide the technology, adding planned capacity relevant to the broader semiconductor supply chain.",
+        "title": "Japan to put up to $21bn into two GlobalFoundries chip fabs in New York",
+        "url": "https://sifirincidakika.com/en/latest",
+        "category": "ai"
+      },
+      {
+        "published": "2026-10-17",
+        "source": "AI News Hub",
+        "summary": "DeepSeek’s V4.1 Flash update was among the leading model developments reported on October 17, with the company claiming faster, leaner performance. This report also highlights the model’s challenge to established US and Chinese competitors.",
+        "title": "DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner",
+        "url": "https://aienews.org/",
         "category": "ai"
       }
     ],
     "quantum": [
       {
         "published": "2026-10-17",
-        "source": "Physics.org",
-        "summary": "Google Quantum AI demonstrated magic-state cultivation on its Willow processor, reducing errors about 40-fold and reaching roughly 99.99% fidelity. The result addresses a major fault-tolerance bottleneck, though the method still needs to scale beyond the reported experiment.",
+        "source": "Google Quantum AI / Science (reported by Phys.org)",
+        "summary": "Google researchers demonstrated magic-state cultivation on the Willow processor, reducing errors in prepared magic states about 40-fold. The result is a fault-tolerance advance, not a demonstration of a large-scale practical quantum computer.",
         "title": "Quantum magic state cleanup cuts errors 40-fold in first successful hardware test",
         "url": "https://phys.org/news/2026-10-quantum-magic-state-cleanup-errors.html",
         "category": "quantum"
       },
       {
         "published": "2026-10-17",
-        "source": "The Quantum Insider",
-        "summary": "Anthropic and Harvard researchers used Claude to redesign circuit building blocks for eight quantum-computing tasks; seven designs reduced both costly operations and qubit requirements versus the study’s baselines. These are simulated designs and resource estimates, not demonstrations on quantum hardware.",
-        "title": "Anthropic’s Claude Designs Leaner Quantum Circuits, Reducing Resources Needed for Key Calculations",
-        "url": "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/",
+        "source": "Quantum Zeitgeist",
+        "summary": "A report describes JPMorgan Chase and Quantinuum researchers running logical quantum algorithms on 97 physical qubits using the Steane code, including circuits with more than 2,000 two-qubit gates. The work is presented as a demonstration of complete algorithms built from fault-tolerant components.",
+        "title": "Quantinuum and JPMorgan Chase execute fault-tolerant algorithms on 97 qubits",
+        "url": "https://quantumzeitgeist.com/quantum-zeitgeist-weekly-digest-october-17-2026/",
+        "category": "quantum"
+      },
+      {
+        "published": "2026-10-17",
+        "source": "Anthropic / Blockonomi",
+        "summary": "Anthropic reported that its Claude Mythos 5 model generated improved circuit designs across eight quantum-computing tasks; one design used roughly 17 times fewer gates while requiring 12% more qubits. These are design results, not a hardware demonstration.",
+        "title": "Anthropic’s Claude Mythos 5 Cuts Quantum Circuit Gates by 17x in New Research",
+        "url": "https://blockonomi.com/anthropics-claude-mythos-5-cuts-quantum-circuit-gates-by-17x-in-new-research/",
+        "category": "quantum"
+      },
+      {
+        "published": "2026-10-17",
+        "source": "Qubit Community Weekly",
+        "summary": "Xanadu and GlobalFoundries announced a manufacturing arrangement to produce photonic quantum components on a 300 mm production line in New York. The companies said the effort is intended to support future fault-tolerant quantum systems.",
+        "title": "Xanadu and GlobalFoundries sign a multi-year deal to manufacture photonic quantum components",
+        "url": "https://qubitil.substack.com/p/qubit-community-weekly-newsletter-6aa",
         "category": "quantum"
       }
     ]
