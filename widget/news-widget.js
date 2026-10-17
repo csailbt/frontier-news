@@ -21,7 +21,7 @@
     if (!document.getElementById("fnw-css")) { const s = document.createElement("style"); s.id = "fnw-css"; s.textContent = css; document.head.append(s); }
     el.className = "fnw"; let data = null, tab = "all";
     const render = () => {
-      if (!data) { el.innerHTML = "<p>Loading news"&amp;"</p>"; return; }
+      if (!data) { el.innerHTML = "<p>Loading news…</p>"; return; }
       const cats = data.categories || {};
       const items = tab === "all" ? Object.values(cats).flat() : cats[tab] || [];
       el.innerHTML = `<h3>${esc(el.dataset.title || "Frontier News: AI & Quantum")}</h3>
