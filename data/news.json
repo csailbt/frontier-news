@@ -1,76 +1,58 @@
 {
-  "updated": "2026-10-17T22:47:45.177Z",
+  "updated": "2026-10-17T22:51:33.400Z",
   "categories": {
     "ai": [
       {
         "published": "2026-10-17",
         "source": "Bloomberg",
-        "summary": "DeepSeek released V4.1-Flash-1017, an update it says improves benchmark performance and completes tasks faster with shorter outputs. It is available through DeepSeek’s website, app and developer platform.",
+        "summary": "DeepSeek released V4.1-Flash-1017, which the company says improves benchmark performance and task speed while producing shorter outputs. The update is available on its website, app and developer platform.",
         "title": "DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-17/deepseek-pushes-out-updated-ai-model-it-says-faster-leaner?ref=wire.fourthweb.ai",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-17/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner",
         "category": "ai",
         "image": ""
       },
       {
-        "published": "2026-10-17",
-        "source": "AI News Hub",
-        "summary": "Google opened Gemini 4 Argon to users globally across its app and developer products, according to the report. The announcement also included a program offering 10,000 researchers six months of access to its top-tier model.",
-        "title": "Google Opens Global Public Access to Gemini 4 Argon App",
-        "url": "https://www.thisdaylive.com/2026/10/17/google-opens-global-public-access-to-gemini-4-argon-app/",
+        "published": "2026-10-16",
+        "source": "Reuters (via AsiaOne)",
+        "summary": "China proposed export controls covering 23 AI technologies, including models, agents and computing clusters, citing national security concerns. The draft allows public consultation through November 15; the proposal excludes technology already public through open-source releases or academic papers.",
+        "title": "Beijing seeks tighter grip on AI exports amid US rivalry",
+        "url": "https://www.asiaone.com/china/beijing-seeks-tighter-grip-ai-exports-amid-us-rivalry",
         "category": "ai",
-        "image": "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/google.webp"
+        "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Oct2026/1710_%20World%20Artificial%20Intelligence%20Conference%20shanghai_rt.jpg?itok=WOj2yQnk"
       },
       {
         "published": "2026-10-17",
-        "source": "Sıfırıncı Dakika",
-        "summary": "Japan plans to provide up to $21 billion for two GlobalFoundries chip factories in Malta, New York, according to the report. GlobalFoundries is to operate the plants and provide the technology, expanding planned chipmaking capacity relevant to AI hardware.",
-        "title": "Japan to put up to $21bn into two GlobalFoundries chip fabs in New York",
-        "url": "https://sifirincidakika.com/en/latest",
+        "source": "Reuters (via Fidelity)",
+        "summary": "Anthropic co-founder Jack Clark said AI capabilities are advancing quickly and called for international cooperation on serious rules. He cited an internal model projecting that AI could raise U.S. economic output to $44 trillion by 2030, while noting that figure sounds “very outlandish.”",
+        "title": "Anthropic's Clark says AI's impact accelerating quickly and could vastly boost US GDP",
+        "url": "https://www.fidelity.com/news/article/default/202610170511RTRSNEWSCOMBINED_S0N40K04K_1",
         "category": "ai",
-        "image": "https://sifirincidakika.com/og-default.png"
-      },
-      {
-        "published": "2026-10-17",
-        "source": "AI News Hub",
-        "summary": "The report says China’s commerce and science ministries proposed export bans or restrictions covering 23 AI-related technologies, including model weights, agents and chip designs. The proposal would extend controls beyond physical hardware to parts of the AI development stack.",
-        "title": "China plans to restrict exports of 23 key AI technologies",
-        "url": "https://aienews.org/research.html",
-        "category": "ai",
-        "image": "https://aienews.org/og-image.png"
-      },
-      {
-        "published": "2026-10-17",
-        "source": "Sıfırıncı Dakika",
-        "summary": "The European Commission’s AI Office requested information from OpenAI and Anthropic on security, external evaluation and monitoring of model use, according to the report. The inquiries follow concerns about AI agents and signal active enforcement of the EU’s AI rules.",
-        "title": "EU AI Office seeks information from OpenAI and Anthropic on model security",
-        "url": "https://sifirincidakika.com/en/category/ai",
-        "category": "ai",
-        "image": "https://sifirincidakika.com/og-default.png"
+        "image": ""
       }
     ],
     "quantum": [
       {
         "published": "2026-10-17",
-        "source": "Science / Phys.org",
-        "summary": "Google Quantum AI demonstrated “magic state cultivation” on its Willow processor, reporting roughly 40-fold lower errors and about 99.99% logical fidelity for the prepared states. The result addresses a major error-correction overhead, though scaling the method remains a challenge.",
+        "source": "Google Quantum AI / Science (reported by Phys.org)",
+        "summary": "Google researchers demonstrated magic-state cultivation on its Willow processor, reducing errors in prepared magic states roughly 40-fold and reporting 99.99% logical fidelity. The result addresses a major error-correction bottleneck, though it is not a demonstration of a large-scale fault-tolerant computer.",
         "title": "Quantum magic state cleanup cuts errors 40-fold in first successful hardware test",
         "url": "https://phys.org/news/2026-10-quantum-magic-state-cleanup-errors.html",
         "category": "quantum",
         "image": "https://scx2.b-cdn.net/gfx/news/2026/new-error-correction-t.jpg"
       },
       {
-        "published": "2026-10-17",
-        "source": "The Quantum Insider",
-        "summary": "Anthropic and Harvard researchers used an AI system to redesign quantum circuits across eight computational tasks. Seven designs reduced both costly gate counts and qubit requirements, but the results are resource estimates, not demonstrations on quantum hardware.",
-        "title": "Anthropic’s Claude Designs Leaner Quantum Circuits, Reducing Resources Needed for Key Calculations",
-        "url": "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/",
+        "published": "2026-10-16",
+        "source": "Anthropic",
+        "summary": "Anthropic reported that Claude designed quantum circuits for eight tasks across areas including chemistry, optimization, simulation and number theory, improving on prior published designs. One elliptic-curve circuit used about 17 times fewer gates, with a 12% increase in qubits; the designs have not been demonstrated on quantum hardware.",
+        "title": "Anthropic's Claude Designs Quantum Circuits Requiring Up To 17x Fewer Gates",
+        "url": "https://www.gate.com/news/detail/anthropics-claude-designs-quantum-circuits-requiring-up-to-17x-fewer-gates-25008844",
         "category": "quantum",
-        "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png"
+        "image": "https://gimg2.staticimgs.com/share/share_poster_20260302_121136_a0592b2d6e5969154ee79c30e0ad7e6e.webp"
       },
       {
         "published": "2026-10-17",
         "source": "Quantum Zeitgeist",
-        "summary": "A weekly roundup reports that JPMorgan Chase and Quantinuum researchers ran fault-tolerant quantum algorithms using 97 physical qubits and the Steane code. The work included circuits with more than 2,000 two-qubit gates, although the roundup is the available source for this report.",
+        "summary": "A report describes IBM Research using collaborating AI agents to speed up high-level-synthesis estimates for quantum error-correction hardware design by 52 times, at a reported inference cost of $26. The work aims to make it faster and cheaper to explore chip architectures.",
         "title": "Quantum Zeitgeist Weekly Digest October 17th",
         "url": "https://quantumzeitgeist.com/quantum-zeitgeist-weekly-digest-october-17-2026/",
         "category": "quantum",
