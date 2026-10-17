@@ -8,22 +8,36 @@
 .fnw ul{list-style:none;margin:0;padding:0;display:grid;gap:10px}.fnw li{background:var(--card);border-radius:10px;padding:12px}
 .fnw a{color:var(--fg);font-weight:600;text-decoration:none}.fnw a:hover{color:var(--acc)}
 .fnw p{margin:4px 0 0;color:var(--mut);font-size:14px}.fnw small,.fnw .ft{color:var(--mut);font-size:12px}.fnw .ft{margin-top:10px}
+.fnw li.has-img .fnw-media{overflow:hidden;border-radius:8px;background:#21262d;aspect-ratio:16/9;margin-bottom:8px}
+.fnw li.has-img img{width:100%;height:100%;object-fit:cover;display:block}
+.fnw .fnw-err{color:var(--mut);font-size:13px;margin:4px 0 0;display:none}
+.fnw li.no-img .fnw-err{display:block}
 @media(min-width:640px){.fnw ul{grid-template-columns:1fr 1fr}}`;
-  const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+  const MAP = { "&": "&amp;", "<": "&lt;", ">": "&gt;", "\"": "&quot;", "'": "&#39;" };
+  const esc = s => String(s ?? "").replace(/[&<>"']/g, c => MAP[c]);
   const LABEL = { all: "All", ai: "AI", quantum: "Quantum" };
   function mount(el) {
     const src = el.dataset.src || "news.json", mins = +el.dataset.refresh || 15;
     if (!document.getElementById("fnw-css")) { const s = document.createElement("style"); s.id = "fnw-css"; s.textContent = css; document.head.append(s); }
     el.className = "fnw"; let data = null, tab = "all";
     const render = () => {
-      if (!data) { el.innerHTML = "<p>Loading news…</p>"; return; }
+      if (!data) { el.innerHTML = "<p>Loading news"&amp;"</p>"; return; }
       const cats = data.categories || {};
       const items = tab === "all" ? Object.values(cats).flat() : cats[tab] || [];
       el.innerHTML = `<h3>${esc(el.dataset.title || "Frontier News: AI & Quantum")}</h3>
         <div class="tabs" role="tablist">${["all", ...Object.keys(cats)].map(k =>
           `<button role="tab" data-k="${k}" aria-selected="${k === tab}">${LABEL[k] || esc(k)}</button>`).join("")}</div>
-        <ul>${items.map(i => `<li><a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a>
-          <p>${esc(i.summary)}</p><small>${esc(i.source)}${i.published ? " · " + esc(i.published) : ""}</small></li>`).join("") || "<li>No stories yet.</li>"}</ul>
+        <ul>${items.map(i => {
+          const hasImg = /^https?\/\//.test(i.image || "");
+          const img = hasImg
+            ? `<div class="fnw-media"><img src="${esc(i.image)}" alt="" loading="lazy" decoding="async"
+                 onerror="this.closest('li').classList.replace('has-img','no-img')"></div>`
+            : "";
+          return `<li class="${hasImg ? "has-img" : "no-img"}">${img}
+            <a href="${esc(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a>
+            <p>${esc(i.summary)}</p><small>${esc(i.source)}${i.published ? " · " + esc(i.published) : ""}</small>
+            ${hasImg ? `<span class="fnw-err">Image unavailable.</span>` : ""}</li>`;
+        }).join("") || "<li>No stories yet.</li>"}</ul>
         <div class="ft">Updated ${new Date(data.updated).toLocaleString()}</div>`;
       el.querySelectorAll("button").forEach(b => b.onclick = () => { tab = b.dataset.k; render(); });
     };

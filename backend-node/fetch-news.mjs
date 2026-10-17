@@ -42,9 +42,49 @@ async function fetchCategory(key, topic) {
   let items = [];
   try { items = JSON.parse(text).items; } catch { }
   const seen = new Set();
-  return items.filter(i => /^https?:\/\//.test(i.url) && !seen.has(i.url) && seen.add(i.url))
+  const clean = items.filter(i => /^https?:\/\//.test(i.url) && !seen.has(i.url) && seen.add(i.url))
               .map(i => ({ ...i, category: key }));
+  // Attach og:image per article in parallel (best effort, non-fatal).
+  await Promise.all(clean.map(async i => {
+    i.image = (await ogImage(i.url).catch(() => null)) || "";
+  }));
+  return clean;
 }
+
+// Fetch a page's og:image (OpenGraph) with timeout, UA, size cap, and relative-URL resolution.
+const UA = "Mozilla/5.0 (compatible; frontier-news-widget/1.0)";
+async function ogImage(url, { timeoutMs = 5000, maxBytes = 512_000 } = {}) {
+  const ctrl = new AbortController();
+  const t = setTimeout(() => ctrl.abort(), timeoutMs);
+  try {
+    const res = await fetch(url, { headers: { "User-Agent": UA }, redirect: "follow", signal: ctrl.signal });
+    if (!res.ok) return null;
+    const type = (res.headers.get("content-type") || "").split(";")[0];
+    if (!type.includes("html")) return null;
+    const ct = res.headers.get("content-type") || "";
+    // Read at most maxBytes of the body.
+    const reader = res.body.getReader();
+    const chunks = []; let total = 0;
+    while (total < maxBytes) {
+      const { done, value } = await reader.read();
+      if (done) break;
+      chunks.push(value); total += value.length;
+    }
+    const html = Buffer.concat(chunks).toString("utf8");
+    // Look for og:image, then twitter:image, then a first <img> inside <figure> or with a lead role.
+    const ogMatch = html.match(/<meta\s+property=["']og:image["']\s+content=["']([^"']+)["']/i)
+      || html.match(/<meta\s+content=["']([^"']+)["']\s+property=["']og:image["']/i);
+    const twMatch = html.match(/<meta\s+name=["']twitter:image["']\s+content=["']([^"']+)["']/i)
+      || html.match(/<meta\s+content=["']([^"']+)["']\s+name=["']twitter:image["']/i);
+    const figMatch = html.match(/<figure[^>]*>[\s\S]{0,400}?<img[^>]*src=["']([^"']+)["']/i);
+    const raw = (ogMatch && ogMatch[1]) || (twMatch && twMatch[1]) || (figMatch && figMatch[1]);
+    if (!raw) return null;
+    // Resolve relative URLs against the final response URL.
+    return new URL(raw, res.url).toString();
+  } catch { return null; }
+  finally { clearTimeout(t); }
+}
+
 const out = { updated: new Date().toISOString(), categories: {} };
 const failures = [];
 for (const [k, t] of Object.entries(CATEGORIES)) {
