@@ -16,25 +16,31 @@ const schema = {
   required: ["items"],
 };
 async function fetchCategory(key, topic) {
-  const res = await fetch("https://api.perplexity.ai/chat/completions", {
+  const res = await fetch("https://api.perplexity.ai/v1/agent", {
     method: "POST",
     headers: { Authorization: `Bearer ${KEY}`, "Content-Type": "application/json" },
     body: JSON.stringify({
-      model: "sonar",
-      messages: [
-        { role: "system", content: "You are a news editor. Return only factual, sourced news. Each url must be the original article URL." },
-        { role: "user", content: `List the 6 most important news stories from the last 24 hours about ${topic}. Summary: 1-2 sentences.` },
-      ],
-      search_recency_filter: "day",
-      // search_domain_filter: ["arstechnica.com","technologyreview.com","nature.com"], // optional allowlist (max 20; prefix "-" to exclude)
-      web_search_options: { search_context_size: "medium" },
-      response_format: { type: "json_schema", json_schema: { schema } },
+      preset: "fast",
+      input: `List the 6 most important news stories from the last 24 hours about ${topic}. Give a 1-2 sentence summary for each.`,
+      instructions: "You are a news editor. Use the web_search tool for current news. Return only factual, sourced stories, and give the original article URL for each.",
+      tools: [{
+        type: "web_search",
+        filters: {
+          search_recency_filter: "day",
+          // search_domain_filter: ["technologyreview.com", "nature.com"],  // optional allowlist, max 20
+        },
+      }],
+      response_format: { type: "json_schema", json_schema: { name: "news_items", schema } },
     }),
   });
   if (!res.ok) throw new Error(`${key}: HTTP ${res.status} ${await res.text()}`);
   const data = await res.json();
+  const text = data.output_text
+    ?? (data.output || []).filter(o => o.type === "message")
+        .flatMap(o => o.content || []).filter(c => c.type === "output_text")
+        .map(c => c.text).join("\n");
   let items = [];
-  try { items = JSON.parse(data.choices[0].message.content).items; } catch { }
+  try { items = JSON.parse(text).items; } catch { }
   const seen = new Set();
   return items.filter(i => /^https?:\/\//.test(i.url) && !seen.has(i.url) && seen.add(i.url))
               .map(i => ({ ...i, category: key }));
@@ -45,6 +51,6 @@ for (const [k, t] of Object.entries(CATEGORIES)) {
   try { out.categories[k] = await fetchCategory(k, t); }
   catch (e) { console.error(e.message); failures.push(k); out.categories[k] = []; }
 }
-if (failures.length) { console.error(`Failed categories: ${failures.join(", ")}`); process.exit(1); }
 await writeFile(OUT, JSON.stringify(out, null, 2));
+if (failures.length) { console.error(`Failed categories: ${failures.join(", ")}`); process.exit(1); }
 console.log(`Wrote ${OUT}`);

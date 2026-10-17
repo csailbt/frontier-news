@@ -11,18 +11,22 @@ SCHEMA = {"type": "object", "properties": {"items": {"type": "array", "items": {
     "required": ["title", "summary", "url", "source"]}}}, "required": ["items"]}
 
 def fetch_category(key, topic):
-    r = requests.post("https://api.perplexity.ai/chat/completions", timeout=90,
+    r = requests.post("https://api.perplexity.ai/v1/agent", timeout=120,
         headers={"Authorization": f"Bearer {KEY}"},
-        json={"model": "sonar",
-              "messages": [
-                  {"role": "system", "content": "You are a news editor. Return only factual, sourced news. Each url must be the original article URL."},
-                  {"role": "user", "content": f"List the 6 most important news stories from the last 24 hours about {topic}. Summary: 1-2 sentences."}],
-              "search_recency_filter": "day",
-              # "search_domain_filter": ["technologyreview.com", "nature.com"],
-              "web_search_options": {"search_context_size": "medium"},
-              "response_format": {"type": "json_schema", "json_schema": {"schema": SCHEMA}}})
+        json={"preset": "fast",
+              "input": f"List the 6 most important news stories from the last 24 hours about {topic}. Give a 1-2 sentence summary for each.",
+              "instructions": "You are a news editor. Use the web_search tool for current news. Return only factual, sourced stories, and give the original article URL for each.",
+              "tools": [{"type": "web_search", "filters": {
+                  "search_recency_filter": "day",
+                  # "search_domain_filter": ["technologyreview.com", "nature.com"],
+              }}],
+              "response_format": {"type": "json_schema", "json_schema": {"name": "news_items", "schema": SCHEMA}}})
     r.raise_for_status()
-    try: items = json.loads(r.json()["choices"][0]["message"]["content"])["items"]
+    d = r.json()
+    text = d.get("output_text") or "\n".join(
+        c["text"] for o in d.get("output", []) if o.get("type") == "message"
+        for c in o.get("content", []) if c.get("type") == "output_text")
+    try: items = json.loads(text)["items"]
     except Exception: items = []
     seen, out = set(), []
     for i in items:
@@ -31,8 +35,10 @@ def fetch_category(key, topic):
     return out
 
 data = {"updated": datetime.datetime.now(datetime.timezone.utc).isoformat(), "categories": {}}
+failures = []
 for k, t in CATEGORIES.items():
     try: data["categories"][k] = fetch_category(k, t)
-    except Exception as e: print(k, e); data["categories"][k] = []
+    except Exception as e: print(k, e); failures.append(k); data["categories"][k] = []
 with open(OUT, "w") as f: json.dump(data, f, indent=2)
 print("Wrote", OUT)
+if failures: raise SystemExit(f"Failed categories: {', '.join(failures)}")
