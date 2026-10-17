@@ -1,7 +1,41 @@
 {
-  "updated": "2026-10-17T19:02:08.958Z",
+  "updated": "2026-10-17T19:34:47.315Z",
   "categories": {
-    "ai": [],
-    "quantum": []
+    "ai": [
+      {
+        "published": "2026-10-17",
+        "source": "Bloomberg",
+        "summary": "DeepSeek released V4.1-Flash-1017, saying it improves benchmark performance and completes tasks faster with shorter outputs than its predecessor. The updated model is available through DeepSeek’s website, app and developer platform.",
+        "title": "DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-17/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner",
+        "category": "ai"
+      },
+      {
+        "published": "2026-10-16 (updated 2026-10-17)",
+        "source": "The Economic Times",
+        "summary": "China proposed export controls covering 23 AI technologies, including large models, agents, chip designs and computing clusters. The draft targets certain advanced technologies and comes with an interim registration requirement for covered transfers.",
+        "title": "Dragon Plans AI Export Ban",
+        "url": "https://economictimes.com/epaper/delhicapital/2026/oct/17/satet-oped/dragon-plans-ai-export-ban/articleshow/135003480.cms",
+        "category": "ai"
+      }
+    ],
+    "quantum": [
+      {
+        "published": "2026-10-17",
+        "source": "Physics.org",
+        "summary": "Google Quantum AI demonstrated magic-state cultivation on its Willow processor, reducing errors about 40-fold and reaching roughly 99.99% fidelity. The result addresses a major fault-tolerance bottleneck, though the method still needs to scale beyond the reported experiment.",
+        "title": "Quantum magic state cleanup cuts errors 40-fold in first successful hardware test",
+        "url": "https://phys.org/news/2026-10-quantum-magic-state-cleanup-errors.html",
+        "category": "quantum"
+      },
+      {
+        "published": "2026-10-17",
+        "source": "The Quantum Insider",
+        "summary": "Anthropic and Harvard researchers used Claude to redesign circuit building blocks for eight quantum-computing tasks; seven designs reduced both costly operations and qubit requirements versus the study’s baselines. These are simulated designs and resource estimates, not demonstrations on quantum hardware.",
+        "title": "Anthropic’s Claude Designs Leaner Quantum Circuits, Reducing Resources Needed for Key Calculations",
+        "url": "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/",
+        "category": "quantum"
+      }
+    ]
   }
 }
