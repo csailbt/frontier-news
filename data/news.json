@@ -1,3 +1,7 @@
-{"updated":"2026-10-17T14:00:00Z","categories":{
-"ai":[{"title":"Sample AI headline","summary":"Replace by running the fetch script.","url":"https://example.com/ai","source":"Example","published":"2026-10-17","category":"ai"}],
-"quantum":[{"title":"Sample quantum headline","summary":"Replace by running the fetch script.","url":"https://example.com/q","source":"Example","published":"2026-10-17","category":"quantum"}]}}
+{
+  "updated": "2026-10-17T19:02:08.958Z",
+  "categories": {
+    "ai": [],
+    "quantum": []
+  }
+}
