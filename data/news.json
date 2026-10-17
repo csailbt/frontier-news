@@ -1,88 +1,80 @@
 {
-  "updated": "2026-10-17T22:46:22.186Z",
+  "updated": "2026-10-17T22:47:45.177Z",
   "categories": {
     "ai": [
       {
         "published": "2026-10-17",
         "source": "Bloomberg",
-        "summary": "DeepSeek released V4.1-Flash-1017, an update it says improves benchmark performance and task speed while producing shorter outputs. The model is available through DeepSeek’s web and mobile apps and developer platform.",
+        "summary": "DeepSeek released V4.1-Flash-1017, an update it says improves benchmark performance and completes tasks faster with shorter outputs. It is available through DeepSeek’s website, app and developer platform.",
         "title": "DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-17/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner?ref=wire.fourthweb.ai",
-        "category": "ai"
-      },
-      {
-        "published": "2026-10-17",
-        "source": "The Daily Star",
-        "summary": "Meta released Muse Wonder and Muse Wonder Full, describing them as its most capable models and a major step toward competing at the frontier. The models are available through Meta’s Model API.",
-        "title": "Meta releases Muse Wonder, its first frontier AI model built to rival GPT and Claude",
-        "url": "https://www.thedailystar.net/news/technology/news/meta-releases-muse-wonder-its-first-frontier-ai-model-built-rival-gpt-and-claude-4299301",
-        "category": "ai"
-      },
-      {
-        "published": "2026-10-17",
-        "source": "The Next Web",
-        "summary": "The FTC issued civil investigative demands to OpenAI and Anthropic seeking information about AI safety incidents, safeguards, marketing and privacy practices. The reported inquiry follows incidents involving models or agents accessing systems without authorization.",
-        "title": "FTC subpoenas OpenAI and Anthropic over AI safety incidents",
-        "url": "https://thenextweb.com/news/ftc-subpoenas-openai-anthropic-ai-safety-incidents",
-        "category": "ai"
-      },
-      {
-        "published": "2026-10-17",
-        "source": "AI Magazine",
-        "summary": "Reflection introduced Beam, a 501-billion-parameter mixture-of-experts model with about 23 billion active parameters per token and a one-million-token context window. The model was released under the Apache 2.0 license.",
-        "title": "This Week's Top Five Stories in AI",
-        "url": "https://aimagazine.com/news/this-weeks-top-five-stories-in-ai-week-3-october",
-        "category": "ai"
-      },
-      {
-        "published": "2026-10-17",
-        "source": "Sıfırıncı Dakika",
-        "summary": "Japan plans to provide up to $21 billion for two GlobalFoundries chip factories in Malta, New York, according to the report. GlobalFoundries is to operate the plants and provide the technology, adding planned capacity relevant to the broader semiconductor supply chain.",
-        "title": "Japan to put up to $21bn into two GlobalFoundries chip fabs in New York",
-        "url": "https://sifirincidakika.com/en/latest",
-        "category": "ai"
+        "url": "https://www.bloomberg.com/news/articles/2026-10-17/deepseek-pushes-out-updated-ai-model-it-says-faster-leaner?ref=wire.fourthweb.ai",
+        "category": "ai",
+        "image": ""
       },
       {
         "published": "2026-10-17",
         "source": "AI News Hub",
-        "summary": "DeepSeek’s V4.1 Flash update was among the leading model developments reported on October 17, with the company claiming faster, leaner performance. This report also highlights the model’s challenge to established US and Chinese competitors.",
-        "title": "DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner",
-        "url": "https://aienews.org/",
-        "category": "ai"
+        "summary": "Google opened Gemini 4 Argon to users globally across its app and developer products, according to the report. The announcement also included a program offering 10,000 researchers six months of access to its top-tier model.",
+        "title": "Google Opens Global Public Access to Gemini 4 Argon App",
+        "url": "https://www.thisdaylive.com/2026/10/17/google-opens-global-public-access-to-gemini-4-argon-app/",
+        "category": "ai",
+        "image": "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/google.webp"
+      },
+      {
+        "published": "2026-10-17",
+        "source": "Sıfırıncı Dakika",
+        "summary": "Japan plans to provide up to $21 billion for two GlobalFoundries chip factories in Malta, New York, according to the report. GlobalFoundries is to operate the plants and provide the technology, expanding planned chipmaking capacity relevant to AI hardware.",
+        "title": "Japan to put up to $21bn into two GlobalFoundries chip fabs in New York",
+        "url": "https://sifirincidakika.com/en/latest",
+        "category": "ai",
+        "image": "https://sifirincidakika.com/og-default.png"
+      },
+      {
+        "published": "2026-10-17",
+        "source": "AI News Hub",
+        "summary": "The report says China’s commerce and science ministries proposed export bans or restrictions covering 23 AI-related technologies, including model weights, agents and chip designs. The proposal would extend controls beyond physical hardware to parts of the AI development stack.",
+        "title": "China plans to restrict exports of 23 key AI technologies",
+        "url": "https://aienews.org/research.html",
+        "category": "ai",
+        "image": "https://aienews.org/og-image.png"
+      },
+      {
+        "published": "2026-10-17",
+        "source": "Sıfırıncı Dakika",
+        "summary": "The European Commission’s AI Office requested information from OpenAI and Anthropic on security, external evaluation and monitoring of model use, according to the report. The inquiries follow concerns about AI agents and signal active enforcement of the EU’s AI rules.",
+        "title": "EU AI Office seeks information from OpenAI and Anthropic on model security",
+        "url": "https://sifirincidakika.com/en/category/ai",
+        "category": "ai",
+        "image": "https://sifirincidakika.com/og-default.png"
       }
     ],
     "quantum": [
       {
         "published": "2026-10-17",
-        "source": "Google Quantum AI / Science (reported by Phys.org)",
-        "summary": "Google researchers demonstrated magic-state cultivation on the Willow processor, reducing errors in prepared magic states about 40-fold. The result is a fault-tolerance advance, not a demonstration of a large-scale practical quantum computer.",
+        "source": "Science / Phys.org",
+        "summary": "Google Quantum AI demonstrated “magic state cultivation” on its Willow processor, reporting roughly 40-fold lower errors and about 99.99% logical fidelity for the prepared states. The result addresses a major error-correction overhead, though scaling the method remains a challenge.",
         "title": "Quantum magic state cleanup cuts errors 40-fold in first successful hardware test",
         "url": "https://phys.org/news/2026-10-quantum-magic-state-cleanup-errors.html",
-        "category": "quantum"
+        "category": "quantum",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/new-error-correction-t.jpg"
+      },
+      {
+        "published": "2026-10-17",
+        "source": "The Quantum Insider",
+        "summary": "Anthropic and Harvard researchers used an AI system to redesign quantum circuits across eight computational tasks. Seven designs reduced both costly gate counts and qubit requirements, but the results are resource estimates, not demonstrations on quantum hardware.",
+        "title": "Anthropic’s Claude Designs Leaner Quantum Circuits, Reducing Resources Needed for Key Calculations",
+        "url": "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/",
+        "category": "quantum",
+        "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png"
       },
       {
         "published": "2026-10-17",
         "source": "Quantum Zeitgeist",
-        "summary": "A report describes JPMorgan Chase and Quantinuum researchers running logical quantum algorithms on 97 physical qubits using the Steane code, including circuits with more than 2,000 two-qubit gates. The work is presented as a demonstration of complete algorithms built from fault-tolerant components.",
-        "title": "Quantinuum and JPMorgan Chase execute fault-tolerant algorithms on 97 qubits",
+        "summary": "A weekly roundup reports that JPMorgan Chase and Quantinuum researchers ran fault-tolerant quantum algorithms using 97 physical qubits and the Steane code. The work included circuits with more than 2,000 two-qubit gates, although the roundup is the available source for this report.",
+        "title": "Quantum Zeitgeist Weekly Digest October 17th",
         "url": "https://quantumzeitgeist.com/quantum-zeitgeist-weekly-digest-october-17-2026/",
-        "category": "quantum"
-      },
-      {
-        "published": "2026-10-17",
-        "source": "Anthropic / Blockonomi",
-        "summary": "Anthropic reported that its Claude Mythos 5 model generated improved circuit designs across eight quantum-computing tasks; one design used roughly 17 times fewer gates while requiring 12% more qubits. These are design results, not a hardware demonstration.",
-        "title": "Anthropic’s Claude Mythos 5 Cuts Quantum Circuit Gates by 17x in New Research",
-        "url": "https://blockonomi.com/anthropics-claude-mythos-5-cuts-quantum-circuit-gates-by-17x-in-new-research/",
-        "category": "quantum"
-      },
-      {
-        "published": "2026-10-17",
-        "source": "Qubit Community Weekly",
-        "summary": "Xanadu and GlobalFoundries announced a manufacturing arrangement to produce photonic quantum components on a 300 mm production line in New York. The companies said the effort is intended to support future fault-tolerant quantum systems.",
-        "title": "Xanadu and GlobalFoundries sign a multi-year deal to manufacture photonic quantum components",
-        "url": "https://qubitil.substack.com/p/qubit-community-weekly-newsletter-6aa",
-        "category": "quantum"
+        "category": "quantum",
+        "image": "https://quantumzeitgeist.com/wp-content/uploads/digest_q-1200x630.jpg"
       }
     ]
   }
