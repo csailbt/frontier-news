@@ -40,9 +40,11 @@ async function fetchCategory(key, topic) {
               .map(i => ({ ...i, category: key }));
 }
 const out = { updated: new Date().toISOString(), categories: {} };
+const failures = [];
 for (const [k, t] of Object.entries(CATEGORIES)) {
   try { out.categories[k] = await fetchCategory(k, t); }
-  catch (e) { console.error(e.message); out.categories[k] = []; }
+  catch (e) { console.error(e.message); failures.push(k); out.categories[k] = []; }
 }
+if (failures.length) { console.error(`Failed categories: ${failures.join(", ")}`); process.exit(1); }
 await writeFile(OUT, JSON.stringify(out, null, 2));
 console.log(`Wrote ${OUT}`);
