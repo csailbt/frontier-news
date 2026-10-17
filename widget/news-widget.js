@@ -28,7 +28,7 @@
         <div class="tabs" role="tablist">${["all", ...Object.keys(cats)].map(k =>
           `<button role="tab" data-k="${k}" aria-selected="${k === tab}">${LABEL[k] || esc(k)}</button>`).join("")}</div>
         <ul>${items.map(i => {
-          const hasImg = /^https?\/\//.test(i.image || "");
+          const hasImg = String(i.image || "").startsWith("http");
           const img = hasImg
             ? `<div class="fnw-media"><img src="${esc(i.image)}" alt="" loading="lazy" decoding="async"
                  onerror="this.closest('li').classList.replace('has-img','no-img')"></div>`
