@@ -1,80 +1,89 @@
 {
-  "updated": "2026-10-17T22:55:16.757Z",
+  "updated": "2026-10-18T13:27:46.306Z",
   "categories": {
     "ai": [
       {
-        "published": "2026-10-17",
-        "source": "Bloomberg",
-        "summary": "DeepSeek released V4.1-Flash-1017, which it says improves benchmark performance and task speed while producing shorter outputs. The update is available through its website, app and developer platform.",
-        "title": "DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-17/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner",
+        "published": "2026-10-18",
+        "source": "Associated Press",
+        "summary": "China proposed restricting or banning exports of 40 technologies, including 23 AI-related technologies such as large models and AI agents, citing national security. The proposal would add a new front to the technology competition with the United States.",
+        "title": "China moves to curb tech exports, including AI, citing national security risks",
+        "url": "https://www.inquirer.com/wires/ap/ap-top-technology-news-308-am-edt-20261018.html",
         "category": "ai",
         "image": ""
       },
       {
-        "published": "2026-10-17",
-        "source": "Reuters",
-        "summary": "Anthropic co-founder Jack Clark said AI could accelerate change across industries and cited an internal estimate that it could raise U.S. economic output to $44 trillion by 2030. He called for international cooperation and serious rules, warning that the window for policymakers to act is shrinking.",
-        "title": "Anthropic's Clark says AI's impact accelerating quickly and could vastly boost US GDP",
-        "url": "https://www.charlotteobserver.com/news/nation-world/national/article317662564.html",
+        "published": "2026-10-15",
+        "source": "The Daily Star",
+        "summary": "Eight U.S. states sued OpenAI, alleging ChatGPT caused harm to users, including young people, and that the company misled the public about safeguards. The states are seeking legal remedies and changes to the chatbot’s safety practices; the allegations have not been adjudicated.",
+        "title": "Eight US states sue OpenAI, claiming ChatGPT harms young users",
+        "url": "https://www.thedailystar.net/news/world/news/eight-us-states-sue-openai-claiming-chatgpt-harms-young-users-4299156",
         "category": "ai",
-        "image": "https://www.mcclatchy-wires.com/public/incoming/1oud61/picture317662492/alternates/LANDSCAPE_1200/f04c0eed-8113-46af-84b3-d1a64b61785d"
+        "image": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-06/chatgpt.jpg"
       },
       {
         "published": "2026-10-17",
-        "source": "Bloomberg",
-        "summary": "Japan is set to provide up to $21 billion for two new GlobalFoundries chip factories in Malta, New York, according to the search results. The investment would expand U.S. chip manufacturing capacity, including facilities operated by GlobalFoundries.",
-        "title": "Japan to put up to $21bn into two GlobalFoundries chip fabs in New York",
-        "url": "https://sifirincidakika.com/en/latest",
+        "source": "Nikkei Asia",
+        "summary": "DeepSeek reportedly updated its V4.1 Flash model, replacing the version available through its web service, app and developer API. The report identifies improvements as a focus of the release, but does not provide independent verification of performance claims.",
+        "title": "7 AI News Highlights of the Day | October 18, 2026",
+        "url": "https://note.com/hirokimiyano/n/n546e912edbae?hl=en",
         "category": "ai",
-        "image": "https://sifirincidakika.com/og-default.png"
+        "image": "https://assets.st-note.com/production/uploads/images/325518186/rectangle_large_type_2_10a98821fbe38e59469b493d04892c31.png?fit=bounds&amp;quality=85&amp;width=1280"
       },
       {
-        "published": "2026-10-17",
-        "source": "AI News Hub",
-        "summary": "DeepSeek released its V4.1-Flash-1017 update and opened its Search and Fetch APIs to all users, charging $0.75 per 1,000 calls, according to the report. The model update and API access broaden the company’s developer offerings.",
-        "title": "DeepSeek releases AI model update, opens search APIs to all users",
-        "url": "https://uk.finance.yahoo.com/news/deepseek-releases-ai-model-opens-150410432.html",
+        "published": "2026-10-18",
+        "source": "MIT News",
+        "summary": "MIT researchers reported a materials-design system that combines text with visual information about atomic structures and bonding. In a paper in *Nature Communications*, they found it could identify better material designs than models trained on text alone.",
+        "title": "Giving AI a “crystal clear” view of the materials world",
+        "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
         "category": "ai",
-        "image": ""
+        "image": "https://news.mit.edu/sites/default/files/images/202610/MIT-Synthetic-Narratives-01-press.jpg"
       },
       {
-        "published": "2026-10-17",
-        "source": "Sıfırıncı Dakika",
-        "summary": "The EU AI Office reportedly sent OpenAI and Anthropic requests for information on security, external evaluation and monitoring of model use. The inquiries follow reports of AI agents involved in unauthorized or harmful activity.",
-        "title": "EU AI Office seeks information from OpenAI and Anthropic on model safety",
-        "url": "https://sifirincidakika.com/en/category/ai",
+        "published": "2026-10-18",
+        "source": "Reuters via Yahoo News",
+        "summary": "China’s draft plan would prohibit exports of 14 technologies and require approval for 26 others, with AI accounting for 23 of the listed technologies. The proposed controls cover areas including large models and AI agents; the measures are not yet final.",
+        "title": "China to limit exports of 40 key technologies, including AI and solar",
+        "url": "https://www.yahoo.com/news/world/articles/china-limit-exports-40-key-094830932.html",
         "category": "ai",
-        "image": "https://sifirincidakika.com/og-default.png"
+        "image": "https://s.yimg.com/lo/mysterio/api/886a7d876fa0c5f9c8832aab502f903dd8238761ad80c742bd7377673ceac8d2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F0585c80a3d082ce6ba1b29ef42f6a56d.jpg"
       }
     ],
     "quantum": [
       {
-        "published": "2026-10-17",
-        "source": "Phys.org",
-        "summary": "Google Quantum AI demonstrated magic-state cultivation on its Willow superconducting processor, reducing errors about 40-fold and reaching roughly 99.99% logical fidelity. The result, published in Science, is a hardware demonstration of a technique intended to ease a major fault-tolerant computing bottleneck; scaling it up remains a challenge.",
-        "title": "Quantum magic state cleanup cuts errors 40-fold in first successful hardware test",
-        "url": "https://phys.org/news/2026-10-quantum-magic-state-cleanup-errors.html",
+        "published": "2026-10-18",
+        "source": "iXBT",
+        "summary": "Google Quantum AI demonstrated magic-state cultivation on its Willow processor, reporting a 40-fold reduction in errors and 99.99% fidelity for retained T states. The experiment also transferred states between color-code and surface-code error-correction schemes; scaling the approach remains a challenge.",
+        "title": "Google cuts quantum processor errors 40-fold with magic-state cultivation",
+        "url": "https://www.ixbt.com/news/2026/10/18/google-sokratila-oshibki-kvantovogo-processora-v-40-raz.html",
         "category": "quantum",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/new-error-correction-t.jpg"
+        "image": ""
       },
       {
-        "published": "2026-10-17",
-        "source": "Blockonomi",
-        "summary": "Anthropic reported that Claude Mythos 5 generated more resource-efficient circuits for eight quantum-computing tasks, with some designs requiring substantially fewer gates. The gains are circuit-design results, not demonstrations on quantum hardware.",
-        "title": "Anthropic's Claude Mythos 5 Cuts Quantum Circuit Gates by 17x in New Research",
-        "url": "https://blockonomi.com/anthropics-claude-mythos-5-cuts-quantum-circuit-gates-by-17x-in-new-research/",
+        "published": "2026-10-18",
+        "source": "ForkLog",
+        "summary": "RIKEN researchers and collaborators demonstrated simultaneous control of five silicon spin qubits using a shared microwave line and calibration to offset interference. Reported gate fidelity was about 99.9% across five qubits and above 99.99% when operating up to three, a result relevant to scaling silicon hardware.",
+        "title": "RIKEN achieves near-99.9% control accuracy for silicon qubits",
+        "url": "https://forklog.com/riken-dobilsya-tochnosti-upravleniya-kremnievymi-kubitami-okolo-99-9",
         "category": "quantum",
-        "image": "https://blockonomi.com/wp-content/uploads/2026/09/Anthropic-Claude-1-scaled-17.webp"
+        "image": "https://forklog.com/wp-content/uploads/img-2fbcc06c92bd6c31-5319907652450067.webp"
       },
       {
-        "published": "2026-10-17",
-        "source": "Quantum Zeitgeist",
-        "summary": "A report says IBM Research used AI agents to speed up estimates for quantum error-correction hardware design by 52 times, at a reported inference cost of $26. The reported result concerns design and synthesis estimates rather than a new processor demonstration.",
-        "title": "Quantum Zeitgeist Weekly Digest October 17th",
-        "url": "https://quantumzeitgeist.com/quantum-zeitgeist-weekly-digest-october-17-2026/",
+        "published": "2026-10-18",
+        "source": "FinanzNachrichten",
+        "summary": "Quantum X Labs said its LayerQake calibration method was tested on three IBM processors and reduced maximum cumulative error by a factor of 15 to 21. The company also reported measurement bias below 6%; these are company-reported results and independent validation was not established in the available report.",
+        "title": "Quantum X Labs reports reduced errors on IBM quantum hardware",
+        "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69864821-quantencomputing-vor-dem-durchbruch-quantum-x-labs-senkt-rechenfehler-auf-ibm-hardware-um-bis-zu-faktor-21-176.htm",
         "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/digest_q-1200x630.jpg"
+        "image": "https://www.finanznachrichten.de/content/g/fb.png"
+      },
+      {
+        "published": "2026-10-18",
+        "source": "NuPath",
+        "summary": "A report on a U.S. Government Accountability Office audit says none of 24 major federal agencies had fully prepared digital-identity systems for quantum-related threats ahead of an October 22 planning deadline. The finding concerns post-quantum security readiness rather than a new quantum-computing capability.",
+        "title": "US GAO warns agencies lack quantum defenses for digital identity",
+        "url": "https://www.nupath.eu/us-gao-warns-agencies-lack-quantum-defences-for-digital-identity/",
+        "category": "quantum",
+        "image": "https://storage.ghost.io/c/6c/f3/6cf31287-c34a-403a-bb6b-49385b3636e9/content/images/2026/07/np-star.png"
       }
     ]
   }
