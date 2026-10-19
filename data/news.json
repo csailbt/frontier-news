@@ -1,89 +1,98 @@
 {
-  "updated": "2026-10-18T13:27:46.306Z",
+  "updated": "2026-10-19T13:44:56.096Z",
   "categories": {
     "ai": [
       {
-        "published": "2026-10-18",
-        "source": "Associated Press",
-        "summary": "China proposed restricting or banning exports of 40 technologies, including 23 AI-related technologies such as large models and AI agents, citing national security. The proposal would add a new front to the technology competition with the United States.",
-        "title": "China moves to curb tech exports, including AI, citing national security risks",
-        "url": "https://www.inquirer.com/wires/ap/ap-top-technology-news-308-am-edt-20261018.html",
+        "published": "2026-10-19",
+        "source": "Reuters",
+        "summary": "A Reuters investigation reports that a hacker used AI agents to probe and breach websites at more than 100 companies, with the agents performing much of the work autonomously. Researchers said the activity demonstrates how readily available agent tools could make complex cyberattacks easier for individual criminals.",
+        "title": "How one hacker used AI agents and a few thousand dollars to break into scores of sites",
+        "url": "https://www.fidelity.com/news/article/company-news/202610190606RTRSNEWSCOMBINED_KBN3VZ126-OUSBS_1",
         "category": "ai",
         "image": ""
       },
       {
-        "published": "2026-10-15",
-        "source": "The Daily Star",
-        "summary": "Eight U.S. states sued OpenAI, alleging ChatGPT caused harm to users, including young people, and that the company misled the public about safeguards. The states are seeking legal remedies and changes to the chatbot’s safety practices; the allegations have not been adjudicated.",
-        "title": "Eight US states sue OpenAI, claiming ChatGPT harms young users",
-        "url": "https://www.thedailystar.net/news/world/news/eight-us-states-sue-openai-claiming-chatgpt-harms-young-users-4299156",
+        "published": "2026-10-18",
+        "source": "Reuters",
+        "summary": "Anthropic said it plans to place 5% of its shares in a new public-benefit fund, subject to shareholder approval, with the possibility of adding shares as the company’s valuation rises. The fund could support nonprofit donations or direct aid, including efforts related to AI’s labor-market impact; its governance and detailed structure are still to come.",
+        "title": "Anthropic to commit 5% stake to new 'public benefit fund'",
+        "url": "https://www.reuters.com/business/anthropic-commit-5-stake-new-public-benefit-fund-2026-10-18/",
         "category": "ai",
-        "image": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-06/chatgpt.jpg"
+        "image": ""
       },
       {
-        "published": "2026-10-17",
-        "source": "Nikkei Asia",
-        "summary": "DeepSeek reportedly updated its V4.1 Flash model, replacing the version available through its web service, app and developer API. The report identifies improvements as a focus of the release, but does not provide independent verification of performance claims.",
-        "title": "7 AI News Highlights of the Day | October 18, 2026",
-        "url": "https://note.com/hirokimiyano/n/n546e912edbae?hl=en",
+        "published": "2026-10-19",
+        "source": "Associated Press",
+        "summary": "Eight U.S. states are suing OpenAI, alleging that ChatGPT has caused consumer harms, including dangerous advice and risks to children. OpenAI says it has built safety protections for children and will continue improving them.",
+        "title": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults",
+        "url": "https://www.wvnews.com/business/ap-technology-summarybrief-at-3-18-a-m-edt/article_118cf525-a08a-5afa-8852-4177b09433f9.html",
         "category": "ai",
-        "image": "https://assets.st-note.com/production/uploads/images/325518186/rectangle_large_type_2_10a98821fbe38e59469b493d04892c31.png?fit=bounds&amp;quality=85&amp;width=1280"
+        "image": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/custom/image/dd23b0fa-a76a-11ea-b298-6f7943d03f88.jpg"
       },
       {
         "published": "2026-10-18",
-        "source": "MIT News",
-        "summary": "MIT researchers reported a materials-design system that combines text with visual information about atomic structures and bonding. In a paper in *Nature Communications*, they found it could identify better material designs than models trained on text alone.",
-        "title": "Giving AI a “crystal clear” view of the materials world",
-        "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+        "source": "Reuters",
+        "summary": "Microsoft withdrew from a reported agreement with data-center developer Nscale at Loughton, where grid power was reportedly not expected until the 2030s. Nscale said other Microsoft contracts were unaffected and that it was exploring alternative power arrangements.",
+        "title": "Microsoft withdraws from Nscale Loughton data-center agreement",
+        "url": "https://uobkh.com.sg/en/research/wealth-daily-19102026",
         "category": "ai",
-        "image": "https://news.mit.edu/sites/default/files/images/202610/MIT-Synthetic-Narratives-01-press.jpg"
-      },
-      {
-        "published": "2026-10-18",
-        "source": "Reuters via Yahoo News",
-        "summary": "China’s draft plan would prohibit exports of 14 technologies and require approval for 26 others, with AI accounting for 23 of the listed technologies. The proposed controls cover areas including large models and AI agents; the measures are not yet final.",
-        "title": "China to limit exports of 40 key technologies, including AI and solar",
-        "url": "https://www.yahoo.com/news/world/articles/china-limit-exports-40-key-094830932.html",
-        "category": "ai",
-        "image": "https://s.yimg.com/lo/mysterio/api/886a7d876fa0c5f9c8832aab502f903dd8238761ad80c742bd7377673ceac8d2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F0585c80a3d082ce6ba1b29ef42f6a56d.jpg"
+        "image": "https://uobkh.com.sg/strapi-uploads/Adobe_Stock_324403032_78a0a58639.jpeg"
       }
     ],
     "quantum": [
       {
-        "published": "2026-10-18",
-        "source": "iXBT",
-        "summary": "Google Quantum AI demonstrated magic-state cultivation on its Willow processor, reporting a 40-fold reduction in errors and 99.99% fidelity for retained T states. The experiment also transferred states between color-code and surface-code error-correction schemes; scaling the approach remains a challenge.",
-        "title": "Google cuts quantum processor errors 40-fold with magic-state cultivation",
-        "url": "https://www.ixbt.com/news/2026/10/18/google-sokratila-oshibki-kvantovogo-processora-v-40-raz.html",
+        "published": "2026-10-19",
+        "source": "New Scientist",
+        "summary": "Quantinuum reported 99.9995% logical memory fidelity on its Helios-1 trapped-ion system using a color code—about five uncorrectable errors per million operations. Logical memory errors fell roughly 12-fold with each tested increase in code size, although error rates were higher for logical operations than for memory.",
+        "title": "Error-correction record pushes quantum computers closer to usefulness",
+        "url": "https://www.newscientist.com/article/2594366-error-correction-record-pushes-quantum-computers-closer-to-usefulness/",
+        "category": "quantum",
+        "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316895337.jpg"
+      },
+      {
+        "published": "2026-10-19",
+        "source": "Google Research",
+        "summary": "Google researchers demonstrated magic-state cultivation on its Willow processor, reporting 99.99% logical fidelity and about a 40-fold reduction in errors for these states. The technique addresses a key resource for fault-tolerant computation, but still needs to be scaled before it can underpin practical machines.",
+        "title": "Google demonstrates method to cut errors in quantum computing’s ‘magic states’",
+        "url": "https://research.google/blog/",
+        "category": "quantum",
+        "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+      },
+      {
+        "published": "2026-10-19",
+        "source": "The Quantum Insider",
+        "summary": "Researchers led by the University of Edinburgh reported an algorithm that reduces the computing resources needed for classical simulations of photonic quantum devices to about 5% of the previous requirement. In Gaussian boson sampling tests, the simulations matched or outperformed some current devices, potentially helping researchers evaluate and design photonic systems.",
+        "title": "Advance Could Lead to Bigger, More Reliable Quantum Computers, University of Edinburgh Scientists Say",
+        "url": "https://thequantuminsider.com/2026/10/19/advance-could-lead-to-bigger-more-reliable-quantum-computers-university-of-edinburgh-scientists-say/",
+        "category": "quantum",
+        "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-19-at-4.09.09-AM.png"
+      },
+      {
+        "published": "2026-10-19",
+        "source": "The Quantum Insider",
+        "summary": "RIKEN researchers demonstrated parallel control of silicon spin qubits in a five-qubit array using a shared microwave line. Their calibration method maintained gate fidelities above 99.99% for up to three simultaneously operated qubits and about 99.9% across all five, addressing a challenge for scaling control.",
+        "title": "RIKEN Team Improves Parallel Control of Silicon Spin Qubits",
+        "url": "https://thequantuminsider.com/2026/10/19/riken-team-improves-parallel-control-of-silicon-spin-qubits/",
+        "category": "quantum",
+        "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Low-Res_Figure_Page-1.jpg"
+      },
+      {
+        "published": "2026-10-19",
+        "source": "Xanadu",
+        "summary": "Photonic quantum-computing company Xanadu said DARPA provisionally approved up to $10 million in additional funding through its Quantum Benchmarking Initiative. The one-year extension is intended to support R&D toward fault-tolerant, utility-scale photonic computing; the announcement is a company statement, not an independent assessment of progress.",
+        "title": "Xanadu Secures Up to USD $10 Million in Additional DARPA Support to Accelerate Quantum R&D Roadmap",
+        "url": "https://investors.xanadu.ai/news-releases/news-release-details/xanadu-secures-usd-10-million-additional-darpa-support",
         "category": "quantum",
         "image": ""
       },
       {
-        "published": "2026-10-18",
-        "source": "ForkLog",
-        "summary": "RIKEN researchers and collaborators demonstrated simultaneous control of five silicon spin qubits using a shared microwave line and calibration to offset interference. Reported gate fidelity was about 99.9% across five qubits and above 99.99% when operating up to three, a result relevant to scaling silicon hardware.",
-        "title": "RIKEN achieves near-99.9% control accuracy for silicon qubits",
-        "url": "https://forklog.com/riken-dobilsya-tochnosti-upravleniya-kremnievymi-kubitami-okolo-99-9",
+        "published": "2026-10-19",
+        "source": "The Quantum Insider",
+        "summary": "Chinese startup Tuoyuan is pursuing neutral-atom quantum computing and has reportedly set a goal of 100 logical qubits. The financing details cited in the report have not been independently verified, and the company has not disclosed hardware benchmarks or a delivery timeline.",
+        "title": "China’s Tuoyuan Targets Neutral-Atom Quantum Computing",
+        "url": "https://thequantuminsider.com/2026/10/19/chinas-tuoyuan-targets-neutral-atom-quantum-computing/",
         "category": "quantum",
-        "image": "https://forklog.com/wp-content/uploads/img-2fbcc06c92bd6c31-5319907652450067.webp"
-      },
-      {
-        "published": "2026-10-18",
-        "source": "FinanzNachrichten",
-        "summary": "Quantum X Labs said its LayerQake calibration method was tested on three IBM processors and reduced maximum cumulative error by a factor of 15 to 21. The company also reported measurement bias below 6%; these are company-reported results and independent validation was not established in the available report.",
-        "title": "Quantum X Labs reports reduced errors on IBM quantum hardware",
-        "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69864821-quantencomputing-vor-dem-durchbruch-quantum-x-labs-senkt-rechenfehler-auf-ibm-hardware-um-bis-zu-faktor-21-176.htm",
-        "category": "quantum",
-        "image": "https://www.finanznachrichten.de/content/g/fb.png"
-      },
-      {
-        "published": "2026-10-18",
-        "source": "NuPath",
-        "summary": "A report on a U.S. Government Accountability Office audit says none of 24 major federal agencies had fully prepared digital-identity systems for quantum-related threats ahead of an October 22 planning deadline. The finding concerns post-quantum security readiness rather than a new quantum-computing capability.",
-        "title": "US GAO warns agencies lack quantum defenses for digital identity",
-        "url": "https://www.nupath.eu/us-gao-warns-agencies-lack-quantum-defences-for-digital-identity/",
-        "category": "quantum",
-        "image": "https://storage.ghost.io/c/6c/f3/6cf31287-c34a-403a-bb6b-49385b3636e9/content/images/2026/07/np-star.png"
+        "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2juj2cxwb7u.jpg"
       }
     ]
   }
