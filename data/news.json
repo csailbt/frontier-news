@@ -1,98 +1,116 @@
 {
-  "updated": "2026-10-19T13:44:56.096Z",
+  "updated": "2026-10-20T13:39:12.331Z",
   "categories": {
     "ai": [
       {
-        "published": "2026-10-19",
+        "published": "2026-10-20",
         "source": "Reuters",
-        "summary": "A Reuters investigation reports that a hacker used AI agents to probe and breach websites at more than 100 companies, with the agents performing much of the work autonomously. Researchers said the activity demonstrates how readily available agent tools could make complex cyberattacks easier for individual criminals.",
-        "title": "How one hacker used AI agents and a few thousand dollars to break into scores of sites",
-        "url": "https://www.fidelity.com/news/article/company-news/202610190606RTRSNEWSCOMBINED_KBN3VZ126-OUSBS_1",
-        "category": "ai",
-        "image": ""
-      },
-      {
-        "published": "2026-10-18",
-        "source": "Reuters",
-        "summary": "Anthropic said it plans to place 5% of its shares in a new public-benefit fund, subject to shareholder approval, with the possibility of adding shares as the company’s valuation rises. The fund could support nonprofit donations or direct aid, including efforts related to AI’s labor-market impact; its governance and detailed structure are still to come.",
-        "title": "Anthropic to commit 5% stake to new 'public benefit fund'",
-        "url": "https://www.reuters.com/business/anthropic-commit-5-stake-new-public-benefit-fund-2026-10-18/",
+        "summary": "OpenAI is reportedly seeking about $30 billion in a faster-than-usual fundraising round before Anthropic’s expected mid-November IPO, at a possible valuation above $1.4 trillion. Reuters says existing backers including SoftBank and MGX are in talks; the terms are not final.",
+        "title": "OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say",
+        "url": "https://www.reuters.com/world/openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say-2026-10-19/",
         "category": "ai",
         "image": ""
       },
       {
         "published": "2026-10-19",
+        "source": "Reuters",
+        "summary": "AI-cloud provider Modal plans to use Nvidia’s Vera central processors to host AI agents, adding Nvidia chips alongside its existing Intel and AMD fleet. Modal said early tests showed the Vera chip doubled the amount of work agents could complete; that result is the company’s own report.",
+        "title": "Nvidia wins fast-growing AI startup Modal for new central processors",
+        "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KBN3VZ1Q5?channel=frL012",
+        "category": "ai",
+        "image": ""
+      },
+      {
+        "published": "2026-10-19",
+        "source": "Reuters",
+        "summary": "Nscale and Anthropic are reportedly discussing a cloud-computing deal that could be worth about $45 billion, involving a second facility at Nscale’s West Virginia data-center campus. Reuters could not independently verify the report, and the companies had not commented at publication.",
+        "title": "Nscale, Anthropic in talks for $45 billion cloud computing deal, Bloomberg News reports",
+        "url": "https://www.reuters.com/technology/nscale-anthropic-talks-45-billion-cloud-computing-deal-bloomberg-news-reports-2026-10-19/",
+        "category": "ai",
+        "image": ""
+      },
+      {
+        "published": "2026-10-20",
         "source": "Associated Press",
-        "summary": "Eight U.S. states are suing OpenAI, alleging that ChatGPT has caused consumer harms, including dangerous advice and risks to children. OpenAI says it has built safety protections for children and will continue improving them.",
-        "title": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults",
-        "url": "https://www.wvnews.com/business/ap-technology-summarybrief-at-3-18-a-m-edt/article_118cf525-a08a-5afa-8852-4177b09433f9.html",
+        "summary": "Nvidia CEO Jensen Huang urged German manufacturers to adopt AI, arguing that digital technology can strengthen rather than replace the country’s industrial base. He made the appeal at an investment forum in Berlin alongside Chancellor Friedrich Merz.",
+        "title": "Nvidia CEO urges German manufacturers to adopt AI, saying digital tech won't replace heavy industry",
+        "url": "https://www.rutlandherald.com/news/business/ap-technology-summarybrief-at-7-35-p-m-edt/article_dfbe2ba2-7fb7-5cba-be3e-8146ecf40195.html",
         "category": "ai",
-        "image": "https://bloximages.chicago2.vip.townnews.com/wvnews.com/content/tncms/custom/image/dd23b0fa-a76a-11ea-b298-6f7943d03f88.jpg"
+        "image": "https://bloximages.chicago2.vip.townnews.com/rutlandherald.com/content/tncms/custom/image/21fa4cf2-cde4-11eb-949b-3b99a2a8f984.jpg?resize=600%2C600"
       },
       {
-        "published": "2026-10-18",
+        "published": "2026-10-20",
         "source": "Reuters",
-        "summary": "Microsoft withdrew from a reported agreement with data-center developer Nscale at Loughton, where grid power was reportedly not expected until the 2030s. Nscale said other Microsoft contracts were unaffected and that it was exploring alternative power arrangements.",
-        "title": "Microsoft withdraws from Nscale Loughton data-center agreement",
-        "url": "https://uobkh.com.sg/en/research/wealth-daily-19102026",
+        "summary": "Meta’s AI spending and adoption of its Muse assistant are in focus ahead of its quarterly results. The company is developing AI products and services as it seeks new revenue sources beyond advertising and invests heavily in infrastructure.",
+        "title": "Meta's AI spending, Muse assistant adoption in focus for quarterly results",
+        "url": "https://www.sacbee.com/news/business/article317695730.html",
         "category": "ai",
-        "image": "https://uobkh.com.sg/strapi-uploads/Adobe_Stock_324403032_78a0a58639.jpeg"
+        "image": "https://www.mcclatchy-wires.com/public/incoming/x8vs8p/picture317695601/alternates/LANDSCAPE_1200/9a9d9c0a-7d18-4e00-9215-5c13a7a9d0c4"
+      },
+      {
+        "published": "2026-10-20",
+        "source": "OurNews.ai (live news archive)",
+        "summary": "OpenAI says its GPT-6 Astra scored 87.4% on a new 20-language coding evaluation, compared with 26.8% for GPT-5.6 Sol, and says it is releasing the MultiLangBench suite. These figures are reported from OpenAI’s evaluation and have not been independently verified in the available coverage.",
+        "title": "GPT-6 Astra scores 87.4% on OpenAI’s new 20-language SQLite coding evaluation",
+        "url": "https://ournews.ai/live/archive",
+        "category": "ai",
+        "image": "https://ournews.ai/social-image"
       }
     ],
     "quantum": [
       {
-        "published": "2026-10-19",
-        "source": "New Scientist",
-        "summary": "Quantinuum reported 99.9995% logical memory fidelity on its Helios-1 trapped-ion system using a color code—about five uncorrectable errors per million operations. Logical memory errors fell roughly 12-fold with each tested increase in code size, although error rates were higher for logical operations than for memory.",
-        "title": "Error-correction record pushes quantum computers closer to usefulness",
-        "url": "https://www.newscientist.com/article/2594366-error-correction-record-pushes-quantum-computers-closer-to-usefulness/",
+        "published": "2026-10-20",
+        "source": "Science News",
+        "summary": "Quantinuum reported that its Helios system reduced logical memory errors as it scaled a color code, reaching about five errors per million rounds with a 37-physical-qubit logical qubit. The result involved a single logical qubit, so scaling to many useful logical qubits remains a challenge.",
+        "title": "A quantum computing feat brings the ‘megaquops’ era a step closer",
+        "url": "https://www.sciencenews.org/article/quantum-computer-megaquops-error-correction",
         "category": "quantum",
-        "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316895337.jpg"
+        "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101926_EC_megaquop_main.jpg"
       },
       {
-        "published": "2026-10-19",
-        "source": "Google Research",
-        "summary": "Google researchers demonstrated magic-state cultivation on its Willow processor, reporting 99.99% logical fidelity and about a 40-fold reduction in errors for these states. The technique addresses a key resource for fault-tolerant computation, but still needs to be scaled before it can underpin practical machines.",
-        "title": "Google demonstrates method to cut errors in quantum computing’s ‘magic states’",
-        "url": "https://research.google/blog/",
-        "category": "quantum",
-        "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
-      },
-      {
-        "published": "2026-10-19",
+        "published": "2026-10-20",
         "source": "The Quantum Insider",
-        "summary": "Researchers led by the University of Edinburgh reported an algorithm that reduces the computing resources needed for classical simulations of photonic quantum devices to about 5% of the previous requirement. In Gaussian boson sampling tests, the simulations matched or outperformed some current devices, potentially helping researchers evaluate and design photonic systems.",
-        "title": "Advance Could Lead to Bigger, More Reliable Quantum Computers, University of Edinburgh Scientists Say",
-        "url": "https://thequantuminsider.com/2026/10/19/advance-could-lead-to-bigger-more-reliable-quantum-computers-university-of-edinburgh-scientists-say/",
+        "summary": "Alice & Bob reported operating three cat-qubit demonstrators—two 6-qubit chips and one 12-qubit chip—as part of France’s PROQCIMA program. The team demonstrated key error-correction components, but its measured logical error rate has not yet fallen below threshold.",
+        "title": "Alice & Bob Reports Cat-Qubit Progress in French Quantum Computing Program",
+        "url": "https://thequantuminsider.com/2026/10/20/alice-bob-reports-cat-qubit-progress-in-french-quantum-computing-program/",
         "category": "quantum",
-        "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-19-at-4.09.09-AM.png"
+        "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Alice-Bob-French-Quantum-Header-1.png"
       },
       {
-        "published": "2026-10-19",
+        "published": "2026-10-20",
+        "source": "Quantum Zeitgeist",
+        "summary": "At IEEE Quantum Week, Xanadu presented its Aurora photonic prototype, reporting that it ran continuously for more than a day. The system links 84 squeezers across 24 chips and uses light-based GKP qubits; the report also described a repetition-code decoding demonstration.",
+        "title": "Quantum Error Correction Decoders At IEEE Quantum Week 2026",
+        "url": "https://quantumzeitgeist.com/quantum-error-correction-ieee-quantum-week-2026/",
+        "category": "quantum",
+        "image": "https://quantumzeitgeist.com/wp-content/uploads/qcw-img-qubit-lattice-cube-1200x630.jpg"
+      },
+      {
+        "published": "2026-10-20",
+        "source": "Quantum Zeitgeist",
+        "summary": "Oxford researchers reported entanglement with 98% fidelity between two trapped-ion nodes, while other presentations highlighted the engineering costs of connecting separate quantum processors. The results underscore both progress in modular hardware and the difficulty of making interconnects fast enough for error correction.",
+        "title": "Distributed Quantum Computing At IEEE Quantum Week 2026",
+        "url": "https://quantumzeitgeist.com/distributed-quantum-computing-ieee-quantum-week-2026/",
+        "category": "quantum",
+        "image": "https://quantumzeitgeist.com/wp-content/uploads/qcw-img-quantum-network-architecture-01-1200x630.png"
+      },
+      {
+        "published": "2026-10-20",
+        "source": "Quantum Zeitgeist",
+        "summary": "NVIDIA’s QCE 2026 presentation described CUDA-Q Logical, a compiler intended to map quantum programs through an error-correcting code and device layout to hardware control. The report also discussed resource estimates for a 2048-bit RSA factoring design, while noting that such estimates do not demonstrate a practical quantum attack.",
+        "title": "Quantum HPC Integration At IEEE Quantum Week 2026",
+        "url": "https://quantumzeitgeist.com/quantum-hpc-integration-ieee-quantum-week-2026/",
+        "category": "quantum",
+        "image": "https://quantumzeitgeist.com/wp-content/uploads/qcw-img-gpu-datacentre-aisle-01-1200x630.jpg"
+      },
+      {
+        "published": "2026-10-20",
         "source": "The Quantum Insider",
-        "summary": "RIKEN researchers demonstrated parallel control of silicon spin qubits in a five-qubit array using a shared microwave line. Their calibration method maintained gate fidelities above 99.99% for up to three simultaneously operated qubits and about 99.9% across all five, addressing a challenge for scaling control.",
-        "title": "RIKEN Team Improves Parallel Control of Silicon Spin Qubits",
-        "url": "https://thequantuminsider.com/2026/10/19/riken-team-improves-parallel-control-of-silicon-spin-qubits/",
+        "summary": "Zapata Quantum appointed Peter Shor and three other researchers to its scientific advisory board, adding expertise in algorithms, error correction, quantum software and resource estimation. The company said the advisers will support the development of its Quantum Pilot platform and work on identifying potential applications.",
+        "title": "Zapata Quantum Adds Peter Shor and Three Scientists to Advisory Board",
+        "url": "https://thequantuminsider.com/2026/10/20/zapata-quantum-peter-shor-scientific-advisory-board/",
         "category": "quantum",
-        "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Low-Res_Figure_Page-1.jpg"
-      },
-      {
-        "published": "2026-10-19",
-        "source": "Xanadu",
-        "summary": "Photonic quantum-computing company Xanadu said DARPA provisionally approved up to $10 million in additional funding through its Quantum Benchmarking Initiative. The one-year extension is intended to support R&D toward fault-tolerant, utility-scale photonic computing; the announcement is a company statement, not an independent assessment of progress.",
-        "title": "Xanadu Secures Up to USD $10 Million in Additional DARPA Support to Accelerate Quantum R&D Roadmap",
-        "url": "https://investors.xanadu.ai/news-releases/news-release-details/xanadu-secures-usd-10-million-additional-darpa-support",
-        "category": "quantum",
-        "image": ""
-      },
-      {
-        "published": "2026-10-19",
-        "source": "The Quantum Insider",
-        "summary": "Chinese startup Tuoyuan is pursuing neutral-atom quantum computing and has reportedly set a goal of 100 logical qubits. The financing details cited in the report have not been independently verified, and the company has not disclosed hardware benchmarks or a delivery timeline.",
-        "title": "China’s Tuoyuan Targets Neutral-Atom Quantum Computing",
-        "url": "https://thequantuminsider.com/2026/10/19/chinas-tuoyuan-targets-neutral-atom-quantum-computing/",
-        "category": "quantum",
-        "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2juj2cxwb7u.jpg"
+        "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-20_17-29.png"
       }
     ]
   }
