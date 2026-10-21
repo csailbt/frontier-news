@@ -1,116 +1,107 @@
 {
-  "updated": "2026-10-20T13:39:12.331Z",
+  "updated": "2026-10-21T13:38:07.974Z",
   "categories": {
     "ai": [
       {
-        "published": "2026-10-20",
+        "published": "2026-10-21",
         "source": "Reuters",
-        "summary": "OpenAI is reportedly seeking about $30 billion in a faster-than-usual fundraising round before Anthropic’s expected mid-November IPO, at a possible valuation above $1.4 trillion. Reuters says existing backers including SoftBank and MGX are in talks; the terms are not final.",
-        "title": "OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say",
-        "url": "https://www.reuters.com/world/openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say-2026-10-19/",
+        "summary": "OpenAI plans to offer its frontier models and Codex coding agent through Google Cloud in the coming weeks. The deal gives enterprise customers another route to access the models using existing Google Cloud purchasing and governance tools.",
+        "title": "OpenAI to sell its top models on Google Cloud in latest enterprise push",
+        "url": "https://www.reuters.com/technology/openai-sell-its-top-models-google-cloud-latest-enterprise-push-2026-10-21/",
         "category": "ai",
         "image": ""
       },
       {
-        "published": "2026-10-19",
-        "source": "Reuters",
-        "summary": "AI-cloud provider Modal plans to use Nvidia’s Vera central processors to host AI agents, adding Nvidia chips alongside its existing Intel and AMD fleet. Modal said early tests showed the Vera chip doubled the amount of work agents could complete; that result is the company’s own report.",
-        "title": "Nvidia wins fast-growing AI startup Modal for new central processors",
-        "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KBN3VZ1Q5?channel=frL012",
+        "published": "2026-10-21",
+        "source": "POLITICO",
+        "summary": "Anthropic has pitched lawmakers a draft bill that would allow the government to block a model only when it poses a foreseeable risk of at least $1 billion in damage or 50 or more deaths or serious injuries. The proposal would require testing and independent evaluations, while making a court order central to blocking a release.",
+        "title": "Why Anthropic's draft bill sets $1 billion threshold for AI risk",
+        "url": "https://www.politico.com/news/2026/10/21/anthropic-bill-ai-risk-threshold-01128458",
         "category": "ai",
         "image": ""
       },
       {
-        "published": "2026-10-19",
+        "published": "2026-10-21",
+        "source": "Reuters, via CP24",
+        "summary": "A draft IPO prospectus reportedly shows Anthropic recorded an $80.7 billion net loss in the first half of 2026, including a large non-cash accounting charge tied to convertible bonds. The disclosure highlights the financial complexity and scale of investment surrounding frontier AI development.",
+        "title": "Anthropic logged net loss of over US$80 billion in first half of 2026",
+        "url": "https://www.cp24.com/news/world/2026/10/21/anthropic-logged-net-loss-of-over-us80-billion-in-first-half-of-2026/",
+        "category": "ai",
+        "image": "https://www.cp24.com/resizer/v2/YBGKFVKSUCONH2HBCP2YGTTRKA.jpg?smart=true&amp;auth=ebb57bd83bdef31d0fa7564f9484052d91c21998d5563349c90f0d35d204d8a3&amp;width=1200&amp;height=630"
+      },
+      {
+        "published": "2026-10-20",
         "source": "Reuters",
-        "summary": "Nscale and Anthropic are reportedly discussing a cloud-computing deal that could be worth about $45 billion, involving a second facility at Nscale’s West Virginia data-center campus. Reuters could not independently verify the report, and the companies had not commented at publication.",
-        "title": "Nscale, Anthropic in talks for $45 billion cloud computing deal, Bloomberg News reports",
-        "url": "https://www.reuters.com/technology/nscale-anthropic-talks-45-billion-cloud-computing-deal-bloomberg-news-reports-2026-10-19/",
+        "summary": "The U.S. ordered civilian federal agencies to remove DeepSeek products and third-party services built using the model, citing concerns about sensitive data and security risks. China condemned the move and said it would take measures to protect its interests.",
+        "title": "China says US DeepSeek ban disregards Xi-Trump consensus",
+        "url": "https://www.reuters.com/world/asia-pacific/china-says-us-banning-deepseek-government-it-systems-disregards-consensus-2026-10-20/",
         "category": "ai",
         "image": ""
       },
       {
-        "published": "2026-10-20",
-        "source": "Associated Press",
-        "summary": "Nvidia CEO Jensen Huang urged German manufacturers to adopt AI, arguing that digital technology can strengthen rather than replace the country’s industrial base. He made the appeal at an investment forum in Berlin alongside Chancellor Friedrich Merz.",
-        "title": "Nvidia CEO urges German manufacturers to adopt AI, saying digital tech won't replace heavy industry",
-        "url": "https://www.rutlandherald.com/news/business/ap-technology-summarybrief-at-7-35-p-m-edt/article_dfbe2ba2-7fb7-5cba-be3e-8146ecf40195.html",
+        "published": null,
+        "source": "ElevenLabs, as reported by AI Daily",
+        "summary": "ElevenLabs announced two real-time speech-to-speech models for voice agents. The company says the Max version scored 98.8% on Big Bench Audio and responds in 0.57 seconds; these are company-reported results.",
+        "title": "ElevenLabs Launches Real-Time Voice AI Models With Up to 98.8% Speech Reasoning Accuracy",
+        "url": "https://daily.rclabs.in/",
         "category": "ai",
-        "image": "https://bloximages.chicago2.vip.townnews.com/rutlandherald.com/content/tncms/custom/image/21fa4cf2-cde4-11eb-949b-3b99a2a8f984.jpg?resize=600%2C600"
-      },
-      {
-        "published": "2026-10-20",
-        "source": "Reuters",
-        "summary": "Meta’s AI spending and adoption of its Muse assistant are in focus ahead of its quarterly results. The company is developing AI products and services as it seeks new revenue sources beyond advertising and invests heavily in infrastructure.",
-        "title": "Meta's AI spending, Muse assistant adoption in focus for quarterly results",
-        "url": "https://www.sacbee.com/news/business/article317695730.html",
-        "category": "ai",
-        "image": "https://www.mcclatchy-wires.com/public/incoming/x8vs8p/picture317695601/alternates/LANDSCAPE_1200/9a9d9c0a-7d18-4e00-9215-5c13a7a9d0c4"
-      },
-      {
-        "published": "2026-10-20",
-        "source": "OurNews.ai (live news archive)",
-        "summary": "OpenAI says its GPT-6 Astra scored 87.4% on a new 20-language coding evaluation, compared with 26.8% for GPT-5.6 Sol, and says it is releasing the MultiLangBench suite. These figures are reported from OpenAI’s evaluation and have not been independently verified in the available coverage.",
-        "title": "GPT-6 Astra scores 87.4% on OpenAI’s new 20-language SQLite coding evaluation",
-        "url": "https://ournews.ai/live/archive",
-        "category": "ai",
-        "image": "https://ournews.ai/social-image"
+        "image": "https://daily.rclabs.in/og/live.png"
       }
     ],
     "quantum": [
       {
-        "published": "2026-10-20",
-        "source": "Science News",
-        "summary": "Quantinuum reported that its Helios system reduced logical memory errors as it scaled a color code, reaching about five errors per million rounds with a 37-physical-qubit logical qubit. The result involved a single logical qubit, so scaling to many useful logical qubits remains a challenge.",
-        "title": "A quantum computing feat brings the ‘megaquops’ era a step closer",
-        "url": "https://www.sciencenews.org/article/quantum-computer-megaquops-error-correction",
+        "published": "2026-10-21",
+        "source": "The Next Web",
+        "summary": "NVIDIA and researchers at Jülich reported a full simulation of a noisy, error-correcting 104-qubit quantum computer on the JUPITER supercomputer. The classical simulation used 8,192 GPUs to study a magic-state technique; it is a modeling result, not a demonstration on quantum hardware.",
+        "title": "Nvidia simulates 104-qubit fault-tolerant quantum computer on JUPITER",
+        "url": "https://thenextweb.com/news/nvidia-quantum-simulation-jupiter-julich",
         "category": "quantum",
-        "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101926_EC_megaquop_main.jpg"
+        "image": "https://media.thenextweb.com/2026/10/nvidia-logo-sign-building-exterior-trees.jpg"
       },
       {
-        "published": "2026-10-20",
+        "published": "2026-10-21",
         "source": "The Quantum Insider",
-        "summary": "Alice & Bob reported operating three cat-qubit demonstrators—two 6-qubit chips and one 12-qubit chip—as part of France’s PROQCIMA program. The team demonstrated key error-correction components, but its measured logical error rate has not yet fallen below threshold.",
-        "title": "Alice & Bob Reports Cat-Qubit Progress in French Quantum Computing Program",
-        "url": "https://thequantuminsider.com/2026/10/20/alice-bob-reports-cat-qubit-progress-in-french-quantum-computing-program/",
+        "summary": "Researchers from Rutgers, IBM and collaborators demonstrated real-time feedback on up to 100 qubits of an IBM Heron processor, repeatedly measuring and resetting qubits during a run. The work, published in Nature Physics, probes how feedback can control chaotic dynamics and is relevant to future error correction.",
+        "title": "Rutgers And IBM Demonstrate Real-Time Control Across 100 Qubits",
+        "url": "https://thequantuminsider.com/2026/10/21/rutgers-and-ibm-demonstrate-real-time-control-across-100-qubits/",
         "category": "quantum",
-        "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Alice-Bob-French-Quantum-Header-1.png"
+        "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Low-Res_IBM_Quantum_Heron_156_01.jpg"
       },
       {
         "published": "2026-10-20",
-        "source": "Quantum Zeitgeist",
-        "summary": "At IEEE Quantum Week, Xanadu presented its Aurora photonic prototype, reporting that it ran continuously for more than a day. The system links 84 squeezers across 24 chips and uses light-based GKP qubits; the report also described a repetition-code decoding demonstration.",
-        "title": "Quantum Error Correction Decoders At IEEE Quantum Week 2026",
-        "url": "https://quantumzeitgeist.com/quantum-error-correction-ieee-quantum-week-2026/",
+        "source": "Ars Technica",
+        "summary": "Quantinuum reported that its Helios processor achieved a logical error rate of five errors per million operations in a color-code experiment. The company said increasing code size reduced logical errors substantially, an important test of whether error correction improves as systems scale.",
+        "title": "Quantum error correction goes well beyond breakeven",
+        "url": "https://arstechnica.com/science/2026/10/quantum-error-correction-goes-well-beyond-breakeven/",
         "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/qcw-img-qubit-lattice-cube-1200x630.jpg"
+        "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/helios-chip_top-1152x648.jpg"
       },
       {
-        "published": "2026-10-20",
-        "source": "Quantum Zeitgeist",
-        "summary": "Oxford researchers reported entanglement with 98% fidelity between two trapped-ion nodes, while other presentations highlighted the engineering costs of connecting separate quantum processors. The results underscore both progress in modular hardware and the difficulty of making interconnects fast enough for error correction.",
-        "title": "Distributed Quantum Computing At IEEE Quantum Week 2026",
-        "url": "https://quantumzeitgeist.com/distributed-quantum-computing-ieee-quantum-week-2026/",
+        "published": "2026-10-21",
+        "source": "Business Insider (company announcement)",
+        "summary": "Quantum X Labs said its decoder, integrated with NVIDIA CUDA-Q QEC, produced about 12% fewer logical errors than the PyMatching baseline on Google’s publicly released hardware data at two code sizes. The company also reported smaller gains in a streaming-decoding evaluation; these are company-reported benchmark results, not an independent hardware demonstration.",
+        "title": "Quantum X Labs' Decoder Delivers Lowest Logical Error Rates by integrating NVIDIA CUDA-Q QEC in Comparison to Other Decoders",
+        "url": "https://markets.businessinsider.com/news/stocks/quantum-x-labs-decoder-delivers-lowest-logical-error-rates-by-integrating-nvidia-cuda-q-qec-in-comparison-to-other-decoders-1036648933",
         "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/qcw-img-quantum-network-architecture-01-1200x630.png"
+        "image": "https://ml.globenewswire.com/media/a0abc50a-ff3e-420e-9e21-807bbc6417cd/small/logo-png.png"
       },
       {
-        "published": "2026-10-20",
-        "source": "Quantum Zeitgeist",
-        "summary": "NVIDIA’s QCE 2026 presentation described CUDA-Q Logical, a compiler intended to map quantum programs through an error-correcting code and device layout to hardware control. The report also discussed resource estimates for a 2048-bit RSA factoring design, while noting that such estimates do not demonstrate a practical quantum attack.",
-        "title": "Quantum HPC Integration At IEEE Quantum Week 2026",
-        "url": "https://quantumzeitgeist.com/quantum-hpc-integration-ieee-quantum-week-2026/",
+        "published": "2026-10-21",
+        "source": "PR Newswire (company announcement)",
+        "summary": "qBraid introduced qBraid OS, software for quantum-system operators to manage hardware and provide access to users. The announcement highlights integration with NVIDIA CUDA-Q for hybrid classical processing and error-correction decoding during quantum jobs.",
+        "title": "qBraid Announces qBraid OS for Operating Quantum Computing Services",
+        "url": "https://www.prnewswire.com/news-releases/qbraid-announces-qbraid-os-for-operating-quantum-computing-services-302914909.html",
         "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/qcw-img-gpu-datacentre-aisle-01-1200x630.jpg"
+        "image": ""
       },
       {
-        "published": "2026-10-20",
-        "source": "The Quantum Insider",
-        "summary": "Zapata Quantum appointed Peter Shor and three other researchers to its scientific advisory board, adding expertise in algorithms, error correction, quantum software and resource estimation. The company said the advisers will support the development of its Quantum Pilot platform and work on identifying potential applications.",
-        "title": "Zapata Quantum Adds Peter Shor and Three Scientists to Advisory Board",
-        "url": "https://thequantuminsider.com/2026/10/20/zapata-quantum-peter-shor-scientific-advisory-board/",
+        "published": "2026-10-21",
+        "source": "NVIDIA",
+        "summary": "NVIDIA announced that IQM is using its Ising open models for quantum-processor calibration, while SEEQC is combining Ising with NVQLink and its Digital Link technology. The announcements focus on calibration and low-latency classical–quantum connections for real-time error correction.",
+        "title": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
+        "url": "https://blogs.nvidia.com/blog/open-models-europe-industry/",
         "category": "quantum",
-        "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-20_17-29.png"
+        "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/agentic-ai-key-visual-open-models-pr-gtc-berlin-2026-4k-scaled.png"
       }
     ]
   }
