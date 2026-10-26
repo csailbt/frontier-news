@@ -77,7 +77,12 @@ async function fetchVertical(topic) {
   return { items, raw: parsed.items.length };
 }
 
-const results = await Promise.allSettled(VERTICALS.map(fetchVertical));
+// Space request starts beyond the Agent API's one-second QPS window.
+// Delay the first call too, since the news collector runs immediately before us.
+const results = await Promise.allSettled(VERTICALS.map(async (topic, index) => {
+  await new Promise(resolve => setTimeout(resolve, (index + 1) * 1250));
+  return fetchVertical(topic);
+}));
 const failures = results.filter(r => r.status === "rejected").map(r => String(r.reason).slice(0, 200));
 const ok = results.filter(r => r.status === "fulfilled").map(r => r.value.items).flat();
 
