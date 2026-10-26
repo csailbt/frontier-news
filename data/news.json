@@ -1,98 +1,98 @@
 {
-  "updated": "2026-10-26T02:56:20.497Z",
+  "updated": "2026-10-26T15:10:02.631Z",
   "categories": {
     "ai": [
       {
         "published": "2026-10-26",
-        "source": "The Register",
-        "summary": "China has approved DeepSeek and MiniMax to continue exporting certain AI technologies, despite recently proposing licensing restrictions covering large models, agents and computing clusters. Open-source-licensed technology is exempt from the restrictions, according to the report.",
-        "title": "After threatening AI export bans, China allows DeepSeek to keep selling",
-        "url": "https://www.theregister.com/ai-and-ml/2026/10/26/after-threatening-ai-export-bans-china-allows-deepseek-to-keep-selling/5305267",
+        "source": "Associated Press",
+        "summary": "Anthropic publicly filed for an IPO, moving toward a potential November Nasdaq debut under the ticker ANT. Its filing disclosed rapid revenue growth alongside steep losses and detailed risks from developing and deploying advanced AI.",
+        "title": "Artificial intelligence giant Anthropic files papers to sell shares to the public for the first time",
+        "url": "https://apnews.com/article/ca2f4c282bef3201a392e59e3df2300c",
         "category": "ai",
-        "image": "https://image.theregister.com/260439.jpg?imageId=260439&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        "image": ""
       },
       {
         "published": "2026-10-26",
-        "source": "Seoul Economic Daily",
-        "summary": "U.S. lawmakers and White House officials are reportedly urging AI executives to focus public messaging on safer products, amid political criticism of their warnings about catastrophic risks. The article also reports that the FTC sought information from OpenAI and Anthropic about security incidents involving AI agents.",
-        "title": "White House to AI Chiefs: Say Less, Build Safer Products",
-        "url": "https://en.sedaily.com/international/2026/10/26/white-house-to-ai-chiefs-say-less-build-safer-products",
+        "source": "Reuters",
+        "summary": "Anthropic’s IPO filing reported about $16.3 billion in first-half 2026 revenue and an $80.7 billion net loss, much of it tied to the valuation of convertible bonds. The prospectus also underscored the substantial infrastructure costs and risks facing frontier AI developers.",
+        "title": "Anthropic's IPO filing shows explosive growth, risks and staggering costs",
+        "url": "https://www.fidelity.com/news/article/company-news/202610260905RTRSNEWSCOMBINED_KCN3W61IX-OUSBS_1",
         "category": "ai",
-        "image": "https://wimg.sedaily.com/news/cms/2026/10/26/rcv.YNA.20261013.PRU20261013178201009_P1.jpg"
+        "image": ""
       },
       {
         "published": "2026-10-26",
-        "source": "AI Impact Hub",
-        "summary": "Virginia’s Executive Directive 6 calls for a statewide plan to prevent and respond to cyberattacks involving AI, creation of a Cyber Consortium, and regular briefings with AI companies, researchers and regulators. The directive was issued on October 23, according to the briefing.",
-        "title": "The Daily AI Briefing: 26 October 2026",
-        "url": "https://www.aiimpacthub.com/ai-news/2026-10-26",
+        "source": "CNBC",
+        "summary": "Elon Musk said SpaceX closed a $40 billion debt financing deal, with the funds intended primarily to pay for GPUs supporting its AI ambitions. The financing is expected to arrive in the first half of 2027, according to the report.",
+        "title": "The Week Ahead in AI: SpaceX Closes $40B AI Chip Debt Deal, Softbank $50B Malaysia Tech Investment, Plus Upcoming Alphabet, Microsoft & Amazon Earnings",
+        "url": "https://theaiinsider.tech/2026/10/26/the-week-ahead-in-ai-spacex-closes-40b-ai-chip-debt-deal-study-finds-ai-partisan-leanings-connectwise-breach-plus-upcoming-alphabet-microsoft-amazon-earnings/",
         "category": "ai",
-        "image": "https://hub.aiimpacthub.com/hub/card/briefing/2026-10-26"
+        "image": "https://theaiinsider.tech/wp-content/uploads/2025/06/AI-Insider-Week-Ahead-1.png"
       },
       {
         "published": "2026-10-26",
-        "source": "RTL Today",
-        "summary": "Anthropic says it will dedicate 5% of its shares to a new public-benefit fund, while its founders have pledged a large portion of their equity to charitable giving. The article examines how AI-company wealth could reshape philanthropy and raises questions about the fund’s structure and transparency.",
-        "title": "From Carnegie to Claude: AI wealth could reshape philanthropy",
-        "url": "https://today.rtl.lu/news/world/from-carnegie-to-claude-ai-wealth-could-reshape-philanthropy-1151356951",
+        "source": "Associated Press",
+        "summary": "AI firms including Anthropic, Meta, Google, Amazon and Microsoft are consulting religious scholars and faith leaders as they consider how to incorporate moral reasoning into AI systems. Scholars cautioned that reducing religious traditions to simple ethical rules could misrepresent their differences.",
+        "title": "AI companies turn to religious scholars for help with moral reasoning",
+        "url": "https://apnews.com/",
         "category": "ai",
-        "image": "https://static-prod.rtl.lu/dims4/default/cebf656/2147483647/strip/true/crop/768x432+0+40/resize/1224x689!/quality/90/?url=https%3A%2F%2Frtl-luxembourg-new-production-web.s3.eu-central-1.amazonaws.com%2Fbrightspot%2F1f%2F58%2Fd1e22049748663c4caeb31568807%2Fahr0chm6ly9hznatyxbpy29yzs1wcm9klmfmcc5jb20vb2jqzwn0cy9hcgkvbwvkawfzp2lkpwexa2tjuzbuu2haq1dguxnwmghhvuvwrefragvlalpdu2gwtwrcadnbwfzxqxdbqmf3qjnhz2qlmkzkvzbvrdnkb2ngbfjxqulcquhczklpchbyrlfhszbjaur5qxnwz3h4qw1fvknrzdber1pzwm5fyun4medcefjgukz3te1tmufgmfzsstfjm0zyrndcz0zdtuzodkturmdurmrdqzfzz1rsnvpxvjlku1jawel6surxbdfayndwmufuvjfdd01krufsd2rirjbdbu1evwxjbuzfne5xvvlkrkzjuu5ddepcrvpztkg1mgzyuxzgru5ms0zgoextmghvvjfjvui0z1fwmwrsmwrerufrqmzirwzdz1vey1fweufuvmpsbghksvvjmupdazjcqwdhrhdoekrsa0jcz0fesgdbuuppnwvcrjlctfvnc1htwwhxmufxtjbba0lpvw9wz1jmvjfrmlhbdfhruthbqzbwu2visuxurvlky1jfmlnunxpbuvlczkelm0qlm0quanbn.jpeg"
-      },
-      {
-        "published": "2026-10-26",
-        "source": "The Hindu BusinessLine",
-        "summary": "Countries are trying to benefit from both U.S.- and China-led AI and technology blocs without alienating either side, as competition between the two powers intensifies. The report describes growing pressure on governments to choose partners for investment, manufacturing and supply chains.",
-        "title": "As US and China form AI blocs, countries increasingly torn between them",
-        "url": "https://www.thehindubusinessline.com/news/world/as-us-and-china-form-ai-blocs-countries-increasingly-torn-between-them/article71622633.ece",
-        "category": "ai",
-        "image": "https://bl-i.thgim.com/public/incoming/kvpdqp/article71622667.ece/alternates/LANDSCAPE_1200/IMG_iStock-2226370569_2_1_C4FJOUOJ.jpg"
+        "image": ""
       }
     ],
     "quantum": [
       {
         "published": "2026-10-26",
-        "source": "ScienceDaily",
-        "summary": "Researchers demonstrated simultaneous control of five silicon spin qubits using a shared microwave line. Their calibration method kept fidelity above 99.99% with up to three qubits operating at once, and about 99.9% with all five active—a step toward scaling silicon-based quantum hardware.",
-        "title": "Scientists overcome a hidden obstacle to more powerful quantum computers",
-        "url": "http://www.sciencedaily.com/releases/2026/10/261024222024.htm",
+        "source": "Quantum Zeitgeist",
+        "summary": "A University of Colorado Boulder team reported that CoDecoder, a neural-network front end for existing quantum error decoders, improved decoding speed by as much as 124× in tested codes while maintaining or improving accuracy. The result is from research and benchmarking, not a hardware demonstration.",
+        "title": "Colorado Boulder Team Speeds Quantum Decoding Up To 124x",
+        "url": "https://quantumzeitgeist.com/quantum-decoding-neural-frontend-speed-enhancement/",
         "category": "quantum",
-        "image": "http://www.sciencedaily.com/images/1920/futuristic-quantum-computer-system-glowing.webp"
-      },
-      {
-        "published": "2026-10-25",
-        "source": "Lupa.cz",
-        "summary": "Researchers from Rutgers, IBM and collaborators used an IBM Heron processor to run repeated measurements, resets and control operations across as many as 100 qubits. The experiment demonstrated real-time feedback at scale, a technique relevant to future fault-tolerant systems, though it was not a complete quantum error-correction system.",
-        "title": "Anthropic navrhuje kvantové obvody, rekordní opravy kvantových chyb, korekce v reálném čase",
-        "url": "https://www.lupa.cz/clanky/anthropic-navrhuje-kvantove-obvody-rekordni-opravy-kvantovych-chyb-korekce-v-realnem-case/",
-        "category": "quantum",
-        "image": "https://i.iinfo.cz/images/503/quantinuum_watermark-lupa-cz.png"
+        "image": "https://quantumzeitgeist.com/wp-content/uploads/colorado-boulder-team-speeds-quantum-decoding-up-to-124x-1200x630.png"
       },
       {
         "published": "2026-10-26",
-        "source": "Ground News",
-        "summary": "A report on work by Phasecraft and Virginia Tech says AI agents cut quantum compilation costs by as much as 73% against published methods, with solutions verified. The result points to a potential way to reduce the resources required to run quantum algorithms.",
-        "title": "Phasecraft And Virginia Tech Researchers Cut Quantum Compilation Costs By 73% With AI",
-        "url": "https://ground.news/article/phasecraft-and-virginia-tech-researchers-cut-quantum-compilation-costs-by-73-with-ai",
+        "source": "GlobeNewswire",
+        "summary": "Quantum X Labs said it has begun initial experiments on the Arbel superconducting processor to connect device characterization, circuit execution and error decoding. The company explicitly noted that this initial stage is not a demonstration of real-time error correction or fault-tolerant computing.",
+        "title": "Quantum X Labs Launches End-to-End Quantum Error Correction Program at the Israeli Quantum Computing Center",
+        "url": "https://www.globenewswire.com/news-release/2026/10/26/3388112/0/en/quantum-x-labs-launches-end-to-end-quantum-error-correction-program-at-the-israeli-quantum-computing-center-operated-by-quantum-machines.html",
         "category": "quantum",
-        "image": ""
+        "image": "https://ml.globenewswire.com/Resource/Download/a0abc50a-ff3e-420e-9e21-807bbc6417cd"
       },
       {
-        "published": "2026-10-25",
+        "published": "2026-10-26",
+        "source": "The Quantum Insider",
+        "summary": "Quantum Art presented an algorithmic approach that uses known wave physics to simplify large-scale wave-propagation simulations, with proposed applications including seismic modeling and telecommunications. Its estimates of workloads potentially addressable with roughly 100 qubits are projections; they depend on future hardware capable of running the method.",
+        "title": "Quantum Art Research Outlines More Efficient Quantum Approach to Wave Modeling",
+        "url": "https://thequantuminsider.com/2026/10/26/quantum-art-research-outlines-more-efficient-quantum-approach-to-wave-modeling/",
+        "category": "quantum",
+        "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Quantum-Art-research-showcase.png"
+      },
+      {
+        "published": "2026-10-26",
+        "source": "Quantum Zeitgeist",
+        "summary": "Researchers described a symmetry-based framework for checking variational quantum algorithms, reporting an average fault-detection rate of 89% across their tests. The checks aim to flag circuit faults and implausible results without requiring a known correct answer or a classical simulation.",
+        "title": "Researchers Propose Tests For Quantum Algorithm Correctness",
+        "url": "https://quantumzeitgeist.com/variational-quantum-algorithms-correctness-testing-methods-proposed/",
+        "category": "quantum",
+        "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-propose-tests-for-quantum-algorithm-correctness-1-1200x630.jpg"
+      },
+      {
+        "published": "2026-10-26",
         "source": "TipRanks",
-        "summary": "Google announced a $150,000 Kaggle competition challenging researchers to use AI to reduce the size and gate count of circuits for fusion, optimization and chemistry problems. The company says its Gemini models have already found more efficient designs in the challenge’s categories.",
-        "title": "Google (GOOGL) Launches $150K AI Contest to Cut Quantum Computing Costs",
-        "url": "https://www.tipranks.com/news/google-googl-launches-150k-ai-contest-to-cut-quantum-computing-costs",
+        "summary": "The UK National Quantum Computing Centre reported progress in its £30 million testbed program, which brought together seven suppliers and prototypes based on five technologies for evaluation outside developers’ labs. The report also noted that Rigetti had expanded its system from 24 to 36 qubits and integrated Riverlane technology for error-correction experiments.",
+        "title": "Quantum Computing News: Rigetti Hits 36 Qubits as Arqit Expands in Defense",
+        "url": "https://www.tipranks.com/news/quantum-computing-news-rigetti-hits-36-qubits-as-arqit-expands-in-defense",
         "category": "quantum",
         "image": ""
       },
       {
         "published": "2026-10-26",
-        "source": "NewsBreak",
-        "summary": "A report describes a theoretical proposal for a photon-based “time qubit,” drawing on an earlier experiment. The underlying measurements may meet some prerequisites, but the report notes that actual reversal of time evolution and complete control of such a qubit have not been demonstrated.",
-        "title": "Scientists may have built a quantum device that runs backward in time",
-        "url": "https://www.newsbreak.com/geekspin-513792/4966812661947-scientists-may-have-built-a-quantum-device-that-runs-backward-in-time",
+        "source": "NextPlatform",
+        "summary": "A report on Google and Nvidia work describes Google’s hardware demonstration of magic-state cultivation on its Willow processor, which reportedly reduced errors 40-fold and achieved 99.99% logical fidelity for the cultivated T-states. Nvidia separately simulated the technique on a 104-qubit model, reporting substantially lower qubit requirements than alternative methods.",
+        "title": "Nvidia Simulates Its Way Into Google's Magic State Cultivation Party",
+        "url": "https://www.nextplatform.com/compute/2026/10/26/nvidia-simulates-its-way-into-googles-magic-state-cultivation-party/5305405",
         "category": "quantum",
-        "image": "https://img.particlenews.com/img/id/0AXTwk_1GRfvJKO00"
+        "image": "https://image.nextplatform.com/5305414.jpg?imageId=5305414&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
       }
     ]
   }
