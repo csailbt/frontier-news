@@ -1,0 +1,335 @@
+{
+  "radar": "weak-signals-of-competitive-advantage",
+  "version": "pilot-1-draft-baseline",
+  "updated": "2026-10-25T00:00:00Z",
+  "scope_note": "Companies in materials, pharmaceuticals, finance/banking, cybersecurity and adjacent verticals exploiting data with AI or quantum tools. Automated collection produces candidates; this pilot edition is a DRAFT BASELINE for the website's curation process; entries carry review_status. A result is not 'advantage' because AI or quantum appears in the announcement: every entry is placed on the evidence ladder below.",
+  "ladder": [
+    "activity",
+    "capability",
+    "operating-benefit",
+    "competitive-advantage"
+  ],
+  "ladder_definitions": {
+    "activity": "A partnership, hiring move, patent, or platform purchase. Most announcements stop here.",
+    "capability": "A benchmark, pilot, or demonstrated technical result.",
+    "operating-benefit": "A measured improvement to a decision, workflow, throughput, accuracy, or cost inside a real organization.",
+    "competitive-advantage": "An operating benefit relative to credible alternatives, with a reason competitors cannot readily reproduce it."
+  },
+  "signals": [
+    {
+      "id": "pharma-insilico-rentosertib",
+      "company": "Insilico Medicine",
+      "vertical": "pharmaceuticals",
+      "technology_class": "ai",
+      "workflow": "End-to-end generative-AI drug discovery (Pharma.AI): target identification from omics/publication/patent data, then generative chemistry for molecule design.",
+      "data_advantage": {
+        "mechanism": "Integrated omics repositories, publication texts, patents and grants feed target selection; the same platform then designs the molecule, keeping discovery insight in one pipeline.",
+        "distinctive_access": "Platform-owned integration of public and licensed biomedical data with internal experimental feedback."
+      },
+      "observed_outcome": {
+        "claim": "Rentosertib (ISM001-055), a TNIK inhibitor for idiopathic pulmonary fibrosis designed with the platform, met its Phase 2a endpoints and has now entered Phase III (GENESIS-IPF-3): 320 participants, 47 centers in China, 52 weeks, primary endpoint annual rate of FVC decline. First patient dosed September 10, 2026.",
+        "comparator": "Randomized, double-blind, placebo-controlled design.",
+        "period": "Phase 2a results reported November 2024; Phase III initiated July 2026, first patient dosed September 2026."
+      },
+      "evidence": {
+        "provenance": "company-reported",
+        "verification": "Trial identifiers published (NCT07687459, CTR20262475) make the trial registry-verifiable; efficacy remains investigational and the drug is not approved by any regulator.",
+        "limitations": "Company press releases; Phase 2a data reported at a conference, full publication status not verified in this review; Phase III outcome unknown."
+      },
+      "ladder_tier": "operating-benefit",
+      "status": "new",
+      "change_since_previous": null,
+      "next_milestone": "Phase III interim or topline results (primary endpoint: annual rate of FVC decline over 52 weeks).",
+      "would_strengthen": "Positive Phase III readout; regulatory approval; independent replication of the platform's discovery economics (time/cost per candidate) versus industry benchmarks.",
+      "would_weaken": "Phase III miss on the primary endpoint; disclosure that conventional discovery could have produced the candidate comparably fast and cheap.",
+      "sources": [
+        {
+          "url": "https://insilico.com/news/isn1009261-insilico-medicine-doses-first-patient-genesis-ipf-3",
+          "publisher": "Insilico Medicine",
+          "published": "2026-09-10",
+          "event_date": "2026-09-10"
+        },
+        {
+          "url": "https://insilico.com/blog/1112",
+          "publisher": "Insilico Medicine",
+          "published": "2024-11-12",
+          "event_date": "2024-11-12"
+        }
+      ],
+      "checked": "2026-10-25",
+      "review_status": "reviewed"
+    },
+    {
+      "id": "materials-microsoft-pnnl-electrolyte",
+      "company": "Microsoft + Pacific Northwest National Laboratory",
+      "vertical": "materials",
+      "technology_class": "ai",
+      "workflow": "Azure Quantum Elements: AI screening of 32 million candidate solid electrolytes down to 23, physics-based filtering, then synthesis and prototype battery at PNNL.",
+      "data_advantage": {
+        "mechanism": "Graph-neural-network models trained on known materials, combined with physics-based simulation at cloud scale.",
+        "distinctive_access": "Access to cloud supercomputing tailored for chemistry; PNNL synthesis and testing capability closes the loop from prediction to hardware."
+      },
+      "observed_outcome": {
+        "claim": "AI screening reduced 32 million candidates to 23 plausible ones; PNNL synthesized one and built a working prototype solid-electrolyte battery.",
+        "comparator": "Screening throughput versus conventional materials-discovery workflows.",
+        "period": "Announced January 2024."
+      },
+      "evidence": {
+        "provenance": "company-and-lab-reported",
+        "verification": "Widely covered by independent science press; the prototype was physically built and tested by PNNL.",
+        "limitations": "A prototype, not a product; no published commercial deployment or quantified advantage over existing electrolytes at scale. First-edition entry: no dedicated follow-up search has yet confirmed or ruled out later developments; treat staleness as unverified until the second edition."
+      },
+      "ladder_tier": "capability",
+      "status": "new",
+      "change_since_previous": null,
+      "next_milestone": "Any disclosed commercial use of AI-screened materials in a shipping product, or a follow-up publication quantifying performance.",
+      "would_strengthen": "Product integration with measured performance/cost data; a second group replicating the discovery-to-hardware cycle on a different material class.",
+      "would_weaken": "No follow-up after multiple years; prototype performance below conventional alternatives in independent tests.",
+      "sources": [
+        {
+          "url": "https://www.sciencenews.org/article/artificial-intelligence-new-battery",
+          "publisher": "Science News",
+          "published": "2024-01-24",
+          "event_date": "2024-01-09"
+        },
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/quantum/2024/01/09/unlocking-a-new-era-for-scientific-discovery-with-ai-how-microsofts-ai-screened-over-32-million-candidates-to-find-a-better-battery/",
+          "publisher": "Microsoft",
+          "published": "2024-01-09",
+          "event_date": "2024-01-09"
+        }
+      ],
+      "checked": "2026-10-25",
+      "review_status": "reviewed"
+    },
+    {
+      "id": "finance-mastercard-di-pro",
+      "company": "Mastercard",
+      "vertical": "finance/banking",
+      "technology_class": "ai",
+      "workflow": "Decision Intelligence Pro: generative-AI transaction risk scoring on the Mastercard network, assessing relationships between entities around each transaction in under 50 milliseconds.",
+      "data_advantage": {
+        "mechanism": "Network-scale view: 143 billion transactions scored per year; the gen-AI layer scans one trillion data points spanning account, purchase, merchant and device information.",
+        "distinctive_access": "Proprietary cross-bank transaction network data that no single issuer can see."
+      },
+      "observed_outcome": {
+        "claim": "Initial modeling: fraud-detection rates improved on average 20%, up to 300% in some instances; false positives reduced by more than 85% in the company's own analysis.",
+        "comparator": "Existing Decision Intelligence scoring.",
+        "period": "Announced February 2024; rollout from later that year."
+      },
+      "evidence": {
+        "provenance": "vendor-reported",
+        "verification": "Press-release claims attributed to 'initial modelling' and 'our own analysis'; no independent verification found in this review.",
+        "limitations": "Self-reported; methodology not published; 'up to 300%' is a best case, not an average. First-edition entry: no dedicated follow-up search has yet confirmed or ruled out later developments; treat staleness as unverified until the second edition."
+      },
+      "ladder_tier": "operating-benefit",
+      "status": "new",
+      "change_since_previous": null,
+      "next_milestone": "An independent issuer or regulator quantifying realized fraud-loss and false-positive changes in production.",
+      "would_strengthen": "Named bank reporting measured production results; peer-reviewed or regulator-published efficacy data.",
+      "would_weaken": "Banks quietly rolling back DI Pro; regulator findings on false-positive harm to customers.",
+      "sources": [
+        {
+          "url": "https://www.mastercard.com/us/en/news-and-trends/press/2024/february/mastercard-supercharges-consumer-protection-with-gen-ai.html",
+          "publisher": "Mastercard",
+          "published": "2024-02-01",
+          "event_date": "2024-02-01"
+        }
+      ],
+      "checked": "2026-10-25",
+      "review_status": "reviewed"
+    },
+    {
+      "id": "finance-credit-agricole-pasqal",
+      "company": "Cr\u00e9dit Agricole CIB + Pasqal",
+      "vertical": "finance/banking",
+      "technology_class": "quantum-hybrid",
+      "workflow": "Three-track roadmap (2026-2028): quantum-inspired algorithms on classical IT for immediate gains; operational tests on Pasqal neutral-atom machines under production conditions; hybrid classical-quantum deployment. First focus: monitoring capital-reserve consumption linked to risk-weighted assets.",
+      "data_advantage": {
+        "mechanism": "In-house quantum ecosystem: trained business teams, strategic coordinators and production project managers, plus access to Pasqal simulators and machines.",
+        "distinctive_access": "Seven-year collaboration (since 2019) on counterparty credit-default risk and portfolio optimization; a bank building production muscle rather than running isolated pilots."
+      },
+      "observed_outcome": {
+        "claim": "Announced intent to move from research to operational deployment; initial production use cases targeted as early as 2028. No production efficacy numbers yet.",
+        "comparator": "Prior research PoCs since 2021.",
+        "period": "Announced June 30, 2026; roadmap 2026-2028."
+      },
+      "evidence": {
+        "provenance": "company-reported",
+        "verification": "Joint announcement; roadmap and 2028 target are intentions, not results.",
+        "limitations": "No measured outcome yet; production target is aspirational at announcement."
+      },
+      "ladder_tier": "activity",
+      "status": "new",
+      "change_since_previous": null,
+      "next_milestone": "First disclosed quantum-inspired algorithm running in a production capital-markets process (the 2028 target).",
+      "would_strengthen": "Any production deployment with measured performance versus the classical baseline; third-party confirmation it is not rebranded classical code.",
+      "would_weaken": "Missed 2028 target; quiet discontinuation; independent analysis showing equivalent classical methods match the 'quantum-inspired' results.",
+      "sources": [
+        {
+          "url": "https://www.pasqal.com/newsroom/credit-agricole-cib-and-pasqal-advance-their-strategic-partnership-to-deploy-quantum-computing-applied-to-finance/",
+          "publisher": "Pasqal",
+          "published": "2026-06-30",
+          "event_date": "2026-06-30"
+        }
+      ],
+      "checked": "2026-10-25",
+      "review_status": "reviewed"
+    },
+    {
+      "id": "cyber-crowdstrike-charlotte-ai",
+      "company": "CrowdStrike",
+      "vertical": "cybersecurity",
+      "technology_class": "ai",
+      "workflow": "Charlotte AI agentic security analyst: automated detection triage (verdict, confidence, recommendation, explanation), multi-agent investigations across endpoint, identity, cloud and network with a shared environment memory.",
+      "data_advantage": {
+        "mechanism": "Native integration with Falcon platform telemetry; agentic triage trained and tested against the Falcon Complete Next-Gen MDR expert team.",
+        "distinctive_access": "One of the largest proprietary endpoint/identity/cloud telemetry corpora in the industry, plus expert-team feedback as a training signal."
+      },
+      "observed_outcome": {
+        "claim": ">98% decision accuracy with agentic detection triage; 70% reduced manual effort during investigations; 90% reduced incident response time.",
+        "comparator": "Accuracy claim compared to Falcon Complete Next-Gen MDR expert team decisions; effort/time claims relative to prior analyst workflows.",
+        "period": "Claims current on the vendor page as of the 2026-10-25 check; original publication date not established."
+      },
+      "evidence": {
+        "provenance": "vendor-reported",
+        "verification": "Figures from CrowdStrike marketing with methodology footnotes; no independent verification found in this review.",
+        "limitations": "Datasheet footnotes define time savings as analyst time that 'would have been spent' triaging average detection volumes; conditions of measurement not independently audited."
+      },
+      "ladder_tier": "operating-benefit",
+      "status": "new",
+      "change_since_previous": null,
+      "next_milestone": "An independent study (or a customer with named metrics) on triage accuracy and response-time changes in production.",
+      "would_strengthen": "Peer-reviewed or customer-published triage accuracy data; SOC analyst throughput changes verified by a third party.",
+      "would_weaken": "Customers reporting agentic-triage error costs; insurers or regulators constraining automated closure of detections.",
+      "sources": [
+        {
+          "url": "https://www.crowdstrike.com/en-us/platform/charlotte-ai/",
+          "publisher": "CrowdStrike",
+          "published": null,
+          "event_date": null
+        }
+      ],
+      "checked": "2026-10-25",
+      "review_status": "reviewed"
+    },
+    {
+      "id": "industrial-prysmian-jpm-cfi",
+      "company": "Prysmian Group + J.P. Morgan Payments",
+      "vertical": "industrials",
+      "technology_class": "ai",
+      "workflow": "Cash Flow Intelligence: AI cash forecasting, visibility and reconciliation across multiple banking relationships, integrated with the J.P. Morgan Access portal, replacing spreadsheet-based treasury workflows.",
+      "data_advantage": {
+        "mechanism": "Bank-side view of the customer's own payment flows across ERP systems and banking reports; the model sees consolidated flows no single internal system contains.",
+        "distinctive_access": "J.P. Morgan's position as the cash-management bank with cross-bank consolidation."
+      },
+      "observed_outcome": {
+        "claim": "Reduced manual treasury work by 50% and saved $100K annually (customer case study, attributed to Prysmian's VP & Treasurer).",
+        "comparator": "Prior spreadsheet-based forecasting and manual reconciliation.",
+        "period": "Case study published June 23, 2025."
+      },
+      "evidence": {
+        "provenance": "vendor-case-study",
+        "verification": "Customer-attributed quotes in a J.P. Morgan Payments case study; not independently verified.",
+        "limitations": "Single-customer case study; $100K is small against Prysmian's scale, suggesting early-stage deployment rather than full migration. First-edition entry: no dedicated follow-up search has yet confirmed or ruled out later developments; treat staleness as unverified until the second edition."
+      },
+      "ladder_tier": "operating-benefit",
+      "status": "new",
+      "change_since_previous": null,
+      "next_milestone": "Broader rollout metrics (entities migrated, forecast-accuracy change) or a second corporate customer publishing comparable numbers.",
+      "would_strengthen": "Forecast-accuracy improvements quantified; multi-bank adoption beyond one treasury team.",
+      "would_weaken": "Reversion to spreadsheets; accuracy issues driving manual rework.",
+      "sources": [
+        {
+          "url": "https://www.jpmorgan.com/insights/payments/data-intelligence/prysmian-ai-cash-flow-optimization",
+          "publisher": "J.P. Morgan Payments",
+          "published": "2025-06-23",
+          "event_date": "2025-06-23"
+        }
+      ],
+      "checked": "2026-10-25",
+      "review_status": "reviewed"
+    },
+    {
+      "id": "software-multiverse-compactifai",
+      "company": "Multiverse Computing",
+      "vertical": "software/quantum-inspired",
+      "technology_class": "quantum-inspired",
+      "workflow": "CompactifAI: tensor-network compression of large language models (restructures weight matrices, targeted retraining 'healing'), deployed on cloud, on-premises and edge devices.",
+      "data_advantage": {
+        "mechanism": "Quantum-inspired tensor-network mathematics applied to model weights; claims 80-95% size reduction with immaterial accuracy loss; retained over 97% of baseline accuracy in Xeon 6 benchmarks.",
+        "distinctive_access": "Named deployments across millions of devices (drones, satellites, vehicles, telecoms); partners include Allianz, Bosch, Iberdrola, PwC, Telef\u00f3nica; HP, Orange, Scania, Santander invested."
+      },
+      "observed_outcome": {
+        "claim": "Llama 3.3 70B compressed ~50% on disk (about 130 GiB to about 65 GiB) running on Intel Xeon 6 P-cores; throughput +107.0% and latency -51.7% at 256 concurrent users; $570M Series C at $1.7B valuation (July 2026).",
+        "comparator": "Baseline uncompressed model on the same hardware; an independent Sopra Steria evaluation of Llama 3.1 8B supported the resource-reduction-with-accuracy-maintenance claim.",
+        "period": "Benchmarks July 23, 2026; Series C reported July 27, 2026."
+      },
+      "evidence": {
+        "provenance": "vendor-reported-with-independent-evaluation",
+        "verification": "Benchmark methodology published in press release; Sopra Steria independent evaluation exists but with limited public detail; 'millions of devices' not independently confirmed.",
+        "limitations": "Quantum-inspired classical math, not quantum hardware; best-case benchmark configuration; accuracy-retention claims vary by model."
+      },
+      "ladder_tier": "capability",
+      "status": "new",
+      "change_since_previous": null,
+      "next_milestone": "A named large customer publishing production inference-cost reductions attributable to CompactifAI.",
+      "would_strengthen": "Replication of compression results by a second independent evaluator; sustained enterprise renewals.",
+      "would_weaken": "Competing compression (quantization/distillation) matching results without tensor networks; accuracy degradation reports from production users.",
+      "sources": [
+        {
+          "url": "https://www.globenewswire.com/news-release/2026/07/23/3332164/0/en/multiverse-computing-unveils-breakthrough-all-compactifai-models-now-run-on-intel-xeon-6-processors.html",
+          "publisher": "Multiverse Computing (GlobeNewswire)",
+          "published": "2026-07-23",
+          "event_date": "2026-07-23"
+        },
+        {
+          "url": "https://pathfounders.com/p/multiverse-computing-lands-570m-series-c",
+          "publisher": "Pathfounders",
+          "published": "2026-07-27",
+          "event_date": "2026-07-27"
+        }
+      ],
+      "checked": "2026-10-25",
+      "review_status": "reviewed"
+    },
+    {
+      "id": "pharma-roche-quantinuum-eumen",
+      "company": "Roche + Quantinuum (Cambridge Quantum Computing)",
+      "vertical": "pharmaceuticals",
+      "technology_class": "quantum",
+      "workflow": "EUMEN quantum chemistry platform for molecular simulation in Alzheimer's drug discovery: candidate discovery and optimization using quantum algorithms.",
+      "data_advantage": {
+        "mechanism": "Quantum chemistry simulation applied to CNS drug candidates.",
+        "distinctive_access": "Early-mover access to a quantum chemistry software stack partnered with a major pharma's discovery pipeline."
+      },
+      "observed_outcome": {
+        "claim": "Partnership announced February 2021; no public efficacy outcome found since.",
+        "comparator": "n.a.",
+        "period": "Announced February 5, 2021."
+      },
+      "evidence": {
+        "provenance": "press-reported",
+        "verification": "No independent outcome; no recent public milestone located in this review.",
+        "limitations": "Quantum chemistry simulation for drug discovery remains research-stage; five years without a disclosed milestone."
+      },
+      "ladder_tier": "activity",
+      "status": "stale",
+      "change_since_previous": null,
+      "next_milestone": "Any disclosed candidate, publication, or continuation/renewal of the collaboration.",
+      "would_strengthen": "A quantum-derived candidate entering Roche's pipeline; peer-reviewed quantum-chemistry results on CNS targets.",
+      "would_weaken": "Silent discontinuation; classical simulation matching the same results.",
+      "sources": [
+        {
+          "url": "https://www.cambridgeindependent.co.uk/business/alzheimer-s-is-first-target-as-cambridge-quantum-computing-collaborates-with-roche-9155359/",
+          "publisher": "Cambridge Independent",
+          "published": "2021-02-05",
+          "event_date": "2021-02-05"
+        }
+      ],
+      "checked": "2026-10-25",
+      "review_status": "reviewed"
+    }
+  ],
+  "draft_note": "Pilot edition compiled 2026-10-25 by Perplexity Computer as a draft baseline. The website's curation process governs promotion and edits. Statuses are first-edition observations: 'stale' marks entries where a follow-up search found no public milestone since the source date; all other entries are 'new' to this ledger and have not yet had a second edition to compare against."
+}

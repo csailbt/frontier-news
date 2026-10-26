@@ -11,6 +11,12 @@ jobs:
         with: { node-version: 20 }
       - run: cd backend-node && node fetch-news.mjs
         env: { PERPLEXITY_API_KEY: "${{ secrets.PERPLEXITY_API_KEY }}" }
+      - name: Collect weak signal candidates
+        continue-on-error: true
+        timeout-minutes: 5
+        run: cd backend-node && node fetch-signals.mjs
+        env: { PERPLEXITY_API_KEY: "${{ secrets.PERPLEXITY_API_KEY }}" }
       - run: |
           git config user.name bot && git config user.email bot@users.noreply.github.com
+          if [ -f data/signals-candidates.json ]; then git add data/signals-candidates.json; fi
           git add data/news.json && git commit -m "daily news" || true && git push
