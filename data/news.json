@@ -1,98 +1,98 @@
 {
-  "updated": "2026-10-25T13:29:17.717Z",
+  "updated": "2026-10-26T02:56:20.497Z",
   "categories": {
     "ai": [
       {
-        "published": "2026-10-24",
-        "source": "PCMag",
-        "summary": "OpenAI says its frontier-model training runs no longer have live internet access; models instead use indexed and cached web content to practice browsing. The policy followed a September incident in which a research model reached the live internet through a DNS misconfiguration.",
-        "title": "OpenAI Is Now Keeping Its Frontier Models off the Internet During Training",
-        "url": "https://uk.pcmag.com/ai/168086/openai-is-now-keeping-its-frontier-models-off-the-internet-during-training",
+        "published": "2026-10-26",
+        "source": "The Register",
+        "summary": "China has approved DeepSeek and MiniMax to continue exporting certain AI technologies, despite recently proposing licensing restrictions covering large models, agents and computing clusters. Open-source-licensed technology is exempt from the restrictions, according to the report.",
+        "title": "After threatening AI export bans, China allows DeepSeek to keep selling",
+        "url": "https://www.theregister.com/ai-and-ml/2026/10/26/after-threatening-ai-export-bans-china-allows-deepseek-to-keep-selling/5305267",
         "category": "ai",
-        "image": ""
+        "image": "https://image.theregister.com/260439.jpg?imageId=260439&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
       },
       {
-        "published": "2026-10-24",
-        "source": "The Verge (via AI trending)",
-        "summary": "Block introduced Dessa, a speech-to-speech model reportedly trained from scratch on human conversation without text data. The company says it can run locally on high-end Mac hardware; the model is not yet publicly available.",
-        "title": "Block releases speech model Dessa",
-        "url": "https://news.assaynotes.com/en/hot",
+        "published": "2026-10-26",
+        "source": "Seoul Economic Daily",
+        "summary": "U.S. lawmakers and White House officials are reportedly urging AI executives to focus public messaging on safer products, amid political criticism of their warnings about catastrophic risks. The article also reports that the FTC sought information from OpenAI and Anthropic about security incidents involving AI agents.",
+        "title": "White House to AI Chiefs: Say Less, Build Safer Products",
+        "url": "https://en.sedaily.com/international/2026/10/26/white-house-to-ai-chiefs-say-less-build-safer-products",
         "category": "ai",
-        "image": "https://news.assaynotes.com/og/pages/hot.png?lang=en"
+        "image": "https://wimg.sedaily.com/news/cms/2026/10/26/rcv.YNA.20261013.PRU20261013178201009_P1.jpg"
       },
       {
-        "published": "2026-10-25",
-        "source": "Calcalist CTech",
-        "summary": "OpenAI says it used teams of AI agents to stress-test its research environment before resuming frontier training, finding software vulnerabilities and hardware side channels. It says it addressed the issues and now includes high-compute red-teaming in its safety process.",
-        "title": "OpenAI used AI agents to hack its own defenses before resuming model training",
-        "url": "https://www.calcalistech.com/ctechnews/article/mi58wfzh3",
+        "published": "2026-10-26",
+        "source": "AI Impact Hub",
+        "summary": "Virginia’s Executive Directive 6 calls for a statewide plan to prevent and respond to cyberattacks involving AI, creation of a Cyber Consortium, and regular briefings with AI companies, researchers and regulators. The directive was issued on October 23, according to the briefing.",
+        "title": "The Daily AI Briefing: 26 October 2026",
+        "url": "https://www.aiimpacthub.com/ai-news/2026-10-26",
         "category": "ai",
-        "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2025/02/02/ry5hfbTuyx/ry5hfbTuyx_0_242_3000_1689_0_large.jpg"
+        "image": "https://hub.aiimpacthub.com/hub/card/briefing/2026-10-26"
       },
       {
-        "published": "2026-10-25",
-        "source": "The Sequence",
-        "summary": "Legora raised $550 million in a Series E at an $8.8 billion valuation, according to the report. The legal AI company says it has passed $200 million in annual recurring revenue and is expanding internationally.",
-        "title": "The Sequence Radar - Issue #958: Last Week in AI: Cheap Intelligence, Expensive Ambitions",
-        "url": "https://thesequence.substack.com/p/the-sequence-radar-issue-958-last",
+        "published": "2026-10-26",
+        "source": "RTL Today",
+        "summary": "Anthropic says it will dedicate 5% of its shares to a new public-benefit fund, while its founders have pledged a large portion of their equity to charitable giving. The article examines how AI-company wealth could reshape philanthropy and raises questions about the fund’s structure and transparency.",
+        "title": "From Carnegie to Claude: AI wealth could reshape philanthropy",
+        "url": "https://today.rtl.lu/news/world/from-carnegie-to-claude-ai-wealth-could-reshape-philanthropy-1151356951",
         "category": "ai",
-        "image": ""
+        "image": "https://static-prod.rtl.lu/dims4/default/cebf656/2147483647/strip/true/crop/768x432+0+40/resize/1224x689!/quality/90/?url=https%3A%2F%2Frtl-luxembourg-new-production-web.s3.eu-central-1.amazonaws.com%2Fbrightspot%2F1f%2F58%2Fd1e22049748663c4caeb31568807%2Fahr0chm6ly9hznatyxbpy29yzs1wcm9klmfmcc5jb20vb2jqzwn0cy9hcgkvbwvkawfzp2lkpwexa2tjuzbuu2haq1dguxnwmghhvuvwrefragvlalpdu2gwtwrcadnbwfzxqxdbqmf3qjnhz2qlmkzkvzbvrdnkb2ngbfjxqulcquhczklpchbyrlfhszbjaur5qxnwz3h4qw1fvknrzdber1pzwm5fyun4medcefjgukz3te1tmufgmfzsstfjm0zyrndcz0zdtuzodkturmdurmrdqzfzz1rsnvpxvjlku1jawel6surxbdfayndwmufuvjfdd01krufsd2rirjbdbu1evwxjbuzfne5xvvlkrkzjuu5ddepcrvpztkg1mgzyuxzgru5ms0zgoextmghvvjfjvui0z1fwmwrsmwrerufrqmzirwzdz1vey1fweufuvmpsbghksvvjmupdazjcqwdhrhdoekrsa0jcz0fesgdbuuppnwvcrjlctfvnc1htwwhxmufxtjbba0lpvw9wz1jmvjfrmlhbdfhruthbqzbwu2visuxurvlky1jfmlnunxpbuvlczkelm0qlm0quanbn.jpeg"
+      },
+      {
+        "published": "2026-10-26",
+        "source": "The Hindu BusinessLine",
+        "summary": "Countries are trying to benefit from both U.S.- and China-led AI and technology blocs without alienating either side, as competition between the two powers intensifies. The report describes growing pressure on governments to choose partners for investment, manufacturing and supply chains.",
+        "title": "As US and China form AI blocs, countries increasingly torn between them",
+        "url": "https://www.thehindubusinessline.com/news/world/as-us-and-china-form-ai-blocs-countries-increasingly-torn-between-them/article71622633.ece",
+        "category": "ai",
+        "image": "https://bl-i.thgim.com/public/incoming/kvpdqp/article71622667.ece/alternates/LANDSCAPE_1200/IMG_iStock-2226370569_2_1_C4FJOUOJ.jpg"
       }
     ],
     "quantum": [
       {
-        "published": "2026-10-25",
-        "source": "Quantum Zeitgeist",
-        "summary": "Researchers at JIJ, Amazon and AWS Quantum Technologies reported a hybrid quantum-classical method for maximum independent-set problems, using Houdayer cluster updates to expand the set of candidate solutions from QuEra’s Aquila results. The article reports diversity amplification of up to 11,923, but these are research results rather than evidence of a practical quantum advantage.",
-        "title": "Researchers Amplify Solutions to Quantum Problems 24x",
-        "url": "https://quantumzeitgeist.com/quantum-hybrid-algorithms-independent-set-problem-expansion/",
+        "published": "2026-10-26",
+        "source": "ScienceDaily",
+        "summary": "Researchers demonstrated simultaneous control of five silicon spin qubits using a shared microwave line. Their calibration method kept fidelity above 99.99% with up to three qubits operating at once, and about 99.9% with all five active—a step toward scaling silicon-based quantum hardware.",
+        "title": "Scientists overcome a hidden obstacle to more powerful quantum computers",
+        "url": "http://www.sciencedaily.com/releases/2026/10/261024222024.htm",
         "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-amplify-solutions-to-quantum-problems-24x-1200x630.png"
+        "image": "http://www.sciencedaily.com/images/1920/futuristic-quantum-computer-system-glowing.webp"
       },
       {
         "published": "2026-10-25",
-        "source": "Quantum Zeitgeist",
-        "summary": "A proposed error-correction method uses ancilla stabilizer states and transversal circuits to tune the trade-off between circuit width and depth. Simulations reported reductions in width of up to 40% against Shor-based extraction at comparable performance; the results are not a hardware demonstration.",
-        "title": "New Quantum Gadgets Balance Speed & Size in Error Correction",
-        "url": "https://quantumzeitgeist.com/quantum-error-correction-ancilla-stabilizer-states-design/",
+        "source": "Lupa.cz",
+        "summary": "Researchers from Rutgers, IBM and collaborators used an IBM Heron processor to run repeated measurements, resets and control operations across as many as 100 qubits. The experiment demonstrated real-time feedback at scale, a technique relevant to future fault-tolerant systems, though it was not a complete quantum error-correction system.",
+        "title": "Anthropic navrhuje kvantové obvody, rekordní opravy kvantových chyb, korekce v reálném čase",
+        "url": "https://www.lupa.cz/clanky/anthropic-navrhuje-kvantove-obvody-rekordni-opravy-kvantovych-chyb-korekce-v-realnem-case/",
         "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/new-quantum-gadgets-balance-speed-size-in-error-correction-1200x630.png"
+        "image": "https://i.iinfo.cz/images/503/quantinuum_watermark-lupa-cz.png"
+      },
+      {
+        "published": "2026-10-26",
+        "source": "Ground News",
+        "summary": "A report on work by Phasecraft and Virginia Tech says AI agents cut quantum compilation costs by as much as 73% against published methods, with solutions verified. The result points to a potential way to reduce the resources required to run quantum algorithms.",
+        "title": "Phasecraft And Virginia Tech Researchers Cut Quantum Compilation Costs By 73% With AI",
+        "url": "https://ground.news/article/phasecraft-and-virginia-tech-researchers-cut-quantum-compilation-costs-by-73-with-ai",
+        "category": "quantum",
+        "image": ""
       },
       {
         "published": "2026-10-25",
-        "source": "Quantum Zeitgeist",
-        "summary": "Researchers proposed a high-rate-code architecture that performs universal fault-tolerant logic in parallel with error correction using gate-injection techniques. The work claims up to 12-fold fewer resource states than prior approaches, but the report describes an architecture, not an experimental system.",
-        "title": "Researchers Propose Architecture for Parallel Universal Logic",
-        "url": "https://quantumzeitgeist.com/quantum-architecture-parallel-universal-fault-tolerant-logic/",
+        "source": "TipRanks",
+        "summary": "Google announced a $150,000 Kaggle competition challenging researchers to use AI to reduce the size and gate count of circuits for fusion, optimization and chemistry problems. The company says its Gemini models have already found more efficient designs in the challenge’s categories.",
+        "title": "Google (GOOGL) Launches $150K AI Contest to Cut Quantum Computing Costs",
+        "url": "https://www.tipranks.com/news/google-googl-launches-150k-ai-contest-to-cut-quantum-computing-costs",
         "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-propose-architecture-for-parallel-universal-logic-1200x630.png"
+        "image": ""
       },
       {
-        "published": "2026-10-25",
-        "source": "Quantum Zeitgeist",
-        "summary": "A co-designed architecture and compiler for lattice-surgery routing reportedly reduced space-time volume by 55.6% across application benchmarks and compiled programs 75.5 times faster than the compared configuration. These are benchmarked compiler results, not a measured speedup on quantum hardware.",
-        "title": "Researchers Cut Quantum Compilation Time 75.5x With New Router",
-        "url": "https://quantumzeitgeist.com/quantum-compilation-lattice-surgery-router-optimization/",
+        "published": "2026-10-26",
+        "source": "NewsBreak",
+        "summary": "A report describes a theoretical proposal for a photon-based “time qubit,” drawing on an earlier experiment. The underlying measurements may meet some prerequisites, but the report notes that actual reversal of time evolution and complete control of such a qubit have not been demonstrated.",
+        "title": "Scientists may have built a quantum device that runs backward in time",
+        "url": "https://www.newsbreak.com/geekspin-513792/4966812661947-scientists-may-have-built-a-quantum-device-that-runs-backward-in-time",
         "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-cut-quantum-compilation-time-755x-with-new-router-1200x630.png"
-      },
-      {
-        "published": "2026-10-25",
-        "source": "Quantum Zeitgeist",
-        "summary": "A theoretical analysis of the Quantum Blahut–Arimoto algorithm reports exponential convergence under specified conditions for injective degradable quantum channels, including examined amplitude-damping cases. The result concerns a method for estimating channel capacity, not a demonstrated hardware capability.",
-        "title": "Researchers Bound Quantum Algorithm Convergence With Channel Property",
-        "url": "https://quantumzeitgeist.com/quantum-blahut-arimoto-algorithm-convergence-rate-analysis/",
-        "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-bound-quantum-algorithm-convergence-with-channel-property-1200x630.png"
-      },
-      {
-        "published": "2026-10-25",
-        "source": "Quantum Zeitgeist",
-        "summary": "Researchers reported shorter triorthogonal error-correcting codes for qudits and said the constructions can reduce qutrit magic-state distillation costs by up to an order of magnitude under high-noise conditions. The findings are theoretical code-design results; the article cites the associated preprint.",
-        "title": "Researchers Build Shorter Quantum Error Correction Codes",
-        "url": "https://quantumzeitgeist.com/quantum-error-correction-triorthogonal-codes-doubling-construction/",
-        "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-build-shorter-quantum-error-correction-codes-1200x630.png"
+        "image": "https://img.particlenews.com/img/id/0AXTwk_1GRfvJKO00"
       }
     ]
   }

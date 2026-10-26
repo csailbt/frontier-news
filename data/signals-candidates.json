@@ -1,0 +1,44 @@
+{
+  "queue": "weak-signals-candidates",
+  "review_status": "unreviewed",
+  "collected": "2026-10-26T03:00:40.123Z",
+  "note": "Automated candidate collection. Not reviewed under this publication's evidence standard. Promote entries to the reviewed radar only through the website's curation process.",
+  "collection_health": {
+    "verticals_ok": 1,
+    "verticals_failed": 4,
+    "failures": [
+      "Error: HTTP 429: {\"error\":{\"message\":\"Request rate limit exceeded, please try again later.\",\"type\":\"request_rate_limit_exceeded\",\"code\":429}}",
+      "Error: HTTP 429: {\"error\":{\"message\":\"Request rate limit exceeded, please try again later.\",\"type\":\"request_rate_limit_exceeded\",\"code\":429}}",
+      "Error: HTTP 429: {\"error\":{\"message\":\"Request rate limit exceeded, please try again later.\",\"type\":\"request_rate_limit_exceeded\",\"code\":429}}",
+      "Error: HTTP 429: {\"error\":{\"message\":\"Request rate limit exceeded, please try again later.\",\"type\":\"request_rate_limit_exceeded\",\"code\":429}}"
+    ]
+  },
+  "items": [
+    {
+      "company": "Applied Materials",
+      "comparator": null,
+      "ladder_tier_guess": "competitive-advantage",
+      "provenance": "vendor-reported",
+      "published": "2026-10-14",
+      "quantitative_outcome": "“enabling up to 35x faster chamber simulations” using NVIDIA Omniverse and CUDA-X libraries, including cuDSS, cuEST and PhysicsNeMo, across materials discovery, process development and fab optimization. The release does not state a specific measured baseline or test conditions.",
+      "signal": "Applied Materials’ use of NVIDIA’s accelerated-computing and AI stack for chamber simulations is a weak signal of a potentially difficult-to-copy process-development advantage; the reported speedup is vendor-reported and its comparator is unspecified.",
+      "source": "NVIDIA press release",
+      "technology_class": "ai",
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-and-Semiconductor-Leaders-Advance-AI-Across-Chip-Design-and-Manufacturing-for-AI-Defined-Fabs/default.aspx",
+      "vertical": "semiconductor materials and manufacturing"
+    },
+    {
+      "company": "3M",
+      "comparator": null,
+      "ladder_tier_guess": "competitive-advantage",
+      "provenance": "press-reported",
+      "published": "2026-10-22",
+      "quantitative_outcome": "“none stated” for an AI- or quantum-tool operating benefit. The report says 3M doubled expanded-beam optical ferrule manufacturing capacity to a little over 10 million ferrules per year, but does not attribute this to AI or quantum tools.",
+      "signal": "The AWS and Genius Electronic Optical collaboration is a distinctive manufacturing/R&D partnership in an AI-data-center materials and components supply chain, but the article provides no measured AI/quantum outcome or evidence of proprietary data access.",
+      "source": "Manufacturing Dive",
+      "technology_class": null,
+      "url": "https://www.manufacturingdive.com/news/3m-amazon-gseo-expanded-beam-optical-fairmont-plant-closure-q3-2026/833615/",
+      "vertical": "specialty materials / optical interconnects"
+    }
+  ]
+}
