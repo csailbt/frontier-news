@@ -1,98 +1,107 @@
 {
-  "updated": "2026-10-26T15:10:02.631Z",
+  "updated": "2026-10-27T13:48:03.625Z",
   "categories": {
     "ai": [
       {
-        "published": "2026-10-26",
-        "source": "Associated Press",
-        "summary": "Anthropic publicly filed for an IPO, moving toward a potential November Nasdaq debut under the ticker ANT. Its filing disclosed rapid revenue growth alongside steep losses and detailed risks from developing and deploying advanced AI.",
-        "title": "Artificial intelligence giant Anthropic files papers to sell shares to the public for the first time",
-        "url": "https://apnews.com/article/ca2f4c282bef3201a392e59e3df2300c",
+        "published": "2026-10-27",
+        "source": "The Associated Press",
+        "summary": "Anthropic has filed to go public, disclosing rapid revenue growth alongside substantial losses and risks tied to advanced AI. The filing puts the company’s finances, governance and stated AI risks in sharper view ahead of a potential major IPO.",
+        "title": "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI",
+        "url": "https://www.inquirer.com/wires/ap/ap-top-technology-news-254-am-edt-20261027.html",
         "category": "ai",
         "image": ""
       },
       {
-        "published": "2026-10-26",
-        "source": "Reuters",
-        "summary": "Anthropic’s IPO filing reported about $16.3 billion in first-half 2026 revenue and an $80.7 billion net loss, much of it tied to the valuation of convertible bonds. The prospectus also underscored the substantial infrastructure costs and risks facing frontier AI developers.",
-        "title": "Anthropic's IPO filing shows explosive growth, risks and staggering costs",
-        "url": "https://www.fidelity.com/news/article/company-news/202610260905RTRSNEWSCOMBINED_KCN3W61IX-OUSBS_1",
+        "published": "2026-10-27",
+        "source": "The Nation",
+        "summary": "Meta announced a financing plan of up to $95 billion to support its AI infrastructure expansion, combining an initial stock offering with a planned later share-sale program. The company says proceeds will support general corporate purposes, including computing capacity and data centers.",
+        "title": "Meta unveils $95B financing plan to fund AI expansion",
+        "url": "https://www.nation.com.pk/27-Oct-2026/meta-unveils-dollar-95b-financing-plan-fund-ai-expansion",
         "category": "ai",
-        "image": ""
+        "image": "https://www.nation.com.pk/digital_images/large/2026-10-27/meta-unveils-dollar-95b-financing-plan-fund-ai-expansion-1793077923-5916.png"
       },
       {
-        "published": "2026-10-26",
-        "source": "CNBC",
-        "summary": "Elon Musk said SpaceX closed a $40 billion debt financing deal, with the funds intended primarily to pay for GPUs supporting its AI ambitions. The financing is expected to arrive in the first half of 2027, according to the report.",
-        "title": "The Week Ahead in AI: SpaceX Closes $40B AI Chip Debt Deal, Softbank $50B Malaysia Tech Investment, Plus Upcoming Alphabet, Microsoft & Amazon Earnings",
-        "url": "https://theaiinsider.tech/2026/10/26/the-week-ahead-in-ai-spacex-closes-40b-ai-chip-debt-deal-study-finds-ai-partisan-leanings-connectwise-breach-plus-upcoming-alphabet-microsoft-amazon-earnings/",
+        "published": "2026-10-27",
+        "source": "The Associated Press",
+        "summary": "Microsoft is offering voluntary buyouts to about 60,000 employees—roughly a quarter of its global workforce—as it looks to manage costs while investing heavily in AI infrastructure. Eligible workers are in the U.S., Canada, India and the U.K.",
+        "title": "Microsoft offers a quarter of its global workforce voluntary buyouts as AI spending accelerates",
+        "url": "https://www.telegraphherald.com/ap/business/article_251457a6-06fe-5006-88ff-ff6f6566a102.html",
         "category": "ai",
-        "image": "https://theaiinsider.tech/wp-content/uploads/2025/06/AI-Insider-Week-Ahead-1.png"
+        "image": "https://bloximages.newyork1.vip.townnews.com/telegraphherald.com/content/tncms/assets/v3/editorial/8/8e/88ea7aca-fdba-5000-8120-3755220d970d/6adbc534031b5.image.jpg?crop=1763%2C926%2C0%2C124&amp;resize=1200%2C630&amp;order=crop%2Cresize"
       },
       {
-        "published": "2026-10-26",
-        "source": "Associated Press",
-        "summary": "AI firms including Anthropic, Meta, Google, Amazon and Microsoft are consulting religious scholars and faith leaders as they consider how to incorporate moral reasoning into AI systems. Scholars cautioned that reducing religious traditions to simple ethical rules could misrepresent their differences.",
-        "title": "AI companies turn to religious scholars for help with moral reasoning",
-        "url": "https://apnews.com/",
+        "published": "2026-10-27",
+        "source": "Nextgov/FCW",
+        "summary": "A proposal from Americans for Responsible Innovation would require major AI developers to report quarterly on how they use AI to build new models. It would also require notice within four business days of significant research changes, such as automating a research cycle; this is a proposal, not an enacted rule.",
+        "title": "Policy proposal would require firms to disclose how they use AI to develop new models",
+        "url": "https://www.nextgov.com/artificial-intelligence/2026/10/policy-proposal-would-require-firms-disclose-how-they-use-ai-develop-new-models/416812/",
         "category": "ai",
-        "image": ""
+        "image": "https://cdn.nextgov.com/media/img/cd/2026/10/26/GettyImages_2297779263/open-graph.jpg"
+      },
+      {
+        "published": "2026-10-27",
+        "source": "Reuters, via NWAonline",
+        "summary": "SpaceX secured about $40 billion in financing for AI chips and data-center equipment through an arrangement in which Apollo buys hardware and leases it back. The deal underscores the scale and increasingly complex financing of compute infrastructure in the AI race.",
+        "title": "SpaceX, Meta aim to secure AI funds",
+        "url": "https://www.nwaonline.com/news/2026/oct/27/spacex-meta-aim-to-secure-ai-funds/",
+        "category": "ai",
+        "image": "https://wehco.media.clients.ellingtoncms.com/static-4/teaser_images/www.nwaonline.com_default.jpg"
       }
     ],
     "quantum": [
       {
-        "published": "2026-10-26",
-        "source": "Quantum Zeitgeist",
-        "summary": "A University of Colorado Boulder team reported that CoDecoder, a neural-network front end for existing quantum error decoders, improved decoding speed by as much as 124× in tested codes while maintaining or improving accuracy. The result is from research and benchmarking, not a hardware demonstration.",
-        "title": "Colorado Boulder Team Speeds Quantum Decoding Up To 124x",
-        "url": "https://quantumzeitgeist.com/quantum-decoding-neural-frontend-speed-enhancement/",
+        "published": "2026-10-27",
+        "source": "IBM Quantum",
+        "summary": "IBM reported connecting two superconducting processors with four meter-scale links, transferring quantum states at an average 99% fidelity. The demonstration points to a modular route for scaling processors, though the reported distant two-qubit gate fidelity averaged 94.75%.",
+        "title": "Modular quantum computing takes shape with l-couplers",
+        "url": "https://www.ibm.com/quantum/blog/connecting-quantum-processors-with-l-couplers",
         "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/colorado-boulder-team-speeds-quantum-decoding-up-to-124x-1200x630.png"
+        "image": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/Entangling_59b0238511.png"
       },
       {
-        "published": "2026-10-26",
-        "source": "GlobeNewswire",
-        "summary": "Quantum X Labs said it has begun initial experiments on the Arbel superconducting processor to connect device characterization, circuit execution and error decoding. The company explicitly noted that this initial stage is not a demonstration of real-time error correction or fault-tolerant computing.",
-        "title": "Quantum X Labs Launches End-to-End Quantum Error Correction Program at the Israeli Quantum Computing Center",
-        "url": "https://www.globenewswire.com/news-release/2026/10/26/3388112/0/en/quantum-x-labs-launches-end-to-end-quantum-error-correction-program-at-the-israeli-quantum-computing-center-operated-by-quantum-machines.html",
-        "category": "quantum",
-        "image": "https://ml.globenewswire.com/Resource/Download/a0abc50a-ff3e-420e-9e21-807bbc6417cd"
-      },
-      {
-        "published": "2026-10-26",
+        "published": "2026-10-27",
         "source": "The Quantum Insider",
-        "summary": "Quantum Art presented an algorithmic approach that uses known wave physics to simplify large-scale wave-propagation simulations, with proposed applications including seismic modeling and telecommunications. Its estimates of workloads potentially addressable with roughly 100 qubits are projections; they depend on future hardware capable of running the method.",
-        "title": "Quantum Art Research Outlines More Efficient Quantum Approach to Wave Modeling",
-        "url": "https://thequantuminsider.com/2026/10/26/quantum-art-research-outlines-more-efficient-quantum-approach-to-wave-modeling/",
+        "summary": "Coverage of IBM’s inter-chip experiment highlights its use of four superconducting cables to link two processors, enabling state transfer and operations between chips. It notes that the approach remains a prototype and that inter-chip gate performance and engineering need further improvement for larger systems.",
+        "title": "IBM Connects Two 120-Qubit Processors With 99% State-Transfer Fidelity",
+        "url": "https://thequantuminsider.com/2026/10/27/ibm-connects-two-120-qubit-processors-with-99-state-transfer-fidelity/",
         "category": "quantum",
-        "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Quantum-Art-research-showcase.png"
+        "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-3.58.24-AM.png"
       },
       {
-        "published": "2026-10-26",
+        "published": "2026-10-27",
+        "source": "Business Wire",
+        "summary": "Nord Quantique announced a US$10 million extension to its DARPA Quantum Benchmarking Initiative Stage B agreement. The company is pursuing bosonic error correction intended to reduce hardware overhead, but the announcement describes continued development, not a completed fault-tolerant system.",
+        "title": "Nord Quantique Secures US$10 Million DARPA Stage B Extension",
+        "url": "https://www.businesswire.com/news/home/20261027077727/en/Nord-Quantique-Secures-US$10-Million-DARPA-Stage-B-Extension",
+        "category": "quantum",
+        "image": ""
+      },
+      {
+        "published": "2026-10-27",
         "source": "Quantum Zeitgeist",
-        "summary": "Researchers described a symmetry-based framework for checking variational quantum algorithms, reporting an average fault-detection rate of 89% across their tests. The checks aim to flag circuit faults and implausible results without requiring a known correct answer or a classical simulation.",
-        "title": "Researchers Propose Tests For Quantum Algorithm Correctness",
-        "url": "https://quantumzeitgeist.com/variational-quantum-algorithms-correctness-testing-methods-proposed/",
+        "summary": "Researchers reported sub-1% logical memory error rates on IBM’s ibm_phoenix processor and Bell-state fidelities above 93% using lattice surgery. The results also included logical teleportation, with reported fidelities varying from 78% to 93%.",
+        "title": "Researchers Entangle Logical Qubits With 93% Fidelity",
+        "url": "https://quantumzeitgeist.com/superconducting-qubits-high-fidelity-logical-qubit-operations/",
         "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-propose-tests-for-quantum-algorithm-correctness-1-1200x630.jpg"
+        "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-entangle-logical-qubits-with-93-fidelity-1200x630.png"
       },
       {
         "published": "2026-10-26",
-        "source": "TipRanks",
-        "summary": "The UK National Quantum Computing Centre reported progress in its £30 million testbed program, which brought together seven suppliers and prototypes based on five technologies for evaluation outside developers’ labs. The report also noted that Rigetti had expanded its system from 24 to 36 qubits and integrated Riverlane technology for error-correction experiments.",
-        "title": "Quantum Computing News: Rigetti Hits 36 Qubits as Arqit Expands in Defense",
-        "url": "https://www.tipranks.com/news/quantum-computing-news-rigetti-hits-36-qubits-as-arqit-expands-in-defense",
+        "source": "Business Wire",
+        "summary": "Intel announced a definitive agreement to acquire quantum-software company Classiq, a move toward combining quantum hardware and software capabilities. The announcement is an industry development; it does not itself represent a new quantum-computing performance result.",
+        "title": "Intel to Acquire Classiq to Create a Full-stack Quantum Computing Platform",
+        "url": "https://www.businesswire.com/news/home/20261026100882/en/",
         "category": "quantum",
         "image": ""
       },
       {
         "published": "2026-10-26",
-        "source": "NextPlatform",
-        "summary": "A report on Google and Nvidia work describes Google’s hardware demonstration of magic-state cultivation on its Willow processor, which reportedly reduced errors 40-fold and achieved 99.99% logical fidelity for the cultivated T-states. Nvidia separately simulated the technique on a 104-qubit model, reporting substantially lower qubit requirements than alternative methods.",
-        "title": "Nvidia Simulates Its Way Into Google's Magic State Cultivation Party",
-        "url": "https://www.nextplatform.com/compute/2026/10/26/nvidia-simulates-its-way-into-googles-magic-state-cultivation-party/5305405",
+        "source": "RIKEN (reported by Science Springs)",
+        "summary": "A research team demonstrated high-fidelity parallel control in a five-qubit silicon spin-qubit array using a shared microwave line. Pairwise calibration compensated for errors linked to AC Stark shifts; fidelity remained around 99.9% when all five qubits operated simultaneously.",
+        "title": "A path toward larger quantum processors",
+        "url": "https://sciencesprings.wordpress.com/2026/10/26/from-rikenjp-quantum-science-and-technology-a-path-toward-larger-quantum-processors/",
         "category": "quantum",
-        "image": "https://image.nextplatform.com/5305414.jpg?imageId=5305414&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        "image": "https://sciencesprings.wordpress.com/wp-content/uploads/2015/12/riken-bloc.jpg"
       }
     ]
   }
