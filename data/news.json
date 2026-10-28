@@ -1,107 +1,107 @@
 {
-  "updated": "2026-10-27T13:48:03.625Z",
+  "updated": "2026-10-28T13:54:02.517Z",
   "categories": {
     "ai": [
       {
-        "published": "2026-10-27",
-        "source": "The Associated Press",
-        "summary": "Anthropic has filed to go public, disclosing rapid revenue growth alongside substantial losses and risks tied to advanced AI. The filing puts the company’s finances, governance and stated AI risks in sharper view ahead of a potential major IPO.",
-        "title": "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI",
-        "url": "https://www.inquirer.com/wires/ap/ap-top-technology-news-254-am-edt-20261027.html",
+        "published": "2026-10-28",
+        "source": "Reuters",
+        "summary": "OpenAI reportedly plans to buy Google’s Tensor Processing Units, according to a report cited by Reuters. The potential purchase would diversify OpenAI’s computing supply beyond Nvidia, though financial and other deal details have not been disclosed.",
+        "title": "OpenAI plans to buy Google’s AI chips, The Information reports",
+        "url": "https://www.reuters.com/business/openai-plans-buy-googles-ai-chips-information-reports-2026-10-28/",
         "category": "ai",
         "image": ""
       },
       {
-        "published": "2026-10-27",
-        "source": "The Nation",
-        "summary": "Meta announced a financing plan of up to $95 billion to support its AI infrastructure expansion, combining an initial stock offering with a planned later share-sale program. The company says proceeds will support general corporate purposes, including computing capacity and data centers.",
-        "title": "Meta unveils $95B financing plan to fund AI expansion",
-        "url": "https://www.nation.com.pk/27-Oct-2026/meta-unveils-dollar-95b-financing-plan-fund-ai-expansion",
+        "published": "2026-10-28",
+        "source": "Reuters (via The Star)",
+        "summary": "Oracle is broadening its AI chip offerings: it plans to make Google TPUs available through its cloud in 2027 and add chips from Cerebras and SambaNova, alongside an expanded Nvidia commitment. The move gives cloud customers more options for AI workloads, particularly inference.",
+        "title": "Oracle expands chip supply deal with Nvidia, adds Google and Cerebras offerings",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/10/28/oracle-expands-chip-supply-deal-with-nvidia-adds-google-and-cerebras-offerings",
         "category": "ai",
-        "image": "https://www.nation.com.pk/digital_images/large/2026-10-27/meta-unveils-dollar-95b-financing-plan-fund-ai-expansion-1793077923-5916.png"
+        "image": "https://apicms.thestar.com.my/uploads/images/2026/10/28/4183649.jpg"
       },
       {
         "published": "2026-10-27",
-        "source": "The Associated Press",
-        "summary": "Microsoft is offering voluntary buyouts to about 60,000 employees—roughly a quarter of its global workforce—as it looks to manage costs while investing heavily in AI infrastructure. Eligible workers are in the U.S., Canada, India and the U.K.",
-        "title": "Microsoft offers a quarter of its global workforce voluntary buyouts as AI spending accelerates",
-        "url": "https://www.telegraphherald.com/ap/business/article_251457a6-06fe-5006-88ff-ff6f6566a102.html",
+        "source": "New Scientist",
+        "summary": "OpenAI says its AI systems produced results in mathematics, computer science and physics, including an algorithm it says challenges the Exponential Time Hypothesis. The claims are consequential but remain subject to scrutiny and independent verification by researchers.",
+        "title": "AI refutes 30-year-old mathematical assumption in computer science",
+        "url": "https://www.newscientist.com/article/2596045-ai-refutes-30-year-old-mathematical-assumption-in-computer-science/",
         "category": "ai",
-        "image": "https://bloximages.newyork1.vip.townnews.com/telegraphherald.com/content/tncms/assets/v3/editorial/8/8e/88ea7aca-fdba-5000-8120-3755220d970d/6adbc534031b5.image.jpg?crop=1763%2C926%2C0%2C124&amp;resize=1200%2C630&amp;order=crop%2Cresize"
+        "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_318369568.jpg"
       },
       {
         "published": "2026-10-27",
-        "source": "Nextgov/FCW",
-        "summary": "A proposal from Americans for Responsible Innovation would require major AI developers to report quarterly on how they use AI to build new models. It would also require notice within four business days of significant research changes, such as automating a research cycle; this is a proposal, not an enacted rule.",
-        "title": "Policy proposal would require firms to disclose how they use AI to develop new models",
-        "url": "https://www.nextgov.com/artificial-intelligence/2026/10/policy-proposal-would-require-firms-disclose-how-they-use-ai-develop-new-models/416812/",
+        "source": "The Verge",
+        "summary": "OpenAI announced three claimed breakthroughs spanning mathematics, computer science and physics, but its release of supporting material varies by result. The company has released the mathematical output, while it says researchers will help explain the computer-science finding and physics material is not yet available.",
+        "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
         "category": "ai",
-        "image": "https://cdn.nextgov.com/media/img/cd/2026/10/26/GettyImages_2297779263/open-graph.jpg"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_7.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
       },
       {
-        "published": "2026-10-27",
-        "source": "Reuters, via NWAonline",
-        "summary": "SpaceX secured about $40 billion in financing for AI chips and data-center equipment through an arrangement in which Apollo buys hardware and leases it back. The deal underscores the scale and increasingly complex financing of compute infrastructure in the AI race.",
-        "title": "SpaceX, Meta aim to secure AI funds",
-        "url": "https://www.nwaonline.com/news/2026/oct/27/spacex-meta-aim-to-secure-ai-funds/",
+        "published": "2026-10-28",
+        "source": "TNW",
+        "summary": "Anthropic says Claude identified 493 flaws across 25 open-source projects in a review effort. The finding highlights both the potential of AI tools to assist security audits and the need for maintainers to validate and address reported issues.",
+        "title": "Anthropic set Claude on 25 open-source projects and it found 493 flaws",
+        "url": "https://thenextweb.com/?p=563156",
         "category": "ai",
-        "image": "https://wehco.media.clients.ellingtoncms.com/static-4/teaser_images/www.nwaonline.com_default.jpg"
+        "image": "https://media.thenextweb.com/2026/10/andrey-khusid-miro-ceo-wave-by-vento-stage-headset-600.avif"
       }
     ],
     "quantum": [
       {
-        "published": "2026-10-27",
-        "source": "IBM Quantum",
-        "summary": "IBM reported connecting two superconducting processors with four meter-scale links, transferring quantum states at an average 99% fidelity. The demonstration points to a modular route for scaling processors, though the reported distant two-qubit gate fidelity averaged 94.75%.",
-        "title": "Modular quantum computing takes shape with l-couplers",
-        "url": "https://www.ibm.com/quantum/blog/connecting-quantum-processors-with-l-couplers",
-        "category": "quantum",
-        "image": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/Entangling_59b0238511.png"
-      },
-      {
-        "published": "2026-10-27",
+        "published": "2026-10-28",
         "source": "The Quantum Insider",
-        "summary": "Coverage of IBM’s inter-chip experiment highlights its use of four superconducting cables to link two processors, enabling state transfer and operations between chips. It notes that the approach remains a prototype and that inter-chip gate performance and engineering need further improvement for larger systems.",
+        "summary": "IBM connected two 120-qubit processors using superconducting links, reporting 99% average fidelity for transferring quantum states between chips. The team also demonstrated remote gates and entanglement; the work is still at the pre-peer-review stage.",
         "title": "IBM Connects Two 120-Qubit Processors With 99% State-Transfer Fidelity",
         "url": "https://thequantuminsider.com/2026/10/27/ibm-connects-two-120-qubit-processors-with-99-state-transfer-fidelity/",
         "category": "quantum",
         "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-3.58.24-AM.png"
       },
       {
-        "published": "2026-10-27",
-        "source": "Business Wire",
-        "summary": "Nord Quantique announced a US$10 million extension to its DARPA Quantum Benchmarking Initiative Stage B agreement. The company is pursuing bosonic error correction intended to reduce hardware overhead, but the announcement describes continued development, not a completed fault-tolerant system.",
-        "title": "Nord Quantique Secures US$10 Million DARPA Stage B Extension",
-        "url": "https://www.businesswire.com/news/home/20261027077727/en/Nord-Quantique-Secures-US$10-Million-DARPA-Stage-B-Extension",
+        "published": "2026-10-28",
+        "source": "eWeek",
+        "summary": "Quantinuum reported 99.9995% logical fidelity on its Helios system, describing roughly five lost protected-information events per million error-correction rounds. The result concerns logical memory performance, not the accuracy of arbitrary full computations.",
+        "title": "Quantinuum Hits 99.9995% Logical Fidelity on Helios",
+        "url": "https://www.eweek.com/news/quantinuum-helios-99-9995-logical-fidelity/",
         "category": "quantum",
         "image": ""
       },
       {
-        "published": "2026-10-27",
+        "published": "2026-10-28",
+        "source": "The Quantum Insider",
+        "summary": "Intel’s planned Classiq acquisition would pair Intel’s quantum hardware and manufacturing work with Classiq’s software for designing quantum algorithms. The reported $2.3 billion price has not been officially disclosed by Intel; the deal is expected to close in the first half of 2027, subject to approvals.",
+        "title": "Intel’s Classiq Deal May Signal a Pivot From Quiet Quantum Effort To Active Commercialization",
+        "url": "https://thequantuminsider.com/2026/10/28/intels-classiq-deal-may-signal-a-pivot-from-quiet-quantum-effort-to-active-commercialization/",
+        "category": "quantum",
+        "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Quantum-research-meets-commercial-potential-1.png"
+      },
+      {
+        "published": "2026-10-28",
+        "source": "Gainesville Sun / EIN Presswire",
+        "summary": "Quantum Elements and Qarakal Quantum announced a $2.4 million BIRD Foundation-backed project to develop a quantum simulation platform for catalyst research. The work will combine superconducting hardware with software and AI-based tools for co-design and error handling.",
+        "title": "Quantum Elements and Qarakal Quantum Receive BIRD Foundation Grant for Quantum Computing Innovation with a $2.4M Budget",
+        "url": "https://www.gainesville.com/press-release/story/187271/quantum-elements-and-qarakal-quantum-receive-bird-foundation-grant-for-quantum-computing-innovation-with-a-2-4m-budget/",
+        "category": "quantum",
+        "image": ""
+      },
+      {
+        "published": "2026-10-28",
         "source": "Quantum Zeitgeist",
-        "summary": "Researchers reported sub-1% logical memory error rates on IBM’s ibm_phoenix processor and Bell-state fidelities above 93% using lattice surgery. The results also included logical teleportation, with reported fidelities varying from 78% to 93%.",
-        "title": "Researchers Entangle Logical Qubits With 93% Fidelity",
-        "url": "https://quantumzeitgeist.com/superconducting-qubits-high-fidelity-logical-qubit-operations/",
-        "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-entangle-logical-qubits-with-93-fidelity-1200x630.png"
-      },
-      {
-        "published": "2026-10-26",
-        "source": "Business Wire",
-        "summary": "Intel announced a definitive agreement to acquire quantum-software company Classiq, a move toward combining quantum hardware and software capabilities. The announcement is an industry development; it does not itself represent a new quantum-computing performance result.",
-        "title": "Intel to Acquire Classiq to Create a Full-stack Quantum Computing Platform",
-        "url": "https://www.businesswire.com/news/home/20261026100882/en/",
+        "summary": "A report highlighted quantum-error-correction researcher Barbara Terhal’s appointment as QuSoft’s 2026 Turing Chair and a workshop in Amsterdam running October 28–30. Terhal’s work focuses on the boundary between quantum hardware, software, and error-correcting codes.",
+        "title": "Barbara Terhal’s Quantum Return To Amsterdam As QuSoft’s 2026 Turing Chair",
+        "url": "https://quantumzeitgeist.com/qusoft-barbara-terhals-quantum-return-amsterdam/",
         "category": "quantum",
         "image": ""
       },
       {
-        "published": "2026-10-26",
-        "source": "RIKEN (reported by Science Springs)",
-        "summary": "A research team demonstrated high-fidelity parallel control in a five-qubit silicon spin-qubit array using a shared microwave line. Pairwise calibration compensated for errors linked to AC Stark shifts; fidelity remained around 99.9% when all five qubits operated simultaneously.",
-        "title": "A path toward larger quantum processors",
-        "url": "https://sciencesprings.wordpress.com/2026/10/26/from-rikenjp-quantum-science-and-technology-a-path-toward-larger-quantum-processors/",
+        "published": "2026-10-28",
+        "source": "The Quantum Insider",
+        "summary": "Intel’s proposed purchase of Classiq is a significant industry move toward combining quantum-computing hardware and software under one company. The companies say Classiq’s existing software integrations with other hardware platforms are expected to continue after the acquisition.",
+        "title": "Intel to Acquire Classiq to Build Full-Stack Quantum Computing Platform",
+        "url": "https://www.proactiveinvestors.com/companies/news/1100766/intel-to-acquire-classiq-to-build-full-stack-quantum-computing-platform-1100766.html",
         "category": "quantum",
-        "image": "https://sciencesprings.wordpress.com/wp-content/uploads/2015/12/riken-bloc.jpg"
+        "image": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI2XzEwXC9zaHV0dGVyc3RvY2stMTA2MDkzNDUyMl82YWUwYjMxOTMzNzM4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
       }
     ]
   }
