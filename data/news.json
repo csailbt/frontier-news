@@ -21,29 +21,29 @@
         "image": "https://www.engadget.com/img/gallery/googles-gemini-4-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/l-intro-1793266804.jpg"
       },
       {
-        "published": "2026-10-29",
-        "source": "The Washington Post",
+        "published": "2026-10-28",
+        "source": "Associated Press / The Washington Post",
         "summary": "New York enacted a law restricting certain chatbot behaviors toward minors, including deceptive claims of being human and content promoting self-harm. The measure is part of a broader push by states to regulate AI services.",
         "title": "New York enacts ban on 'unsafe' chatbot behavior with kids as states push AI regulation boundaries",
-        "url": "https://www.washingtonpost.com/technology/innovations/?page=1",
+        "url": "https://www.washingtonpost.com/business/2026/10/28/chatbots-ai-new-york-legislation-bans-children/0ba9af8c-d31b-11f1-9931-2a41b76fc976_story.html",
         "category": "ai",
         "image": ""
       },
       {
-        "published": "2026-10-29",
+        "published": "2026-10-28",
         "source": "The Next Web",
         "summary": "OpenAI is reportedly planning to buy Google’s TPU chips as well as use Nvidia hardware, a development that would diversify its computing infrastructure. The available report does not provide further confirmed deal terms.",
         "title": "OpenAI reportedly plans to buy Google’s TPU chips alongside Nvidia",
-        "url": "https://thenextweb.com/?s=eloqua&fq=&sort=date&order=asc",
+        "url": "https://thenextweb.com/news/openai-google-tpu-chips",
         "category": "ai",
-        "image": "https://media.thenextweb.com/2026/10/ravical-founders-office-600.avif"
+        "image": ""
       },
       {
         "published": "2026-10-29",
         "source": "The Latent Daily",
         "summary": "Microsoft reported $33.2 billion in Azure revenue and about $10 billion in revenue from OpenAI, as part of a record $92.3 billion quarter. The figures underscore the scale of the cloud provider’s AI-related business.",
         "title": "Microsoft reports Azure at $33.2B and $10B in OpenAI revenue",
-        "url": "https://www.thelatentdaily.com/category/big-tech/",
+        "url": "https://thelatentdaily.com/news/microsoft-azure-33-billion-first-dollar-figure-openai-10-billion/",
         "category": "ai",
         "image": "https://thelatentdaily.com/og-default.png"
       }
@@ -51,10 +51,10 @@
     "quantum": [
       {
         "published": "2026-10-29",
-        "source": "The Quantum Insider",
+        "source": "NAND Research",
         "summary": "IBM researchers linked two 120-qubit processors with superconducting interconnects and reported 99% average fidelity for relay-based state transfer. Cross-chip CZ gates reached 94.75% average fidelity, highlighting progress toward modular scaling but also a gap to high-fidelity on-chip operations.",
         "title": "IBM Connects Two 120-Qubit Processors With 99% State-Transfer Fidelity",
-        "url": "https://nand-research.com/ibm-connects-two-120-qubit-processors-with-99-state-transfer-fidelity/2/",
+        "url": "https://nand-research.com/ibm-connects-two-120-qubit-processors-with-99-state-transfer-fidelity/",
         "category": "quantum",
         "image": "https://nand-research.com/wp-content/uploads/2024/11/IBM_Quantum_Production_Heron24_banner.jpg"
       },
