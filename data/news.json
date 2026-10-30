@@ -9,7 +9,7 @@
         "title": "The big questions remaining after Anthropic’s blockbuster IPO prospectus",
         "url": "https://www.cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html",
         "category": "ai",
-        "image": "https://image.cnbcfm.com/api/v1/image/108469372-1793113061851-gettyimages-2301777451-boivin-photoill261027_npxLq.jpeg?v=1793113123&amp;w=1920&amp;h=1080"
+        "image": "https://image.cnbcfm.com/api/v1/image/108469372-1793113061851-gettyimages-2301777451-boivin-photoill261027_npxLq.jpeg?v=1793113123&w=1920&h=1080"
       },
       {
         "published": "2026-10-30",
@@ -32,7 +32,7 @@
       {
         "published": "2026-10-29",
         "source": "Science",
-        "summary": "OpenAI’s publication of AI-generated mathematical and scientific work is prompting debate over authorship and disclosure standards. The report notes that some of the released documents were later amended or retracted after errors were identified.",
+        "summary": "Science reports on debate over authorship and disclosure as AI systems generate research findings. The article’s full text was unavailable for this review; specific claims about corrected or retracted documents have not been independently checked here.",
         "title": "As AI generates findings, authorship and disclosure rules draw fresh scrutiny",
         "url": "https://www.science.org/content/article/ai-generates-findings-authorship-and-disclosure-rules-draw-fresh-scrutiny",
         "category": "ai",
@@ -51,8 +51,8 @@
         "published": "2026-10-30",
         "source": "Reuters, via Business Insider Africa",
         "summary": "Intel warned that shortages of memory and other components are raising PC costs and weakening demand, while the AI boom continues to drive demand for data-center chips. The company also said manufacturing constraints are keeping it from fully meeting that demand.",
-        "title": "Intel plunges 25% amid surging memory costs and PC weakness",
-        "url": "https://africa.businessinsider.com/news/intel-plunges-25-amid-surging-memory-costs-and-pc-weakness/fmqxyyc",
+        "title": "Intel plunges more than 25% amid surging memory costs and PC weakness",
+        "url": "https://africa.businessinsider.com/news/intel-plunges-more-than-25-amid-surging-memory-costs-and-pc-weakness/fmqxyyc",
         "category": "ai",
         "image": "https://ocdn.eu/pulscms-transforms/1/3DdktkuTURBXy80NThiMWQ2NC04NjA0LTRhYjAtOTMyZC02MGU3NzMyZjM0MmQuanBlZ5GTBc0EsM0Cdg"
       }
@@ -110,7 +110,7 @@
         "title": "Quantum: 12.9% of technology signals are already at operational level",
         "url": "https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/quantum-129-technology-signals-are-already-operational-level-2026-10-30_en",
         "category": "quantum",
-        "image": "https://joint-research-centre.ec.europa.eu/sites/default/files/styles/ewcms_metatag_image/public/2026-10/quantum_lattice.jpg?h=f872b3ed&amp;itok=aTcE9h-C"
+        "image": "https://joint-research-centre.ec.europa.eu/sites/default/files/styles/ewcms_metatag_image/public/2026-10/quantum_lattice.jpg?h=f872b3ed&itok=aTcE9h-C"
       }
     ]
   }
