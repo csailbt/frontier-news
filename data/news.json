@@ -1,107 +1,116 @@
 {
-  "updated": "2026-10-29T13:56:47.500Z",
+  "updated": "2026-10-30T13:55:13.824Z",
   "categories": {
     "ai": [
       {
-        "published": "2026-10-29",
-        "source": "Reuters",
-        "summary": "Anthropic urged California Governor Gavin Newsom to let officials seek court orders blocking AI models judged to pose a serious public risk. The company also argued that model-wide “kill switches” could create false reassurance, favoring more targeted interventions.",
-        "title": "Anthropic tells California governor courts should be able to block risky AI models",
-        "url": "https://www.reuters.com/legal/government/anthropic-tells-california-governor-courts-should-be-able-block-risky-ai-models-2026-10-28/",
+        "published": "2026-10-30",
+        "source": "CNBC",
+        "summary": "Anthropic’s preliminary IPO prospectus provides an unusually detailed look at the finances of a major AI lab, including its business fundamentals and large compute commitments. The filing also disclosed that its CEO and co-founders hold substantial share stakes.",
+        "title": "The big questions remaining after Anthropic’s blockbuster IPO prospectus",
+        "url": "https://www.cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html",
+        "category": "ai",
+        "image": "https://image.cnbcfm.com/api/v1/image/108469372-1793113061851-gettyimages-2301777451-boivin-photoill261027_npxLq.jpeg?v=1793113123&amp;w=1920&amp;h=1080"
+      },
+      {
+        "published": "2026-10-30",
+        "source": "The Register",
+        "summary": "Intel shares fell sharply after the company warned of weak PC-chip demand amid rising memory costs and supply constraints. Its data-center and AI business grew strongly, but manufacturing and component shortages are limiting its ability to meet demand.",
+        "title": "PC chip plunge wipes out a quarter of Intel’s value",
+        "url": "https://www.theregister.com/systems/2026/10/30/pc-chip-plunge-wipes-out-a-quarter-of-intels-value/5306531",
+        "category": "ai",
+        "image": "https://image.theregister.com/134970.jpg?imageId=134970&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+      },
+      {
+        "published": "2026-10-30",
+        "source": "Reuters, via Euronext",
+        "summary": "Amazon’s heavy data-center spending and Intel’s warning about PC demand highlighted how the AI infrastructure race is affecting company finances and consumer hardware costs. The report notes that memory shortages linked to strong AI demand are squeezing PC makers and Intel’s chip business.",
+        "title": "Amazon burns cash, Intel flags weak PC demand as AI boom's costs ripple across markets",
+        "url": "https://live.euronext.com/en/financial-news/amazon-burns-cash-intel-flags-weak-pc-demand-ai-booms-costs-ripple-across-markets",
         "category": "ai",
         "image": ""
       },
       {
         "published": "2026-10-29",
-        "source": "Engadget",
-        "summary": "Google unveiled Gemini 4 Carbon, highlighting long-running coding and cybersecurity capabilities and benchmark results it says put the model at the top of a leading AI index. Initial access is limited to selected cybersecurity defenders, with wider availability planned later.",
-        "title": "Google's Gemini 4 Carbon promises 'significant leap' in AI coding and cybersecurity",
-        "url": "https://www.engadget.com/2300677/google-gemini-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/?zsource=aol",
-        "category": "ai",
-        "image": "https://www.engadget.com/img/gallery/googles-gemini-4-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/l-intro-1793266804.jpg"
-      },
-      {
-        "published": "2026-10-28",
-        "source": "Associated Press / The Washington Post",
-        "summary": "New York enacted a law restricting certain chatbot behaviors toward minors, including deceptive claims of being human and content promoting self-harm. The measure is part of a broader push by states to regulate AI services.",
-        "title": "New York enacts ban on 'unsafe' chatbot behavior with kids as states push AI regulation boundaries",
-        "url": "https://www.washingtonpost.com/business/2026/10/28/chatbots-ai-new-york-legislation-bans-children/0ba9af8c-d31b-11f1-9931-2a41b76fc976_story.html",
+        "source": "Science",
+        "summary": "OpenAI’s publication of AI-generated mathematical and scientific work is prompting debate over authorship and disclosure standards. The report notes that some of the released documents were later amended or retracted after errors were identified.",
+        "title": "As AI generates findings, authorship and disclosure rules draw fresh scrutiny",
+        "url": "https://www.science.org/content/article/ai-generates-findings-authorship-and-disclosure-rules-draw-fresh-scrutiny",
         "category": "ai",
         "image": ""
       },
       {
-        "published": "2026-10-28",
-        "source": "The Next Web",
-        "summary": "OpenAI is reportedly planning to buy Google’s TPU chips as well as use Nvidia hardware, a development that would diversify its computing infrastructure. The available report does not provide further confirmed deal terms.",
-        "title": "OpenAI reportedly plans to buy Google’s TPU chips alongside Nvidia",
-        "url": "https://thenextweb.com/news/openai-google-tpu-chips",
+        "published": "2026-10-30",
+        "source": "Reuters, via The Straits Times",
+        "summary": "Intel warned that a memory crunch and weaker PC demand could weigh on its business through the first half of 2027, sending its shares lower. A deadly explosion at its Israel factory also forced a two-week shutdown and is expected to cost about $600 million in revenue over two quarters.",
+        "title": "Intel shares plunge on Israel factory blast and PC weakness",
+        "url": "https://www.straitstimes.com/business/intel-shares-drop-21-on-israel-factory-blast-pc-weakness",
         "category": "ai",
-        "image": ""
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/97b7f25c2ffa5eb3593016a58ff8aee1fc3d958c4828943f80995dce71bf13b7?w=1200"
       },
       {
-        "published": "2026-10-29",
-        "source": "The Latent Daily",
-        "summary": "Microsoft reported $33.2 billion in Azure revenue and about $10 billion in revenue from OpenAI, as part of a record $92.3 billion quarter. The figures underscore the scale of the cloud provider’s AI-related business.",
-        "title": "Microsoft reports Azure at $33.2B and $10B in OpenAI revenue",
-        "url": "https://thelatentdaily.com/news/microsoft-azure-33-billion-first-dollar-figure-openai-10-billion/",
+        "published": "2026-10-30",
+        "source": "Reuters, via Business Insider Africa",
+        "summary": "Intel warned that shortages of memory and other components are raising PC costs and weakening demand, while the AI boom continues to drive demand for data-center chips. The company also said manufacturing constraints are keeping it from fully meeting that demand.",
+        "title": "Intel plunges 25% amid surging memory costs and PC weakness",
+        "url": "https://africa.businessinsider.com/news/intel-plunges-25-amid-surging-memory-costs-and-pc-weakness/fmqxyyc",
         "category": "ai",
-        "image": "https://thelatentdaily.com/og-default.png"
+        "image": "https://ocdn.eu/pulscms-transforms/1/3DdktkuTURBXy80NThiMWQ2NC04NjA0LTRhYjAtOTMyZC02MGU3NzMyZjM0MmQuanBlZ5GTBc0EsM0Cdg"
       }
     ],
     "quantum": [
       {
-        "published": "2026-10-29",
-        "source": "NAND Research",
-        "summary": "IBM researchers linked two 120-qubit processors with superconducting interconnects and reported 99% average fidelity for relay-based state transfer. Cross-chip CZ gates reached 94.75% average fidelity, highlighting progress toward modular scaling but also a gap to high-fidelity on-chip operations.",
-        "title": "IBM Connects Two 120-Qubit Processors With 99% State-Transfer Fidelity",
-        "url": "https://nand-research.com/ibm-connects-two-120-qubit-processors-with-99-state-transfer-fidelity/",
+        "published": "2026-10-30",
+        "source": "TechTimes",
+        "summary": "IQM said its Emerald processor produced a 54-qubit GHZ state with reported fidelity of 0.516, above the 0.5 threshold for genuine multipartite entanglement. The company says the result enables cloud users to run circuits across the full processor.",
+        "title": "IQM Entangles All 54 Qubits on Emerald: Cloud Users Get Full-Chip Access",
+        "url": "https://www.techtimes.com/articles/329741/20261030/iqm-entangles-all-54-qubits-emerald-cloud-users-get-full-chip-access.htm",
         "category": "quantum",
-        "image": "https://nand-research.com/wp-content/uploads/2024/11/IBM_Quantum_Production_Heron24_banner.jpg"
+        "image": "https://d.techtimes.com/en/full/477426/iqm-pr-hero-29-oct-2026-result.jpg"
       },
       {
-        "published": "2026-10-29",
+        "published": "2026-10-30",
+        "source": "ITBrief Asia",
+        "summary": "Quantinuum reported 99.9995% logical fidelity on its Helios system using a color-code error-correction approach. The company says logical errors fell as code distance increased; the result is a company-reported benchmark, not an independently verified industry record.",
+        "title": "Quantinuum claims world record in quantum error correction",
+        "url": "https://itbrief.asia/story/quantinuum-claims-world-record-in-quantum-error-correction",
+        "category": "quantum",
+        "image": "https://itbrief.asia/uploads/story/2026/10/30/compatible_quantum-computing-laboratory-cryogenic-machine-qubit-rings-story-323004.jpg"
+      },
+      {
+        "published": "2026-10-30",
         "source": "The Quantum Insider",
-        "summary": "IQM reported preparing a GHZ entangled state across all 54 qubits of its cloud-accessible Emerald processor, with reported fidelity of 0.516 after readout error mitigation. The result demonstrates full-chip entanglement, though it is a benchmark rather than evidence of a practical fault-tolerant computation.",
-        "title": "IQM Demonstrates Entanglement Across a Complete 54-Qubit Processor",
-        "url": "https://thequantuminsider.com/2026/10/29/iqm-full-chip-entanglement-54-qubit-processor/",
+        "summary": "Foxconn chairman Young Liu said the company aims to manufacture quantum computers for firms developing the underlying technology, while estimating commercial viability is at least two years away. He characterized quantum machines as specialized accelerators that would complement conventional computing.",
+        "title": "Foxconn Aims to Become World’s Largest Quantum Computer Manufacturer",
+        "url": "https://thequantuminsider.com/2026/10/30/foxconn-aims-to-become-worlds-largest-quantum-computer-manufacturer/",
         "category": "quantum",
-        "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-29_14-56.png"
+        "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Foxconn-Logo-with-Flowing-Blue-Waves.png"
       },
       {
-        "published": "2026-10-29",
+        "published": "2026-10-30",
+        "source": "TechTimes",
+        "summary": "NVision Quantum reported a peer-reviewed demonstration of optical control and readout of a spin in an organic molecule, with measured coherence reaching 2.2 milliseconds under dynamical decoupling. The work demonstrates a single-molecule interface, not entanglement between processors or quantum error correction.",
+        "title": "NVision Quantum Publishes First Organic Molecule to Link Quantum Processors With Light",
+        "url": "https://www.techtimes.com/articles/329750/20261030/nvision-quantum-publishes-first-organic-molecule-link-quantum-processors-light.htm",
+        "category": "quantum",
+        "image": "https://d.techtimes.com/en/full/477427/6adf920b5f06154c5c3a4f53-nvision-nature-cover-blog-p-1600.png"
+      },
+      {
+        "published": "2026-10-30",
         "source": "The Quantum Insider",
-        "summary": "Researchers from Jülich, Aachen and Cologne reported single-qubit operations lasting 6.8 nanoseconds with measured accuracies above 99.98% on an isolated superconducting transmon. Their R2D pulse-shaping method reduced unwanted multiphoton transitions by more than 20-fold versus DRAG, but performance on larger processors and two-qubit gates remains untested.",
-        "title": "Researchers Curb Unwanted Transitions in Ultrafast Quantum Gates",
-        "url": "https://thequantuminsider.com/2026/10/29/researchers-curb-unwanted-transitions-in-ultrafast-quantum-gates/",
+        "summary": "Alice & Bob reported decoding its LDPC-cat error-correction architecture on GPUs through NVIDIA NVQLink, using synthetic data. The proof of concept targets low-latency decoding, but does not yet demonstrate decoding live hardware data.",
+        "title": "France National Quantum Update: October 2026",
+        "url": "https://thequantuminsider.com/2026/10/30/france-national-quantum-update-october-2026/",
         "category": "quantum",
-        "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Low-Res_2023_10_10_Quant_016_1.jpg"
+        "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/October-2026.png"
       },
       {
-        "published": "2026-10-29",
-        "source": "The Quantum Insider",
-        "summary": "Nord Quantique announced a US$10 million extension to its DARPA Quantum Benchmarking Initiative Stage B agreement. The funding supports evaluation of its bosonic quantum-error-correction architecture, which aims to reduce the hardware overhead needed for fault-tolerant computing.",
-        "title": "Nord Quantique Secures $10 Million DARPA Funding Extension",
-        "url": "https://thequantuminsider.com/2026/10/29/nord-quantique-10-million-darpa-funding-extension/",
+        "published": "2026-10-30",
+        "source": "European Commission Joint Research Centre",
+        "summary": "The JRC published an outlook analyzing 195 quantum-technology foresight signals, finding 12.9% at operational level and nearly half still at proof-of-concept stage. The report offers a broad assessment of commercialization across quantum technologies, including computing.",
+        "title": "Quantum: 12.9% of technology signals are already at operational level",
+        "url": "https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/quantum-129-technology-signals-are-already-operational-level-2026-10-30_en",
         "category": "quantum",
-        "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-29_14-44.png"
-      },
-      {
-        "published": "2026-10-29",
-        "source": "The Quantum Insider",
-        "summary": "E.ON, Qoro and the UK National Quantum Computing Centre demonstrated a hybrid quantum-classical approach to energy scheduling, dividing larger optimization workloads into subproblems of up to 50 qubits on IBM hardware. The team reported roughly threefold lower quantum execution time; the work is a proof of concept, not a deployment on a live power grid.",
-        "title": "E.ON and Qoro Test Hybrid Quantum Computing for Energy Scheduling",
-        "url": "https://thequantuminsider.com/2026/10/29/eon-qoro-hybrid-quantum-energy-scheduling/",
-        "category": "quantum",
-        "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/tqi-share-1200x630-1.jpg"
-      },
-      {
-        "published": "2026-10-28",
-        "source": "The Manila Times / GlobeNewswire",
-        "summary": "NVision reported a peer-reviewed Nature result demonstrating an individually addressable organic molecular spin-photon interface, a potential building block for connecting stationary qubits with photons. The company also announced a partnership with HyperLight to explore integrating the molecular qubits with photonic chips; integrated-chip demonstrations are still planned.",
-        "title": "NVision Unveils First Manufacturable Molecular Qubit, Breakthrough Validated in Peer-Reviewed Nature Paper",
-        "url": "https://www.manilatimes.net/2026/10/29/tmt-newswire/globenewswire/nvision-unveils-first-manufacturable-molecular-qubit-breakthrough-validated-in-peer-reviewed-nature-paper/2456485",
-        "category": "quantum",
-        "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/29/1281716.jpg"
+        "image": "https://joint-research-centre.ec.europa.eu/sites/default/files/styles/ewcms_metatag_image/public/2026-10/quantum_lattice.jpg?h=f872b3ed&amp;itok=aTcE9h-C"
       }
     ]
   }
