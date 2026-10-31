@@ -4,25 +4,25 @@
     "ai": [
       {
         "published": "2026-10-31",
-        "source": "Reuters",
+        "source": "Reuters via CNA",
         "summary": "OpenAI reportedly cut its latest funding-round target to about $20 billion, down from $30 billion, amid a technology-stock selloff and reduced commitments from some investors. The reported target valuation also fell to $1.25 trillion.",
         "title": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports",
-        "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3WB00F?channel=frL012",
+        "url": "https://www.channelnewsasia.com/business/openai-slashes-funding-target-10-billion-amid-tech-rout-ft-reports-6508816",
         "category": "ai",
         "image": ""
       },
       {
         "published": "2026-10-31",
-        "source": "Al Arabiya",
+        "source": "AFP via CNA",
         "summary": "OpenAI, Google, Microsoft and Anthropic committed to a shared website instruction that publishers can use to signal they do not want content used for AI training. The companies expect to roll out support at different times; the standard applies to future training, not content already collected.",
         "title": "AI giants promise publishers new way to block some scraping",
-        "url": "https://english.alarabiya.net/business/technology/2026/10/31/ai-giants-promise-publishers-new-way-to-block-some-scraping",
+        "url": "https://www.channelnewsasia.com/world/ai-giants-promise-publishers-new-way-block-some-scraping-6509181",
         "category": "ai",
         "image": ""
       },
       {
         "published": "2026-10-30",
-        "source": "Reuters",
+        "source": "MLQ.ai (AI-generated report citing Reuters)",
         "summary": "The U.S. Justice Department is reportedly asking about Nvidia’s proposed $12.93 billion acquisition of Hugging Face, including whether the deal could give Nvidia leverage over a major platform for discovering and distributing AI models. The inquiry is not a lawsuit or a finding of wrongdoing, and the deal remains pending regulatory review.",
         "title": "DOJ Questions Nvidia's $12.93 Billion Hugging Face Acquisition Over AI Competition",
         "url": "https://mlq.ai/news/doj-questions-nvidias-1293-billion-hugging-face-acquisition-over-ai-competition/",
@@ -40,15 +40,15 @@
       },
       {
         "published": "2026-10-31",
-        "source": "Techmeme",
-        "summary": "S&P revised Meta’s outlook from stable to negative, citing high capital spending and negative free cash flow. The rating action highlights investor concern about the cost of the company’s AI investment drive.",
-        "title": "S&P downgrades Meta's outlook amid heavy AI spending",
-        "url": "https://www.techmeme.com/261031/p6",
+        "source": "Reuters via CNA",
+        "summary": "Reuters reports that S&P changed Meta’s outlook from stable to negative on October 30, citing uncertainty around capital spending and free operating cash flow. This is an outlook revision, not a credit-rating downgrade. Meta disputed S&P’s assessment of its AI monetization capabilities.",
+        "title": "S&P Global revises Meta's outlook to 'negative' on AI spending, cash flow worries",
+        "url": "https://www.channelnewsasia.com/business/sp-global-revises-metas-outlook-negative-ai-spending-cash-flow-worries-6508631",
         "category": "ai",
         "image": ""
       },
       {
-        "published": "2026-10-31",
+        "published": "2026-10-30",
         "source": "SiliconANGLE",
         "summary": "Industry executives described AI chip development as increasingly constrained by system-level issues such as connectivity, advanced packaging, manufacturing yield and supply chains—not just raw compute. The report also noted claims that AI-enabled design and verification tools are shortening chip-development cycles.",
         "title": "AI semiconductor industry trends: from chips to systems",
@@ -59,7 +59,7 @@
     ],
     "quantum": [
       {
-        "published": "2026-10-31",
+        "published": "2026-10-30",
         "source": "Quantum Computing Report",
         "summary": "IQM reports preparing a GHZ-entangled state across all 54 qubits of its cloud-accessible Emerald superconducting processor. The reported fidelity was 0.516 after readout-error mitigation, a result demonstrating full-chip entanglement but not, by itself, a practical computational advantage.",
         "title": "IQM Verifies Full-Chip Entanglement Across 54-Qubit Emerald Superconducting Processor",
@@ -77,11 +77,11 @@
         "image": "https://thequantuminsider.com/wp-content/uploads/2026/07/Julien.jpg"
       },
       {
-        "published": "2026-10-31",
-        "source": "Ground News (summary by Quantum Computing Report)",
+        "published": "2026-10-30",
+        "source": "Quantum Computing Report",
         "summary": "Sandia National Laboratories and Quantinuum researchers introduced Logical GST, a protocol for reconstructing a logical single-qubit gate set and characterizing its noise. They demonstrated it using a logical qubit encoded with the [[7,1,3]] Steane code on Quantinuum’s H1-1 system.",
         "title": "Sandia and Quantinuum Introduce Logical Gate Set Tomography to Map Fault-Tolerant Qubit Noise",
-        "url": "https://ground.news/article/sandia-and-quantinuum-introduce-logical-gate-set-tomography-to-map-fault-tolerant-qubit-noise",
+        "url": "https://quantumcomputingreport.com/sandia-and-quantinuum-introduce-logical-gate-set-tomography-to-map-fault-tolerant-qubit-noise/",
         "category": "quantum",
         "image": ""
       },
@@ -101,16 +101,16 @@
         "title": "Canada Becomes the 39th Participating State of the EuroHPC Joint Undertaking",
         "url": "https://www.eurohpc-ju.europa.eu/canada-becomes-39th-participating-state-eurohpc-joint-undertaking-2026-10-30_en",
         "category": "quantum",
-        "image": "https://www.eurohpc-ju.europa.eu/sites/default/files/styles/ewcms_metatag_image/public/2026-10/Members%20Map%20update%20with%20Canada%20and%20new%20text%202026-10-26.png?h=c71d0c67&amp;itok=HPWig0tM"
+        "image": "https://www.eurohpc-ju.europa.eu/sites/default/files/styles/ewcms_metatag_image/public/2026-10/Members%20Map%20update%20with%20Canada%20and%20new%20text%202026-10-26.png?h=c71d0c67&itok=HPWig0tM"
       },
       {
-        "published": "2026-10-31",
-        "source": "Quantum Zeitgeist",
-        "summary": "Researchers reported a framework and algorithm for evaluating quantum “magic,” a resource associated with states that are difficult to simulate classically. Their analysis of spin models found that magic can disappear during thermal evolution, with the reported thresholds depending on the system and region examined.",
-        "title": "Researchers Find ‘Magic’ Fades Faster Than Entanglement",
-        "url": "https://quantumzeitgeist.com/quantum-magic-resource-decay-rate-evaluation-framework/",
+        "published": "2026-10-28",
+        "source": "arXiv (research preprint)",
+        "summary": "A research preprint analyzes quantum magic under thermal evolution and sudden changes in model spin systems. Magic disappears after entanglement in the thermal trajectories studied, but typically before it after quenches. These theoretical results are not a demonstrated computational advantage or a universal decay ordering.",
+        "title": "Fate of Quantum Magic",
+        "url": "https://arxiv.org/abs/2610.39059",
         "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-find-magic-fades-faster-than-entanglement-1-1200x630.png"
+        "image": ""
       }
     ]
   }
