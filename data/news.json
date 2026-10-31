@@ -1,116 +1,116 @@
 {
-  "updated": "2026-10-30T13:55:13.824Z",
+  "updated": "2026-10-31T13:41:54.019Z",
   "categories": {
     "ai": [
       {
-        "published": "2026-10-30",
-        "source": "CNBC",
-        "summary": "Anthropic’s preliminary IPO prospectus provides an unusually detailed look at the finances of a major AI lab, including its business fundamentals and large compute commitments. The filing also disclosed that its CEO and co-founders hold substantial share stakes.",
-        "title": "The big questions remaining after Anthropic’s blockbuster IPO prospectus",
-        "url": "https://www.cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html",
-        "category": "ai",
-        "image": "https://image.cnbcfm.com/api/v1/image/108469372-1793113061851-gettyimages-2301777451-boivin-photoill261027_npxLq.jpeg?v=1793113123&w=1920&h=1080"
-      },
-      {
-        "published": "2026-10-30",
-        "source": "The Register",
-        "summary": "Intel shares fell sharply after the company warned of weak PC-chip demand amid rising memory costs and supply constraints. Its data-center and AI business grew strongly, but manufacturing and component shortages are limiting its ability to meet demand.",
-        "title": "PC chip plunge wipes out a quarter of Intel’s value",
-        "url": "https://www.theregister.com/systems/2026/10/30/pc-chip-plunge-wipes-out-a-quarter-of-intels-value/5306531",
-        "category": "ai",
-        "image": "https://image.theregister.com/134970.jpg?imageId=134970&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-      },
-      {
-        "published": "2026-10-30",
-        "source": "Reuters, via Euronext",
-        "summary": "Amazon’s heavy data-center spending and Intel’s warning about PC demand highlighted how the AI infrastructure race is affecting company finances and consumer hardware costs. The report notes that memory shortages linked to strong AI demand are squeezing PC makers and Intel’s chip business.",
-        "title": "Amazon burns cash, Intel flags weak PC demand as AI boom's costs ripple across markets",
-        "url": "https://live.euronext.com/en/financial-news/amazon-burns-cash-intel-flags-weak-pc-demand-ai-booms-costs-ripple-across-markets",
+        "published": "2026-10-31",
+        "source": "Reuters",
+        "summary": "OpenAI reportedly cut its latest funding-round target to about $20 billion, down from $30 billion, amid a technology-stock selloff and reduced commitments from some investors. The reported target valuation also fell to $1.25 trillion.",
+        "title": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports",
+        "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3WB00F?channel=frL012",
         "category": "ai",
         "image": ""
       },
       {
-        "published": "2026-10-29",
-        "source": "Science",
-        "summary": "Science reports on debate over authorship and disclosure as AI systems generate research findings. The article’s full text was unavailable for this review; specific claims about corrected or retracted documents have not been independently checked here.",
-        "title": "As AI generates findings, authorship and disclosure rules draw fresh scrutiny",
-        "url": "https://www.science.org/content/article/ai-generates-findings-authorship-and-disclosure-rules-draw-fresh-scrutiny",
+        "published": "2026-10-31",
+        "source": "Al Arabiya",
+        "summary": "OpenAI, Google, Microsoft and Anthropic committed to a shared website instruction that publishers can use to signal they do not want content used for AI training. The companies expect to roll out support at different times; the standard applies to future training, not content already collected.",
+        "title": "AI giants promise publishers new way to block some scraping",
+        "url": "https://english.alarabiya.net/business/technology/2026/10/31/ai-giants-promise-publishers-new-way-to-block-some-scraping",
         "category": "ai",
         "image": ""
       },
       {
         "published": "2026-10-30",
-        "source": "Reuters, via The Straits Times",
-        "summary": "Intel warned that a memory crunch and weaker PC demand could weigh on its business through the first half of 2027, sending its shares lower. A deadly explosion at its Israel factory also forced a two-week shutdown and is expected to cost about $600 million in revenue over two quarters.",
-        "title": "Intel shares plunge on Israel factory blast and PC weakness",
-        "url": "https://www.straitstimes.com/business/intel-shares-drop-21-on-israel-factory-blast-pc-weakness",
+        "source": "Reuters",
+        "summary": "The U.S. Justice Department is reportedly asking about Nvidia’s proposed $12.93 billion acquisition of Hugging Face, including whether the deal could give Nvidia leverage over a major platform for discovering and distributing AI models. The inquiry is not a lawsuit or a finding of wrongdoing, and the deal remains pending regulatory review.",
+        "title": "DOJ Questions Nvidia's $12.93 Billion Hugging Face Acquisition Over AI Competition",
+        "url": "https://mlq.ai/news/doj-questions-nvidias-1293-billion-hugging-face-acquisition-over-ai-competition/",
         "category": "ai",
-        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/97b7f25c2ffa5eb3593016a58ff8aee1fc3d958c4828943f80995dce71bf13b7?w=1200"
+        "image": ""
       },
       {
         "published": "2026-10-30",
-        "source": "Reuters, via Business Insider Africa",
-        "summary": "Intel warned that shortages of memory and other components are raising PC costs and weakening demand, while the AI boom continues to drive demand for data-center chips. The company also said manufacturing constraints are keeping it from fully meeting that demand.",
-        "title": "Intel plunges more than 25% amid surging memory costs and PC weakness",
-        "url": "https://africa.businessinsider.com/news/intel-plunges-more-than-25-amid-surging-memory-costs-and-pc-weakness/fmqxyyc",
+        "source": "Associated Press",
+        "summary": "New York enacted restrictions on certain AI companion chatbot behaviors involving minors, with violations potentially subject to fines. The law takes effect January 1, as states expand AI regulation amid concerns about children’s safety.",
+        "title": "New York enacts ban on 'unsafe' chatbot behavior with kids as states push AI regulation boundaries",
+        "url": "https://www.rutlandherald.com/news/business/ap-technology-summarybrief-at-5-48-p-m-edt/article_2fbffb1c-f294-5c99-8bca-eee6cdaf5744.html",
         "category": "ai",
-        "image": "https://ocdn.eu/pulscms-transforms/1/3DdktkuTURBXy80NThiMWQ2NC04NjA0LTRhYjAtOTMyZC02MGU3NzMyZjM0MmQuanBlZ5GTBc0EsM0Cdg"
+        "image": "https://bloximages.chicago2.vip.townnews.com/rutlandherald.com/content/tncms/custom/image/21fa4cf2-cde4-11eb-949b-3b99a2a8f984.jpg?resize=600%2C600"
+      },
+      {
+        "published": "2026-10-31",
+        "source": "Techmeme",
+        "summary": "S&P revised Meta’s outlook from stable to negative, citing high capital spending and negative free cash flow. The rating action highlights investor concern about the cost of the company’s AI investment drive.",
+        "title": "S&P downgrades Meta's outlook amid heavy AI spending",
+        "url": "https://www.techmeme.com/261031/p6",
+        "category": "ai",
+        "image": ""
+      },
+      {
+        "published": "2026-10-31",
+        "source": "SiliconANGLE",
+        "summary": "Industry executives described AI chip development as increasingly constrained by system-level issues such as connectivity, advanced packaging, manufacturing yield and supply chains—not just raw compute. The report also noted claims that AI-enabled design and verification tools are shortening chip-development cycles.",
+        "title": "AI semiconductor industry trends: from chips to systems",
+        "url": "https://siliconangle.com/2026/10/30/ai-semiconductor-industry-trends-from-chips-systems-gsawomensleadershipinitiative/",
+        "category": "ai",
+        "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/IMG_0811-scaled.jpg"
       }
     ],
     "quantum": [
       {
-        "published": "2026-10-30",
-        "source": "TechTimes",
-        "summary": "IQM said its Emerald processor produced a 54-qubit GHZ state with reported fidelity of 0.516, above the 0.5 threshold for genuine multipartite entanglement. The company says the result enables cloud users to run circuits across the full processor.",
-        "title": "IQM Entangles All 54 Qubits on Emerald: Cloud Users Get Full-Chip Access",
-        "url": "https://www.techtimes.com/articles/329741/20261030/iqm-entangles-all-54-qubits-emerald-cloud-users-get-full-chip-access.htm",
+        "published": "2026-10-31",
+        "source": "Quantum Computing Report",
+        "summary": "IQM reports preparing a GHZ-entangled state across all 54 qubits of its cloud-accessible Emerald superconducting processor. The reported fidelity was 0.516 after readout-error mitigation, a result demonstrating full-chip entanglement but not, by itself, a practical computational advantage.",
+        "title": "IQM Verifies Full-Chip Entanglement Across 54-Qubit Emerald Superconducting Processor",
+        "url": "https://quantumcomputingreport.com/iqm-verifies-full-chip-entanglement-across-54-qubit-emerald-superconducting-processor/",
         "category": "quantum",
-        "image": "https://d.techtimes.com/en/full/477426/iqm-pr-hero-29-oct-2026-result.jpg"
+        "image": "https://quantumcomputingreport.com/wp-content/uploads/2026/10/image-246-scaled.png"
       },
       {
-        "published": "2026-10-30",
-        "source": "ITBrief Asia",
-        "summary": "Quantinuum reported 99.9995% logical fidelity on its Helios system using a color-code error-correction approach. The company says logical errors fell as code distance increased; the result is a company-reported benchmark, not an independently verified industry record.",
-        "title": "Quantinuum claims world record in quantum error correction",
-        "url": "https://itbrief.asia/story/quantinuum-claims-world-record-in-quantum-error-correction",
-        "category": "quantum",
-        "image": "https://itbrief.asia/uploads/story/2026/10/30/compatible_quantum-computing-laboratory-cryogenic-machine-qubit-rings-story-323004.jpg"
-      },
-      {
-        "published": "2026-10-30",
+        "published": "2026-10-31",
         "source": "The Quantum Insider",
-        "summary": "Foxconn chairman Young Liu said the company aims to manufacture quantum computers for firms developing the underlying technology, while estimating commercial viability is at least two years away. He characterized quantum machines as specialized accelerators that would complement conventional computing.",
-        "title": "Foxconn Aims to Become World’s Largest Quantum Computer Manufacturer",
-        "url": "https://thequantuminsider.com/2026/10/30/foxconn-aims-to-become-worlds-largest-quantum-computer-manufacturer/",
+        "summary": "In an interview, Nord Quantique’s CEO described its bosonic-code approach, which stores microwave photons in superconducting cavities to support error correction within a cavity. He said the company’s measured error-correction gain has more than doubled since 2024 and outlined a longer-term target of error rates between 10⁻⁷ and 10⁻⁹ by 2032.",
+        "title": "Julien Camirand Lemire (Nord Quantique): One Cavity, One Error-Corrected Qubit",
+        "url": "https://thequantuminsider.com/2026/10/31/julien-camirand-lemire-nord-quantique-one-cavity-one-error-corrected-qubit/",
         "category": "quantum",
-        "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Foxconn-Logo-with-Flowing-Blue-Waves.png"
+        "image": "https://thequantuminsider.com/wp-content/uploads/2026/07/Julien.jpg"
+      },
+      {
+        "published": "2026-10-31",
+        "source": "Ground News (summary by Quantum Computing Report)",
+        "summary": "Sandia National Laboratories and Quantinuum researchers introduced Logical GST, a protocol for reconstructing a logical single-qubit gate set and characterizing its noise. They demonstrated it using a logical qubit encoded with the [[7,1,3]] Steane code on Quantinuum’s H1-1 system.",
+        "title": "Sandia and Quantinuum Introduce Logical Gate Set Tomography to Map Fault-Tolerant Qubit Noise",
+        "url": "https://ground.news/article/sandia-and-quantinuum-introduce-logical-gate-set-tomography-to-map-fault-tolerant-qubit-noise",
+        "category": "quantum",
+        "image": ""
       },
       {
         "published": "2026-10-30",
-        "source": "TechTimes",
-        "summary": "NVision Quantum reported a peer-reviewed demonstration of optical control and readout of a spin in an organic molecule, with measured coherence reaching 2.2 milliseconds under dynamical decoupling. The work demonstrates a single-molecule interface, not entanglement between processors or quantum error correction.",
-        "title": "NVision Quantum Publishes First Organic Molecule to Link Quantum Processors With Light",
-        "url": "https://www.techtimes.com/articles/329750/20261030/nvision-quantum-publishes-first-organic-molecule-link-quantum-processors-light.htm",
+        "source": "Ad Hoc News",
+        "summary": "A report says IBM researchers connected two 120-qubit Nighthawk processors using superconducting couplers, reporting an average 99% fidelity for quantum-state transfer between chips. The report notes the work is a preprint and has not yet been independently peer reviewed.",
+        "title": "IBM Links Two 120-Qubit Nighthawk Chips While Expanding Its AI Agent Toolkit",
+        "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/ibm-links-two-120-qubit-nighthawk-chips-while-expanding-its-ai-agent-toolkit/70435101",
         "category": "quantum",
-        "image": "https://d.techtimes.com/en/full/477427/6adf920b5f06154c5c3a4f53-nvision-nature-cover-blog-p-1600.png"
+        "image": "https://mdb.ad-hoc-news.de/bild/bild-2671642_1920_1080.webp"
       },
       {
         "published": "2026-10-30",
-        "source": "The Quantum Insider",
-        "summary": "Alice & Bob reported decoding its LDPC-cat error-correction architecture on GPUs through NVIDIA NVQLink, using synthetic data. The proof of concept targets low-latency decoding, but does not yet demonstrate decoding live hardware data.",
-        "title": "France National Quantum Update: October 2026",
-        "url": "https://thequantuminsider.com/2026/10/30/france-national-quantum-update-october-2026/",
+        "source": "EuroHPC Joint Undertaking",
+        "summary": "Canada became the 39th participating state in the EuroHPC Joint Undertaking. The organization’s plans include European quantum-computing infrastructure integrated with existing supercomputers.",
+        "title": "Canada Becomes the 39th Participating State of the EuroHPC Joint Undertaking",
+        "url": "https://www.eurohpc-ju.europa.eu/canada-becomes-39th-participating-state-eurohpc-joint-undertaking-2026-10-30_en",
         "category": "quantum",
-        "image": "https://thequantuminsider.com/wp-content/uploads/2026/10/October-2026.png"
+        "image": "https://www.eurohpc-ju.europa.eu/sites/default/files/styles/ewcms_metatag_image/public/2026-10/Members%20Map%20update%20with%20Canada%20and%20new%20text%202026-10-26.png?h=c71d0c67&amp;itok=HPWig0tM"
       },
       {
-        "published": "2026-10-30",
-        "source": "European Commission Joint Research Centre",
-        "summary": "The JRC published an outlook analyzing 195 quantum-technology foresight signals, finding 12.9% at operational level and nearly half still at proof-of-concept stage. The report offers a broad assessment of commercialization across quantum technologies, including computing.",
-        "title": "Quantum: 12.9% of technology signals are already at operational level",
-        "url": "https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/quantum-129-technology-signals-are-already-operational-level-2026-10-30_en",
+        "published": "2026-10-31",
+        "source": "Quantum Zeitgeist",
+        "summary": "Researchers reported a framework and algorithm for evaluating quantum “magic,” a resource associated with states that are difficult to simulate classically. Their analysis of spin models found that magic can disappear during thermal evolution, with the reported thresholds depending on the system and region examined.",
+        "title": "Researchers Find ‘Magic’ Fades Faster Than Entanglement",
+        "url": "https://quantumzeitgeist.com/quantum-magic-resource-decay-rate-evaluation-framework/",
         "category": "quantum",
-        "image": "https://joint-research-centre.ec.europa.eu/sites/default/files/styles/ewcms_metatag_image/public/2026-10/quantum_lattice.jpg?h=f872b3ed&itok=aTcE9h-C"
+        "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-find-magic-fades-faster-than-entanglement-1-1200x630.png"
       }
     ]
   }
