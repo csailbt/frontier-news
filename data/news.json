@@ -12,22 +12,22 @@
         "image": "https://newsstatic.rthk.hk/images/mfile_1876095_1_M_20261031224007.jpg"
       },
       {
-        "published": "2026-10-31",
-        "source": "ProPakistani",
-        "summary": "Google said it successfully ran an AI model on a satellite and received a response on Earth, using an onboard TPU. The test is part of Project Suncatcher, an effort to explore the technical feasibility of computing in space; Google has not announced a commercial service.",
-        "title": "Google Just Made AI Talk From Space for the First Time Ever",
-        "url": "https://propakistani.pk/2026/10/31/google-just-made-ai-talk-from-space-for-the-first-time-ever/",
+        "published": "2026-10-30",
+        "source": "Google Research",
+        "summary": "Google reports that its Project Suncatcher prototype ran Gemma on a data-center-class TPU in orbit and returned a response to Earth. This is a company-reported feasibility experiment, not the first use of AI in space or an operating commercial space data center; thermal and radiation testing remains ahead.",
+        "title": "Google reports first response from its Project Suncatcher prototype satellite",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
         "category": "ai",
-        "image": "https://propakistani.pk/wp-content/uploads/2026/10/Google-AI-1.jpg"
+        "image": ""
       },
       {
         "published": "2026-10-31",
-        "source": "News18",
-        "summary": "Quad foreign ministers said they intend to provide more than $85 million in assistance to expand access to trusted AI across the Indo-Pacific. They also announced plans to identify semiconductor and AI supply-chain vulnerabilities.",
-        "title": "Quad to step up cooperation in AI, critical minerals",
-        "url": "https://www.news18.com/agency-feeds/quad-to-step-up-cooperation-in-ai-critical-minerals-10407016.html",
+        "source": "Australian Minister for Foreign Affairs — Quad joint release",
+        "summary": "The October 31 joint statement says Quad ministers intend to provide over $85 million in technical and financial assistance for trusted AI access in the Indo-Pacific and plan to identify semiconductor and AI supply-chain chokepoints. These are commitments, not measured deployment outcomes; the statement defines its “Super Intelligence” terminology as AI in Australia, India and Japan.",
+        "title": "Quad announces intended AI assistance and supply-chain cooperation",
+        "url": "https://www.foreignminister.gov.au/minister/penny-wong/media-release/quad-joint-press-release-economic-prosperity-and-security",
         "category": "ai",
-        "image": "https://images.news18.com/ibnlive/uploads/2025/07/News18_World_Section_Default_Image_1600x900-2025-07-4401653589b9d10b46b8abb07f758342-16x9.jpg"
+        "image": ""
       },
       {
         "published": "2026-11-01",
@@ -39,38 +39,38 @@
         "image": "https://www.thenews.pk/assets/uploads/akhbar/2026-11-01/1446131_013251_updates.jpg"
       },
       {
-        "published": "2026-11-01",
-        "source": "AIB",
-        "summary": "AIB’s roundup reports that five major technology companies expect up to $828 billion in AI-related capital spending in 2026. The spending plans underscore the scale of the industry’s investment in computing and data-center infrastructure.",
-        "title": "Latest AI News — Global AI News and Industry Trends, Summarized Daily",
-        "url": "https://www.aib.vote/en/news?keyword=ai-cloud",
+        "published": "2026-10-30",
+        "source": "Business Insider via Yahoo Finance",
+        "summary": "Business Insider reports that Amazon, Alphabet, Meta, Microsoft and SpaceX are on track for $803–828 billion in 2026 capital expenditure, based on guidance and disclosed fourth-quarter plans. This is a reported forecast of broad company capex—not an audited total of AI-only spending or completed full-year expenditure.",
+        "title": "Report estimates five hyperscalers’ 2026 capital spending at $803–828 billion",
+        "url": "https://uk.finance.yahoo.com/news/ai-hyperscalers-expected-finish-spending-081101595.html",
         "category": "ai",
         "image": ""
       },
       {
-        "published": "2026-11-01",
-        "source": "The 6:30",
-        "summary": "A newsletter roundup reports that Google, Microsoft, OpenAI and Anthropic backed a shared robots.txt control for AI-training opt-outs, announced by Google on October 30. The proposal would let website operators signal that their content should not be used to train generative AI systems.",
-        "title": "The 6:30 — AI's trillion-dollar reckoning: spending fears, supply fights, and a robots.txt truce",
-        "url": "https://buttondown.com/gavan/archive/the-630-ais-trillion-dollar-reckoning-spending/",
+        "published": "2026-10-30",
+        "source": "Google Search Central",
+        "summary": "Google announced support for a shared website AI-training preference based on the IETF AIPREF work, alongside other AI providers. Google aims to support the new control in 2027; it is not yet a universally operating opt-out or a guarantee against copying. Existing Google-Extended controls remain relevant.",
+        "title": "Google supports a proposed shared AI-training control for websites",
+        "url": "https://developers.google.com/search/blog/2026/10/ai-training-control",
         "category": "ai",
-        "image": "https://static-assets.buttondown.com/images/icons/icon-square%40400.png"
+        "image": ""
       }
     ],
     "quantum": [
       {
         "published": "2026-11-01",
         "source": "Quantum Brief",
-        "summary": "Researchers demonstrated quantum-LDPC surgery on Quantinuum’s H2-2 trapped-ion processor, selectively measuring one logical qubit in a two-qubit code block using seven ancillas. Repeating the measurement across three syndrome rounds reduced the observed error rate below 0.26%; the distance-3 code and offline decoding mean this is an early hardware demonstration, not yet a scalable fault-tolerant system.",
+        "summary": "A November 1 report covers an October 28 preprint demonstrating quantum-LDPC surgery on Quantinuum’s H2-2 trapped-ion processor, using seven ancillas to measure one logical qubit in a two-qubit block. Three syndrome rounds yielded an error-rate upper bound below 0.26%, not a precisely measured nonzero error rate. The distance-3 code and offline decoding make this an early hardware demonstration, not a scalable fault-tolerant system.",
         "title": "Seven borrowed qubits read one logical qubit out of a block of two, and the other one came through at 0.21 percent",
-        "url": "https://quantum-brief.com/blog/news-2026-11-01-qldpc-surgery-trapped-ion/",
+        "url": "https://www.quantum-brief.com/blog/news-2026-11-01-qldpc-surgery-trapped-ion/",
         "category": "quantum",
-        "image": "https://quantum-brief.com/images/og-default.png"
+        "image": "https://www.quantum-brief.com/images/og-default.png"
       },
       {
         "published": "2026-11-01",
         "source": "Quantum Zeitgeist",
-        "summary": "Researchers report a bosonic encoding scheme intended to let an oscillator protect a qubit while sensing weak external forces. Their analysis and superconducting-circuit benchmarks suggest memory errors can be suppressed while retaining state-independent readout, though the report is based on a research paper rather than a demonstrated commercial capability.",
+        "summary": "An October 29 preprint proposes a bosonic encoding that could protect a qubit while an oscillator senses weak external forces. The result is theoretical analysis with superconducting-circuit benchmarks, not a reported operating memory-and-sensor device or commercial capability.",
         "title": "Researchers Bound Memory Error To Gamma Raised To R Plus One",
         "url": "https://quantumzeitgeist.com/continuous-variable-quantum-error-correction-compatibility/",
         "category": "quantum",
@@ -79,7 +79,7 @@
       {
         "published": "2026-11-01",
         "source": "Quantum Zeitgeist",
-        "summary": "The NAKO framework benchmarks neutral-atom quantum compilers against lower bounds for measures such as atom movement and Rydberg stages, and helps identify sources of inefficiency. In reported tests, diagnosis-guided changes to one compiler cut mean atom movement by 78.9% across five matched circuits.",
+        "summary": "The NAKO framework benchmarks neutral-atom quantum compilers against lower bounds for measures such as atom movement and Rydberg stages, and helps identify sources of inefficiency. In reported tests, diagnosis-guided changes to one compiler cut mean atom movement by 78.9% across five matched circuits. This is a compiler benchmark, not a measured end-to-end QPU speedup or commercial advantage.",
         "title": "Meet NAKO, A Benchmarking Framework For Evaluating And Diagnosing Neutral-Atom Quantum Compilers",
         "url": "https://quantumzeitgeist.com/meet-nako-a-benchmarking-framework-for-evaluating-and-diagnosing-neutral-atom-quantum-compilers/",
         "category": "quantum",
@@ -88,25 +88,25 @@
       {
         "published": "2026-10-31",
         "source": "Digital Journal",
-        "summary": "Quantum Art researchers proposed an algorithm that prepares quantum states directly on the physical dispersion relations relevant to wave propagation, rather than searching a much larger solution space. The claimed potential for very large simulations is prospective: the work is a preprint, not evidence that current quantum hardware has run those calculations at the described scale.",
+        "summary": "A September 9 preprint proposes geometric quantum state preparation for wave-propagation problems, reducing a state-preparation overhead in the authors’ analysis. The October 31 coverage concerns prospective algorithmic capability, not evidence that current quantum hardware has performed simulations beyond supercomputers at the described scale.",
         "title": "Quantum algorithm targets wave simulations beyond the reach of supercomputers",
         "url": "https://www.digitaljournal.com/article/quantum-algorithm-targets-wave-simulations-beyond-the-reach-of-supercomputers/",
         "category": "quantum",
         "image": ""
       },
       {
-        "published": "2026-11-01",
-        "source": "Quantum Zeitgeist",
-        "summary": "A hybrid approach combines variational quantum algorithms with adiabatic quantum computing to train entanglement-detection models. The report says it reaches systems of up to 25 qubits, but the available coverage does not establish a practical advantage over classical methods.",
-        "title": "Researchers Train Algorithms To Detect Entanglement Using Quantum Computing",
-        "url": "https://quantumzeitgeist.com/quantum-algorithms-detect-entanglement-using-adiabatic-computing/",
+        "published": "2026-10-29",
+        "source": "arXiv — Acosta et al.",
+        "summary": "An October 29 arXiv posting of work listed in 2025 QAI proceedings describes CPU-server experiments on generated three-qubit states. Its adiabatic-inspired training model achieved about 61% validation accuracy versus 65% for a classical neural network; timing comparisons remain incomplete. The paper’s 25-qubit reference concerns earlier work, not this experiment. No practical quantum advantage is established.",
+        "title": "Adiabatic-inspired VQA training tested on three-qubit entanglement data",
+        "url": "https://arxiv.org/abs/2610.39577",
         "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-train-algorithms-to-detect-entanglement-using-quantum-computing-1200x630.png"
+        "image": ""
       },
       {
         "published": "2026-11-01",
         "source": "ForkLog",
-        "summary": "IBM introduced a Quantum Safe software suite intended to help organizations identify vulnerable cryptography and plan migrations to post-quantum standards. The announcement is about cybersecurity preparation for future quantum threats, rather than a new quantum-computing machine or capability.",
+        "summary": "November 1 coverage discusses IBM’s October 27 Quantum Safe announcement: software intended to help organizations inventory cryptography and plan post-quantum migration. This is a vendor product announcement about cybersecurity preparation, not a new quantum-computing machine or demonstrated quantum capability.",
         "title": "IBM Launches Tools for Transition to Post-Quantum Cryptography",
         "url": "https://forklog.com/en/ibm-launches-tools-for-transition-to-post-quantum-cryptography/",
         "category": "quantum",
