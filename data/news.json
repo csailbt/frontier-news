@@ -1,116 +1,89 @@
 {
-  "updated": "2026-11-01T13:43:36.549Z",
+  "updated": "2026-11-02T14:09:44.119Z",
   "categories": {
     "ai": [
       {
-        "published": "2026-10-31",
-        "source": "RTHK",
-        "summary": "Alibaba said its Qwen model will power Apple Intelligence features—including Siri and Writing Tools—in mainland China. A developer beta is expected November 4, with a wider launch planned for December, subject to Apple’s rollout plans.",
-        "title": "Alibaba's Qwen and Apple Intelligence team up",
-        "url": "https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/en/component/k2/1876095-20261031.htm",
+        "published": "2026-11-02",
+        "source": "Reuters",
+        "summary": "South Korea’s president proposed allocating 21.3 trillion won (about $16 billion) in 2027 to AI and related priorities, nearly twice this year’s amount. The plan includes semiconductors, physical AI, data centers and 4.7 trillion won for frontier AI development, including a domestic model.",
+        "title": "South Korea’s Lee vows to make bold AI investment in record budget push",
+        "url": "https://ae.marketscreener.com/news/south-korea-s-lee-vows-to-make-bold-ai-investment-in-record-budget-push-ce785fd8dd81f320",
         "category": "ai",
-        "image": "https://newsstatic.rthk.hk/images/mfile_1876095_1_M_20261031224007.jpg"
+        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-11/2026-11-02T044931Z_1_LYNXNPEMA10CA_RTROPTP_4_SOUTHKOREA-BUDGET-LEE.JPG"
       },
       {
-        "published": "2026-10-30",
-        "source": "Google Research",
-        "summary": "Google reports that its Project Suncatcher prototype ran Gemma on a data-center-class TPU in orbit and returned a response to Earth. This is a company-reported feasibility experiment, not the first use of AI in space or an operating commercial space data center; thermal and radiation testing remains ahead.",
-        "title": "Google reports first response from its Project Suncatcher prototype satellite",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+        "published": "2026-11-02",
+        "source": "The Associated Press",
+        "summary": "Argentina’s President Javier Milei is pitching Patagonia to technology companies as a location for AI data centers, citing available land, energy resources and proposed tax incentives. The pitch also promises minimal AI regulation, as data-center development faces opposition elsewhere.",
+        "title": "Argentina's Milei pitches a regulation-free AI haven at the end of the world",
+        "url": "https://www.rutlandherald.com/news/business/ap-technology-summarybrief-at-4-37-a-m-est/article_009534b4-08ec-5d39-ace2-2d6a8763f9ea.html",
         "category": "ai",
         "image": ""
       },
       {
-        "published": "2026-10-31",
-        "source": "Australian Minister for Foreign Affairs — Quad joint release",
-        "summary": "The October 31 joint statement says Quad ministers intend to provide over $85 million in technical and financial assistance for trusted AI access in the Indo-Pacific and plan to identify semiconductor and AI supply-chain chokepoints. These are commitments, not measured deployment outcomes; the statement defines its “Super Intelligence” terminology as AI in Australia, India and Japan.",
-        "title": "Quad announces intended AI assistance and supply-chain cooperation",
-        "url": "https://www.foreignminister.gov.au/minister/penny-wong/media-release/quad-joint-press-release-economic-prosperity-and-security",
+        "published": "2026-11-02",
+        "source": "The Economic Times",
+        "summary": "OpenAI CEO Sam Altman met Samsung executives to discuss memory-chip supply and AI infrastructure, according to the publication. The talks come amid rising data-center demand that is tightening competition for memory chips.",
+        "title": "OpenAI CEO Sam Altman meets Samsung executives to discuss memory chip supply, AI infrastructure",
+        "url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/indian-tech-industry-revenues-",
         "category": "ai",
-        "image": ""
-      },
-      {
-        "published": "2026-11-01",
-        "source": "The News International",
-        "summary": "China’s proposed export controls would restrict transfers of certain AI models, expertise and related technologies while generally allowing overseas customers to access Chinese AI through websites and cloud services. The draft proposals remain open for public comment through November 15.",
-        "title": "China’s new export curbs draw a line around its AI crown jewels",
-        "url": "https://www.thenews.pk/print/1446131-china-s-new-export-curbs-draw-a-line-around-its-ai-crown-jewels",
-        "category": "ai",
-        "image": "https://www.thenews.pk/assets/uploads/akhbar/2026-11-01/1446131_013251_updates.jpg"
-      },
-      {
-        "published": "2026-10-30",
-        "source": "Business Insider via Yahoo Finance",
-        "summary": "Business Insider reports that Amazon, Alphabet, Meta, Microsoft and SpaceX are on track for $803–828 billion in 2026 capital expenditure, based on guidance and disclosed fourth-quarter plans. This is a reported forecast of broad company capex—not an audited total of AI-only spending or completed full-year expenditure.",
-        "title": "Report estimates five hyperscalers’ 2026 capital spending at $803–828 billion",
-        "url": "https://uk.finance.yahoo.com/news/ai-hyperscalers-expected-finish-spending-081101595.html",
-        "category": "ai",
-        "image": ""
-      },
-      {
-        "published": "2026-10-30",
-        "source": "Google Search Central",
-        "summary": "Google announced support for a shared website AI-training preference based on the IETF AIPREF work, alongside other AI providers. Google aims to support the new control in 2027; it is not yet a universally operating opt-out or a guarantee against copying. Existing Google-Extended controls remain relevant.",
-        "title": "Google supports a proposed shared AI-training control for websites",
-        "url": "https://developers.google.com/search/blog/2026/10/ai-training-control",
-        "category": "ai",
-        "image": ""
+        "image": "https://img.etb2bimg.com/files/cp/upload-1751380215-enterpriseai-newsletter-logo.png"
       }
     ],
     "quantum": [
       {
-        "published": "2026-11-01",
-        "source": "Quantum Brief",
-        "summary": "A November 1 report covers an October 28 preprint demonstrating quantum-LDPC surgery on Quantinuum’s H2-2 trapped-ion processor, using seven ancillas to measure one logical qubit in a two-qubit block. Three syndrome rounds yielded an error-rate upper bound below 0.26%, not a precisely measured nonzero error rate. The distance-3 code and offline decoding make this an early hardware demonstration, not a scalable fault-tolerant system.",
-        "title": "Seven borrowed qubits read one logical qubit out of a block of two, and the other one came through at 0.21 percent",
-        "url": "https://www.quantum-brief.com/blog/news-2026-11-01-qldpc-surgery-trapped-ion/",
+        "published": "2026-11-02",
+        "source": "The Quantum Insider",
+        "summary": "South Korea says it plans to connect its new Hangang supercomputer with a quantum computer in the first half of 2027. The proposed hybrid system is intended to combine high-performance computing and quantum processing.",
+        "title": "South Korea Launches Hangang Supercomputer, Plans Quantum Integration",
+        "url": "https://thequantuminsider.com/2026/11/02/south-korea-hangang-supercomputer-quantum-integration/",
         "category": "quantum",
-        "image": "https://www.quantum-brief.com/images/og-default.png"
+        "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-02_18-23.png"
       },
       {
-        "published": "2026-11-01",
+        "published": "2026-11-02",
         "source": "Quantum Zeitgeist",
-        "summary": "An October 29 preprint proposes a bosonic encoding that could protect a qubit while an oscillator senses weak external forces. The result is theoretical analysis with superconducting-circuit benchmarks, not a reported operating memory-and-sensor device or commercial capability.",
-        "title": "Researchers Bound Memory Error To Gamma Raised To R Plus One",
-        "url": "https://quantumzeitgeist.com/continuous-variable-quantum-error-correction-compatibility/",
+        "summary": "Researchers report a decoder that uses correlations in neutral-atom losses to improve quantum error correction, with reported logical error rates up to 25 times lower than with earlier methods. The result addresses a failure mode in which the loss of one atom can be correlated with the loss of its gate partner.",
+        "title": "Researchers Cut Quantum Errors 25x With New Atom-Loss Decoder",
+        "url": "https://quantumzeitgeist.com/neutral-atom-quantum-computing-loss-decoder/",
         "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-bound-memory-error-to-gamma-raised-to-2-1200x630.png"
+        "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-cut-quantum-errors-25x-with-new-atom-1200x630.jpg"
       },
       {
-        "published": "2026-11-01",
+        "published": "2026-11-02",
         "source": "Quantum Zeitgeist",
-        "summary": "The NAKO framework benchmarks neutral-atom quantum compilers against lower bounds for measures such as atom movement and Rydberg stages, and helps identify sources of inefficiency. In reported tests, diagnosis-guided changes to one compiler cut mean atom movement by 78.9% across five matched circuits. This is a compiler benchmark, not a measured end-to-end QPU speedup or commercial advantage.",
-        "title": "Meet NAKO, A Benchmarking Framework For Evaluating And Diagnosing Neutral-Atom Quantum Compilers",
-        "url": "https://quantumzeitgeist.com/meet-nako-a-benchmarking-framework-for-evaluating-and-diagnosing-neutral-atom-quantum-compilers/",
+        "summary": "A proposed neural-network-assisted method called Triage reportedly cuts decoding latency for high-rate quantum LDPC codes by one to two orders of magnitude. In reported Kasai-code tests, convergence exceeded 99.97% with amortized latency around 30 milliseconds; broader scalability remains an open question.",
+        "title": "Researchers Cut QLDPC Code Decoding Time Tenfold With New Method",
+        "url": "https://quantumzeitgeist.com/qldpc-codes-decoding-time-tenfold-reduction-method/",
         "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-cut-neutral-atom-circuit-movement-by-789-1200x630.png"
+        "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-cut-qldpc-code-decoding-time-tenfold-with-new-method-1200x630.jpeg"
       },
       {
-        "published": "2026-10-31",
-        "source": "Digital Journal",
-        "summary": "A September 9 preprint proposes geometric quantum state preparation for wave-propagation problems, reducing a state-preparation overhead in the authors’ analysis. The October 31 coverage concerns prospective algorithmic capability, not evidence that current quantum hardware has performed simulations beyond supercomputers at the described scale.",
-        "title": "Quantum algorithm targets wave simulations beyond the reach of supercomputers",
-        "url": "https://www.digitaljournal.com/article/quantum-algorithm-targets-wave-simulations-beyond-the-reach-of-supercomputers/",
+        "published": "2026-11-02",
+        "source": "Quantum Zeitgeist",
+        "summary": "A study describes using neutral-atom embedding structures as an error-detection code, repurposing ancillary atoms rather than adding hardware. The researchers report recovering exact optimization solutions on QuEra Aquila hardware for systems of up to 107 atoms.",
+        "title": "Researchers Correct Errors Using Rydberg Atom Embeddings",
+        "url": "https://quantumzeitgeist.com/rydberg-atom-embeddings-for-combinatorial-optimization-problems/",
+        "category": "quantum",
+        "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-correct-errors-using-rydberg-atom-embeddings-1200x630.png"
+      },
+      {
+        "published": "2026-11-02",
+        "source": "Quantum Zeitgeist",
+        "summary": "A University of Maryland team presents a framework for analyzing fault tolerance across dynamic quantum circuits, rather than only at individual points in a computation. The method uses subsystem spacetime codes to characterize circuit distances and identify how faults propagate.",
+        "title": "Maryland Team Charts Fault Tolerance In Quantum Circuits",
+        "url": "https://quantumzeitgeist.com/quantum-circuits-fault-tolerance-spacetime-code-distances/",
+        "category": "quantum",
+        "image": "https://quantumzeitgeist.com/wp-content/uploads/maryland-team-charts-fault-tolerance-in-quantum-circuits-1-1200x630.png"
+      },
+      {
+        "published": "2026-11-02",
+        "source": "Quantum X Labs / GlobeNewswire",
+        "summary": "Quantum X Labs says it demonstrated its Qatacomb encryption scheme on an IBM Heron r2 processor, using a 156-qubit machine to reconstruct an encrypted image. This is a company-reported demonstration, not independent confirmation of the scheme’s broader security claims.",
+        "title": "Quantum X Labs Announces Cyber Quantum Encryption Breakthrough in Demonstration with IBM Quantum Processor, Heron r2",
+        "url": "https://www.morningstar.com/news/globe-newswire/9867898/quantum-x-labs-announces-cyber-quantum-encryption-breakthrough-in-demonstration-with-ibm-quantum-processor-heron-r2",
         "category": "quantum",
         "image": ""
-      },
-      {
-        "published": "2026-10-29",
-        "source": "arXiv — Acosta et al.",
-        "summary": "An October 29 arXiv posting of work listed in 2025 QAI proceedings describes CPU-server experiments on generated three-qubit states. Its adiabatic-inspired training model achieved about 61% validation accuracy versus 65% for a classical neural network; timing comparisons remain incomplete. The paper’s 25-qubit reference concerns earlier work, not this experiment. No practical quantum advantage is established.",
-        "title": "Adiabatic-inspired VQA training tested on three-qubit entanglement data",
-        "url": "https://arxiv.org/abs/2610.39577",
-        "category": "quantum",
-        "image": ""
-      },
-      {
-        "published": "2026-11-01",
-        "source": "ForkLog",
-        "summary": "November 1 coverage discusses IBM’s October 27 Quantum Safe announcement: software intended to help organizations inventory cryptography and plan post-quantum migration. This is a vendor product announcement about cybersecurity preparation, not a new quantum-computing machine or demonstrated quantum capability.",
-        "title": "IBM Launches Tools for Transition to Post-Quantum Cryptography",
-        "url": "https://forklog.com/en/ibm-launches-tools-for-transition-to-post-quantum-cryptography/",
-        "category": "quantum",
-        "image": "https://forklog.com/wp-content/uploads/quantum-computer.webp"
       }
     ]
   }
