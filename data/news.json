@@ -4,30 +4,30 @@
     "ai": [
       {
         "published": "2026-11-02",
-        "source": "Reuters",
-        "summary": "South Korea’s president proposed allocating 21.3 trillion won (about $16 billion) in 2027 to AI and related priorities, nearly twice this year’s amount. The plan includes semiconductors, physical AI, data centers and 4.7 trillion won for frontier AI development, including a domestic model.",
+        "source": "Reuters / CNA",
+        "summary": "South Korea’s president sought parliamentary approval for a 2027 budget allocating 21.3 trillion won (about $16 billion) to AI and related semiconductor, physical-AI and data-center projects, nearly twice this year’s amount. This is a budget proposal, not evidence of completed spending or realized economic gains.",
         "title": "South Korea’s Lee vows to make bold AI investment in record budget push",
-        "url": "https://ae.marketscreener.com/news/south-korea-s-lee-vows-to-make-bold-ai-investment-in-record-budget-push-ce785fd8dd81f320",
+        "url": "https://www.channelnewsasia.com/east-asia/south-korea-vows-bold-ai-investment-budget-6512016",
         "category": "ai",
         "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-11/2026-11-02T044931Z_1_LYNXNPEMA10CA_RTROPTP_4_SOUTHKOREA-BUDGET-LEE.JPG"
       },
       {
         "published": "2026-11-02",
         "source": "The Associated Press",
-        "summary": "Argentina’s President Javier Milei is pitching Patagonia to technology companies as a location for AI data centers, citing available land, energy resources and proposed tax incentives. The pitch also promises minimal AI regulation, as data-center development faces opposition elsewhere.",
+        "summary": "Argentina’s President Javier Milei is pitching Patagonia for AI data centers, citing land, energy and proposed tax incentives alongside minimal AI regulation. AP reports that major projects remain plans, with investment incentives still awaiting Senate approval; the pitch is not evidence of operating capacity.",
         "title": "Argentina's Milei pitches a regulation-free AI haven at the end of the world",
-        "url": "https://www.rutlandherald.com/news/business/ap-technology-summarybrief-at-4-37-a-m-est/article_009534b4-08ec-5d39-ace2-2d6a8763f9ea.html",
+        "url": "https://apnews.com/article/a8fab1ac14d1ea9c7992f8797099fb32",
         "category": "ai",
         "image": ""
       },
       {
-        "published": "2026-11-02",
-        "source": "The Economic Times",
-        "summary": "OpenAI CEO Sam Altman met Samsung executives to discuss memory-chip supply and AI infrastructure, according to the publication. The talks come amid rising data-center demand that is tightening competition for memory chips.",
-        "title": "OpenAI CEO Sam Altman meets Samsung executives to discuss memory chip supply, AI infrastructure",
-        "url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/indian-tech-industry-revenues-",
+        "published": "2026-10-31",
+        "source": "Samsung Semiconductor Newsroom",
+        "summary": "Samsung says about 50 executives met OpenAI CEO Sam Altman in Yongin on October 31 to discuss AI, business opportunities, decision-making and organizational operations. Its statement cites the companies’ earlier infrastructure memorandum as background but does not announce a new memory-supply agreement.",
+        "title": "Samsung hosts Sam Altman for executive AI-strategy discussion",
+        "url": "https://news.samsungsemiconductor.com/kr/삼성-샘-올트먼과-ai-혁신-간담회-개최/",
         "category": "ai",
-        "image": "https://img.etb2bimg.com/files/cp/upload-1751380215-enterpriseai-newsletter-logo.png"
+        "image": ""
       }
     ],
     "quantum": [
@@ -35,7 +35,7 @@
         "published": "2026-11-02",
         "source": "The Quantum Insider",
         "summary": "South Korea says it plans to connect its new Hangang supercomputer with a quantum computer in the first half of 2027. The proposed hybrid system is intended to combine high-performance computing and quantum processing.",
-        "title": "South Korea Launches Hangang Supercomputer, Plans Quantum Integration",
+        "title": "South Korea unveils Hangang supercomputer, plans quantum integration",
         "url": "https://thequantuminsider.com/2026/11/02/south-korea-hangang-supercomputer-quantum-integration/",
         "category": "quantum",
         "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-02_18-23.png"
@@ -43,8 +43,8 @@
       {
         "published": "2026-11-02",
         "source": "Quantum Zeitgeist",
-        "summary": "Researchers report a decoder that uses correlations in neutral-atom losses to improve quantum error correction, with reported logical error rates up to 25 times lower than with earlier methods. The result addresses a failure mode in which the loss of one atom can be correlated with the loss of its gate partner.",
-        "title": "Researchers Cut Quantum Errors 25x With New Atom-Loss Decoder",
+        "summary": "An October 28 preprint reports a decoder that exploits correlated atom losses in simulated [[144,12,12]] Gross-code circuits. Logical error rates fell by up to about 25 times versus a loss-unaware decoder, but about two times versus a loss-aware baseline; this is not a hardware demonstration.",
+        "title": "Simulation study improves loss-aware decoding for a quantum LDPC code",
         "url": "https://quantumzeitgeist.com/neutral-atom-quantum-computing-loss-decoder/",
         "category": "quantum",
         "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-cut-quantum-errors-25x-with-new-atom-1200x630.jpg"
@@ -52,8 +52,8 @@
       {
         "published": "2026-11-02",
         "source": "Quantum Zeitgeist",
-        "summary": "A proposed neural-network-assisted method called Triage reportedly cuts decoding latency for high-rate quantum LDPC codes by one to two orders of magnitude. In reported Kasai-code tests, convergence exceeded 99.97% with amortized latency around 30 milliseconds; broader scalability remains an open question.",
-        "title": "Researchers Cut QLDPC Code Decoding Time Tenfold With New Method",
+        "summary": "An October 29 preprint benchmarks a neural decoder for high-rate quantum LDPC codes using simulated quantum-memory data. It reports lower amortized decoding time on an NVIDIA H200 GPU than CPU baselines; real-time single-shot operation and performance on experimental data remain next steps.",
+        "title": "Neural Triage decoder reports faster simulated quantum-memory decoding",
         "url": "https://quantumzeitgeist.com/qldpc-codes-decoding-time-tenfold-reduction-method/",
         "category": "quantum",
         "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-cut-qldpc-code-decoding-time-tenfold-with-new-method-1200x630.jpeg"
@@ -61,8 +61,8 @@
       {
         "published": "2026-11-02",
         "source": "Quantum Zeitgeist",
-        "summary": "A study describes using neutral-atom embedding structures as an error-detection code, repurposing ancillary atoms rather than adding hardware. The researchers report recovering exact optimization solutions on QuEra Aquila hardware for systems of up to 107 atoms.",
-        "title": "Researchers Correct Errors Using Rydberg Atom Embeddings",
+        "summary": "An October 29 preprint treats ancillary atoms in Rydberg-array optimization embeddings as a classical error-correcting code. Its decoder recovered exact solutions on QuEra Aquila in experiments of up to 107 atoms; this is optimization-result postprocessing, not a demonstration of fault-tolerant quantum computing or commercial advantage.",
+        "title": "Classical decoding improves Rydberg-array optimization experiments",
         "url": "https://quantumzeitgeist.com/rydberg-atom-embeddings-for-combinatorial-optimization-problems/",
         "category": "quantum",
         "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-correct-errors-using-rydberg-atom-embeddings-1200x630.png"
@@ -70,8 +70,8 @@
       {
         "published": "2026-11-02",
         "source": "Quantum Zeitgeist",
-        "summary": "A University of Maryland team presents a framework for analyzing fault tolerance across dynamic quantum circuits, rather than only at individual points in a computation. The method uses subsystem spacetime codes to characterize circuit distances and identify how faults propagate.",
-        "title": "Maryland Team Charts Fault Tolerance In Quantum Circuits",
+        "summary": "An October 29 theoretical preprint constructs subsystem spacetime codes to characterize distances of Clifford circuits, locate distance loss in dynamical codes and analyze circuit composition. It offers an analysis framework, not a hardware demonstration or measured operating gain.",
+        "title": "Maryland preprint develops a framework for Clifford-circuit fault tolerance",
         "url": "https://quantumzeitgeist.com/quantum-circuits-fault-tolerance-spacetime-code-distances/",
         "category": "quantum",
         "image": "https://quantumzeitgeist.com/wp-content/uploads/maryland-team-charts-fault-tolerance-in-quantum-circuits-1-1200x630.png"
@@ -79,9 +79,9 @@
       {
         "published": "2026-11-02",
         "source": "Quantum X Labs / GlobeNewswire",
-        "summary": "Quantum X Labs says it demonstrated its Qatacomb encryption scheme on an IBM Heron r2 processor, using a 156-qubit machine to reconstruct an encrypted image. This is a company-reported demonstration, not independent confirmation of the scheme’s broader security claims.",
-        "title": "Quantum X Labs Announces Cyber Quantum Encryption Breakthrough in Demonstration with IBM Quantum Processor, Heron r2",
-        "url": "https://www.morningstar.com/news/globe-newswire/9867898/quantum-x-labs-announces-cyber-quantum-encryption-breakthrough-in-demonstration-with-ibm-quantum-processor-heron-r2",
+        "summary": "Quantum X Labs reports reconstructing an encrypted image with its Qatacomb scheme on an IBM Heron r2 processor. The November 2 company release describes a demonstration on a 156-qubit machine, not independently verified security, use of all 156 qubits, or IBM endorsement.",
+        "title": "Quantum X Labs reports Qatacomb encryption demonstration on IBM hardware",
+        "url": "https://www.globenewswire.com/news-release/2026/11/02/3393049/0/en/quantum-x-labs-announces-cyber-quantum-encryption-breakthrough-in-demonstration-with-ibm-quantum-processor-heron-r2.html",
         "category": "quantum",
         "image": ""
       }
