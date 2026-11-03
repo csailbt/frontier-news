@@ -70,7 +70,7 @@
       {
         "published": "2026-11-03",
         "source": "Quantum Zeitgeist",
-        "summary": "Researchers reported a fault-tolerant error-correction code for constant-excitation qubits, with simulations accounting for both stochastic and correlated coherent noise. The work evaluates a distance-3 code under circuit-level noise, but is a theoretical/simulation result rather than a hardware demonstration.",
+        "summary": "Researchers reported a fault-tolerant error-correction code for constant-excitation qubits, with simulations accounting for both stochastic and correlated coherent noise. The work evaluates a distance-3 code under circuit-level noise, but is a theoretical/simulation result rather than a hardware demonstration. The underlying preprint was first submitted July 14, 2025 and revised October 2, 2026.",
         "title": "Researchers Build Fault-tolerant Code For Constant-excitation Qubits",
         "url": "https://quantumzeitgeist.com/yang-fault-tolerant-code-qubits-constant/",
         "category": "quantum",
@@ -79,7 +79,7 @@
       {
         "published": "2026-11-03",
         "source": "Quantum Zeitgeist",
-        "summary": "A Technical University of Munich team reported a neural-network-based superconducting-qubit readout method that maintained high fidelity with shorter measurement traces. In the team’s reported tests, the approach reduced logical error rates by up to 26% at a 500-nanosecond readout duration.",
+        "summary": "A Technical University of Munich team reported a neural-network-based superconducting-qubit readout method that maintained high fidelity with shorter measurement traces. In the team’s reported tests, the approach reduced logical error rates by up to 26% at a 500-nanosecond readout duration. The underlying paper was submitted July 13, 2026 and accepted at IEEE QCE 2026.",
         "title": "Mamba Model Reduces Qubit Error Rate 26%",
         "url": "https://quantumzeitgeist.com/technical-munich-mamba-reduces-26-percent/",
         "category": "quantum",
@@ -88,7 +88,7 @@
       {
         "published": "2026-11-03",
         "source": "Quantum Zeitgeist",
-        "summary": "Researchers introduced a physics-informed denoising network for variational quantum algorithms, reporting performance comparable to zero-noise extrapolation while requiring roughly four to six times fewer circuit executions. The results are benchmark-based and address the measurement overhead of error mitigation.",
+        "summary": "Researchers introduced a physics-informed denoising network for variational quantum algorithms, reporting performance comparable to zero-noise extrapolation while requiring roughly four to six times fewer circuit executions. The results are benchmark-based and address the measurement overhead of error mitigation. The underlying preprint was submitted May 3, 2026.",
         "title": "New Network Cuts Circuit Executions For Quantum Error Mitigation",
         "url": "https://quantumzeitgeist.com/pidn-quantum-error-mitigation-network-cuts/",
         "category": "quantum",
@@ -97,7 +97,7 @@
       {
         "published": "2026-11-03",
         "source": "Quantum Zeitgeist",
-        "summary": "FaultScope, a classical simulator for quantum error-correction circuits, estimates logical error rates and their sensitivities from shared simulation data. Its authors say those sensitivities identify circuit components that contribute disproportionately to errors, potentially helping researchers target improvements.",
+        "summary": "FaultScope, a classical simulator for quantum error-correction circuits, estimates logical error rates and their sensitivities from shared simulation data. Its authors say those sensitivities identify circuit components that contribute disproportionately to errors, potentially helping researchers target improvements. The underlying preprint was submitted October 30, 2026.",
         "title": "FaultScope Software Pinpoints Errors In Quantum Error Correction Circuits",
         "url": "https://quantumzeitgeist.com/tsinghua-quantum-faultscope-software-pinpoints-errors/",
         "category": "quantum",
@@ -106,9 +106,9 @@
       {
         "published": "2026-11-02",
         "source": "Semiconductor Engineering",
-        "summary": "IBM Research reported meter-scale quantum interconnects linking two 120-qubit processors. The work focuses on connecting larger quantum processors, an important hardware challenge for scaling beyond a single chip.",
+        "summary": "IBM Research reported meter-scale quantum interconnects linking two 120-qubit processors. The work focuses on connecting larger quantum processors, an important hardware challenge for scaling beyond a single chip. The underlying preprint was submitted October 21, 2026; it reports four interconnects, not a demonstration of a computation using all 240 qubits.",
         "title": "Quantum Interconnects Link Two 120-Qubit Processors",
-        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-nov-3/",
+        "url": "https://semiengineering.com/quantum-interconnects-link-two-120-qubit-processors-ibm-research/",
         "category": "quantum",
         "image": "https://semiengineering.com/wp-content/uploads/iStock-1351473349-11-29-2023.jpeg?fit=1411%2C744&ssl=1"
       }
