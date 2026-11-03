@@ -1,89 +1,116 @@
 {
-  "updated": "2026-11-02T14:09:44.119Z",
+  "updated": "2026-11-03T14:07:41.015Z",
   "categories": {
     "ai": [
       {
-        "published": "2026-11-02",
-        "source": "Reuters / CNA",
-        "summary": "South Korea’s president sought parliamentary approval for a 2027 budget allocating 21.3 trillion won (about $16 billion) to AI and related semiconductor, physical-AI and data-center projects, nearly twice this year’s amount. This is a budget proposal, not evidence of completed spending or realized economic gains.",
-        "title": "South Korea’s Lee vows to make bold AI investment in record budget push",
-        "url": "https://www.channelnewsasia.com/east-asia/south-korea-vows-bold-ai-investment-budget-6512016",
+        "published": "2026-11-03",
+        "source": "Reuters",
+        "summary": "An adviser to the EU’s top court said Google’s Gemini could infringe publishers’ rights in some circumstances when it reproduces recognizable press content or accesses it by bypassing technical barriers. The opinion is not binding; it also says copyright rules permit using protected material to train large language models under the text-and-data-mining exception.",
+        "title": "Google AI chatbot's use of press items may infringe copyright rules, EU court adviser says",
+        "url": "https://www.reuters.com/5f374b32b07b/world/googles-use-press-by-ai-chatbot-may-infringe-copyright-rules-eu-court-adviser-2026-11-03/",
         "category": "ai",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-11/2026-11-02T044931Z_1_LYNXNPEMA10CA_RTROPTP_4_SOUTHKOREA-BUDGET-LEE.JPG"
+        "image": "https://www.reuters.com/resizer/v2/4AW6MKDCEZK6VO32BFY7DEJ5F4.jpg?auth=5d3fc28d0929c26c3da13380b7e999c6c4fcd011d1eae070e33ad770cbf0dcdb&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true"
       },
       {
         "published": "2026-11-02",
-        "source": "The Associated Press",
-        "summary": "Argentina’s President Javier Milei is pitching Patagonia for AI data centers, citing land, energy and proposed tax incentives alongside minimal AI regulation. AP reports that major projects remain plans, with investment incentives still awaiting Senate approval; the pitch is not evidence of operating capacity.",
-        "title": "Argentina's Milei pitches a regulation-free AI haven at the end of the world",
-        "url": "https://apnews.com/article/a8fab1ac14d1ea9c7992f8797099fb32",
+        "source": "Reuters",
+        "summary": "Anthropic’s amended IPO filing showed third-quarter revenue of $16.96 billion, up 47% from the prior quarter, and a net loss of $23.29 billion. It also disclosed roughly $895 billion in AI-computing commitments and warned that partners’ financing difficulties could delay or reduce promised capacity.",
+        "title": "Anthropic revenue growth slows, compute financing risks mount ahead of IPO",
+        "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3WD1SU?channel=frL012",
         "category": "ai",
         "image": ""
       },
       {
-        "published": "2026-10-31",
-        "source": "Samsung Semiconductor Newsroom",
-        "summary": "Samsung says about 50 executives met OpenAI CEO Sam Altman in Yongin on October 31 to discuss AI, business opportunities, decision-making and organizational operations. Its statement cites the companies’ earlier infrastructure memorandum as background but does not announce a new memory-supply agreement.",
-        "title": "Samsung hosts Sam Altman for executive AI-strategy discussion",
-        "url": "https://news.samsungsemiconductor.com/kr/삼성-샘-올트먼과-ai-혁신-간담회-개최/",
+        "published": "2026-11-03",
+        "source": "Reuters",
+        "summary": "A senior Chinese financial regulator said AI investment is overly concentrated, potentially crowding out traditional businesses by raising borrowing costs and increasing credit risks. The official called for policy frameworks to address the financial risks of the AI-driven shift.",
+        "title": "AI investment is becoming overly concentrated, Chinese official says",
+        "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3WE04W?channel=frL012",
         "category": "ai",
         "image": ""
+      },
+      {
+        "published": "2026-11-03",
+        "source": "Reuters",
+        "summary": "Marvell agreed to acquire Lumentum in a $115 billion stock transaction, including debt, betting that optical networking will be crucial to AI data-center expansion. The proposed deal would be one of the largest tech acquisitions on record.",
+        "title": "Driven by AI boom, chipmakers announce $115 billion merger",
+        "url": "https://indianexpress.com/shorts/technology/driven-by-ai-boom-chipmakers-announce-115-billion-merger-10948168/?ref=30secreads_hp",
+        "category": "ai",
+        "image": ""
+      },
+      {
+        "published": "2026-11-03",
+        "source": "Reuters",
+        "summary": "Financial leaders said AI-related infrastructure demand is driving companies to seek more capital, while warning that heavy spending could leave the industry exposed to a correction. Combined AI spending is projected to exceed $730 billion this year, according to the report.",
+        "title": "Big-ticket tech deals need to keep pace with AI boom but risks remain high, financial leaders say",
+        "url": "https://www.reuters.com/business/finance/blackstone-president-says-more-tech-sector-fundraising-ahead-keep-up-with-ai-2026-11-03/",
+        "category": "ai",
+        "image": ""
+      },
+      {
+        "published": "2026-11-03",
+        "source": "Reuters",
+        "summary": "Alibaba and rival Chinese e-commerce platforms are selling AI usage credits as a major Singles’ Day product category for the first time. Alibaba said sales of AI token plans rose sharply in October, while a livestream promotion sold 100,000 memberships to its QwenWork office AI service in half an hour.",
+        "title": "China's 'Lipstick King' touts AI tokens in first for Singles' Day festival",
+        "url": "https://www.newsobserver.com/living/article317896021.html",
+        "category": "ai",
+        "image": "https://www.mcclatchy-wires.com/public/incoming/zgwmdx/picture317896004/alternates/LANDSCAPE_1200/0004fc17-2ffc-4168-9239-b1cfd1909880"
       }
     ],
     "quantum": [
       {
-        "published": "2026-11-02",
-        "source": "The Quantum Insider",
-        "summary": "South Korea says it plans to connect its new Hangang supercomputer with a quantum computer in the first half of 2027. The proposed hybrid system is intended to combine high-performance computing and quantum processing.",
-        "title": "South Korea unveils Hangang supercomputer, plans quantum integration",
-        "url": "https://thequantuminsider.com/2026/11/02/south-korea-hangang-supercomputer-quantum-integration/",
-        "category": "quantum",
-        "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-02_18-23.png"
-      },
-      {
-        "published": "2026-11-02",
-        "source": "Quantum Zeitgeist",
-        "summary": "An October 28 preprint reports a decoder that exploits correlated atom losses in simulated [[144,12,12]] Gross-code circuits. Logical error rates fell by up to about 25 times versus a loss-unaware decoder, but about two times versus a loss-aware baseline; this is not a hardware demonstration.",
-        "title": "Simulation study improves loss-aware decoding for a quantum LDPC code",
-        "url": "https://quantumzeitgeist.com/neutral-atom-quantum-computing-loss-decoder/",
-        "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-cut-quantum-errors-25x-with-new-atom-1200x630.jpg"
-      },
-      {
-        "published": "2026-11-02",
-        "source": "Quantum Zeitgeist",
-        "summary": "An October 29 preprint benchmarks a neural decoder for high-rate quantum LDPC codes using simulated quantum-memory data. It reports lower amortized decoding time on an NVIDIA H200 GPU than CPU baselines; real-time single-shot operation and performance on experimental data remain next steps.",
-        "title": "Neural Triage decoder reports faster simulated quantum-memory decoding",
-        "url": "https://quantumzeitgeist.com/qldpc-codes-decoding-time-tenfold-reduction-method/",
-        "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-cut-qldpc-code-decoding-time-tenfold-with-new-method-1200x630.jpeg"
-      },
-      {
-        "published": "2026-11-02",
-        "source": "Quantum Zeitgeist",
-        "summary": "An October 29 preprint treats ancillary atoms in Rydberg-array optimization embeddings as a classical error-correcting code. Its decoder recovered exact solutions on QuEra Aquila in experiments of up to 107 atoms; this is optimization-result postprocessing, not a demonstration of fault-tolerant quantum computing or commercial advantage.",
-        "title": "Classical decoding improves Rydberg-array optimization experiments",
-        "url": "https://quantumzeitgeist.com/rydberg-atom-embeddings-for-combinatorial-optimization-problems/",
-        "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/researchers-correct-errors-using-rydberg-atom-embeddings-1200x630.png"
-      },
-      {
-        "published": "2026-11-02",
-        "source": "Quantum Zeitgeist",
-        "summary": "An October 29 theoretical preprint constructs subsystem spacetime codes to characterize distances of Clifford circuits, locate distance loss in dynamical codes and analyze circuit composition. It offers an analysis framework, not a hardware demonstration or measured operating gain.",
-        "title": "Maryland preprint develops a framework for Clifford-circuit fault tolerance",
-        "url": "https://quantumzeitgeist.com/quantum-circuits-fault-tolerance-spacetime-code-distances/",
-        "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/maryland-team-charts-fault-tolerance-in-quantum-circuits-1-1200x630.png"
-      },
-      {
-        "published": "2026-11-02",
-        "source": "Quantum X Labs / GlobeNewswire",
-        "summary": "Quantum X Labs reports reconstructing an encrypted image with its Qatacomb scheme on an IBM Heron r2 processor. The November 2 company release describes a demonstration on a 156-qubit machine, not independently verified security, use of all 156 qubits, or IBM endorsement.",
-        "title": "Quantum X Labs reports Qatacomb encryption demonstration on IBM hardware",
-        "url": "https://www.globenewswire.com/news-release/2026/11/02/3393049/0/en/quantum-x-labs-announces-cyber-quantum-encryption-breakthrough-in-demonstration-with-ibm-quantum-processor-heron-r2.html",
+        "published": "2026-11-03",
+        "source": "Tech.eu",
+        "summary": "German startup Quint Computing raised €9.1 million in a funding round led by Vsquared, alongside a €2.2 million European Innovation Council grant. It is developing superconducting chips intended to suppress errors in hardware; the company’s projected 100-fold reductions in system overhead are its own claims, not demonstrated results.",
+        "title": "Quint Computing raises €9.1M to scale quantum computing technology",
+        "url": "https://tech.eu/2026/11/03/quint-computing-raises-eur91m-to-scale-quantum-computing-technology//",
         "category": "quantum",
         "image": ""
+      },
+      {
+        "published": "2026-11-03",
+        "source": "Quantum Zeitgeist",
+        "summary": "Researchers reported a fault-tolerant error-correction code for constant-excitation qubits, with simulations accounting for both stochastic and correlated coherent noise. The work evaluates a distance-3 code under circuit-level noise, but is a theoretical/simulation result rather than a hardware demonstration.",
+        "title": "Researchers Build Fault-tolerant Code For Constant-excitation Qubits",
+        "url": "https://quantumzeitgeist.com/yang-fault-tolerant-code-qubits-constant/",
+        "category": "quantum",
+        "image": "https://quantumzeitgeist.com/wp-content/uploads/fault-tolerant-code-constant-excitation-qubits-1200x630.png"
+      },
+      {
+        "published": "2026-11-03",
+        "source": "Quantum Zeitgeist",
+        "summary": "A Technical University of Munich team reported a neural-network-based superconducting-qubit readout method that maintained high fidelity with shorter measurement traces. In the team’s reported tests, the approach reduced logical error rates by up to 26% at a 500-nanosecond readout duration.",
+        "title": "Mamba Model Reduces Qubit Error Rate 26%",
+        "url": "https://quantumzeitgeist.com/technical-munich-mamba-reduces-26-percent/",
+        "category": "quantum",
+        "image": "https://quantumzeitgeist.com/wp-content/uploads/mamba-reduces-qubit-error-rate-26-1200x630.png"
+      },
+      {
+        "published": "2026-11-03",
+        "source": "Quantum Zeitgeist",
+        "summary": "Researchers introduced a physics-informed denoising network for variational quantum algorithms, reporting performance comparable to zero-noise extrapolation while requiring roughly four to six times fewer circuit executions. The results are benchmark-based and address the measurement overhead of error mitigation.",
+        "title": "New Network Cuts Circuit Executions For Quantum Error Mitigation",
+        "url": "https://quantumzeitgeist.com/pidn-quantum-error-mitigation-network-cuts/",
+        "category": "quantum",
+        "image": "https://quantumzeitgeist.com/wp-content/uploads/network-cuts-circuit-executions-quantum-error-1200x630.jpeg"
+      },
+      {
+        "published": "2026-11-03",
+        "source": "Quantum Zeitgeist",
+        "summary": "FaultScope, a classical simulator for quantum error-correction circuits, estimates logical error rates and their sensitivities from shared simulation data. Its authors say those sensitivities identify circuit components that contribute disproportionately to errors, potentially helping researchers target improvements.",
+        "title": "FaultScope Software Pinpoints Errors In Quantum Error Correction Circuits",
+        "url": "https://quantumzeitgeist.com/tsinghua-quantum-faultscope-software-pinpoints-errors/",
+        "category": "quantum",
+        "image": "https://quantumzeitgeist.com/wp-content/uploads/faultscope-software-pinpoints-errors-quantum-error-1200x630.png"
+      },
+      {
+        "published": "2026-11-02",
+        "source": "Semiconductor Engineering",
+        "summary": "IBM Research reported meter-scale quantum interconnects linking two 120-qubit processors. The work focuses on connecting larger quantum processors, an important hardware challenge for scaling beyond a single chip.",
+        "title": "Quantum Interconnects Link Two 120-Qubit Processors",
+        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-nov-3/",
+        "category": "quantum",
+        "image": "https://semiengineering.com/wp-content/uploads/iStock-1351473349-11-29-2023.jpeg?fit=1411%2C744&ssl=1"
       }
     ]
   }
