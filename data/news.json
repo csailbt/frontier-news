@@ -1,116 +1,107 @@
 {
-  "updated": "2026-11-03T14:07:41.015Z",
+  "updated": "2026-11-04T14:09:33.976Z",
   "categories": {
     "ai": [
       {
-        "published": "2026-11-03",
+        "published": "2026-11-04",
         "source": "Reuters",
-        "summary": "An adviser to the EU’s top court said Google’s Gemini could infringe publishers’ rights in some circumstances when it reproduces recognizable press content or accesses it by bypassing technical barriers. The opinion is not binding; it also says copyright rules permit using protected material to train large language models under the text-and-data-mining exception.",
-        "title": "Google AI chatbot's use of press items may infringe copyright rules, EU court adviser says",
-        "url": "https://www.reuters.com/5f374b32b07b/world/googles-use-press-by-ai-chatbot-may-infringe-copyright-rules-eu-court-adviser-2026-11-03/",
-        "category": "ai",
-        "image": "https://www.reuters.com/resizer/v2/4AW6MKDCEZK6VO32BFY7DEJ5F4.jpg?auth=5d3fc28d0929c26c3da13380b7e999c6c4fcd011d1eae070e33ad770cbf0dcdb&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true"
-      },
-      {
-        "published": "2026-11-02",
-        "source": "Reuters",
-        "summary": "Anthropic’s amended IPO filing showed third-quarter revenue of $16.96 billion, up 47% from the prior quarter, and a net loss of $23.29 billion. It also disclosed roughly $895 billion in AI-computing commitments and warned that partners’ financing difficulties could delay or reduce promised capacity.",
-        "title": "Anthropic revenue growth slows, compute financing risks mount ahead of IPO",
-        "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3WD1SU?channel=frL012",
+        "summary": "AMD reported a $1.07 billion non-cash charge tied to warrants granted under chip-supply agreements with OpenAI and Meta. The deals illustrate how AI companies and chipmakers are increasingly using equity incentives to secure large, long-term purchases.",
+        "title": "AMD's OpenAI, Meta chip deals trigger $1 billion quarterly charge",
+        "url": "https://www.reuters.com/legal/transactional/amds-openai-meta-chip-deals-trigger-1-billion-quarterly-charge-2026-11-04/",
         "category": "ai",
         "image": ""
       },
       {
-        "published": "2026-11-03",
-        "source": "Reuters",
-        "summary": "A senior Chinese financial regulator said AI investment is overly concentrated, potentially crowding out traditional businesses by raising borrowing costs and increasing credit risks. The official called for policy frameworks to address the financial risks of the AI-driven shift.",
-        "title": "AI investment is becoming overly concentrated, Chinese official says",
-        "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3WE04W?channel=frL012",
+        "published": "2026-11-04",
+        "source": "The Verge",
+        "summary": "AMD reported record third-quarter revenue of $13.4 billion, with data-center sales reaching $8.5 billion. The company forecast about $17 billion in fourth-quarter revenue and said it expects revenue growth above 80% in 2027, driven chiefly by data centers.",
+        "title": "AMD rides data center riches to ‘largest and most profitable’ quarter in history",
+        "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+        "category": "ai",
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+      },
+      {
+        "published": "2026-11-04",
+        "source": "AI News (ShiftDelete.Net)",
+        "summary": "The outlet’s November 4 roundup reports that the New York Times and three academic publishers sued Brave over alleged AI-related content sales. The result is a notable escalation in disputes over the use and commercialization of publishers’ material by AI businesses.",
+        "title": "Brave Lawsuit: NYT and Three Papers Sue Over AI Content Sales",
+        "url": "https://shiftdelete.net/en/ai/76?",
+        "category": "ai",
+        "image": "https://shiftdelete.net/static/img/content/26-10/13/paylasim-karti.png"
+      },
+      {
+        "published": "2026-11-04",
+        "source": "Rackline News",
+        "summary": "India’s MeitY announced three AI models under the IndiaAI Mission: EKA-1, designed for math, coding and reasoning, and two smaller Dhīr models intended to run on phones without an internet connection. The initiative aims to support local-language and offline use and reduce reliance on foreign AI systems.",
+        "title": "IndiaAI Mission's three indigenous AI models target offline mobile access, secure use in critical sectors",
+        "url": "https://www.rackline.news/story/f1vggf?from=models&start=892ode",
         "category": "ai",
         "image": ""
       },
       {
-        "published": "2026-11-03",
-        "source": "Reuters",
-        "summary": "Marvell agreed to acquire Lumentum in a $115 billion stock transaction, including debt, betting that optical networking will be crucial to AI data-center expansion. The proposed deal would be one of the largest tech acquisitions on record.",
-        "title": "Driven by AI boom, chipmakers announce $115 billion merger",
-        "url": "https://indianexpress.com/shorts/technology/driven-by-ai-boom-chipmakers-announce-115-billion-merger-10948168/?ref=30secreads_hp",
+        "published": "2026-11-04",
+        "source": "AI News (AIB)",
+        "summary": "Anthropic announced FlashProve, a research prototype for cryptographically verifying that a specified model generated a response. The report says the system currently supports mixture-of-experts models and short outputs, so it is an early technical step rather than a general-purpose verification product.",
+        "title": "Anthropic Releases FlashProve Response Verification System",
+        "url": "https://www.aib.vote/en/news?keyword=server-cpu",
         "category": "ai",
         "image": ""
-      },
-      {
-        "published": "2026-11-03",
-        "source": "Reuters",
-        "summary": "Financial leaders said AI-related infrastructure demand is driving companies to seek more capital, while warning that heavy spending could leave the industry exposed to a correction. Combined AI spending is projected to exceed $730 billion this year, according to the report.",
-        "title": "Big-ticket tech deals need to keep pace with AI boom but risks remain high, financial leaders say",
-        "url": "https://www.reuters.com/business/finance/blackstone-president-says-more-tech-sector-fundraising-ahead-keep-up-with-ai-2026-11-03/",
-        "category": "ai",
-        "image": ""
-      },
-      {
-        "published": "2026-11-03",
-        "source": "Reuters",
-        "summary": "Alibaba and rival Chinese e-commerce platforms are selling AI usage credits as a major Singles’ Day product category for the first time. Alibaba said sales of AI token plans rose sharply in October, while a livestream promotion sold 100,000 memberships to its QwenWork office AI service in half an hour.",
-        "title": "China's 'Lipstick King' touts AI tokens in first for Singles' Day festival",
-        "url": "https://www.newsobserver.com/living/article317896021.html",
-        "category": "ai",
-        "image": "https://www.mcclatchy-wires.com/public/incoming/zgwmdx/picture317896004/alternates/LANDSCAPE_1200/0004fc17-2ffc-4168-9239-b1cfd1909880"
       }
     ],
     "quantum": [
       {
-        "published": "2026-11-03",
-        "source": "Tech.eu",
-        "summary": "German startup Quint Computing raised €9.1 million in a funding round led by Vsquared, alongside a €2.2 million European Innovation Council grant. It is developing superconducting chips intended to suppress errors in hardware; the company’s projected 100-fold reductions in system overhead are its own claims, not demonstrated results.",
-        "title": "Quint Computing raises €9.1M to scale quantum computing technology",
-        "url": "https://tech.eu/2026/11/03/quint-computing-raises-eur91m-to-scale-quantum-computing-technology//",
+        "published": "2026-11-04",
+        "source": "The Herald Business",
+        "summary": "IBM’s Quantum Nighthawk processor has been installed at Yonsei University, its first deployment at a customer institution’s own facility. The 120-programmable-qubit system is reported to run more than 100,000 circuits per second—25 times the throughput of the previous processor—and will support research and education.",
+        "title": "IBM installs latest quantum processor at Yonsei University, enabling 100,000 circuits per second",
+        "url": "https://biz.heraldcorp.com/article/10924924",
         "category": "quantum",
-        "image": ""
+        "image": "https://wimg.heraldcorp.com/news/cms/2026/11/04/news-p.v1.20261104.3408405f9b4740fab7713b278ba1366d_P1.jpg"
       },
       {
-        "published": "2026-11-03",
+        "published": "2026-11-04",
+        "source": "arXiv",
+        "summary": "NVIDIA researchers describe an AI-assisted method for mapping topological error-correction codes onto hardware, tested with an eight-qubit toric-code array on a superconducting device. The approach uses formal verification and compares ways of bounding unwanted interactions to help guide hardware design.",
+        "title": "Agentic Pipelines for Mapping Topological Codes to Quantum Hardware",
+        "url": "https://arxiv.org/abs/2611.03329v1",
+        "category": "quantum",
+        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+      },
+      {
+        "published": "2026-11-04",
         "source": "Quantum Zeitgeist",
-        "summary": "Researchers reported a fault-tolerant error-correction code for constant-excitation qubits, with simulations accounting for both stochastic and correlated coherent noise. The work evaluates a distance-3 code under circuit-level noise, but is a theoretical/simulation result rather than a hardware demonstration. The underlying preprint was first submitted July 14, 2025 and revised October 2, 2026.",
-        "title": "Researchers Build Fault-tolerant Code For Constant-excitation Qubits",
-        "url": "https://quantumzeitgeist.com/yang-fault-tolerant-code-qubits-constant/",
+        "summary": "Researchers at the University of Wisconsin–Madison introduced MBUndo, a compiler pass that automatically converts circuits to use measurement-based uncomputation. On 22 benchmarks, they report T-gate-count reductions above 36.5% compared with existing uncomputation synthesizers.",
+        "title": "Researchers Show How To Automatically Uncompute Ancilla Qubits With Measurements",
+        "url": "https://quantumzeitgeist.com/wisconsin-madison-automatically-uncompute-ancilla-qubits/",
         "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/fault-tolerant-code-constant-excitation-qubits-1200x630.png"
+        "image": "https://quantumzeitgeist.com/wp-content/uploads/automatically-uncompute-ancilla-qubits-measurements-1200x630.png"
       },
       {
-        "published": "2026-11-03",
+        "published": "2026-11-04",
         "source": "Quantum Zeitgeist",
-        "summary": "A Technical University of Munich team reported a neural-network-based superconducting-qubit readout method that maintained high fidelity with shorter measurement traces. In the team’s reported tests, the approach reduced logical error rates by up to 26% at a 500-nanosecond readout duration. The underlying paper was submitted July 13, 2026 and accepted at IEEE QCE 2026.",
-        "title": "Mamba Model Reduces Qubit Error Rate 26%",
-        "url": "https://quantumzeitgeist.com/technical-munich-mamba-reduces-26-percent/",
+        "summary": "A study estimates that quantum advantage for the examined spin SYK-dot-chain simulations could require dots with 15–21 or more qubits and two-qubit gate error rates around 10⁻⁶. The result highlights how demanding the hardware precision could be for this proposed application.",
+        "title": "A Quantum Advantage May Need Two-qubit Gates With 10⁻⁶ Error Rates",
+        "url": "https://quantumzeitgeist.com/tcg-crest-two-qubit-gates-10/",
         "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/mamba-reduces-qubit-error-rate-26-1200x630.png"
+        "image": "https://quantumzeitgeist.com/wp-content/uploads/quantum-advantage-need-two-qubit-gates-1200x630.png"
       },
       {
-        "published": "2026-11-03",
+        "published": "2026-11-04",
+        "source": "InfotechLead",
+        "summary": "German startup Quint Computing announced €9.1 million in initial financing to develop superconducting quantum processors intended to reduce computational errors through hardware architecture. The company says the funding will support chip engineering, hiring and initial industrial applications; its stated goal of cutting error-correction requirements remains a target, not a demonstrated result.",
+        "title": "VC funding deals: Syncere, Quint Computing, Tumbleweed",
+        "url": "https://infotechlead.com/tech/vc-funding-deals-syncere-quint-computing-tumbleweed-99428?amp=1",
+        "category": "quantum",
+        "image": "https://infotechlead.com/wp-content/uploads/2026/01/VC-funding-news-InfotechLead.com_.jpg"
+      },
+      {
+        "published": "2026-11-04",
         "source": "Quantum Zeitgeist",
-        "summary": "Researchers introduced a physics-informed denoising network for variational quantum algorithms, reporting performance comparable to zero-noise extrapolation while requiring roughly four to six times fewer circuit executions. The results are benchmark-based and address the measurement overhead of error mitigation. The underlying preprint was submitted May 3, 2026.",
-        "title": "New Network Cuts Circuit Executions For Quantum Error Mitigation",
-        "url": "https://quantumzeitgeist.com/pidn-quantum-error-mitigation-network-cuts/",
+        "summary": "A new library, eigenkit, provides a common interface for quantum algorithms across 12 simulators and hardware platforms, including IBM Heron and IQM Emerald. Its developers say tests show that the best processor can depend on the algorithm, underscoring the value of portability across systems.",
+        "title": "A Single Library Now Links Quantum Algorithms To IBM And IQM Hardware",
+        "url": "https://quantumzeitgeist.com/ibm-quantum-algorithms-hardware-single-library/",
         "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/network-cuts-circuit-executions-quantum-error-1200x630.jpeg"
-      },
-      {
-        "published": "2026-11-03",
-        "source": "Quantum Zeitgeist",
-        "summary": "FaultScope, a classical simulator for quantum error-correction circuits, estimates logical error rates and their sensitivities from shared simulation data. Its authors say those sensitivities identify circuit components that contribute disproportionately to errors, potentially helping researchers target improvements. The underlying preprint was submitted October 30, 2026.",
-        "title": "FaultScope Software Pinpoints Errors In Quantum Error Correction Circuits",
-        "url": "https://quantumzeitgeist.com/tsinghua-quantum-faultscope-software-pinpoints-errors/",
-        "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/faultscope-software-pinpoints-errors-quantum-error-1200x630.png"
-      },
-      {
-        "published": "2026-11-02",
-        "source": "Semiconductor Engineering",
-        "summary": "IBM Research reported meter-scale quantum interconnects linking two 120-qubit processors. The work focuses on connecting larger quantum processors, an important hardware challenge for scaling beyond a single chip. The underlying preprint was submitted October 21, 2026; it reports four interconnects, not a demonstration of a computation using all 240 qubits.",
-        "title": "Quantum Interconnects Link Two 120-Qubit Processors",
-        "url": "https://semiengineering.com/quantum-interconnects-link-two-120-qubit-processors-ibm-research/",
-        "category": "quantum",
-        "image": "https://semiengineering.com/wp-content/uploads/iStock-1351473349-11-29-2023.jpeg?fit=1411%2C744&ssl=1"
+        "image": "https://quantumzeitgeist.com/wp-content/uploads/single-library-links-quantum-algorithms-ibm-1200x630.png"
       }
     ]
   }
