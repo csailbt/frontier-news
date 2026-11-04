@@ -18,32 +18,32 @@
         "title": "AMD rides data center riches to ‘largest and most profitable’ quarter in history",
         "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
         "category": "ai",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200"
+        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
       },
       {
-        "published": "2026-11-04",
-        "source": "AI News (ShiftDelete.Net)",
-        "summary": "The outlet’s November 4 roundup reports that the New York Times and three academic publishers sued Brave over alleged AI-related content sales. The result is a notable escalation in disputes over the use and commercialization of publishers’ material by AI businesses.",
-        "title": "Brave Lawsuit: NYT and Three Papers Sue Over AI Content Sales",
-        "url": "https://shiftdelete.net/en/ai/76?",
-        "category": "ai",
-        "image": "https://shiftdelete.net/static/img/content/26-10/13/paylasim-karti.png"
-      },
-      {
-        "published": "2026-11-04",
-        "source": "Rackline News",
-        "summary": "India’s MeitY announced three AI models under the IndiaAI Mission: EKA-1, designed for math, coding and reasoning, and two smaller Dhīr models intended to run on phones without an internet connection. The initiative aims to support local-language and offline use and reduce reliance on foreign AI systems.",
-        "title": "IndiaAI Mission's three indigenous AI models target offline mobile access, secure use in critical sectors",
-        "url": "https://www.rackline.news/story/f1vggf?from=models&start=892ode",
+        "published": "2026-11-02",
+        "source": "The Verge",
+        "summary": "The New York Times and, in a separate lawsuit, the New York Daily News, Chicago Tribune and Orlando Sentinel sued Brave on November 2. The complaints allege unauthorized use of journalism and sales of content to AI companies; these are allegations, not court findings.",
+        "title": "New York Times and three newspapers sue Brave over alleged AI content scraping",
+        "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
         "category": "ai",
         "image": ""
       },
       {
-        "published": "2026-11-04",
-        "source": "AI News (AIB)",
-        "summary": "Anthropic announced FlashProve, a research prototype for cryptographically verifying that a specified model generated a response. The report says the system currently supports mixture-of-experts models and short outputs, so it is an early technical step rather than a general-purpose verification product.",
-        "title": "Anthropic Releases FlashProve Response Verification System",
-        "url": "https://www.aib.vote/en/news?keyword=server-cpu",
+        "published": "2026-11-03",
+        "source": "India Press Information Bureau",
+        "summary": "MeitY released EKA-1 and Dhīr 2B and 5B on November 3 under the IndiaAI Mission. The government describes EKA-1 as a multilingual model for math, code and reasoning, and the smaller Dhīr models as offline-capable assistants, including on-device mobile use. These are launch claims, not independently verified performance results.",
+        "title": "IndiaAI Mission's three indigenous AI models target offline mobile access, secure use in critical sectors",
+        "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2332315&lang=2&reg=48",
+        "category": "ai",
+        "image": ""
+      },
+      {
+        "published": "2026-11-02",
+        "source": "Anthropic research",
+        "summary": "Anthropic's November 2 research release describes FlashProve, a prototype for cryptographically checking that committed model weights produced an output. Its demonstrated mixture-of-experts configuration carries substantial proving overhead; this is intermediate research, not a general-purpose production verification service.",
+        "title": "Anthropic releases FlashProve inference-verification prototype",
+        "url": "https://www.anthropic.com/research/provable-inference",
         "category": "ai",
         "image": ""
       }
@@ -52,16 +52,16 @@
       {
         "published": "2026-11-04",
         "source": "The Herald Business",
-        "summary": "IBM’s Quantum Nighthawk processor has been installed at Yonsei University, its first deployment at a customer institution’s own facility. The 120-programmable-qubit system is reported to run more than 100,000 circuits per second—25 times the throughput of the previous processor—and will support research and education.",
+        "summary": "IBM’s Quantum Nighthawk processor has been installed at Yonsei University, its first deployment at a customer institution’s own facility. IBM reports 120 programmable qubits and more than 100,000 circuits per second, with 25 times the circuit throughput of Eagle. This is a vendor-reported hardware capability, not demonstrated commercial advantage.",
         "title": "IBM installs latest quantum processor at Yonsei University, enabling 100,000 circuits per second",
         "url": "https://biz.heraldcorp.com/article/10924924",
         "category": "quantum",
         "image": "https://wimg.heraldcorp.com/news/cms/2026/11/04/news-p.v1.20261104.3408405f9b4740fab7713b278ba1366d_P1.jpg"
       },
       {
-        "published": "2026-11-04",
-        "source": "arXiv",
-        "summary": "NVIDIA researchers describe an AI-assisted method for mapping topological error-correction codes onto hardware, tested with an eight-qubit toric-code array on a superconducting device. The approach uses formal verification and compares ways of bounding unwanted interactions to help guide hardware design.",
+        "published": "2026-11-02",
+        "source": "arXiv preprint",
+        "summary": "In a preprint submitted November 2, NVIDIA researchers describe an AI-assisted, Lean-verified workflow linking error-correction code spaces to a superconducting device model. The eight-qubit demonstration is a modeled hardware-engineering result, not an experimental QPU performance or commercial-advantage claim.",
         "title": "Agentic Pipelines for Mapping Topological Codes to Quantum Hardware",
         "url": "https://arxiv.org/abs/2611.03329v1",
         "category": "quantum",
@@ -70,7 +70,7 @@
       {
         "published": "2026-11-04",
         "source": "Quantum Zeitgeist",
-        "summary": "Researchers at the University of Wisconsin–Madison introduced MBUndo, a compiler pass that automatically converts circuits to use measurement-based uncomputation. On 22 benchmarks, they report T-gate-count reductions above 36.5% compared with existing uncomputation synthesizers.",
+        "summary": "Coverage of a November 2 preprint describes MBUndo, a compiler pass that converts circuits to measurement-based uncomputation. On 22 benchmarks, the authors report T-gate-count reductions above 36.5% compared with existing uncomputation synthesizers. This is a compiler benchmark, not a measured production speedup.",
         "title": "Researchers Show How To Automatically Uncompute Ancilla Qubits With Measurements",
         "url": "https://quantumzeitgeist.com/wisconsin-madison-automatically-uncompute-ancilla-qubits/",
         "category": "quantum",
@@ -79,7 +79,7 @@
       {
         "published": "2026-11-04",
         "source": "Quantum Zeitgeist",
-        "summary": "A study estimates that quantum advantage for the examined spin SYK-dot-chain simulations could require dots with 15–21 or more qubits and two-qubit gate error rates around 10⁻⁶. The result highlights how demanding the hardware precision could be for this proposed application.",
+        "summary": "A preprint first submitted November 2 and revised November 3 estimates that advantage for the examined spin SYK-dot-chain ground-state simulations could require dots of roughly 15–21 or more qubits and two-qubit gate errors around 10⁻⁶. This is a workload-specific resource estimate, not a universal threshold for quantum advantage.",
         "title": "A Quantum Advantage May Need Two-qubit Gates With 10⁻⁶ Error Rates",
         "url": "https://quantumzeitgeist.com/tcg-crest-two-qubit-gates-10/",
         "category": "quantum",
@@ -88,7 +88,7 @@
       {
         "published": "2026-11-04",
         "source": "InfotechLead",
-        "summary": "German startup Quint Computing announced €9.1 million in initial financing to develop superconducting quantum processors intended to reduce computational errors through hardware architecture. The company says the funding will support chip engineering, hiring and initial industrial applications; its stated goal of cutting error-correction requirements remains a target, not a demonstrated result.",
+        "summary": "Quint Computing's €9.1 million initial financing was announced November 3 to support development of superconducting quantum processors. Investor Quantonation separately reports a €2.2 million EIC grant. The proposed reduction in error-correction overhead is a development goal, not a demonstrated commercial result.",
         "title": "VC funding deals: Syncere, Quint Computing, Tumbleweed",
         "url": "https://infotechlead.com/tech/vc-funding-deals-syncere-quint-computing-tumbleweed-99428?amp=1",
         "category": "quantum",
@@ -97,7 +97,7 @@
       {
         "published": "2026-11-04",
         "source": "Quantum Zeitgeist",
-        "summary": "A new library, eigenkit, provides a common interface for quantum algorithms across 12 simulators and hardware platforms, including IBM Heron and IQM Emerald. Its developers say tests show that the best processor can depend on the algorithm, underscoring the value of portability across systems.",
+        "summary": "Coverage of a November 2 preprint introduces eigenkit, a common interface across 12 simulator and hardware execution providers. The authors report experiments on IBM Heron and IQM Emerald showing that processor suitability depends on the algorithm and its match to hardware connectivity. This supports portability, not general quantum advantage.",
         "title": "A Single Library Now Links Quantum Algorithms To IBM And IQM Hardware",
         "url": "https://quantumzeitgeist.com/ibm-quantum-algorithms-hardware-single-library/",
         "category": "quantum",
