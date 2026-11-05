@@ -13,19 +13,19 @@
       },
       {
         "published": "2026-11-04",
-        "source": "Reuters",
+        "source": "OpenAI research",
         "summary": "OpenAI said an automated research pipeline using an upcoming cyber model identified 948 distinct Linux-kernel local privilege-escalation vulnerabilities and generated candidate patches. The company said the work involved validation in isolated virtual machines and that reports were being shared with maintainers.",
-        "title": "OpenAI says pipeline found and exploited 948 Linux flaws",
-        "url": "https://www.siliconreport.com/openai-says-pipeline-found-and-exploited-948-linux-flaws",
+        "title": "OpenAI reports 948 Linux privilege-escalation vulnerabilities in research run",
+        "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
         "category": "ai",
-        "image": "https://www.siliconreport.com/og/openai-says-pipeline-found-and-exploited-948-linux-flaws"
+        "image": ""
       },
       {
         "published": "2026-11-05",
         "source": "Reuters",
         "summary": "AI-driven demand for semiconductor production is boosting business for chemical and industrial-gas suppliers, Reuters reported, citing recent company results and investment plans. The growth reflects the expanding manufacturing supply chain behind AI chips.",
         "title": "AI chip demand powers third-quarter growth at chemical, industrial gas makers",
-        "url": "https://finance.yahoo.com/technology/ai/articles/ai-chip-demand-powers-third-114207413.html",
+        "url": "https://www.reuters.com/world/asia-pacific/ai-chip-demand-powers-third-quarter-growth-chemical-industrial-gas-makers-2026-11-05/",
         "category": "ai",
         "image": ""
       },
@@ -41,18 +41,18 @@
       {
         "published": "2026-11-04",
         "source": "Reuters",
-        "summary": "A Reuters report on U.S. midterm ballot measures examined voters’ concerns about AI in classrooms and technology policy. It also noted Google’s decision to make Gemini off by default for school-student accounts, while allowing administrators to opt in.",
+        "summary": "Reuters' November 4 newsletter reported that 40 of 41 data-center ballot measures went against expansion, alongside state-level calls for tighter permitting. It separately covered Google's move to turn Gemini off by default for school-student accounts, with administrators able to opt in.",
         "title": "In midterm ballot measures, voters send a message to AI builders",
         "url": "https://www.reuters.com/technology/artificial-intelligence/midterm-ballot-measures-voters-send-message-ai-builders-2026-11-04/",
         "category": "ai",
         "image": ""
       },
       {
-        "published": "2026-11-05",
-        "source": "The Daily Stack",
-        "summary": "A roundup reported that Google DeepMind unveiled Genie 4, a research system that generates interactive virtual worlds from text instructions in real time. The report describes the work as early-stage, with limitations in long predictions and gaps between generated environments and reality.",
-        "title": "Google DeepMind unveils Genie 4 world model",
-        "url": "https://www.aib.vote/en/news?keyword=agentbase",
+        "published": "2026-10-27",
+        "source": "Google DeepMind",
+        "summary": "Google DeepMind announced Genie 4 on October 27 as a research preview for trusted testers. The model generates interactive worlds with audio and real-time steering, but Google reports continuing limitations in physical interactions, object permanence and long-term consistency.",
+        "title": "Google DeepMind previews Genie 4 interactive world model",
+        "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
         "category": "ai",
         "image": ""
       }
@@ -70,18 +70,18 @@
       {
         "published": "2026-11-05",
         "source": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
-        "summary": "Quint Computing, a startup founded by FAU researchers, raised €9.1 million in seed funding to develop quantum processors with an architecture designed to reduce error-correction overhead. The university says the financing is the largest seed round to date for a German quantum-computing company.",
+        "summary": "FAU's November 5 report covers Quint Computing's €9.1 million funding round, first announced November 3. The startup plans hardware that reduces quantum error-correction overhead; those savings remain a development goal. The university describes the financing as Germany's largest quantum-computing seed round to date.",
         "title": "Quantum computing: Over 9 million euros for FAU start-up",
         "url": "https://www.fau.eu/2026/11/news/quantum-computing-over-9-million-euros-for-fau-start-up/",
         "category": "quantum",
         "image": "https://www.fau.eu/wp-content/uploads/sites/6/2026/11/KN4A8576-scaled.jpg"
       },
       {
-        "published": "2026-11-05",
-        "source": "Cryptology ePrint Archive",
-        "summary": "A preprint by researchers including members of Alice & Bob estimates that a future system with 22,593 superconducting cat qubits could factor an RSA-2048 key in about 3.14 days under its assumptions. The result is a theoretical resource estimate, not a demonstration that such a machine exists or can currently break RSA encryption.",
-        "title": "Factoring RSA Integers with the Cat Qubit Code",
-        "url": "https://eprint.iacr.org/",
+        "published": "2026-10-28",
+        "source": "Cryptology ePrint Archive (preprint)",
+        "summary": "An October 28 preprint estimates that 22,593 superconducting cat qubits could factor RSA-2048 in 3.14 days, assuming a 1-microsecond error-correction cycle, specified phase-flip noise and negligible bit flips. This is a theoretical resource estimate for future hardware, not a demonstration of an RSA break.",
+        "title": "Shor's algorithm compiled on cat qubits: 22 593 qubits for RSA-2048 in 3.14 days",
+        "url": "https://eprint.iacr.org/2026/2665",
         "category": "quantum",
         "image": "https://eprint.iacr.org/img/apple-touch-icon-180x180.png"
       },
