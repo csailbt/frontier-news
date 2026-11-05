@@ -1,107 +1,116 @@
 {
-  "updated": "2026-11-04T14:09:33.976Z",
+  "updated": "2026-11-05T14:17:38.459Z",
   "categories": {
     "ai": [
       {
+        "published": "2026-11-05",
+        "source": "Reuters",
+        "summary": "Reuters reported that roughly 600,000 Nvidia H200 chips are being held in Hong Kong while China withholds approval for large-scale imports. The situation highlights tensions between Chinese demand for AI computing and concerns about reliance on U.S. technology.",
+        "title": "Nvidia chips pile up in Hong Kong as China withholds import approval",
+        "url": "https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05/",
+        "category": "ai",
+        "image": ""
+      },
+      {
         "published": "2026-11-04",
         "source": "Reuters",
-        "summary": "AMD reported a $1.07 billion non-cash charge tied to warrants granted under chip-supply agreements with OpenAI and Meta. The deals illustrate how AI companies and chipmakers are increasingly using equity incentives to secure large, long-term purchases.",
-        "title": "AMD's OpenAI, Meta chip deals trigger $1 billion quarterly charge",
-        "url": "https://www.reuters.com/legal/transactional/amds-openai-meta-chip-deals-trigger-1-billion-quarterly-charge-2026-11-04/",
+        "summary": "OpenAI said an automated research pipeline using an upcoming cyber model identified 948 distinct Linux-kernel local privilege-escalation vulnerabilities and generated candidate patches. The company said the work involved validation in isolated virtual machines and that reports were being shared with maintainers.",
+        "title": "OpenAI says pipeline found and exploited 948 Linux flaws",
+        "url": "https://www.siliconreport.com/openai-says-pipeline-found-and-exploited-948-linux-flaws",
+        "category": "ai",
+        "image": "https://www.siliconreport.com/og/openai-says-pipeline-found-and-exploited-948-linux-flaws"
+      },
+      {
+        "published": "2026-11-05",
+        "source": "Reuters",
+        "summary": "AI-driven demand for semiconductor production is boosting business for chemical and industrial-gas suppliers, Reuters reported, citing recent company results and investment plans. The growth reflects the expanding manufacturing supply chain behind AI chips.",
+        "title": "AI chip demand powers third-quarter growth at chemical, industrial gas makers",
+        "url": "https://finance.yahoo.com/technology/ai/articles/ai-chip-demand-powers-third-114207413.html",
+        "category": "ai",
+        "image": ""
+      },
+      {
+        "published": "2026-11-05",
+        "source": "Reuters",
+        "summary": "Reuters reported that companies and executives say AI is accelerating cyber threats and making attacks more sophisticated, intensifying pressure to strengthen defenses. The report cites incidents and security concerns across multiple sectors.",
+        "title": "AI sharpens cat-and-mouse hacking battle as companies strengthen defences",
+        "url": "https://www.reuters.com/legal/government/ai-sharpens-cat-and-mouse-hacking-battle-companies-strengthen-defences-2026-11-05/",
         "category": "ai",
         "image": ""
       },
       {
         "published": "2026-11-04",
-        "source": "The Verge",
-        "summary": "AMD reported record third-quarter revenue of $13.4 billion, with data-center sales reaching $8.5 billion. The company forecast about $17 billion in fourth-quarter revenue and said it expects revenue growth above 80% in 2027, driven chiefly by data centers.",
-        "title": "AMD rides data center riches to ‘largest and most profitable’ quarter in history",
-        "url": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
-        "category": "ai",
-        "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-      },
-      {
-        "published": "2026-11-02",
-        "source": "The Verge",
-        "summary": "The New York Times and, in a separate lawsuit, the New York Daily News, Chicago Tribune and Orlando Sentinel sued Brave on November 2. The complaints allege unauthorized use of journalism and sales of content to AI companies; these are allegations, not court findings.",
-        "title": "New York Times and three newspapers sue Brave over alleged AI content scraping",
-        "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+        "source": "Reuters",
+        "summary": "A Reuters report on U.S. midterm ballot measures examined voters’ concerns about AI in classrooms and technology policy. It also noted Google’s decision to make Gemini off by default for school-student accounts, while allowing administrators to opt in.",
+        "title": "In midterm ballot measures, voters send a message to AI builders",
+        "url": "https://www.reuters.com/technology/artificial-intelligence/midterm-ballot-measures-voters-send-message-ai-builders-2026-11-04/",
         "category": "ai",
         "image": ""
       },
       {
-        "published": "2026-11-03",
-        "source": "India Press Information Bureau",
-        "summary": "MeitY released EKA-1 and Dhīr 2B and 5B on November 3 under the IndiaAI Mission. The government describes EKA-1 as a multilingual model for math, code and reasoning, and the smaller Dhīr models as offline-capable assistants, including on-device mobile use. These are launch claims, not independently verified performance results.",
-        "title": "IndiaAI Mission's three indigenous AI models target offline mobile access, secure use in critical sectors",
-        "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2332315&lang=2&reg=48",
-        "category": "ai",
-        "image": ""
-      },
-      {
-        "published": "2026-11-02",
-        "source": "Anthropic research",
-        "summary": "Anthropic's November 2 research release describes FlashProve, a prototype for cryptographically checking that committed model weights produced an output. Its demonstrated mixture-of-experts configuration carries substantial proving overhead; this is intermediate research, not a general-purpose production verification service.",
-        "title": "Anthropic releases FlashProve inference-verification prototype",
-        "url": "https://www.anthropic.com/research/provable-inference",
+        "published": "2026-11-05",
+        "source": "The Daily Stack",
+        "summary": "A roundup reported that Google DeepMind unveiled Genie 4, a research system that generates interactive virtual worlds from text instructions in real time. The report describes the work as early-stage, with limitations in long predictions and gaps between generated environments and reality.",
+        "title": "Google DeepMind unveils Genie 4 world model",
+        "url": "https://www.aib.vote/en/news?keyword=agentbase",
         "category": "ai",
         "image": ""
       }
     ],
     "quantum": [
       {
-        "published": "2026-11-04",
-        "source": "The Herald Business",
-        "summary": "IBM’s Quantum Nighthawk processor has been installed at Yonsei University, its first deployment at a customer institution’s own facility. IBM reports 120 programmable qubits and more than 100,000 circuits per second, with 25 times the circuit throughput of Eagle. This is a vendor-reported hardware capability, not demonstrated commercial advantage.",
-        "title": "IBM installs latest quantum processor at Yonsei University, enabling 100,000 circuits per second",
-        "url": "https://biz.heraldcorp.com/article/10924924",
+        "published": "2026-11-05",
+        "source": "Reuters",
+        "summary": "IBM, AMD and Oak Ridge National Laboratory launched a platform combining IBM quantum processors with Oak Ridge high-performance computing to test quantum error-correction methods. The effort is intended to speed research toward the U.S. Department of Energy’s goal of a scientifically useful quantum computer by late 2028.",
+        "title": "IBM, AMD, Oak Ridge launch quantum error-correction platform",
+        "url": "https://www.reuters.com/technology/ibm-amd-oak-ridge-national-laboratory-launch-quantum-error-correction-platform-2026-11-05/",
         "category": "quantum",
-        "image": "https://wimg.heraldcorp.com/news/cms/2026/11/04/news-p.v1.20261104.3408405f9b4740fab7713b278ba1366d_P1.jpg"
+        "image": ""
       },
       {
-        "published": "2026-11-02",
-        "source": "arXiv preprint",
-        "summary": "In a preprint submitted November 2, NVIDIA researchers describe an AI-assisted, Lean-verified workflow linking error-correction code spaces to a superconducting device model. The eight-qubit demonstration is a modeled hardware-engineering result, not an experimental QPU performance or commercial-advantage claim.",
-        "title": "Agentic Pipelines for Mapping Topological Codes to Quantum Hardware",
-        "url": "https://arxiv.org/abs/2611.03329v1",
+        "published": "2026-11-05",
+        "source": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+        "summary": "Quint Computing, a startup founded by FAU researchers, raised €9.1 million in seed funding to develop quantum processors with an architecture designed to reduce error-correction overhead. The university says the financing is the largest seed round to date for a German quantum-computing company.",
+        "title": "Quantum computing: Over 9 million euros for FAU start-up",
+        "url": "https://www.fau.eu/2026/11/news/quantum-computing-over-9-million-euros-for-fau-start-up/",
         "category": "quantum",
-        "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        "image": "https://www.fau.eu/wp-content/uploads/sites/6/2026/11/KN4A8576-scaled.jpg"
       },
       {
-        "published": "2026-11-04",
-        "source": "Quantum Zeitgeist",
-        "summary": "Coverage of a November 2 preprint describes MBUndo, a compiler pass that converts circuits to measurement-based uncomputation. On 22 benchmarks, the authors report T-gate-count reductions above 36.5% compared with existing uncomputation synthesizers. This is a compiler benchmark, not a measured production speedup.",
-        "title": "Researchers Show How To Automatically Uncompute Ancilla Qubits With Measurements",
-        "url": "https://quantumzeitgeist.com/wisconsin-madison-automatically-uncompute-ancilla-qubits/",
+        "published": "2026-11-05",
+        "source": "Cryptology ePrint Archive",
+        "summary": "A preprint by researchers including members of Alice & Bob estimates that a future system with 22,593 superconducting cat qubits could factor an RSA-2048 key in about 3.14 days under its assumptions. The result is a theoretical resource estimate, not a demonstration that such a machine exists or can currently break RSA encryption.",
+        "title": "Factoring RSA Integers with the Cat Qubit Code",
+        "url": "https://eprint.iacr.org/",
         "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/automatically-uncompute-ancilla-qubits-measurements-1200x630.png"
+        "image": "https://eprint.iacr.org/img/apple-touch-icon-180x180.png"
       },
       {
-        "published": "2026-11-04",
-        "source": "Quantum Zeitgeist",
-        "summary": "A preprint first submitted November 2 and revised November 3 estimates that advantage for the examined spin SYK-dot-chain ground-state simulations could require dots of roughly 15–21 or more qubits and two-qubit gate errors around 10⁻⁶. This is a workload-specific resource estimate, not a universal threshold for quantum advantage.",
-        "title": "A Quantum Advantage May Need Two-qubit Gates With 10⁻⁶ Error Rates",
-        "url": "https://quantumzeitgeist.com/tcg-crest-two-qubit-gates-10/",
+        "published": "2026-11-05",
+        "source": "IQM Quantum Computers",
+        "summary": "IQM reported €42.2 million in new third-quarter orders and a €102.5 million backlog, up 52% from the start of 2026. Its largest deal was a €33 million contract for a system intended to support error-correction research and logical qubits at CSC’s LUMI AI Factory in Finland.",
+        "title": "Interim Report for Q3 2026",
+        "url": "https://www.globenewswire.com/news-release/2026/11/05/3396017/0/en/interim-report-for-q3-2026.html",
         "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/quantum-advantage-need-two-qubit-gates-1200x630.png"
+        "image": "https://ml-eu.globenewswire.com/Resource/Download/109973e5-dcc5-40fa-9d5b-a761f8a4195a"
       },
       {
-        "published": "2026-11-04",
-        "source": "InfotechLead",
-        "summary": "Quint Computing's €9.1 million initial financing was announced November 3 to support development of superconducting quantum processors. Investor Quantonation separately reports a €2.2 million EIC grant. The proposed reduction in error-correction overhead is a development goal, not a demonstrated commercial result.",
-        "title": "VC funding deals: Syncere, Quint Computing, Tumbleweed",
-        "url": "https://infotechlead.com/tech/vc-funding-deals-syncere-quint-computing-tumbleweed-99428?amp=1",
+        "published": "2026-11-05",
+        "source": "Quantinuum / PR Newswire",
+        "summary": "Quantinuum outlined a roadmap for its Nexus developer platform, aiming to add capabilities for building and running applications on increasingly error-corrected hardware. The company’s roadmap extends through Apollo, which it says it plans as a universal fault-tolerant quantum computer for 2029.",
+        "title": "Quantinuum Unveils Nexus Roadmap to Deliver the First Developer Platform Designed for the Fault-Tolerant Quantum Era",
+        "url": "https://finance.yahoo.com/technology/ai/articles/quantinuum-unveils-nexus-roadmap-deliver-130000676.html",
         "category": "quantum",
-        "image": "https://infotechlead.com/wp-content/uploads/2026/01/VC-funding-news-InfotechLead.com_.jpg"
+        "image": ""
       },
       {
-        "published": "2026-11-04",
-        "source": "Quantum Zeitgeist",
-        "summary": "Coverage of a November 2 preprint introduces eigenkit, a common interface across 12 simulator and hardware execution providers. The authors report experiments on IBM Heron and IQM Emerald showing that processor suitability depends on the algorithm and its match to hardware connectivity. This supports portability, not general quantum advantage.",
-        "title": "A Single Library Now Links Quantum Algorithms To IBM And IQM Hardware",
-        "url": "https://quantumzeitgeist.com/ibm-quantum-algorithms-hardware-single-library/",
+        "published": "2026-11-05",
+        "source": "Horizon Quantum / Business Wire",
+        "summary": "Horizon Quantum signed a non-binding letter of intent to acquire Singapore-based Entropica Labs for an anticipated $27 million in shares, subject to due diligence and definitive agreements. Entropica develops software for fault-tolerant quantum computing, including its Loom compiler.",
+        "title": "Horizon Quantum Signs Non-Binding Letter of Intent to Acquire Entropica Labs",
+        "url": "https://www.businesswire.com/news/home/20261105557183/en/Horizon-Quantum-Signs-Non-Binding-Letter-of-Intent-to-Acquire-Entropica-Labs",
         "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/single-library-links-quantum-algorithms-ibm-1200x630.png"
+        "image": ""
       }
     ]
   }
