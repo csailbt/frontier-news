@@ -59,7 +59,7 @@
         "image": "https://quantumzeitgeist.com/wp-content/uploads/parityqcs-quera-aquila-qpu-runs-optimisation-with-107-1200x630.png"
       },
       {
-        "published": "2026-11-07",
+        "published": "2026-11-06",
         "source": "Chicago Tribune",
         "summary": "IBM unveiled a Quantum System Two at Hyde Park Labs, its first quantum computer installed in Illinois. The system is expected to support the National Quantum Algorithm Center and will eventually move to the state’s planned quantum park.",
         "title": "IBM unveils its first quantum computer in Illinois at Hyde Park Labs",
@@ -68,11 +68,11 @@
         "image": "https://www.chicagotribune.com/wp-content/uploads/2026/11/CTC-L-ibm-quantum-computer-019_268749213.jpg?w=5000&#038;h=3333"
       },
       {
-        "published": "2026-11-07",
+        "published": "2026-11-06",
         "source": "The Register",
         "summary": "IBM, Oak Ridge National Laboratory and AMD launched a platform combining IBM’s 120-qubit Quantum Nighthawk processor with Oak Ridge’s Umbra high-performance computing system. The collaboration will let researchers test quantum error-correction approaches alongside classical CPUs and GPUs; the announcement describes a research platform, not a demonstrated performance breakthrough.",
         "title": "Oak Ridge labs gets hybrid quantum-HPC system to test qubit error correction",
-        "url": "https://www.theregister.com/tag/oak%20ridge",
+        "url": "https://assets.theregister.com/2026/11/06/202614/",
         "category": "quantum",
         "image": "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg"
       }
