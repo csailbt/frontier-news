@@ -1,116 +1,80 @@
 {
-  "updated": "2026-11-06T14:09:07.834Z",
+  "updated": "2026-11-07T13:46:45.447Z",
   "categories": {
     "ai": [
       {
-        "published": "2026-11-06",
+        "published": "2026-11-07",
         "source": "Reuters",
-        "summary": "A global AI infrastructure boom is driving heavy investment in advanced chip packaging, which has become a bottleneck for producing high-performance processors. Industry spending on advanced packaging is forecast to approach $28 billion in 2026, Reuters reported.",
-        "title": "AI boom turns chip packaging into the next battleground for semiconductors",
-        "url": "https://www.reuters.com/5f374b32b07b/world/asia-pacific/ai-boom-turns-chip-packaging-into-next-battleground-semiconductors-2026-11-06/",
+        "summary": "Environmental organizations told Reuters they are using AI to analyze climate data, track wildfires and monitor wildlife, even as they raise concerns about the electricity, water and emissions associated with data centers. The report highlights the tension between AI’s practical benefits for conservation and its environmental costs.",
+        "title": "Environmental groups embrace AI, even as they warn of data center impacts",
+        "url": "https://www.reuters.com/sustainability/cop/environmental-groups-embrace-ai-even-they-warn-data-center-impacts-2026-11-07/",
         "category": "ai",
-        "image": "https://www.reuters.com/resizer/v2/4CASSJZMARJUJE7AZYTNOL7RIA.jpg?auth=4ddd8c94dd879478221fbe23a1ff1f0a1517ec5bf0e1728c9b07353883f2be6e&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true"
+        "image": ""
+      },
+      {
+        "published": "2026-11-07",
+        "source": "DealStreetAsia",
+        "summary": "OpenAI has closed an initial $11 billion of a funding round valuing it at $1.25 trillion, according to sources cited by the publication. SoftBank and MGX participated; the amount raised so far is below the company’s reported original target of up to $30 billion.",
+        "title": "OpenAI gets $11b funding at $1.25t valuation",
+        "url": "https://www.dealstreetasia.com/stories/openai-funding-3-500415",
+        "category": "ai",
+        "image": "https://cdn.dealstreetasia.com/uploads/2026/07/2026-07-22T054249Z_3_LYNXMPEM6K1XW_RTROPTP_4_OPENAI-GPTLIVE-scaled.jpg?fit=2560,1706"
+      },
+      {
+        "published": "2026-11-07",
+        "source": "Associated Press",
+        "summary": "Three people have been charged in a scheme that allegedly used AI to impersonate corporate executives and attorneys and steal about $129 million. The case shows how synthetic identities are being used in large-scale financial fraud.",
+        "title": "3 charged in scheme to use AI to impersonate CEOs and attorneys to steal $129 million",
+        "url": "https://sandhills.newschannelnebraska.com/story/370526515/ap-technology-summarybrief-at-522-am-est",
+        "category": "ai",
+        "image": "https://immergo-producer.nyc3.cdn.digitaloceanspaces.com/images/affiliate/a2d389a1-ba6b-4462-8c2e-72a5afa0252e.png"
       },
       {
         "published": "2026-11-06",
         "source": "Reuters",
-        "summary": "Investors’ concern that U.S. election results could lead to tighter rules or local resistance to data-center construction contributed to a steep selloff in AI-related stocks. The market reaction also reflected doubts about whether massive AI infrastructure spending will deliver sufficient returns.",
-        "title": "Nasdaq posts biggest daily drop in 19 months on fears of AI regulations",
-        "url": "https://www.galvnews.com/news_reuters/business/nasdaq-posts-biggest-daily-drop-in-19-months-on-fears-of-ai-regulations/article_bb6fdcc7-84cc-5730-a462-34205bc75711.html",
-        "category": "ai",
-        "image": "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/assets/v3/editorial/6/7d/67d47306-3cf5-5946-b66a-758f2468bf7f/6aec628e13815.image.jpg?crop=799%2C420%2C0%2C0"
-      },
-      {
-        "published": "2026-11-06",
-        "source": "Reuters",
-        "summary": "Potential investors in Anthropic’s planned IPO are questioning its expected valuation and whether it should proceed on its anticipated timetable, amid a technology-stock selloff. Reuters reported that investors are seeking a more attractive price and awaiting additional information about the company’s revenue.",
-        "title": "AI backlash could threaten Anthropic IPO timing, potential investors say",
-        "url": "https://www.cp24.com/news/money/2026/11/06/ai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say-reuters-exclusive/",
-        "category": "ai",
-        "image": "https://www.cp24.com/resizer/v2/HXPFML6DUJFG5F63S6SLTTDXHI.jpg?smart=true&amp;auth=8bb47263c787c18f782c3047c58f07eeeaef1e1d239088efc612d3720bb299e5&amp;width=1200&amp;height=630"
-      },
-      {
-        "published": "2026-11-05",
-        "source": "Reuters",
-        "summary": "An independent assessment by METR found that Anthropic’s models have been improving on well-specified tasks roughly twice as fast as in the prior period, with AI assistance cited as a major contributor. The researchers cautioned that the estimate is uncertain and said AI had not yet made highly significant, fully autonomous contributions to key model-training stages.",
-        "title": "Anthropic's models improving nearly twice as fast with help from AI, study finds",
-        "url": "https://www.reuters.com/technology/anthropics-models-improving-nearly-twice-fast-with-help-ai-study-finds-2026-11-05/",
+        "summary": "A University of Michigan survey found U.S. consumer sentiment improved in early November, but respondents expressed concern about a possible AI bubble alongside ongoing cost-of-living worries. The findings reflect mounting public attention to the financial risks tied to AI investment.",
+        "title": "US consumer sentiment improves in November; worries about AI bubble emerge",
+        "url": "https://www.reuters.com/business/us-consumer-sentiment-improves-november-worries-about-ai-bubble-emerge-2026-11-06/",
         "category": "ai",
         "image": ""
       },
       {
         "published": "2026-11-06",
-        "source": "Reuters",
-        "summary": "A sharp retreat in AI-related shares spread into Asian markets, with chipmakers among the hardest hit. Reuters reported that concerns about data-center development and the financial returns on AI investment weighed on sentiment.",
-        "title": "Morning Bid: AI's reality check",
-        "url": "https://www.reuters.com/world/china/global-markets-view-europe-2026-11-06/",
+        "source": "TechRepublic",
+        "summary": "Nvidia is reportedly requiring companies seeking official Nvidia Cloud Partner status in Southeast Asia to enroll in its Fleet Intelligence monitoring system. The reported step comes amid U.S. investigations into claims that restricted AI processors are reaching China through intermediaries.",
+        "title": "Nvidia Tightens AI Chip Tracking in Southeast Asia as China Smuggling Concerns Grow",
+        "url": "https://www.techrepublic.com/article/news-nvidia-ai-chip-tracking-apac-singapore-china/",
         "category": "ai",
         "image": ""
-      },
-      {
-        "published": "2026-11-06",
-        "source": "TechTimes, citing CNBC and Financial Times",
-        "summary": "Beijing-based Moonshot AI reportedly discussed leasing Nvidia Blackwell GPU capacity from European cloud operators, potentially in clusters of 8,000 or more GPUs. The report also describes proposed customer-allocation requirements for some new data-center contracts, though the article notes that renting chips abroad is legal under current U.S. rules.",
-        "title": "Moonshot AI Sought Nvidia Blackwell Rentals in Europe; Reported 51% Rule, Not US Law, Hits Lessors",
-        "url": "https://www.techtimes.com/articles/330165/20261106/moonshot-ai-sought-nvidia-blackwell-rentals-europe-reported-51-rule-not-us-law-hits-lessors.htm",
-        "category": "ai",
-        "image": "https://d.techtimes.com/en/full/469408/moonshot-ai.png"
       }
     ],
     "quantum": [
       {
-        "published": "2026-11-06",
-        "source": "Engineering.com",
-        "summary": "IBM, Oak Ridge National Laboratory and AMD launched a co-design platform that colocates IBM quantum processors—including the 120-qubit Nighthawk—with AMD-powered high-performance computing. The partners will use it to study quantum error correction, decoding and the software workflows needed to connect quantum and classical systems.",
-        "title": "AMD joins IBM and ORNL to advance quantum computing",
-        "url": "https://www.engineering.com/amd-joins-ibm-and-ornl-to-advance-quantum-computing/",
+        "published": "2026-11-07",
+        "source": "Quantum Zeitgeist",
+        "summary": "ParityQC, the University of Innsbruck and QuEra report using a 107-atom QuEra Aquila processor to solve an optimization problem with an encoding that also supports error correction. Their Cluster decoder recovered target solutions at about an 8% rate on the largest layout, outperforming the reported baseline methods.",
+        "title": "ParityQC’s QuEra Aquila QPU Runs Optimisation With 107 Atoms, Aided By Error Code",
+        "url": "https://quantumzeitgeist.com/quera-aquila-qpu-parityqcs-runs-error/",
         "category": "quantum",
-        "image": "https://www.engineering.com/wp-content/uploads/2026/11/IBM-ORNL-AMD-co-design-platform-1-2.jpg"
+        "image": "https://quantumzeitgeist.com/wp-content/uploads/parityqcs-quera-aquila-qpu-runs-optimisation-with-107-1200x630.png"
       },
       {
-        "published": "2026-11-06",
-        "source": "Yonhap News Agency / PRNewswire",
-        "summary": "Quantinuum outlined a Nexus software roadmap intended to automate more of the process of encoding, compiling and running error-corrected quantum programs. The company says successive releases will add capabilities through its planned Apollo fault-tolerant system, targeted for 2029.",
-        "title": "Quantinuum Unveils Nexus Roadmap",
-        "url": "https://en.yna.co.kr/view/RPR20261105011100353",
+        "published": "2026-11-07",
+        "source": "Chicago Tribune",
+        "summary": "IBM unveiled a Quantum System Two at Hyde Park Labs, its first quantum computer installed in Illinois. The system is expected to support the National Quantum Algorithm Center and will eventually move to the state’s planned quantum park.",
+        "title": "IBM unveils its first quantum computer in Illinois at Hyde Park Labs",
+        "url": "https://www.chicagotribune.com/2026/11/06/ibm-quantum-hyde-park-labs/",
         "category": "quantum",
-        "image": "https://img3.yna.co.kr/etc/inner/PR/2026/11/05/RPR20261105011100353_01_i_P4.jpg"
+        "image": "https://www.chicagotribune.com/wp-content/uploads/2026/11/CTC-L-ibm-quantum-computer-019_268749213.jpg?w=5000&#038;h=3333"
       },
       {
-        "published": "2026-11-06",
-        "source": "QuantumZeitgeist",
-        "summary": "Researchers reported a hybrid quantum-simulation framework combining superconducting qubits and microwave cavities to model interacting fermions and bosons. By encoding bosonic modes directly, the approach may reduce overhead for some simulations; the report describes it as a potential route for certain problems that does not rely on conventional error-correction overhead.",
-        "title": "Hybrid Quantum Processors Sidestep Error Correction For Some Problems",
-        "url": "https://quantumzeitgeist.com/hybrid-quantum-processors-sidestep-error/",
+        "published": "2026-11-07",
+        "source": "The Register",
+        "summary": "IBM, Oak Ridge National Laboratory and AMD launched a platform combining IBM’s 120-qubit Quantum Nighthawk processor with Oak Ridge’s Umbra high-performance computing system. The collaboration will let researchers test quantum error-correction approaches alongside classical CPUs and GPUs; the announcement describes a research platform, not a demonstrated performance breakthrough.",
+        "title": "Oak Ridge labs gets hybrid quantum-HPC system to test qubit error correction",
+        "url": "https://www.theregister.com/tag/oak%20ridge",
         "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/hybrid-quantum-processors-sidestep-error-correction-1200x630.jpg"
-      },
-      {
-        "published": "2026-11-06",
-        "source": "QuantumZeitgeist",
-        "summary": "A team led by researchers at the Shanghai Institute of Microsystem and Information Technology demonstrated a 97-nanosecond controlled-Z gate using the Autler–Townes effect. The reported fidelity was 99.40%, with static decoherence identified as the main source of remaining error.",
-        "title": "A 97-nanosecond Gate Could Help Scale Up Superconducting Qubits",
-        "url": "https://quantumzeitgeist.com/shanghai-microsystem-nanosecond-gate-help-scale/",
-        "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/a-97-nanosecond-gate-could-help-scale-up-2-1200x630.png"
-      },
-      {
-        "published": "2026-11-06",
-        "source": "QuantumZeitgeist",
-        "summary": "IQM reported third-quarter revenue of €8.9 million, up 51% year over year, and an order backlog of €102.5 million. The company also highlighted orders including its Halocene system for the LUMI-IQ project, which is intended to support work toward logical qubits.",
-        "title": "Finland’s IQM Posts 51% Q3 Revenue Climb, EUR 8.9 Million With Quantum Gains",
-        "url": "https://quantumzeitgeist.com/finlands-iqm-posts-revenue-51-percent/",
-        "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/finlands-iqm-posts-51-q3-revenue-1200x630.png"
-      },
-      {
-        "published": "2026-11-06",
-        "source": "QuantumZeitgeist",
-        "summary": "TU Delft researchers tested quantum lattice-Boltzmann fluid-dynamics algorithms on QuTech’s Tuna-9 and Tuna-17 processors through the Quantum Inspire platform. The small-scale experiments exposed accuracy degradation as circuits grew, underscoring the gap between current hardware and practical, large-scale computational-fluid-dynamics simulations.",
-        "title": "Quantum Fluid Dynamics Codes Tested On QuTech's Tuna-9 And Tuna-17 Chips",
-        "url": "https://quantumzeitgeist.com/qutech-quantum-fluid-dynamics-codes-tested/",
-        "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/quantum-fluid-dynamics-codes-tested-on-qutechs-tuna-1200x630.png"
+        "image": "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg"
       }
     ]
   }
