@@ -1,80 +1,116 @@
 {
-  "updated": "2026-11-07T13:46:45.447Z",
+  "updated": "2026-11-08T13:45:54.518Z",
   "categories": {
     "ai": [
       {
-        "published": "2026-11-07",
-        "source": "Reuters",
-        "summary": "Environmental organizations told Reuters they are using AI to analyze climate data, track wildfires and monitor wildlife, even as they raise concerns about the electricity, water and emissions associated with data centers. The report highlights the tension between AI’s practical benefits for conservation and its environmental costs.",
-        "title": "Environmental groups embrace AI, even as they warn of data center impacts",
-        "url": "https://www.reuters.com/sustainability/cop/environmental-groups-embrace-ai-even-they-warn-data-center-impacts-2026-11-07/",
-        "category": "ai",
-        "image": ""
-      },
-      {
-        "published": "2026-11-07",
-        "source": "DealStreetAsia",
-        "summary": "OpenAI has closed an initial $11 billion of a funding round valuing it at $1.25 trillion, according to sources cited by the publication. SoftBank and MGX participated; the amount raised so far is below the company’s reported original target of up to $30 billion.",
-        "title": "OpenAI gets $11b funding at $1.25t valuation",
-        "url": "https://www.dealstreetasia.com/stories/openai-funding-3-500415",
-        "category": "ai",
-        "image": "https://cdn.dealstreetasia.com/uploads/2026/07/2026-07-22T054249Z_3_LYNXMPEM6K1XW_RTROPTP_4_OPENAI-GPTLIVE-scaled.jpg?fit=2560,1706"
-      },
-      {
-        "published": "2026-11-07",
+        "published": "2026-11-08",
         "source": "Associated Press",
-        "summary": "Three people have been charged in a scheme that allegedly used AI to impersonate corporate executives and attorneys and steal about $129 million. The case shows how synthetic identities are being used in large-scale financial fraud.",
-        "title": "3 charged in scheme to use AI to impersonate CEOs and attorneys to steal $129 million",
-        "url": "https://sandhills.newschannelnebraska.com/story/370526515/ap-technology-summarybrief-at-522-am-est",
+        "summary": "An independent evaluation group says Anthropic’s AI development pace has roughly doubled compared with last year, with AI itself likely helping accelerate research. The finding raises questions about whether safety practices can keep pace with faster capability gains.",
+        "title": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
+        "url": "https://central.newschannelnebraska.com/story/370526714/ap-technology-summarybrief-at-306-am-est",
         "category": "ai",
         "image": "https://immergo-producer.nyc3.cdn.digitaloceanspaces.com/images/affiliate/a2d389a1-ba6b-4462-8c2e-72a5afa0252e.png"
       },
       {
-        "published": "2026-11-06",
+        "published": "2026-11-08",
         "source": "Reuters",
-        "summary": "A University of Michigan survey found U.S. consumer sentiment improved in early November, but respondents expressed concern about a possible AI bubble alongside ongoing cost-of-living worries. The findings reflect mounting public attention to the financial risks tied to AI investment.",
-        "title": "US consumer sentiment improves in November; worries about AI bubble emerge",
-        "url": "https://www.reuters.com/business/us-consumer-sentiment-improves-november-worries-about-ai-bubble-emerge-2026-11-06/",
+        "summary": "Environmental and conservation organizations are using AI for work such as climate analysis and wildlife monitoring, while warning that data centers’ electricity, water use and emissions create significant environmental costs. The trade-offs are expected to feature in discussions around the upcoming COP31 climate conference.",
+        "title": "Environmental groups embrace AI, even as they warn of data center impacts",
+        "url": "https://www.gmanetwork.com/news/scitech/technology/1008692/environmental-groups-embrace-ai-even-as-they-warn-of-data-center-impacts/story/",
         "category": "ai",
-        "image": ""
+        "image": "https://images.gmanews.tv/webpics/2026/11/reuters_i_story_110826_2026_11_08_09_04_10.jpg"
       },
       {
-        "published": "2026-11-06",
-        "source": "TechRepublic",
-        "summary": "Nvidia is reportedly requiring companies seeking official Nvidia Cloud Partner status in Southeast Asia to enroll in its Fleet Intelligence monitoring system. The reported step comes amid U.S. investigations into claims that restricted AI processors are reaching China through intermediaries.",
-        "title": "Nvidia Tightens AI Chip Tracking in Southeast Asia as China Smuggling Concerns Grow",
-        "url": "https://www.techrepublic.com/article/news-nvidia-ai-chip-tracking-apac-singapore-china/",
+        "published": "2026-11-08",
+        "source": "Associated Press",
+        "summary": "Staff at a U.S. government division responsible for assessing AI safety have been asked to report informally to a White House office, according to former officials. The arrangement has prompted concerns about the independence of the division’s research and assessments.",
+        "title": "Staff at the US center for AI safety are reporting to the White House, raising independence concerns",
+        "url": "https://www.heraldbulletin.com/news/nation_world/staff-at-the-us-center-for-ai-safety-are-reporting-to-the-white-house-raising/article_d64d4120-fc51-5dcd-81bc-7c639c205777.html",
+        "category": "ai",
+        "image": "https://bloximages.chicago2.vip.townnews.com/heraldbulletin.com/content/tncms/assets/v3/editorial/1/07/1078bde9-3961-545a-9f68-fbc50c8a6257/6af030fa0bf66.image.jpg?crop=1919%2C1007%2C0%2C36&amp;resize=1200%2C630&amp;order=crop%2Cresize"
+      },
+      {
+        "published": "2026-11-08",
+        "source": "The Business Times",
+        "summary": "An investigation reports that U.S. officials approved dozens of Chinese companies to handle Nvidia H200 chips, including some with ties to sanctioned firms. The findings have drawn scrutiny to how the approvals are vetted and how export restrictions are enforced.",
+        "title": "US cleared dozens of Chinese firms to handle Nvidia chips, some with ties to sanctioned companies",
+        "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/us-cleared-dozens-chinese-firms-handle-nvidia-chips-some-ties-sanctioned-companies",
+        "category": "ai",
+        "image": "https://cassette.sphdigital.com.sg/image/businesstimes/01b81b4f45805bf4dc307ce4e26ac451114c29a5a896c72b21d9c999121bd97f?w=1200&amp;f=webp"
+      },
+      {
+        "published": "2026-11-08",
+        "source": "The Chosun Daily",
+        "summary": "About 600,000 Nvidia H200 AI chips are reportedly in Hong Kong awaiting approval to enter mainland China, despite U.S. authorization for exports. China’s effort to protect its domestic chip industry is complicating access to high-performance processors used by its AI companies.",
+        "title": "600,000 Nvidia Chips Stuck in Hong Kong Amid Chinese Rules",
+        "url": "https://www.chosun.com/english/world-en/2026/11/08/RPDENWEYPBDXLN3RVADVECWWSM/",
+        "category": "ai",
+        "image": "https://www.chosun.com/resizer/v2/G43GCZBUGFRDEZLDGU2WEYRUG4.jpg?auth=009f3647f4737ed89aa1fd0e2bc0cb990b2c9306c81a9c9f7b03f994d6e53fbe&amp;width=1200&amp;height=630&amp;smart=true"
+      },
+      {
+        "published": "2026-11-08",
+        "source": "CNBC (via WOL)",
+        "summary": "China’s Moonshot AI reportedly explored leasing Nvidia Blackwell computing capacity from European data centers, including clusters of thousands of GPUs. The talks highlight how overseas cloud access may complicate export controls that restrict advanced chips from entering China.",
+        "title": "China’s Moonshot AI sought Nvidia chip access in Europe amid U.S. curbs",
+        "url": "https://www.wol.com/2026/11/06/moonshot-ai-nvidia-chips-europe-china-html/",
         "category": "ai",
         "image": ""
       }
     ],
     "quantum": [
       {
-        "published": "2026-11-07",
-        "source": "Quantum Zeitgeist",
-        "summary": "ParityQC, the University of Innsbruck and QuEra report using a 107-atom QuEra Aquila processor to solve an optimization problem with an encoding that also supports error correction. Their Cluster decoder recovered target solutions at about an 8% rate on the largest layout, outperforming the reported baseline methods.",
-        "title": "ParityQC’s QuEra Aquila QPU Runs Optimisation With 107 Atoms, Aided By Error Code",
-        "url": "https://quantumzeitgeist.com/quera-aquila-qpu-parityqcs-runs-error/",
+        "published": "2026-11-08",
+        "source": "ForkLog",
+        "summary": "Riverlane announced a method for identifying correlated errors from measurement data. The company reported a 75% reduction in logical-error rates in simulations and a 14% improvement when applied to experimental data from Google’s superconducting processor.",
+        "title": "Riverlane Introduces New Quantum Error Correction Method",
+        "url": "https://forklog.com/en/riverlane-introduces-new-quantum-error-correction-method/",
         "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/parityqcs-quera-aquila-qpu-runs-optimisation-with-107-1200x630.png"
+        "image": "https://forklog.com/wp-content/uploads/quantum-computers-kvantovye-kompyutery-2.webp"
       },
       {
-        "published": "2026-11-06",
+        "published": "2026-11-08",
         "source": "Chicago Tribune",
-        "summary": "IBM unveiled a Quantum System Two at Hyde Park Labs, its first quantum computer installed in Illinois. The system is expected to support the National Quantum Algorithm Center and will eventually move to the state’s planned quantum park.",
+        "summary": "IBM and the University of Chicago unveiled an operational Quantum System Two at Hyde Park Labs, powered by IBM’s Nighthawk processor. The system is intended to support research and eventually anchor the National Quantum Algorithm Center.",
         "title": "IBM unveils its first quantum computer in Illinois at Hyde Park Labs",
         "url": "https://www.chicagotribune.com/2026/11/06/ibm-quantum-hyde-park-labs/",
         "category": "quantum",
         "image": "https://www.chicagotribune.com/wp-content/uploads/2026/11/CTC-L-ibm-quantum-computer-019_268749213.jpg?w=5000&#038;h=3333"
       },
       {
-        "published": "2026-11-06",
-        "source": "The Register",
-        "summary": "IBM, Oak Ridge National Laboratory and AMD launched a platform combining IBM’s 120-qubit Quantum Nighthawk processor with Oak Ridge’s Umbra high-performance computing system. The collaboration will let researchers test quantum error-correction approaches alongside classical CPUs and GPUs; the announcement describes a research platform, not a demonstrated performance breakthrough.",
-        "title": "Oak Ridge labs gets hybrid quantum-HPC system to test qubit error correction",
-        "url": "https://assets.theregister.com/2026/11/06/202614/",
+        "published": "2026-11-08",
+        "source": "Simply Wall St",
+        "summary": "IBM, Oak Ridge National Laboratory and AMD launched a co-design platform for quantum error-correction research, combining quantum systems with classical computing resources. The collaboration is part of work targeting a scientifically relevant quantum computer by 2028.",
+        "title": "Advanced Micro Devices (AMD) Launched A Quantum Error Correction Research Platform",
+        "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-amd/advanced-micro-devices-amd-launched-a-quantum-error-correcti/amp",
         "category": "quantum",
-        "image": "https://www.theregister.com/view-resources/dachser2/public/theregister/logo.svg"
+        "image": ""
+      },
+      {
+        "published": "2026-11-08",
+        "source": "Quantinuum / WTOP News (via Ground News)",
+        "summary": "Quantinuum reported a third-quarter loss but raised its full-year revenue outlook and described plans to evolve its Nexus developer platform toward fault-tolerant computing. Its roadmap includes the planned Apollo system, targeted for 2029.",
+        "title": "Quantinuum: Q3 Earnings Snapshot",
+        "url": "https://ground.news/article/quantinuum-q3-earnings-snapshot-wtop-news_bf5da3",
+        "category": "quantum",
+        "image": ""
+      },
+      {
+        "published": "2026-11-08",
+        "source": "Simply Wall St",
+        "summary": "IQM said it demonstrated a Greenberger–Horne–Zeilinger entangled state across all 54 qubits of its Emerald processor. The report says the result was made available to cloud users; the performance claims are from the company.",
+        "title": "IQM Quantum Computers Oyj Demonstrates Entanglement Across Complete 54-Qubit Processor",
+        "url": "https://simplywall.st/stocks/fi/tech/hel-iqmx/iqm-quantum-computers-oyj-shares?blueprint=4845423",
+        "category": "quantum",
+        "image": ""
+      },
+      {
+        "published": "2026-11-08",
+        "source": "Quantum Zeitgeist",
+        "summary": "Physical Superintelligence said a research system produced a proof of the Aaronson–Ambainis conjecture, with the steps formally checked using Lean. The result concerns limits on quantum speedups for certain random-input problems; it is a company-reported claim covered by the outlet.",
+        "title": "Stanford Team Confirms At Physical Superintelligence's Proof Of Quantum Speedup Limits",
+        "url": "https://quantumzeitgeist.com/physical-superintelligence-aaronson-ambainis-conjecture/",
+        "category": "quantum",
+        "image": "https://quantumzeitgeist.com/wp-content/uploads/quantum-proof-settles-core-question-speed-1200x630.png"
       }
     ]
   }
