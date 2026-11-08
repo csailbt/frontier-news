@@ -3,20 +3,20 @@
   "categories": {
     "ai": [
       {
-        "published": "2026-11-08",
+        "published": "2026-11-05",
         "source": "Associated Press",
-        "summary": "An independent evaluation group says Anthropic’s AI development pace has roughly doubled compared with last year, with AI itself likely helping accelerate research. The finding raises questions about whether safety practices can keep pace with faster capability gains.",
+        "summary": "METR estimates that Anthropic's progress on well-specified AI tasks accelerated compared with a year earlier. Its assessment suggests AI assistance contributed, but does not isolate that contribution causally; the report raises questions about whether safety practices can keep pace.",
         "title": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-        "url": "https://central.newschannelnebraska.com/story/370526714/ap-technology-summarybrief-at-306-am-est",
+        "url": "https://apnews.com/article/9cf8c590ffc1abdb489179bdccc69c23",
         "category": "ai",
         "image": "https://immergo-producer.nyc3.cdn.digitaloceanspaces.com/images/affiliate/a2d389a1-ba6b-4462-8c2e-72a5afa0252e.png"
       },
       {
-        "published": "2026-11-08",
+        "published": "2026-11-07",
         "source": "Reuters",
         "summary": "Environmental and conservation organizations are using AI for work such as climate analysis and wildlife monitoring, while warning that data centers’ electricity, water use and emissions create significant environmental costs. The trade-offs are expected to feature in discussions around the upcoming COP31 climate conference.",
         "title": "Environmental groups embrace AI, even as they warn of data center impacts",
-        "url": "https://www.gmanetwork.com/news/scitech/technology/1008692/environmental-groups-embrace-ai-even-as-they-warn-of-data-center-impacts/story/",
+        "url": "https://www.reuters.com/sustainability/cop/environmental-groups-embrace-ai-even-they-warn-data-center-impacts-2026-11-07/",
         "category": "ai",
         "image": "https://images.gmanews.tv/webpics/2026/11/reuters_i_story_110826_2026_11_08_09_04_10.jpg"
       },
@@ -48,7 +48,7 @@
         "image": "https://www.chosun.com/resizer/v2/G43GCZBUGFRDEZLDGU2WEYRUG4.jpg?auth=009f3647f4737ed89aa1fd0e2bc0cb990b2c9306c81a9c9f7b03f994d6e53fbe&amp;width=1200&amp;height=630&amp;smart=true"
       },
       {
-        "published": "2026-11-08",
+        "published": "2026-11-06",
         "source": "CNBC (via WOL)",
         "summary": "China’s Moonshot AI reportedly explored leasing Nvidia Blackwell computing capacity from European data centers, including clusters of thousands of GPUs. The talks highlight how overseas cloud access may complicate export controls that restrict advanced chips from entering China.",
         "title": "China’s Moonshot AI sought Nvidia chip access in Europe amid U.S. curbs",
@@ -68,7 +68,7 @@
         "image": "https://forklog.com/wp-content/uploads/quantum-computers-kvantovye-kompyutery-2.webp"
       },
       {
-        "published": "2026-11-08",
+        "published": "2026-11-06",
         "source": "Chicago Tribune",
         "summary": "IBM and the University of Chicago unveiled an operational Quantum System Two at Hyde Park Labs, powered by IBM’s Nighthawk processor. The system is intended to support research and eventually anchor the National Quantum Algorithm Center.",
         "title": "IBM unveils its first quantum computer in Illinois at Hyde Park Labs",
@@ -77,38 +77,38 @@
         "image": "https://www.chicagotribune.com/wp-content/uploads/2026/11/CTC-L-ibm-quantum-computer-019_268749213.jpg?w=5000&#038;h=3333"
       },
       {
-        "published": "2026-11-08",
-        "source": "Simply Wall St",
+        "published": "2026-11-05",
+        "source": "IBM (company announcement)",
         "summary": "IBM, Oak Ridge National Laboratory and AMD launched a co-design platform for quantum error-correction research, combining quantum systems with classical computing resources. The collaboration is part of work targeting a scientifically relevant quantum computer by 2028.",
-        "title": "Advanced Micro Devices (AMD) Launched A Quantum Error Correction Research Platform",
-        "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-amd/advanced-micro-devices-amd-launched-a-quantum-error-correcti/amp",
+        "title": "IBM, Oak Ridge and AMD launch quantum error-correction co-design platform",
+        "url": "https://newsroom.ibm.com/2026-11-05-oak-ridge-national-lab,-ibm,-and-amd-launch-new-co-design-platform-for-quantum-error-correction",
         "category": "quantum",
         "image": ""
       },
       {
-        "published": "2026-11-08",
-        "source": "Quantinuum / WTOP News (via Ground News)",
-        "summary": "Quantinuum reported a third-quarter loss but raised its full-year revenue outlook and described plans to evolve its Nexus developer platform toward fault-tolerant computing. Its roadmap includes the planned Apollo system, targeted for 2029.",
+        "published": "2026-11-05",
+        "source": "Associated Press (via The Hour)",
+        "summary": "Quantinuum reported a third-quarter loss of $17 million on revenue of $9.1 million and forecast full-year revenue of $31 million to $34 million. This earnings snapshot reports company financial results, not evidence of technical or commercial quantum advantage.",
         "title": "Quantinuum: Q3 Earnings Snapshot",
-        "url": "https://ground.news/article/quantinuum-q3-earnings-snapshot-wtop-news_bf5da3",
+        "url": "https://www.thehour.com/business/article/quantinuum-q3-earnings-snapshot-22514915.php",
         "category": "quantum",
         "image": ""
       },
       {
-        "published": "2026-11-08",
-        "source": "Simply Wall St",
-        "summary": "IQM said it demonstrated a Greenberger–Horne–Zeilinger entangled state across all 54 qubits of its Emerald processor. The report says the result was made available to cloud users; the performance claims are from the company.",
+        "published": "2026-10-29",
+        "source": "IQM (company announcement)",
+        "summary": "IQM reported a GHZ state across all 54 qubits of its Emerald processor, with fidelity of 0.516 after readout error mitigation, just above the 0.500 entanglement threshold. This is a company-reported benchmark, not fault-tolerant computation or demonstrated application advantage.",
         "title": "IQM Quantum Computers Oyj Demonstrates Entanglement Across Complete 54-Qubit Processor",
-        "url": "https://simplywall.st/stocks/fi/tech/hel-iqmx/iqm-quantum-computers-oyj-shares?blueprint=4845423",
+        "url": "https://iqm.tech/press-releases/iqm-demonstrates-entanglement-across-a-complete-54-qubit-processor-bringing-full-chip-performance-to-cloud-users/",
         "category": "quantum",
         "image": ""
       },
       {
-        "published": "2026-11-08",
-        "source": "Quantum Zeitgeist",
-        "summary": "Physical Superintelligence said a research system produced a proof of the Aaronson–Ambainis conjecture, with the steps formally checked using Lean. The result concerns limits on quantum speedups for certain random-input problems; it is a company-reported claim covered by the outlet.",
-        "title": "Stanford Team Confirms At Physical Superintelligence's Proof Of Quantum Speedup Limits",
-        "url": "https://quantumzeitgeist.com/physical-superintelligence-aaronson-ambainis-conjecture/",
+        "published": "2026-11-06",
+        "source": "Physical Superintelligence (company research announcement)",
+        "summary": "Physical Superintelligence says its research system, using a non-public Anthropic model, found a proof accepted by Lean. PSI reports that outside researchers are reading it and preparing an exposition; this is not yet a completed independent review. The claim concerns quantum query speedups on random inputs, not a general limit on all quantum computing.",
+        "title": "PSI reports a Lean-checked proof of the Aaronson–Ambainis conjecture",
+        "url": "https://psi.inc/research/aaronson-ambainis/",
         "category": "quantum",
         "image": "https://quantumzeitgeist.com/wp-content/uploads/quantum-proof-settles-core-question-speed-1200x630.png"
       }
