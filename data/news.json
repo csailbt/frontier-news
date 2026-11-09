@@ -12,20 +12,11 @@
         "image": ""
       },
       {
-        "published": "2026-11-09",
+        "published": "2026-11-08",
         "source": "Associated Press",
         "summary": "The U.S. government unit responsible for assessing AI safety reportedly lacks a permanent leader, has stopped publishing research, and was asked to informally report to a White House office. Former officials and critics raised concerns that the arrangement could undermine the center’s independence.",
         "title": "Staff at the US center for AI safety are reporting to the White House, raising independence concerns",
-        "url": "https://www.rutlandherald.com/news/business/ap-technology-summarybrief-at-4-47-a-m-est/article_0c79e4de-b4b2-5a24-9fc6-62a7f46ab963.html",
-        "category": "ai",
-        "image": "https://bloximages.chicago2.vip.townnews.com/rutlandherald.com/content/tncms/custom/image/21fa4cf2-cde4-11eb-949b-3b99a2a8f984.jpg?resize=600%2C600"
-      },
-      {
-        "published": "2026-11-09",
-        "source": "The New York Times",
-        "summary": "U.S. officials reportedly concluded that a business executive linked to a Singapore-based data-center company was gathering information for Beijing and had a close relationship with Huang. Nvidia says its board’s investigation will examine the reports; the allegations remain contested, and China denied them.",
-        "title": "Nvidia Chief Jensen Huang Is Seen as Target of Chinese Spy Plot",
-        "url": "https://www.nytimes.com/2026/10/29/technology/nvidia-jensen-huang-china-spy.html",
+        "url": "https://apnews.com/article/d3318eb2cf011df53e9ddb3e03d25f13",
         "category": "ai",
         "image": ""
       }
@@ -41,20 +32,20 @@
         "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-09_13-52.png"
       },
       {
-        "published": "2026-11-09",
-        "source": "Quantum Zeitgeist",
+        "published": "2026-11-05",
+        "source": "IBM",
         "summary": "IBM, Oak Ridge National Laboratory and AMD announced a quantum-classical co-design effort focused on error correction, pairing IBM quantum hardware with Oak Ridge computing resources. The project targets the substantial classical processing needed to decode errors in quantum systems.",
-        "title": "ORNL, IBM, and AMD Advance Quantum Error Correction with 120-Qubit System",
-        "url": "https://quantumzeitgeist.com/quantum-zeitgeist-weekly-digest-nov-9/",
+        "title": "IBM, Oak Ridge and AMD launch quantum error-correction co-design platform",
+        "url": "https://newsroom.ibm.com/2026-11-05-oak-ridge-national-lab,-ibm,-and-amd-launch-new-co-design-platform-for-quantum-error-correction",
         "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/stocks-4-1200x630.jpg"
+        "image": ""
       },
       {
         "published": "2026-11-09",
-        "source": "Business Wire",
+        "source": "Horizon Quantum",
         "summary": "Horizon Quantum and OQC announced pulse-level integration of OQC’s 32-qubit Toshiko processor with Horizon’s Triple Alpha development environment. The integration gives developers access to hardware controls for characterization and gate calibration alongside application development.",
         "title": "Horizon Quantum and OQC Announce Successful Pulse-Level Integration",
-        "url": "https://www.businesswire.com/news/home/20261109741986/en/",
+        "url": "https://investors.horizonquantum.com/news-releases/news-release-details/horizon-quantum-and-oqc-announce-successful-pulse-level",
         "category": "quantum",
         "image": ""
       },
@@ -69,10 +60,10 @@
       },
       {
         "published": "2026-11-09",
-        "source": "Fidelity / GlobeNewswire",
+        "source": "Rail Vision / GlobeNewswire",
         "summary": "Quantum Transportation, a Rail Vision subsidiary, said it began error-correction experiments on the Arbel superconducting processor at the Israeli Quantum Computing Center. The initial work links device characterization, circuit execution and decoding; the announcement explicitly says it does not yet demonstrate real-time error correction or fault tolerance.",
         "title": "Rail Vision’s Quantum Platform Launches End-to-End Quantum Error Correction Program",
-        "url": "https://www.fidelity.com/news/article/technology/202611090742PRIMZONEFULLFEED9873202",
+        "url": "https://www.globenewswire.com/news-release/2026/11/09/3398305/0/en/rail-vision-s-quantum-platform-launches-end-to-end-quantum-error-correction-program-at-the-israeli-quantum-computing-center.html",
         "category": "quantum",
         "image": ""
       }
