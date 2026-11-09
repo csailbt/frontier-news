@@ -1,116 +1,80 @@
 {
-  "updated": "2026-11-08T13:45:54.518Z",
+  "updated": "2026-11-09T14:16:33.918Z",
   "categories": {
     "ai": [
       {
-        "published": "2026-11-05",
+        "published": "2026-11-09",
         "source": "Associated Press",
-        "summary": "METR estimates that Anthropic's progress on well-specified AI tasks accelerated compared with a year earlier. Its assessment suggests AI assistance contributed, but does not isolate that contribution causally; the report raises questions about whether safety practices can keep pace.",
-        "title": "Anthropic is rapidly accelerating AI development amid slowdown calls, outside research group says",
-        "url": "https://apnews.com/article/9cf8c590ffc1abdb489179bdccc69c23",
+        "summary": "Nvidia’s board said it is opening an independent investigation into reports that CEO Jensen Huang was targeted in a foreign intelligence effort. The company said it has no reason to believe Nvidia secrets or national-security information were compromised; China called the allegations baseless.",
+        "title": "China dismisses a spy plot claim involving Nvidia CEO Jensen Huang as smear campaign",
+        "url": "https://apnews.com/article/3345b9f05c54d58909e88f6dcb9c1cd8",
         "category": "ai",
-        "image": "https://immergo-producer.nyc3.cdn.digitaloceanspaces.com/images/affiliate/a2d389a1-ba6b-4462-8c2e-72a5afa0252e.png"
+        "image": ""
       },
       {
-        "published": "2026-11-07",
-        "source": "Reuters",
-        "summary": "Environmental and conservation organizations are using AI for work such as climate analysis and wildlife monitoring, while warning that data centers’ electricity, water use and emissions create significant environmental costs. The trade-offs are expected to feature in discussions around the upcoming COP31 climate conference.",
-        "title": "Environmental groups embrace AI, even as they warn of data center impacts",
-        "url": "https://www.reuters.com/sustainability/cop/environmental-groups-embrace-ai-even-they-warn-data-center-impacts-2026-11-07/",
-        "category": "ai",
-        "image": "https://images.gmanews.tv/webpics/2026/11/reuters_i_story_110826_2026_11_08_09_04_10.jpg"
-      },
-      {
-        "published": "2026-11-08",
+        "published": "2026-11-09",
         "source": "Associated Press",
-        "summary": "Staff at a U.S. government division responsible for assessing AI safety have been asked to report informally to a White House office, according to former officials. The arrangement has prompted concerns about the independence of the division’s research and assessments.",
+        "summary": "The U.S. government unit responsible for assessing AI safety reportedly lacks a permanent leader, has stopped publishing research, and was asked to informally report to a White House office. Former officials and critics raised concerns that the arrangement could undermine the center’s independence.",
         "title": "Staff at the US center for AI safety are reporting to the White House, raising independence concerns",
-        "url": "https://www.heraldbulletin.com/news/nation_world/staff-at-the-us-center-for-ai-safety-are-reporting-to-the-white-house-raising/article_d64d4120-fc51-5dcd-81bc-7c639c205777.html",
+        "url": "https://www.rutlandherald.com/news/business/ap-technology-summarybrief-at-4-47-a-m-est/article_0c79e4de-b4b2-5a24-9fc6-62a7f46ab963.html",
         "category": "ai",
-        "image": "https://bloximages.chicago2.vip.townnews.com/heraldbulletin.com/content/tncms/assets/v3/editorial/1/07/1078bde9-3961-545a-9f68-fbc50c8a6257/6af030fa0bf66.image.jpg?crop=1919%2C1007%2C0%2C36&amp;resize=1200%2C630&amp;order=crop%2Cresize"
+        "image": "https://bloximages.chicago2.vip.townnews.com/rutlandherald.com/content/tncms/custom/image/21fa4cf2-cde4-11eb-949b-3b99a2a8f984.jpg?resize=600%2C600"
       },
       {
-        "published": "2026-11-08",
-        "source": "The Business Times",
-        "summary": "An investigation reports that U.S. officials approved dozens of Chinese companies to handle Nvidia H200 chips, including some with ties to sanctioned firms. The findings have drawn scrutiny to how the approvals are vetted and how export restrictions are enforced.",
-        "title": "US cleared dozens of Chinese firms to handle Nvidia chips, some with ties to sanctioned companies",
-        "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/us-cleared-dozens-chinese-firms-handle-nvidia-chips-some-ties-sanctioned-companies",
-        "category": "ai",
-        "image": "https://cassette.sphdigital.com.sg/image/businesstimes/01b81b4f45805bf4dc307ce4e26ac451114c29a5a896c72b21d9c999121bd97f?w=1200&amp;f=webp"
-      },
-      {
-        "published": "2026-11-08",
-        "source": "The Chosun Daily",
-        "summary": "About 600,000 Nvidia H200 AI chips are reportedly in Hong Kong awaiting approval to enter mainland China, despite U.S. authorization for exports. China’s effort to protect its domestic chip industry is complicating access to high-performance processors used by its AI companies.",
-        "title": "600,000 Nvidia Chips Stuck in Hong Kong Amid Chinese Rules",
-        "url": "https://www.chosun.com/english/world-en/2026/11/08/RPDENWEYPBDXLN3RVADVECWWSM/",
-        "category": "ai",
-        "image": "https://www.chosun.com/resizer/v2/G43GCZBUGFRDEZLDGU2WEYRUG4.jpg?auth=009f3647f4737ed89aa1fd0e2bc0cb990b2c9306c81a9c9f7b03f994d6e53fbe&amp;width=1200&amp;height=630&amp;smart=true"
-      },
-      {
-        "published": "2026-11-06",
-        "source": "CNBC (via WOL)",
-        "summary": "China’s Moonshot AI reportedly explored leasing Nvidia Blackwell computing capacity from European data centers, including clusters of thousands of GPUs. The talks highlight how overseas cloud access may complicate export controls that restrict advanced chips from entering China.",
-        "title": "China’s Moonshot AI sought Nvidia chip access in Europe amid U.S. curbs",
-        "url": "https://www.wol.com/2026/11/06/moonshot-ai-nvidia-chips-europe-china-html/",
+        "published": "2026-11-09",
+        "source": "The New York Times",
+        "summary": "U.S. officials reportedly concluded that a business executive linked to a Singapore-based data-center company was gathering information for Beijing and had a close relationship with Huang. Nvidia says its board’s investigation will examine the reports; the allegations remain contested, and China denied them.",
+        "title": "Nvidia Chief Jensen Huang Is Seen as Target of Chinese Spy Plot",
+        "url": "https://www.nytimes.com/2026/10/29/technology/nvidia-jensen-huang-china-spy.html",
         "category": "ai",
         "image": ""
       }
     ],
     "quantum": [
       {
-        "published": "2026-11-08",
-        "source": "ForkLog",
-        "summary": "Riverlane announced a method for identifying correlated errors from measurement data. The company reported a 75% reduction in logical-error rates in simulations and a 14% improvement when applied to experimental data from Google’s superconducting processor.",
-        "title": "Riverlane Introduces New Quantum Error Correction Method",
-        "url": "https://forklog.com/en/riverlane-introduces-new-quantum-error-correction-method/",
+        "published": "2026-11-09",
+        "source": "The Quantum Insider",
+        "summary": "IBM and public-sector partners announced the company’s first Illinois deployment of a Quantum System Two, powered by its Nighthawk chip. The system is intended to support research into quantum algorithms and applications, with plans to move it to the Illinois Quantum and Microelectronics Park.",
+        "title": "IBM Deploys First Quantum Computer in Illinois with Quantum System Two",
+        "url": "https://thequantuminsider.com/2026/11/09/ibm-first-quantum-computer-illinois-chicago/",
         "category": "quantum",
-        "image": "https://forklog.com/wp-content/uploads/quantum-computers-kvantovye-kompyutery-2.webp"
+        "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-09_13-52.png"
       },
       {
-        "published": "2026-11-06",
-        "source": "Chicago Tribune",
-        "summary": "IBM and the University of Chicago unveiled an operational Quantum System Two at Hyde Park Labs, powered by IBM’s Nighthawk processor. The system is intended to support research and eventually anchor the National Quantum Algorithm Center.",
-        "title": "IBM unveils its first quantum computer in Illinois at Hyde Park Labs",
-        "url": "https://www.chicagotribune.com/2026/11/06/ibm-quantum-hyde-park-labs/",
+        "published": "2026-11-09",
+        "source": "Quantum Zeitgeist",
+        "summary": "IBM, Oak Ridge National Laboratory and AMD announced a quantum-classical co-design effort focused on error correction, pairing IBM quantum hardware with Oak Ridge computing resources. The project targets the substantial classical processing needed to decode errors in quantum systems.",
+        "title": "ORNL, IBM, and AMD Advance Quantum Error Correction with 120-Qubit System",
+        "url": "https://quantumzeitgeist.com/quantum-zeitgeist-weekly-digest-nov-9/",
         "category": "quantum",
-        "image": "https://www.chicagotribune.com/wp-content/uploads/2026/11/CTC-L-ibm-quantum-computer-019_268749213.jpg?w=5000&#038;h=3333"
+        "image": "https://quantumzeitgeist.com/wp-content/uploads/stocks-4-1200x630.jpg"
       },
       {
-        "published": "2026-11-05",
-        "source": "IBM (company announcement)",
-        "summary": "IBM, Oak Ridge National Laboratory and AMD launched a co-design platform for quantum error-correction research, combining quantum systems with classical computing resources. The collaboration is part of work targeting a scientifically relevant quantum computer by 2028.",
-        "title": "IBM, Oak Ridge and AMD launch quantum error-correction co-design platform",
-        "url": "https://newsroom.ibm.com/2026-11-05-oak-ridge-national-lab,-ibm,-and-amd-launch-new-co-design-platform-for-quantum-error-correction",
+        "published": "2026-11-09",
+        "source": "Business Wire",
+        "summary": "Horizon Quantum and OQC announced pulse-level integration of OQC’s 32-qubit Toshiko processor with Horizon’s Triple Alpha development environment. The integration gives developers access to hardware controls for characterization and gate calibration alongside application development.",
+        "title": "Horizon Quantum and OQC Announce Successful Pulse-Level Integration",
+        "url": "https://www.businesswire.com/news/home/20261109741986/en/",
         "category": "quantum",
         "image": ""
       },
       {
-        "published": "2026-11-05",
-        "source": "Associated Press (via The Hour)",
-        "summary": "Quantinuum reported a third-quarter loss of $17 million on revenue of $9.1 million and forecast full-year revenue of $31 million to $34 million. This earnings snapshot reports company financial results, not evidence of technical or commercial quantum advantage.",
-        "title": "Quantinuum: Q3 Earnings Snapshot",
-        "url": "https://www.thehour.com/business/article/quantinuum-q3-earnings-snapshot-22514915.php",
+        "published": "2026-11-09",
+        "source": "GlobeNewswire",
+        "summary": "Quantum X Labs reported preliminary benchmarks showing up to 20% fewer logical decoding failures after applying its noise-model calibration approach to data from three IBM processors. The company described the results as early tests, not a demonstration of fault-tolerant computation.",
+        "title": "Quantum X Labs Expands AI-Powered Quantum Error Correction Program to Three IBM Quantum Processors",
+        "url": "https://www.globenewswire.com/news-release/2026/11/09/3398511/0/en/quantum-x-labs-expands-ai-powered-quantum-error-correction-program-to-three-IBM-quantum-processors-demonstrating-up-to-20-fewer-logical-decoding-failures.html",
         "category": "quantum",
-        "image": ""
+        "image": "https://ml.globenewswire.com/Resource/Download/a0abc50a-ff3e-420e-9e21-807bbc6417cd"
       },
       {
-        "published": "2026-10-29",
-        "source": "IQM (company announcement)",
-        "summary": "IQM reported a GHZ state across all 54 qubits of its Emerald processor, with fidelity of 0.516 after readout error mitigation, just above the 0.500 entanglement threshold. This is a company-reported benchmark, not fault-tolerant computation or demonstrated application advantage.",
-        "title": "IQM Quantum Computers Oyj Demonstrates Entanglement Across Complete 54-Qubit Processor",
-        "url": "https://iqm.tech/press-releases/iqm-demonstrates-entanglement-across-a-complete-54-qubit-processor-bringing-full-chip-performance-to-cloud-users/",
+        "published": "2026-11-09",
+        "source": "Fidelity / GlobeNewswire",
+        "summary": "Quantum Transportation, a Rail Vision subsidiary, said it began error-correction experiments on the Arbel superconducting processor at the Israeli Quantum Computing Center. The initial work links device characterization, circuit execution and decoding; the announcement explicitly says it does not yet demonstrate real-time error correction or fault tolerance.",
+        "title": "Rail Vision’s Quantum Platform Launches End-to-End Quantum Error Correction Program",
+        "url": "https://www.fidelity.com/news/article/technology/202611090742PRIMZONEFULLFEED9873202",
         "category": "quantum",
         "image": ""
-      },
-      {
-        "published": "2026-11-06",
-        "source": "Physical Superintelligence (company research announcement)",
-        "summary": "Physical Superintelligence says its research system, using a non-public Anthropic model, found a proof accepted by Lean. PSI reports that outside researchers are reading it and preparing an exposition; this is not yet a completed independent review. The claim concerns quantum query speedups on random inputs, not a general limit on all quantum computing.",
-        "title": "PSI reports a Lean-checked proof of the Aaronson–Ambainis conjecture",
-        "url": "https://psi.inc/research/aaronson-ambainis/",
-        "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/quantum-proof-settles-core-question-speed-1200x630.png"
       }
     ]
   }
