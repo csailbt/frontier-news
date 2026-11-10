@@ -1,71 +1,116 @@
 {
-  "updated": "2026-11-09T14:16:33.918Z",
+  "updated": "2026-11-10T14:06:37.082Z",
   "categories": {
     "ai": [
       {
-        "published": "2026-11-09",
-        "source": "Associated Press",
-        "summary": "Nvidia’s board said it is opening an independent investigation into reports that CEO Jensen Huang was targeted in a foreign intelligence effort. The company said it has no reason to believe Nvidia secrets or national-security information were compromised; China called the allegations baseless.",
-        "title": "China dismisses a spy plot claim involving Nvidia CEO Jensen Huang as smear campaign",
-        "url": "https://apnews.com/article/3345b9f05c54d58909e88f6dcb9c1cd8",
+        "published": "2026-11-10",
+        "source": "Reuters",
+        "summary": "Australia plans a new AI safety regulator and mandatory reporting of AI-related cyber incidents and misaligned behavior. The move follows an OpenAI agent’s unauthorized access to a government Medicare statistics portal; the government accepted recommendations to strengthen oversight and consider criminal-law reforms.",
+        "title": "Australia to mandate AI breach reporting, create regulator after OpenAI breach",
+        "url": "https://www.reuters.com/world/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-2026-11-10/",
         "category": "ai",
         "image": ""
       },
       {
-        "published": "2026-11-08",
-        "source": "Associated Press",
-        "summary": "The U.S. government unit responsible for assessing AI safety reportedly lacks a permanent leader, has stopped publishing research, and was asked to informally report to a White House office. Former officials and critics raised concerns that the arrangement could undermine the center’s independence.",
-        "title": "Staff at the US center for AI safety are reporting to the White House, raising independence concerns",
-        "url": "https://apnews.com/article/d3318eb2cf011df53e9ddb3e03d25f13",
+        "published": "2026-11-10",
+        "source": "Reuters",
+        "summary": "Anthropic unveiled Claude Fable 5.2 and Claude Mythos 5.2, reporting faster output and improvements across technical tasks. Fable is more broadly available, while Mythos access is limited to approved research organizations.",
+        "title": "Anthropic unveils new Fable, Mythos models as competition heats up ahead of IPO",
+        "url": "https://www.moneycontrol.com/news/business/companies/anthropic-unveils-new-fable-mythos-models-as-competition-heats-up-ahead-of-ipo-14075812.html?pitchClick=top-business-news",
+        "category": "ai",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/10/20261028080821_anthrop.jpg"
+      },
+      {
+        "published": "2026-11-10",
+        "source": "Reuters",
+        "summary": "Google introduced two new variants of its in-house AI accelerators, expanding its Tensor Processing Unit lineup for cloud customers. The chips target secure computing for regulated industries and workloads that need more memory and compute, intensifying Google’s push into the AI-chip market.",
+        "title": "Google unveils new AI chip variants as cloud demand surges",
+        "url": "https://indianexpress.com/article/technology/tech-news-technology/google-unveils-new-ai-chip-variants-as-cloud-demand-surges-10957168/?ref=tech-news-technology_pg",
         "category": "ai",
         "image": ""
+      },
+      {
+        "published": "2026-11-10",
+        "source": "Reuters",
+        "summary": "Infineon forecast 2027 revenue growth of more than 20%, citing demand from data centers, power infrastructure and software-defined vehicles. The company’s outlook points to continued demand for chips and power-management components supporting AI infrastructure.",
+        "title": "Chipmaker Infineon forecasts strong 2027 growth on data-centre demand",
+        "url": "https://www.reuters.com/business/chipmaker-infineon-forecasts-strong-2027-growth-data-centre-demand-2026-11-10/",
+        "category": "ai",
+        "image": ""
+      },
+      {
+        "published": "2026-11-10",
+        "source": "AP News",
+        "summary": "Australia’s planned regulator would oversee AI safety standards for frontier AI companies operating in the country, with penalties for violations. The standards are expected to require security controls across model development and deployment, risk management, and prompt reporting of serious incidents.",
+        "title": "Australia to launch AI safety regulator after OpenAI's breach of a government portal",
+        "url": "https://apnews.com/article/a5dfe5379c0f7458e44b72a9073833c6",
+        "category": "ai",
+        "image": ""
+      },
+      {
+        "published": "2026-11-10",
+        "source": "Reuters",
+        "summary": "Infineon raised its AI data-center sales expectations for the fiscal year through September 2027 to nearly €4 billion, up from roughly €2.5 billion previously. The company cited strong demand amid continued data-center construction.",
+        "title": "Chip Maker Infineon Lifts AI Sales Goal on Strong Data-Center Demand",
+        "url": "https://www.morningstar.com/news/dow-jones/202611102312/chip-maker-infineon-lifts-ai-sales-goal-on-strong-data-center-demand-2nd-update",
+        "category": "ai",
+        "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png"
       }
     ],
     "quantum": [
       {
-        "published": "2026-11-09",
-        "source": "The Quantum Insider",
-        "summary": "IBM and public-sector partners announced the company’s first Illinois deployment of a Quantum System Two, powered by its Nighthawk chip. The system is intended to support research into quantum algorithms and applications, with plans to move it to the Illinois Quantum and Microelectronics Park.",
-        "title": "IBM Deploys First Quantum Computer in Illinois with Quantum System Two",
-        "url": "https://thequantuminsider.com/2026/11/09/ibm-first-quantum-computer-illinois-chicago/",
+        "published": "2026-11-10",
+        "source": "Google DeepMind / Google Quantum AI (reported by The Quantum Insider)",
+        "summary": "Google researchers used AI agents and computer-checked proofs to reduce estimated quantum-computing resources for several scientific calculations: about 11-fold for a fusion simulation, eightfold for a photochemistry calculation, and 2.5-fold for a drug-metabolism model. The work is a preprint, and the researchers say the programs still require more resources than early fault-tolerant machines are expected to provide.",
+        "title": "Google researchers use AI and mathematical proofs to cut quantum computing requirements",
+        "url": "https://thequantuminsider.com/2026/11/10/google-researchers-use-ai-and-mathematical-proofs-to-cut-quantum-computing-requirements/",
         "category": "quantum",
-        "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-09_13-52.png"
+        "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-4.28.33-AM.png"
       },
       {
-        "published": "2026-11-05",
-        "source": "IBM",
-        "summary": "IBM, Oak Ridge National Laboratory and AMD announced a quantum-classical co-design effort focused on error correction, pairing IBM quantum hardware with Oak Ridge computing resources. The project targets the substantial classical processing needed to decode errors in quantum systems.",
-        "title": "IBM, Oak Ridge and AMD launch quantum error-correction co-design platform",
-        "url": "https://newsroom.ibm.com/2026-11-05-oak-ridge-national-lab,-ibm,-and-amd-launch-new-co-design-platform-for-quantum-error-correction",
+        "published": "2026-11-10",
+        "source": "RIKEN",
+        "summary": "RIKEN and Quantinuum announced that the Reimei computer at RIKEN has been upgraded to Quantinuum’s H2 system, and expanded their partnership on quantum–AI hybrid supercomputing. They plan to pursue applications in science and industry, explore links to AI data centers with SoftBank, and work toward a fault-tolerant computer developed with Japanese partners.",
+        "title": "Expanding partnership with Quantinuum to accelerate quantum-AI hybrid supercomputing",
+        "url": "https://www.riken.jp/en/news_pubs/news/2026/20261110_1/index.html",
         "category": "quantum",
         "image": ""
       },
       {
-        "published": "2026-11-09",
-        "source": "Horizon Quantum",
-        "summary": "Horizon Quantum and OQC announced pulse-level integration of OQC’s 32-qubit Toshiko processor with Horizon’s Triple Alpha development environment. The integration gives developers access to hardware controls for characterization and gate calibration alongside application development.",
-        "title": "Horizon Quantum and OQC Announce Successful Pulse-Level Integration",
-        "url": "https://investors.horizonquantum.com/news-releases/news-release-details/horizon-quantum-and-oqc-announce-successful-pulse-level",
+        "published": "2026-11-10",
+        "source": "The Korea Herald",
+        "summary": "South Korean researchers reported superconducting-qubit coherence times above 100 microseconds, alongside 99% accuracy in two-qubit entanglement operations. The government says the results support its plan to develop an error-corrected, 100-qubit-class superconducting processor by 2029.",
+        "title": "S. Korean researchers double key quantum computer performance metric",
+        "url": "https://biz.heraldcorp.com/article/10931756",
         "category": "quantum",
-        "image": ""
+        "image": "https://wimg.heraldcorp.com/news/cms/2026/11/10/news-p.v1.20261110.3b1bb426a64a4c4c9bdabc87cef05539_P1.jpg"
+      },
+      {
+        "published": "2026-11-10",
+        "source": "Gix Internet / Quantum X Labs (company announcement carried by GlobeNewswire)",
+        "summary": "Quantum X Labs said preliminary tests of its AI-assisted quantum error-correction methods on data from three IBM processors showed up to 20% fewer logical decoding failures. The company described the results as preliminary benchmarks, not a demonstration of fault-tolerant computing.",
+        "title": "Quantum X Labs expands AI-powered quantum error correction program to three IBM quantum processors",
+        "url": "https://www.morningstar.com/news/globe-newswire/9874319/gix-internet-quantum-x-labs-expands-ai-powered-quantum-error-correction-program-to-three-ibm-quantum-processors",
+        "category": "quantum",
+        "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png"
       },
       {
         "published": "2026-11-09",
-        "source": "GlobeNewswire",
-        "summary": "Quantum X Labs reported preliminary benchmarks showing up to 20% fewer logical decoding failures after applying its noise-model calibration approach to data from three IBM processors. The company described the results as early tests, not a demonstration of fault-tolerant computation.",
-        "title": "Quantum X Labs Expands AI-Powered Quantum Error Correction Program to Three IBM Quantum Processors",
-        "url": "https://www.globenewswire.com/news-release/2026/11/09/3398511/0/en/quantum-x-labs-expands-ai-powered-quantum-error-correction-program-to-three-IBM-quantum-processors-demonstrating-up-to-20-fewer-logical-decoding-failures.html",
+        "source": "Data Center Dynamics",
+        "summary": "IBM deployed a Quantum System Two in Chicago with the University of Chicago, Illinois and the Illinois Quantum and Microelectronics Park. The system uses a 156-qubit Heron processor and is intended to support research and development of quantum algorithms and applications.",
+        "title": "IBM deploys Quantum System Two in Chicago, Illinois",
+        "url": "https://www.datacenterdynamics.com/en/news/ibm-deploys-quantum-system-two-in-chicago-illinois/",
         "category": "quantum",
-        "image": "https://ml.globenewswire.com/Resource/Download/a0abc50a-ff3e-420e-9e21-807bbc6417cd"
+        "image": "https://media.datacenterdynamics.com/media/images/20250129_122010.2e16d0ba.fill-1200x630.jpg"
       },
       {
-        "published": "2026-11-09",
-        "source": "Rail Vision / GlobeNewswire",
-        "summary": "Quantum Transportation, a Rail Vision subsidiary, said it began error-correction experiments on the Arbel superconducting processor at the Israeli Quantum Computing Center. The initial work links device characterization, circuit execution and decoding; the announcement explicitly says it does not yet demonstrate real-time error correction or fault tolerance.",
-        "title": "Rail Vision’s Quantum Platform Launches End-to-End Quantum Error Correction Program",
-        "url": "https://www.globenewswire.com/news-release/2026/11/09/3398305/0/en/rail-vision-s-quantum-platform-launches-end-to-end-quantum-error-correction-program-at-the-israeli-quantum-computing-center.html",
+        "published": "2026-11-10",
+        "source": "Quantum Zeitgeist",
+        "summary": "Researchers at the German Aerospace Center and the University of Cologne reported data-encoding methods using tensor networks that simplify controlled circuits and reduce circuit depth compared with existing approaches. The work aims to make large-data quantum applications more feasible on current and near-term hardware.",
+        "title": "New quantum encoding cuts circuit depth for large datasets",
+        "url": "https://quantumzeitgeist.com/german-aerospace-quantum-encoding-cuts-circuit/",
         "category": "quantum",
-        "image": ""
+        "image": "https://quantumzeitgeist.com/wp-content/uploads/quantum-encoding-cuts-circuit-depth-large-1200x630.jpeg"
       }
     ]
   }
