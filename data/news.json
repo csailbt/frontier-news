@@ -49,12 +49,12 @@
       },
       {
         "published": "2026-11-10",
-        "source": "Reuters",
+        "source": "Dow Jones Newswires (via MarketScreener)",
         "summary": "Infineon raised its AI data-center sales expectations for the fiscal year through September 2027 to nearly €4 billion, up from roughly €2.5 billion previously. The company cited strong demand amid continued data-center construction.",
         "title": "Chip Maker Infineon Lifts AI Sales Goal on Strong Data-Center Demand",
-        "url": "https://www.morningstar.com/news/dow-jones/202611102312/chip-maker-infineon-lifts-ai-sales-goal-on-strong-data-center-demand-2nd-update",
+        "url": "https://www.marketscreener.com/news/chip-maker-infineon-lifts-ai-sales-goal-on-strong-data-center-demand-update-ce785edad88cf02c",
         "category": "ai",
-        "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png"
+        "image": ""
       }
     ],
     "quantum": [
@@ -78,7 +78,7 @@
       },
       {
         "published": "2026-11-10",
-        "source": "The Korea Herald",
+        "source": "The Herald Business",
         "summary": "South Korean researchers reported superconducting-qubit coherence times above 100 microseconds, alongside 99% accuracy in two-qubit entanglement operations. The government says the results support its plan to develop an error-corrected, 100-qubit-class superconducting processor by 2029.",
         "title": "S. Korean researchers double key quantum computer performance metric",
         "url": "https://biz.heraldcorp.com/article/10931756",
@@ -87,12 +87,12 @@
       },
       {
         "published": "2026-11-10",
-        "source": "Gix Internet / Quantum X Labs (company announcement carried by GlobeNewswire)",
-        "summary": "Quantum X Labs said preliminary tests of its AI-assisted quantum error-correction methods on data from three IBM processors showed up to 20% fewer logical decoding failures. The company described the results as preliminary benchmarks, not a demonstration of fault-tolerant computing.",
+        "source": "Gix Internet (company release via GlobeNewswire)",
+        "summary": "Gix Internet’s Nov. 10 company release repeats Quantum X Labs’ Nov. 9 announcement: preliminary tests on data from three IBM processors showed up to 20% fewer logical decoding failures. These are company-reported benchmarks, not a demonstration of fault-tolerant computing.",
         "title": "Quantum X Labs expands AI-powered quantum error correction program to three IBM quantum processors",
-        "url": "https://www.morningstar.com/news/globe-newswire/9874319/gix-internet-quantum-x-labs-expands-ai-powered-quantum-error-correction-program-to-three-ibm-quantum-processors",
+        "url": "https://www.globenewswire.com/news-release/2026/11/10/3399481/0/en/gix-internet-quantum-x-labs-expands-ai-powered-quantum-error-correction-program-to-three-ibm-quantum-processors.html",
         "category": "quantum",
-        "image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png"
+        "image": ""
       },
       {
         "published": "2026-11-09",
