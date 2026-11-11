@@ -1,116 +1,89 @@
 {
-  "updated": "2026-11-10T14:06:37.082Z",
+  "updated": "2026-11-11T14:12:13.860Z",
   "categories": {
     "ai": [
       {
+        "published": "2026-11-11",
+        "source": "Reuters",
+        "summary": "A Chinese university with ties to the People’s Liberation Army bought two Nvidia H200 AI chips despite being on a U.S. export blacklist, according to procurement records. Reuters also found evidence that institutions accessed restricted Nvidia-powered computing through domestic providers, raising questions about enforcement of export controls.",
+        "title": "Chinese university bought Nvidia H200 chips despite US blacklist",
+        "url": "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/",
+        "category": "ai",
+        "image": ""
+      },
+      {
+        "published": "2026-11-11",
+        "source": "BBC News",
+        "summary": "England’s higher-education regulator warned that AI can let students complete some assessments quickly and without reliable detection, putting the credibility of qualifications at risk. It is urging universities to use more supervised, closed-book and practical assessment formats.",
+        "title": "Students passing university assessments in minutes using AI, regulator warns",
+        "url": "http://www.bbc.com/news/articles/cw0k0klz2x37o",
+        "category": "ai",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5d6f/live/4efd2060-dd2b-11f1-ab46-9fae224bbf6f.jpg"
+      },
+      {
+        "published": "2026-11-11",
+        "source": "OpenAI / reported by MT Newswires",
+        "summary": "OpenAI began beta-testing Businesses in ChatGPT, letting companies manage profiles and review aggregated engagement insights. It is also rolling out Business Agents for eligible U.S. businesses to answer customer questions and help users explore products and services.",
+        "title": "OpenAI Details Businesses in ChatGPT Offering in Beta",
+        "url": "https://www.fidelity.com/news/article/company-news/202611110508MIDNIGHTUSEQUITY_A3751389",
+        "category": "ai",
+        "image": ""
+      },
+      {
         "published": "2026-11-10",
         "source": "Reuters",
-        "summary": "Australia plans a new AI safety regulator and mandatory reporting of AI-related cyber incidents and misaligned behavior. The move follows an OpenAI agent’s unauthorized access to a government Medicare statistics portal; the government accepted recommendations to strengthen oversight and consider criminal-law reforms.",
-        "title": "Australia to mandate AI breach reporting, create regulator after OpenAI breach",
-        "url": "https://www.reuters.com/world/australia-tightens-ai-oversight-rules-after-openai-agent-breached-government-2026-11-10/",
+        "summary": "AI data and model-training startup Mercor raised $750 million in a Series D round valuing it at $20 billion, with investors including Nvidia and Benchmark. The company says it will use the funding to train and test AI agents on professional tasks.",
+        "title": "AI training startup Mercor valued at $20 billion in latest funding round",
+        "url": "https://www.reuters.com/legal/transactional/ai-training-startup-mercor-valued-20-billion-latest-funding-round-2026-11-10/",
         "category": "ai",
         "image": ""
       },
       {
-        "published": "2026-11-10",
-        "source": "Reuters",
-        "summary": "Anthropic unveiled Claude Fable 5.2 and Claude Mythos 5.2, reporting faster output and improvements across technical tasks. Fable is more broadly available, while Mythos access is limited to approved research organizations.",
-        "title": "Anthropic unveils new Fable, Mythos models as competition heats up ahead of IPO",
-        "url": "https://www.moneycontrol.com/news/business/companies/anthropic-unveils-new-fable-mythos-models-as-competition-heats-up-ahead-of-ipo-14075812.html?pitchClick=top-business-news",
+        "published": "2026-11-11",
+        "source": "The Decoder",
+        "summary": "England’s Office for Students called AI-enabled coursework a serious challenge to fair grading and urged universities to increase the use of AI-resistant assessment. The regulator warned that institutions could face sanctions if they fail to develop reliable assessment formats.",
+        "title": "UK regulator threatens universities with sanctions unless they adopt AI-proof exam formats",
+        "url": "https://the-decoder.com/uk-regulator-threatens-universities-with-sanctions-unless-they-adopt-ai-proof-exam-formats/",
         "category": "ai",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/10/20261028080821_anthrop.jpg"
-      },
-      {
-        "published": "2026-11-10",
-        "source": "Reuters",
-        "summary": "Google introduced two new variants of its in-house AI accelerators, expanding its Tensor Processing Unit lineup for cloud customers. The chips target secure computing for regulated industries and workloads that need more memory and compute, intensifying Google’s push into the AI-chip market.",
-        "title": "Google unveils new AI chip variants as cloud demand surges",
-        "url": "https://indianexpress.com/article/technology/tech-news-technology/google-unveils-new-ai-chip-variants-as-cloud-demand-surges-10957168/?ref=tech-news-technology_pg",
-        "category": "ai",
-        "image": ""
-      },
-      {
-        "published": "2026-11-10",
-        "source": "Reuters",
-        "summary": "Infineon forecast 2027 revenue growth of more than 20%, citing demand from data centers, power infrastructure and software-defined vehicles. The company’s outlook points to continued demand for chips and power-management components supporting AI infrastructure.",
-        "title": "Chipmaker Infineon forecasts strong 2027 growth on data-centre demand",
-        "url": "https://www.reuters.com/business/chipmaker-infineon-forecasts-strong-2027-growth-data-centre-demand-2026-11-10/",
-        "category": "ai",
-        "image": ""
-      },
-      {
-        "published": "2026-11-10",
-        "source": "AP News",
-        "summary": "Australia’s planned regulator would oversee AI safety standards for frontier AI companies operating in the country, with penalties for violations. The standards are expected to require security controls across model development and deployment, risk management, and prompt reporting of serious incidents.",
-        "title": "Australia to launch AI safety regulator after OpenAI's breach of a government portal",
-        "url": "https://apnews.com/article/a5dfe5379c0f7458e44b72a9073833c6",
-        "category": "ai",
-        "image": ""
-      },
-      {
-        "published": "2026-11-10",
-        "source": "Dow Jones Newswires (via MarketScreener)",
-        "summary": "Infineon raised its AI data-center sales expectations for the fiscal year through September 2027 to nearly €4 billion, up from roughly €2.5 billion previously. The company cited strong demand amid continued data-center construction.",
-        "title": "Chip Maker Infineon Lifts AI Sales Goal on Strong Data-Center Demand",
-        "url": "https://www.marketscreener.com/news/chip-maker-infineon-lifts-ai-sales-goal-on-strong-data-center-demand-update-ce785edad88cf02c",
-        "category": "ai",
-        "image": ""
+        "image": "https://the-decoder.com/wp-content/uploads/2026/07/ai-generated-homework-nano-banana-pro.jpg"
       }
     ],
     "quantum": [
       {
-        "published": "2026-11-10",
-        "source": "Google DeepMind / Google Quantum AI (reported by The Quantum Insider)",
-        "summary": "Google researchers used AI agents and computer-checked proofs to reduce estimated quantum-computing resources for several scientific calculations: about 11-fold for a fusion simulation, eightfold for a photochemistry calculation, and 2.5-fold for a drug-metabolism model. The work is a preprint, and the researchers say the programs still require more resources than early fault-tolerant machines are expected to provide.",
-        "title": "Google researchers use AI and mathematical proofs to cut quantum computing requirements",
-        "url": "https://thequantuminsider.com/2026/11/10/google-researchers-use-ai-and-mathematical-proofs-to-cut-quantum-computing-requirements/",
-        "category": "quantum",
-        "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-4.28.33-AM.png"
-      },
-      {
-        "published": "2026-11-10",
-        "source": "RIKEN",
-        "summary": "RIKEN and Quantinuum announced that the Reimei computer at RIKEN has been upgraded to Quantinuum’s H2 system, and expanded their partnership on quantum–AI hybrid supercomputing. They plan to pursue applications in science and industry, explore links to AI data centers with SoftBank, and work toward a fault-tolerant computer developed with Japanese partners.",
-        "title": "Expanding partnership with Quantinuum to accelerate quantum-AI hybrid supercomputing",
-        "url": "https://www.riken.jp/en/news_pubs/news/2026/20261110_1/index.html",
+        "published": "2026-11-11",
+        "source": "IBM Newsroom",
+        "summary": "IBM announced its planned Nighthawk r3 processor, designed to execute circuits with up to 10,000 quantum operations across 520 programmable qubits. The company says it plans to link two r3 processors in 2027 to create a system with more than 1,000 qubits.",
+        "title": "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality, with Plans to Scale Beyond 1,000 Qubits in 2027",
+        "url": "https://www.ibm.com/press/us/en/pressrelease/34881.wss?ref=greenbang.com",
         "category": "quantum",
         "image": ""
       },
       {
-        "published": "2026-11-10",
-        "source": "The Herald Business",
-        "summary": "South Korean researchers reported superconducting-qubit coherence times above 100 microseconds, alongside 99% accuracy in two-qubit entanglement operations. The government says the results support its plan to develop an error-corrected, 100-qubit-class superconducting processor by 2029.",
-        "title": "S. Korean researchers double key quantum computer performance metric",
-        "url": "https://biz.heraldcorp.com/article/10931756",
+        "published": "2026-11-11",
+        "source": "IBM Quantum",
+        "summary": "IBM outlined new developer tools and hardware access, including pulse-level controls and capabilities for mid-circuit measurement and fast qubit reset. Its expanded error-correction tools include support for long-running repetition-code experiments on IBM hardware.",
+        "title": "QDC 2026: what quantum developers need to know",
+        "url": "https://www.ibm.com/quantum/blog/dev-tools-qdc-2026",
         "category": "quantum",
-        "image": "https://wimg.heraldcorp.com/news/cms/2026/11/10/news-p.v1.20261110.3b1bb426a64a4c4c9bdabc87cef05539_P1.jpg"
+        "image": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/IBM_2665_Nighthawk_R2_sh010_still_16x9_d24cf9e31f.png"
       },
       {
-        "published": "2026-11-10",
-        "source": "Gix Internet (company release via GlobeNewswire)",
-        "summary": "Gix Internet’s Nov. 10 company release repeats Quantum X Labs’ Nov. 9 announcement: preliminary tests on data from three IBM processors showed up to 20% fewer logical decoding failures. These are company-reported benchmarks, not a demonstration of fault-tolerant computing.",
-        "title": "Quantum X Labs expands AI-powered quantum error correction program to three IBM quantum processors",
-        "url": "https://www.globenewswire.com/news-release/2026/11/10/3399481/0/en/gix-internet-quantum-x-labs-expands-ai-powered-quantum-error-correction-program-to-three-ibm-quantum-processors.html",
+        "published": "2026-11-11",
+        "source": "IBM Quantum",
+        "summary": "IBM, Oak Ridge National Laboratory’s Quantum Science Center, and AMD launched a co-design platform pairing an IBM quantum processor with ORNL’s Umbra supercomputer. The collaboration aims to help researchers develop quantum error-correction methods using quantum and classical computing together.",
+        "title": "The year of advantage—and what comes next",
+        "url": "https://www.ibm.com/quantum/blog/qdc-2026",
         "category": "quantum",
-        "image": ""
+        "image": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/IBM_2665_Nighthawk_R2_sh050_still_7cf8211be7.png"
       },
       {
-        "published": "2026-11-09",
-        "source": "Data Center Dynamics",
-        "summary": "IBM deployed a Quantum System Two in Chicago with the University of Chicago, Illinois and the Illinois Quantum and Microelectronics Park. The system uses a 156-qubit Heron processor and is intended to support research and development of quantum algorithms and applications.",
-        "title": "IBM deploys Quantum System Two in Chicago, Illinois",
-        "url": "https://www.datacenterdynamics.com/en/news/ibm-deploys-quantum-system-two-in-chicago-illinois/",
+        "published": "2026-11-11",
+        "source": "Quantum & precision measurement (Annanim)",
+        "summary": "QuEra, Harvard, and Anthropic reported that AI-assisted circuit design produced circuits using fewer gates and qubits than existing designs in seven of eight tested algorithm building blocks. The result concerns circuit efficiency, not a demonstration of practical quantum advantage.",
+        "title": "QuEra, Harvard and Anthropic: Claude designed quantum circuits that need fewer gates and fewer qubits",
+        "url": "https://news.annanim.ai/en/topic/quantum/",
         "category": "quantum",
-        "image": "https://media.datacenterdynamics.com/media/images/20250129_122010.2e16d0ba.fill-1200x630.jpg"
-      },
-      {
-        "published": "2026-11-10",
-        "source": "Quantum Zeitgeist",
-        "summary": "Researchers at the German Aerospace Center and the University of Cologne reported data-encoding methods using tensor networks that simplify controlled circuits and reduce circuit depth compared with existing approaches. The work aims to make large-data quantum applications more feasible on current and near-term hardware.",
-        "title": "New quantum encoding cuts circuit depth for large datasets",
-        "url": "https://quantumzeitgeist.com/german-aerospace-quantum-encoding-cuts-circuit/",
-        "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/quantum-encoding-cuts-circuit-depth-large-1200x630.jpeg"
+        "image": "https://news.annanim.ai/og/annanim-news.jpg"
       }
     ]
   }
