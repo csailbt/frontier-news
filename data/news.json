@@ -3,13 +3,25 @@
   "categories": {
     "ai": [
       {
-        "published": "2026-11-12",
+        "published": "2026-11-11",
         "source": "Reuters",
         "summary": "A military-linked Chinese university bought two Nvidia H200 chips despite being on a U.S. export blacklist, according to procurement records reviewed by Reuters. The purchase highlights potential gaps in controls on advanced AI hardware reaching restricted institutions.",
         "title": "Military-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show",
-        "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3WM0EQ?channel=uNx795",
+        "url": "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/",
         "category": "ai",
-        "image": ""
+        "image": "",
+        "editorial_review": {
+          "reviewed": "2026-11-12",
+          "decision": "revision",
+          "reason": "Use originating Reuters publication date and canonical article rather than collection date and RSS endpoint.",
+          "original": {
+            "published": "2026-11-12",
+            "source": "Reuters",
+            "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3WM0EQ?channel=uNx795",
+            "title": "Military-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show",
+            "summary": "A military-linked Chinese university bought two Nvidia H200 chips despite being on a U.S. export blacklist, according to procurement records reviewed by Reuters. The purchase highlights potential gaps in controls on advanced AI hardware reaching restricted institutions."
+          }
+        }
       },
       {
         "published": "2026-11-12",
@@ -50,13 +62,25 @@
     ],
     "quantum": [
       {
-        "published": "2026-11-12",
+        "published": "2026-11-11",
         "source": "IBM (via HPCwire)",
         "summary": "IBM announced its planned Nighthawk r3 processor, designed to execute 10,000 quantum operations across 520 qubits. The company also said it plans to connect two processors into a 1,040-qubit system in 2027; these are roadmap targets, not reported results from an available system.",
         "title": "IBM Announces Nighthawk r3, Plans 1040-Qubit System for 2027",
         "url": "https://www.hpcwire.com/off-the-wire/ibm-announces-nighthawk-r3-plans-1040-qubit-system-for-2027/",
         "category": "quantum",
-        "image": "https://www.hpcwire.com/wp-content/uploads/2026/11/IBM-Quantum-Nighthawk-r2-and-r3-processors-comparison-scaled.jpg"
+        "image": "https://www.hpcwire.com/wp-content/uploads/2026/11/IBM-Quantum-Nighthawk-r2-and-r3-processors-comparison-scaled.jpg",
+        "editorial_review": {
+          "reviewed": "2026-11-12",
+          "decision": "revision",
+          "reason": "HPCwire carries IBM's November 11 release; November 12 is collection date.",
+          "original": {
+            "published": "2026-11-12",
+            "source": "IBM (via HPCwire)",
+            "url": "https://www.hpcwire.com/off-the-wire/ibm-announces-nighthawk-r3-plans-1040-qubit-system-for-2027/",
+            "title": "IBM Announces Nighthawk r3, Plans 1040-Qubit System for 2027",
+            "summary": "IBM announced its planned Nighthawk r3 processor, designed to execute 10,000 quantum operations across 520 qubits. The company also said it plans to connect two processors into a 1,040-qubit system in 2027; these are roadmap targets, not reported results from an available system."
+          }
+        }
       },
       {
         "published": "2026-11-12",
@@ -77,22 +101,46 @@
         "image": "https://www.purdue.edu/newsroom/wp-content/uploads/2026/11/shalaev-boltesseva-quantum-OG.jpg"
       },
       {
-        "published": "2026-11-12",
-        "source": "Quantum Brief",
-        "summary": "A cross-platform study tested GHZ-state entanglement through cloud-accessible quantum processors from several providers. Its report says the largest state passing the test involved 27 qubits on IBM hardware, while only four of nine processors certified genuine multipartite entanglement under the study’s strictest rule.",
-        "title": "The best of nine cloud quantum computers entangled 27 of its 120 qubits, and four of the nine could certify any entanglement at all",
-        "url": "https://www.quantum-brief.com/blog/news-2026-11-12-cross-platform-ghz-benchmark/",
+        "published": "2026-11-10",
+        "source": "Hernández et al. (arXiv preprint)",
+        "summary": "A November 10 preprint tested nine cloud quantum processors using provider-default compilation without error mitigation. Its largest 27-qubit benchmark result was compatible with an entanglement threshold under a permissive statistical rule, not certified entanglement. Only four devices certified genuine multipartite entanglement at any tested size under the stricter rule; failing that test does not prove entanglement was absent.",
+        "title": "Nine-processor study separates GHZ benchmark compatibility from certified entanglement",
+        "url": "https://arxiv.org/abs/2611.14114",
         "category": "quantum",
-        "image": "https://www.quantum-brief.com/images/og-default.png"
+        "image": "https://www.quantum-brief.com/images/og-default.png",
+        "editorial_review": {
+          "reviewed": "2026-11-12",
+          "decision": "revision",
+          "reason": "Replace overstrong secondary headline with original preprint and distinguish compatibility from certification; not a commercial-advantage finding.",
+          "original": {
+            "published": "2026-11-12",
+            "source": "Quantum Brief",
+            "url": "https://www.quantum-brief.com/blog/news-2026-11-12-cross-platform-ghz-benchmark/",
+            "title": "The best of nine cloud quantum computers entangled 27 of its 120 qubits, and four of the nine could certify any entanglement at all",
+            "summary": "A cross-platform study tested GHZ-state entanglement through cloud-accessible quantum processors from several providers. Its report says the largest state passing the test involved 27 qubits on IBM hardware, while only four of nine processors certified genuine multipartite entanglement under the study’s strictest rule."
+          }
+        }
       },
       {
-        "published": "2026-11-12",
-        "source": "QuiX Quantum / Quantum Wire",
+        "published": "2026-11-10",
+        "source": "QuiX Quantum",
         "summary": "QuiX Quantum and partner organizations received funding for a national program to develop the technology stack for a universal photonic quantum computer with more than 100 qubits. The multi-year effort covers components including photon sources, chips, detectors, control electronics and manufacturing.",
-        "title": "QuiX Quantum and Seven Partners Awarded National Mission To Build the Technology Foundations for a 100+ Qubit Photonic Quantum Computer",
-        "url": "http://quantumwire.com/index.php/article/17944557428027.html",
+        "title": "QuiX Quantum and partners receive funding for a 100+ qubit photonic-computing technology program",
+        "url": "https://www.quixquantum.com/news/quix-quantum-and-seven-partners-awarded-national-mission-to-build-the-technology-foundations",
         "category": "quantum",
-        "image": ""
+        "image": "",
+        "editorial_review": {
+          "reviewed": "2026-11-12",
+          "decision": "revision",
+          "reason": "Use original November 10 company announcement, not November 12 syndication. Omit conflicting partner counts in source.",
+          "original": {
+            "published": "2026-11-12",
+            "source": "QuiX Quantum / Quantum Wire",
+            "url": "http://quantumwire.com/index.php/article/17944557428027.html",
+            "title": "QuiX Quantum and Seven Partners Awarded National Mission To Build the Technology Foundations for a 100+ Qubit Photonic Quantum Computer",
+            "summary": "QuiX Quantum and partner organizations received funding for a national program to develop the technology stack for a universal photonic quantum computer with more than 100 qubits. The multi-year effort covers components including photon sources, chips, detectors, control electronics and manufacturing."
+          }
+        }
       },
       {
         "published": "2026-11-12",
