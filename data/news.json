@@ -1,80 +1,107 @@
 {
-  "updated": "2026-11-11T14:12:13.860Z",
+  "updated": "2026-11-12T14:14:56.261Z",
   "categories": {
     "ai": [
       {
-        "published": "2026-11-11",
+        "published": "2026-11-12",
         "source": "Reuters",
-        "summary": "A Chinese university with ties to the People’s Liberation Army bought two Nvidia H200 AI chips despite being on a U.S. export blacklist, according to procurement records. Reuters also found evidence that institutions accessed restricted Nvidia-powered computing through domestic providers, raising questions about enforcement of export controls.",
-        "title": "Chinese university bought Nvidia H200 chips despite US blacklist",
-        "url": "https://www.reuters.com/world/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-2026-11-11/",
+        "summary": "A military-linked Chinese university bought two Nvidia H200 chips despite being on a U.S. export blacklist, according to procurement records reviewed by Reuters. The purchase highlights potential gaps in controls on advanced AI hardware reaching restricted institutions.",
+        "title": "Military-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show",
+        "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3WM0EQ?channel=uNx795",
         "category": "ai",
         "image": ""
       },
       {
-        "published": "2026-11-11",
-        "source": "Office for Students and Advance HE",
-        "summary": "A joint report drawing on conversations with more than 300 students and staff warns that AI can undermine unsupervised assessment and that detection tools are unreliable. It calls for valid, accessible assessment and stronger AI literacy, including secure formats where students need to demonstrate their own knowledge.",
-        "title": "OfS report warns AI can undermine unsupervised university assessment",
-        "url": "https://www.officeforstudents.org.uk/publications/making-ai-work-for-students-reflections-on-institutional-practice/",
-        "category": "ai",
-        "image": ""
-      },
-      {
-        "published": "2026-11-10",
-        "source": "OpenAI",
-        "summary": "OpenAI introduced Businesses in ChatGPT in beta on Nov. 10, allowing eligible companies to manage verified profiles and view aggregated engagement insights. Business Agents initially support eligible U.S. ecommerce and online service businesses, with clearly labeled conversations separate from ChatGPT’s independent answers.",
-        "title": "OpenAI launches Businesses in ChatGPT in beta",
-        "url": "https://openai.com/index/introducing-businesses-chatgpt/",
-        "category": "ai",
-        "image": ""
-      },
-      {
-        "published": "2026-11-10",
+        "published": "2026-11-12",
         "source": "Reuters",
-        "summary": "AI data and model-training startup Mercor raised $750 million in a Series D round valuing it at $20 billion, with investors including Nvidia and Benchmark. The company says it will use the funding to train and test AI agents on professional tasks.",
-        "title": "AI training startup Mercor valued at $20 billion in latest funding round",
-        "url": "https://www.reuters.com/legal/transactional/ai-training-startup-mercor-valued-20-billion-latest-funding-round-2026-11-10/",
+        "summary": "Chinese AI companies are seeking to reserve Nvidia-powered computing capacity at data centers outside China, amid concern Washington may curb remote access to advanced chips. The reported scramble underscores how cloud access has become a flashpoint in U.S.-China AI technology controls.",
+        "title": "Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of US curbs",
+        "url": "https://www.reuters.com/world/china/chinese-ai-firms-rush-secure-nvidia-chip-capacity-spy-scandal-stirs-fear-us-2026-11-12/",
+        "category": "ai",
+        "image": ""
+      },
+      {
+        "published": "2026-11-12",
+        "source": "Reuters",
+        "summary": "A Capgemini survey found that 59% of senior executives at large companies plan to increase their use of open-weight AI models over the next year, citing higher-than-expected AI costs. Respondents still expect to use closed models for tasks where they consider the added capability worth the price.",
+        "title": "Most large firms plan higher open-weight AI use to cap bills, study shows",
+        "url": "https://www.reuters.com/business/most-large-firms-plan-higher-open-weight-ai-use-cap-bills-study-shows-2026-11-12/",
+        "category": "ai",
+        "image": ""
+      },
+      {
+        "published": "2026-11-12",
+        "source": "Reuters",
+        "summary": "Goldman Sachs forecast that U.S. spending on AI-related hardware and intellectual property will exceed $900 billion by the end of 2026 and reach an annualized $1.4 trillion by the end of 2027. The bank expects AI to remain the leading driver of business investment growth next year.",
+        "title": "AI to stay dominant force behind US business investment in 2027, Goldman says",
+        "url": "https://www.reuters.com/business/ai-stay-dominant-force-behind-us-business-investment-2027-goldman-says-2026-11-12/",
+        "category": "ai",
+        "image": ""
+      },
+      {
+        "published": "2026-11-12",
+        "source": "Reuters",
+        "summary": "Anthropic is preparing an IPO that could value the AI company at up to $1.4 trillion, with a planned share sale of as much as $64.4 billion, Reuters reported. A separate $26 billion private placement involving major technology investors would make the offering a significant test of investor appetite for AI companies amid questions about spending and returns.",
+        "title": "How Anthropic stacks up against some of the biggest US IPOs",
+        "url": "https://www.reuters.com/legal/transactional/how-anthropic-stacks-up-against-some-biggest-us-ipos-2026-11-12/",
         "category": "ai",
         "image": ""
       }
     ],
     "quantum": [
       {
-        "published": "2026-11-11",
-        "source": "IBM Newsroom",
-        "summary": "IBM announced its planned Nighthawk r3 processor, designed to execute circuits with up to 10,000 quantum operations across 520 programmable qubits. The company says it plans to link two r3 processors in 2027 to create a system with more than 1,000 qubits.",
-        "title": "IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality, with Plans to Scale Beyond 1,000 Qubits in 2027",
-        "url": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
+        "published": "2026-11-12",
+        "source": "IBM (via HPCwire)",
+        "summary": "IBM announced its planned Nighthawk r3 processor, designed to execute 10,000 quantum operations across 520 qubits. The company also said it plans to connect two processors into a 1,040-qubit system in 2027; these are roadmap targets, not reported results from an available system.",
+        "title": "IBM Announces Nighthawk r3, Plans 1040-Qubit System for 2027",
+        "url": "https://www.hpcwire.com/off-the-wire/ibm-announces-nighthawk-r3-plans-1040-qubit-system-for-2027/",
+        "category": "quantum",
+        "image": "https://www.hpcwire.com/wp-content/uploads/2026/11/IBM-Quantum-Nighthawk-r2-and-r3-processors-comparison-scaled.jpg"
+      },
+      {
+        "published": "2026-11-12",
+        "source": "PsiQuantum",
+        "summary": "PsiQuantum and AMD expanded their partnership to develop computing infrastructure combining photonic quantum hardware with AMD CPUs, GPUs, FPGAs and software. They also described work on implementing PsiQuantum’s machine-learning decoder for low-latency error correction on programmable accelerators.",
+        "title": "PsiQuantum and AMD Collaborate to Build the Computing Foundation for Utility-Scale Quantum Computing",
+        "url": "https://www.psiquantum.com/news-import/psiquantum-amd-partnership-future-of-computing",
+        "category": "quantum",
+        "image": "http://static1.squarespace.com/static/63bdc0806d7fbd5344be5be2/t/6af4bf2bf4e47841b5d84e2c/1794424619372/PsiQuantum+x+AMD+logos.png?format=1500w"
+      },
+      {
+        "published": "2026-11-12",
+        "source": "Purdue University",
+        "summary": "Purdue researchers reported a machine-learning approach that predicts spectral shifts linked to decoherence in quantum emitters; in the studied systems, using those predictions reduced the shifts by as much as 20-fold. The university notes that the underlying research was published in Nature Communications earlier this year, so this is a new institutional report about prior work.",
+        "title": "Research advances quantum computing that harnesses speed of light",
+        "url": "https://www.purdue.edu/newsroom/2026/Q4/research-advances-quantum-computing-that-harnesses-speed-of-light/",
+        "category": "quantum",
+        "image": "https://www.purdue.edu/newsroom/wp-content/uploads/2026/11/shalaev-boltesseva-quantum-OG.jpg"
+      },
+      {
+        "published": "2026-11-12",
+        "source": "Quantum Brief",
+        "summary": "A cross-platform study tested GHZ-state entanglement through cloud-accessible quantum processors from several providers. Its report says the largest state passing the test involved 27 qubits on IBM hardware, while only four of nine processors certified genuine multipartite entanglement under the study’s strictest rule.",
+        "title": "The best of nine cloud quantum computers entangled 27 of its 120 qubits, and four of the nine could certify any entanglement at all",
+        "url": "https://www.quantum-brief.com/blog/news-2026-11-12-cross-platform-ghz-benchmark/",
+        "category": "quantum",
+        "image": "https://www.quantum-brief.com/images/og-default.png"
+      },
+      {
+        "published": "2026-11-12",
+        "source": "QuiX Quantum / Quantum Wire",
+        "summary": "QuiX Quantum and partner organizations received funding for a national program to develop the technology stack for a universal photonic quantum computer with more than 100 qubits. The multi-year effort covers components including photon sources, chips, detectors, control electronics and manufacturing.",
+        "title": "QuiX Quantum and Seven Partners Awarded National Mission To Build the Technology Foundations for a 100+ Qubit Photonic Quantum Computer",
+        "url": "http://quantumwire.com/index.php/article/17944557428027.html",
         "category": "quantum",
         "image": ""
       },
       {
-        "published": "2026-11-11",
-        "source": "IBM Quantum",
-        "summary": "IBM outlined new developer tools and hardware access, including pulse-level controls and capabilities for mid-circuit measurement and fast qubit reset. Its expanded error-correction tools include support for long-running repetition-code experiments on IBM hardware.",
-        "title": "QDC 2026: what quantum developers need to know",
-        "url": "https://www.ibm.com/quantum/blog/dev-tools-qdc-2026",
+        "published": "2026-11-12",
+        "source": "The Quantum Insider",
+        "summary": "Xanadu reported third-quarter revenue growth and described partnerships and government support tied to its photonic-computing roadmap. The article also notes the company’s targets of up to 200 logical qubits by 2029 and more than 1,000 by 2031—future goals, not current capabilities.",
+        "title": "Xanadu Reports Revenue Growth as Photonic Partnerships and Government Support Expand",
+        "url": "https://thequantuminsider.com/2026/11/12/xanadu-reports-revenue-growth-as-photonic-partnerships-and-government-support-expand/",
         "category": "quantum",
-        "image": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/IBM_2665_Nighthawk_R2_sh010_still_16x9_d24cf9e31f.png"
-      },
-      {
-        "published": "2026-11-11",
-        "source": "IBM Quantum",
-        "summary": "IBM’s Nov. 11 conference roundup revisits the quantum error-correction co-design platform announced with Oak Ridge National Laboratory and AMD on Nov. 5. It pairs Nighthawk processors with ORNL’s Umbra supercomputer to develop hybrid research workflows; the roundup is not a new platform launch or proof of practical quantum advantage.",
-        "title": "IBM’s QDC roundup revisits its quantum error-correction co-design platform",
-        "url": "https://www.ibm.com/quantum/blog/qdc-2026",
-        "category": "quantum",
-        "image": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/IBM_2665_Nighthawk_R2_sh050_still_7cf8211be7.png"
-      },
-      {
-        "published": "2026-11-10",
-        "source": "QuEra Computing",
-        "summary": "QuEra’s Nov. 10 release highlights a Harvard, Anthropic and QuEra preprint submitted on Oct. 15. AI-designed circuits reduced gate and qubit requirements in seven of eight tested building blocks. These are circuit resource estimates, not hardware runs or a demonstration of practical quantum advantage.",
-        "title": "QuEra highlights AI-designed quantum circuits with lower resource requirements",
-        "url": "https://www.quera.com/press-releases/harvard-anthropic-and-quera-breakthrough-research-uniquely-shows-ai-can-reduce-the-resources-quantum-applications-need-significantly-accelerating-the-era-of-useful-quantum-computing",
-        "category": "quantum",
-        "image": ""
+        "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/Xanadu-3Q-2026-Results-Header-1.png"
       }
     ]
   }
