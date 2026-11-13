@@ -12,87 +12,229 @@
         "image": ""
       },
       {
-        "published": "2026-11-13",
-        "source": "The Hype News",
-        "summary": "Google introduced Gemini 4 Hydrogen, a model aimed at coding, agent tasks and everyday use. The report says Google is rolling it out across its consumer and developer products, and cites the company’s claims about speed and performance.",
+        "published": "2026-11-12",
+        "source": "Google",
+        "summary": "Google announced Gemini 4 Hydrogen for coding, agentic workflows and everyday use, rolling it out across consumer and developer products. Speed and performance descriptions are company claims, not independent operating-benefit measurements.",
         "title": "Google releases Gemini 4 Hydrogen",
-        "url": "https://thehype.news/daily-ai-digest-november-12th/",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
         "category": "ai",
-        "image": "https://thehype.news/content/images/size/w1200/2026/11/daily-ai-digest-november-12th-social-card.jpg"
+        "image": ""
       },
       {
-        "published": "2026-11-13",
-        "source": "SBS News (citing Reuters)",
+        "published": "2026-11-12",
+        "source": "Reuters",
         "summary": "Chinese AI companies are reportedly seeking overseas access to Nvidia computing capacity as they anticipate tighter U.S. restrictions on advanced chips and cloud access. The report says firms and intermediaries are trying to secure resources ahead of potential regulatory changes.",
         "title": "Chinese AI Firms Rush to Secure Nvidia Chips Amid Fears of Expanding U.S. Regulations",
-        "url": "http://news.sbs.co.kr/english/article.do?news_id=N1008844296",
+        "url": "https://www.reuters.com/world/china/chinese-ai-firms-rush-secure-nvidia-chip-capacity-spy-scandal-stirs-fear-us-2026-11-12/",
         "category": "ai",
-        "image": "https://img.sbs.co.kr/newimg/news/20261113/202240556_1280.jpg"
+        "image": ""
       },
       {
-        "published": "2026-11-13",
-        "source": "Daily briefing, Artificial Prism",
-        "summary": "The report says Nvidia representatives told a U.S. lawmaker that location-checking measures for AI chips proposed in the Chip Security Act could be implemented. The issue is significant to efforts to enforce export controls and track advanced hardware.",
-        "title": "Nvidia says chip location checks are technically feasible",
-        "url": "https://artificialprism.com/daily/2026-11-13/",
+        "published": "2026-11-12",
+        "source": "MIT Technology Review",
+        "summary": "Representative Bill Foster told MIT Technology Review that Nvidia representatives privately described proposed anti-smuggling location checks as technically feasible. This is the lawmaker's account, not a new public Nvidia commitment to implement the proposed mandate.",
+        "title": "Lawmaker says Nvidia privately described chip-location checks as feasible",
+        "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
         "category": "ai",
-        "image": "https://artificialprism.com/daily/2026-11-13/opengraph-image-1gpc1g?e19302d0f5c0affc"
+        "image": ""
       }
     ],
     "quantum": [
       {
-        "published": "2026-11-13",
-        "source": "Quantum Computing Report",
+        "published": "2026-11-12",
+        "source": "PsiQuantum and AMD (Business Wire)",
         "summary": "PsiQuantum and AMD expanded their partnership to co-design the classical and quantum infrastructure for fault-tolerant photonic computers. The plan adds AMD GPUs, CPUs and software to the existing collaboration; AMD also plans an undisclosed equity investment.",
         "title": "PsiQuantum and AMD Expand Partnership with Equity Investment to Co-Design Utility-Scale Quantum Infrastructure",
-        "url": "https://quantumcomputingreport.com/psiquantum-and-amd-expand-partnership-with-equity-investment-to-co-design-utility-scale-quantum-infrastructure/",
+        "url": "https://www.nasdaq.com/press-release/psiquantum-and-amd-collaborate-build-computing-foundation-utility-scale-quantum",
         "category": "quantum",
-        "image": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-74.png"
+        "image": ""
       },
       {
-        "published": "2026-11-13",
-        "source": "Quantum Brief",
-        "summary": "A joint PsiQuantum–AMD team reported an FPGA implementation of its PRISM decoder that processed a distance-8 logical block in 6.59 microseconds under a 400 MHz timing assumption. The article notes the fully placed-and-routed design ran at 250 MHz, taking 10.11 microseconds—an important qualification to the faster figure.",
-        "title": "PsiQuantum and AMD put an error correction decoder on an FPGA and got 6.59 microseconds, at a clock speed only individual layers have reached",
-        "url": "https://quantum-brief.com/blog/news-2026-11-13-psiquantum-amd-prism-decoder/",
+        "published": "2026-11-10",
+        "source": "PsiQuantum and AMD researchers (arXiv preprint)",
+        "summary": "The PRISM preprint reports a full-network FPGA mapping at 250 MHz with 10.11-microsecond latency for a distance-8 block. Its 6.59-microsecond figure assumes 400 MHz, achieved for individual layers; full-network mapping at that frequency is left for future work. This is decoder research, not a demonstrated utility-scale quantum computer.",
+        "title": "PRISM decoder reports 10.11-microsecond full mapping; faster result remains conditional",
+        "url": "https://arxiv.org/abs/2611.13630",
         "category": "quantum",
-        "image": "https://quantum-brief.com/images/og-default.png"
+        "image": ""
       },
       {
-        "published": "2026-11-13",
-        "source": "Quantum Zeitgeist",
-        "summary": "Researchers at the MIT–Harvard Center for Ultracold Atoms reported maintaining an array of more than 3,000 neutral-atom qubits for over two hours by continually replenishing atoms. The work addresses atom loss, a practical obstacle to sustained operation and potential scaling of neutral-atom systems.",
-        "title": "MIT-Harvard Center Achieves Continuous Operation With Over 3,000 Qubits",
-        "url": "https://quantumzeitgeist.com/mit-harvard-center-continuous-3000-qubits/",
+        "published": "2025-09-25",
+        "source": "Harvard Gazette",
+        "summary": "Harvard reported in September 2025 that researchers maintained an array of more than 3,000 atoms for over two hours using continuous replenishment. The Nature study addresses atom loss; it is not a new November 2026 result or a demonstration of commercial quantum advantage.",
+        "title": "From 2025: a continuously replenished 3,000-atom quantum system",
+        "url": "https://news.harvard.edu/gazette/story/2025/09/clearing-significant-hurdle-to-quantum-computing/",
         "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/mit-harvard-center-achieves-continuous-operation-with-over.png"
+        "image": ""
       },
       {
-        "published": "2026-11-13",
-        "source": "QubitWire",
+        "published": "2026-11-12",
+        "source": "Quantum Elements (EIN Presswire)",
         "summary": "Rigetti is incorporating Quantum Elements’ Constellation hardware-modeling platform into its quantum error-correction workflow. The companies said they validated predictions of single- and two-qubit gate performance on Rigetti’s 36- and 108-qubit processors; the report says no end-to-end improvement in error-corrected computations was disclosed.",
         "title": "Rigetti puts a virtual chip model into its error-correction workflow",
-        "url": "https://qubitwire.com/articles/rigetti-constellation-error-modeling",
+        "url": "https://www.einnews.com/pr_news/956198544/quantum-elements-constellation-platform-leveraged-by-rigetti-to-project-system-performance-at-scale",
         "category": "quantum",
-        "image": "https://qubitwire.com/media/thumbnail-restoration-20261110/rigetti-cryostat-hero.webp"
+        "image": ""
       },
       {
-        "published": "2026-11-13",
-        "source": "FreeQuantumComputing",
-        "summary": "A new preprint reports superconducting-qubit reset using on-chip dissipation, with a median reset time constant near 48 nanoseconds and low residual excitation after a longer reset pulse. The result could matter for error-correction workflows, but the report is based on a preprint that has not undergone journal peer review.",
-        "title": "On-Chip Dissipation Resets Qubits in 48 Nanoseconds",
-        "url": "https://www.freequantumcomputing.com/blog/superconducting-qubit-48ns-on-chip-reset/",
+        "published": "2026-11-10",
+        "source": "Beijing Academy of Quantum Information Sciences researchers (arXiv preprint)",
+        "summary": "A November 10 preprint reports a median superconducting-qubit reset time constant near 48 ns. Low residual excitation was measured after a 400-ns reset pulse, not a completed 48-ns reset. The experimental result has not yet undergone journal peer review.",
+        "title": "On-chip dissipation produces a 48-nanosecond reset time constant",
+        "url": "https://arxiv.org/abs/2611.14391",
         "category": "quantum",
-        "image": "https://www.freequantumcomputing.com/og-image.png"
+        "image": ""
       },
       {
-        "published": "2026-11-13",
-        "source": "Quantum Zeitgeist",
+        "published": "2026-11-12",
+        "source": "npj Quantum Information",
         "summary": "Researchers at Freie Universität Berlin and collaborators proposed a framework for designing stabilizer-code circuits around specific hardware connectivity constraints. The work frames circuit construction as a discrete optimization problem and includes software for compiling hardware-tailored logical circuits.",
         "title": "Hardware Constraints Now Shape Quantum Error Correction Circuits",
-        "url": "https://quantumzeitgeist.com/freie-berlin-quantum-error-correction-circuits/",
+        "url": "https://www.nature.com/articles/s41534-026-01404-x",
         "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/hardware-constraints-shape-quantum-error-correction-1200x630.png"
+        "image": ""
+      }
+    ]
+  },
+  "editorial_review": {
+    "reviewed": "2026-11-13",
+    "batch_id": "frontier-news-editorial-2026-11-13",
+    "note": "Source dates are separate from collection and review dates. Corrections apply to external headlines, not admission to reviewed evidence charts.",
+    "decisions": [
+      {
+        "category": "ai",
+        "original": {
+          "published": "2026-11-13",
+          "source": "The Hype News",
+          "summary": "Google introduced Gemini 4 Hydrogen, a model aimed at coding, agent tasks and everyday use. The report says Google is rolling it out across its consumer and developer products, and cites the company’s claims about speed and performance.",
+          "title": "Google releases Gemini 4 Hydrogen",
+          "url": "https://thehype.news/daily-ai-digest-november-12th/",
+          "category": "ai",
+          "image": "https://thehype.news/content/images/size/w1200/2026/11/daily-ai-digest-november-12th-social-card.jpg"
+        },
+        "reason": "Replace secondary digest and collection-day date with originating announcement.",
+        "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+        "source_published": "2026-11-12"
+      },
+      {
+        "category": "ai",
+        "original": {
+          "published": "2026-11-13",
+          "source": "SBS News (citing Reuters)",
+          "summary": "Chinese AI companies are reportedly seeking overseas access to Nvidia computing capacity as they anticipate tighter U.S. restrictions on advanced chips and cloud access. The report says firms and intermediaries are trying to secure resources ahead of potential regulatory changes.",
+          "title": "Chinese AI Firms Rush to Secure Nvidia Chips Amid Fears of Expanding U.S. Regulations",
+          "url": "http://news.sbs.co.kr/english/article.do?news_id=N1008844296",
+          "category": "ai",
+          "image": "https://img.sbs.co.kr/newimg/news/20261113/202240556_1280.jpg"
+        },
+        "reason": "Restore originating Reuters report/date instead of later syndication.",
+        "source_url": "https://www.reuters.com/world/china/chinese-ai-firms-rush-secure-nvidia-chip-capacity-spy-scandal-stirs-fear-us-2026-11-12/",
+        "source_published": "2026-11-12"
+      },
+      {
+        "category": "ai",
+        "original": {
+          "published": "2026-11-13",
+          "source": "Daily briefing, Artificial Prism",
+          "summary": "The report says Nvidia representatives told a U.S. lawmaker that location-checking measures for AI chips proposed in the Chip Security Act could be implemented. The issue is significant to efforts to enforce export controls and track advanced hardware.",
+          "title": "Nvidia says chip location checks are technically feasible",
+          "url": "https://artificialprism.com/daily/2026-11-13/",
+          "category": "ai",
+          "image": "https://artificialprism.com/daily/2026-11-13/opengraph-image-1gpc1g?e19302d0f5c0affc"
+        },
+        "reason": "Restore original report/date and distinguish lawmaker attribution from company public statement.",
+        "source_url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+        "source_published": "2026-11-12"
+      },
+      {
+        "category": "quantum",
+        "original": {
+          "published": "2026-11-13",
+          "source": "Quantum Computing Report",
+          "summary": "PsiQuantum and AMD expanded their partnership to co-design the classical and quantum infrastructure for fault-tolerant photonic computers. The plan adds AMD GPUs, CPUs and software to the existing collaboration; AMD also plans an undisclosed equity investment.",
+          "title": "PsiQuantum and AMD Expand Partnership with Equity Investment to Co-Design Utility-Scale Quantum Infrastructure",
+          "url": "https://quantumcomputingreport.com/psiquantum-and-amd-expand-partnership-with-equity-investment-to-co-design-utility-scale-quantum-infrastructure/",
+          "category": "quantum",
+          "image": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-74.png"
+        },
+        "reason": "Use original company announcement and date; investment remains planned.",
+        "source_url": "https://www.nasdaq.com/press-release/psiquantum-and-amd-collaborate-build-computing-foundation-utility-scale-quantum",
+        "source_published": "2026-11-12"
+      },
+      {
+        "category": "quantum",
+        "original": {
+          "published": "2026-11-13",
+          "source": "Quantum Brief",
+          "summary": "A joint PsiQuantum–AMD team reported an FPGA implementation of its PRISM decoder that processed a distance-8 logical block in 6.59 microseconds under a 400 MHz timing assumption. The article notes the fully placed-and-routed design ran at 250 MHz, taking 10.11 microseconds—an important qualification to the faster figure.",
+          "title": "PsiQuantum and AMD put an error correction decoder on an FPGA and got 6.59 microseconds, at a clock speed only individual layers have reached",
+          "url": "https://quantum-brief.com/blog/news-2026-11-13-psiquantum-amd-prism-decoder/",
+          "category": "quantum",
+          "image": "https://quantum-brief.com/images/og-default.png"
+        },
+        "reason": "Use first-submission date and primary paper Table II; distinguish complete mapping from component timing.",
+        "source_url": "https://arxiv.org/abs/2611.13630",
+        "source_published": "2026-11-10"
+      },
+      {
+        "category": "quantum",
+        "original": {
+          "published": "2026-11-13",
+          "source": "Quantum Zeitgeist",
+          "summary": "Researchers at the MIT–Harvard Center for Ultracold Atoms reported maintaining an array of more than 3,000 neutral-atom qubits for over two hours by continually replenishing atoms. The work addresses atom loss, a practical obstacle to sustained operation and potential scaling of neutral-atom systems.",
+          "title": "MIT-Harvard Center Achieves Continuous Operation With Over 3,000 Qubits",
+          "url": "https://quantumzeitgeist.com/mit-harvard-center-continuous-3000-qubits/",
+          "category": "quantum",
+          "image": "https://quantumzeitgeist.com/wp-content/uploads/mit-harvard-center-achieves-continuous-operation-with-over.png"
+        },
+        "reason": "Correct a 2025 result resurfaced as current news; use dated university source.",
+        "source_url": "https://news.harvard.edu/gazette/story/2025/09/clearing-significant-hurdle-to-quantum-computing/",
+        "source_published": "2025-09-25"
+      },
+      {
+        "category": "quantum",
+        "original": {
+          "published": "2026-11-13",
+          "source": "QubitWire",
+          "summary": "Rigetti is incorporating Quantum Elements’ Constellation hardware-modeling platform into its quantum error-correction workflow. The companies said they validated predictions of single- and two-qubit gate performance on Rigetti’s 36- and 108-qubit processors; the report says no end-to-end improvement in error-corrected computations was disclosed.",
+          "title": "Rigetti puts a virtual chip model into its error-correction workflow",
+          "url": "https://qubitwire.com/articles/rigetti-constellation-error-modeling",
+          "category": "quantum",
+          "image": "https://qubitwire.com/media/thumbnail-restoration-20261110/rigetti-cryostat-hero.webp"
+        },
+        "reason": "Restore original company announcement and date; modeled performance remains distinct from fault-tolerant computing.",
+        "source_url": "https://www.einnews.com/pr_news/956198544/quantum-elements-constellation-platform-leveraged-by-rigetti-to-project-system-performance-at-scale",
+        "source_published": "2026-11-12"
+      },
+      {
+        "category": "quantum",
+        "original": {
+          "published": "2026-11-13",
+          "source": "FreeQuantumComputing",
+          "summary": "A new preprint reports superconducting-qubit reset using on-chip dissipation, with a median reset time constant near 48 nanoseconds and low residual excitation after a longer reset pulse. The result could matter for error-correction workflows, but the report is based on a preprint that has not undergone journal peer review.",
+          "title": "On-Chip Dissipation Resets Qubits in 48 Nanoseconds",
+          "url": "https://www.freequantumcomputing.com/blog/superconducting-qubit-48ns-on-chip-reset/",
+          "category": "quantum",
+          "image": "https://www.freequantumcomputing.com/og-image.png"
+        },
+        "reason": "Correct headline's decay-constant versus reset-duration conflation and use original preprint date.",
+        "source_url": "https://arxiv.org/abs/2611.14391",
+        "source_published": "2026-11-10"
+      },
+      {
+        "category": "quantum",
+        "original": {
+          "published": "2026-11-13",
+          "source": "Quantum Zeitgeist",
+          "summary": "Researchers at Freie Universität Berlin and collaborators proposed a framework for designing stabilizer-code circuits around specific hardware connectivity constraints. The work frames circuit construction as a discrete optimization problem and includes software for compiling hardware-tailored logical circuits.",
+          "title": "Hardware Constraints Now Shape Quantum Error Correction Circuits",
+          "url": "https://quantumzeitgeist.com/freie-berlin-quantum-error-correction-circuits/",
+          "category": "quantum",
+          "image": "https://quantumzeitgeist.com/wp-content/uploads/hardware-constraints-shape-quantum-error-correction-1200x630.png"
+        },
+        "reason": "Restore original journal publication and date.",
+        "source_url": "https://www.nature.com/articles/s41534-026-01404-x",
+        "source_published": "2026-11-12"
       }
     ]
   }
