@@ -7,101 +7,284 @@
         "source": "Reuters",
         "summary": "Reuters reports that Jensen Huang misled senior Nvidia leaders about his relationship with a Chinese businesswoman, citing people familiar with the matter and internal correspondence. The story comes amid a board investigation and Huang’s resignation as Nvidia CEO, with potential implications for leadership at the AI chipmaker.",
         "title": "Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say",
-        "url": "https://www.reuters.com/5f374b32b07b/world/china/ex-nvidia-ceo-misled-top-lawyer-affair-with-chinese-businesswoman-sources-say-2026-11-14/",
+        "url": "https://www.reuters.com/world/china/ex-nvidia-ceo-misled-top-lawyer-affair-with-chinese-businesswoman-sources-say-2026-11-14/",
         "category": "ai",
-        "image": "https://www.reuters.com/resizer/v2/KAMWCBCAMVIEPFRGIKKJUIG32U.jpg?auth=904ddcc3c2e21434ae3b08bbaac08eb03cb61ffa7453633709ae9b507603ac87&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true"
+        "image": ""
       },
       {
-        "published": "2026-11-14",
-        "source": "The Economic Times",
+        "published": "2026-11-12",
+        "source": "Reuters",
         "summary": "A coalition of nonprofits sued OpenAI, Anthropic, Google, Meta, and SpaceX’s AI division, seeking to block further development of advanced AI models. The complaint argues that California unfair-business-practices law supports an injunction, though the case’s outcome and potential reach are uncertain.",
         "title": "OpenAI, Google, Anthropic hit with lawsuit to halt AI development",
-        "url": "https://www.economictimes.indiatimes.com/markets/us-stocks/news/openai-google-anthropic-hit-with-lawsuit-to-halt-ai-development/printarticle/135820787.cms",
+        "url": "https://www.reuters.com/business/openai-google-anthropic-hit-with-lawsuit-seeking-halt-frontier-ai-development-2026-11-12/",
         "category": "ai",
-        "image": "https://img.etimg.com/thumb/msid-135820899,width-1200,height-630,imgsize-97642,overlay-etmarkets/printarticle.jpg"
+        "image": ""
       },
       {
-        "published": "2026-11-14",
-        "source": "The Economic Times",
+        "published": "2026-11-12",
+        "source": "Reuters",
         "summary": "Chinese AI companies are reportedly seeking access to Nvidia-powered computing at overseas data centers, amid concern that US rules could tighten restrictions on remote access to advanced chips. The report, based on people familiar with the matter, highlights a potential enforcement challenge for export controls.",
         "title": "Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of US curbs",
-        "url": "https://economictimes.indiatimes.com/ai/ai-insights/chinese-ai-firms-rush-to-secure-nvidia-chip-capacity-as-spy-scandal-stirs-fear-of-us-curbs/articleshow/135758167.cms",
+        "url": "https://www.reuters.com/world/china/chinese-ai-firms-rush-secure-nvidia-chip-capacity-spy-scandal-stirs-fear-us-2026-11-12/",
         "category": "ai",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-76162,resizemode-75,msid-135758167/ai/ai-insights/chinese-ai-firms-rush-to-secure-nvidia-chip-capacity-as-spy-scandal-stirs-fear-of-us-curbs.jpg"
+        "image": ""
       },
       {
-        "published": "2026-11-14",
-        "source": "The AI Edge",
+        "published": "2026-11-13",
+        "source": "Anthropic",
         "summary": "Anthropic reported that Claude Fable 5.1’s performance on multi-turn safety evaluations differed substantially between its API and claude.ai configurations, by as much as 34 percentage points. The findings underscore that model behavior can vary with deployment setup and system prompts.",
         "title": "Anthropic reports configuration differences in Claude safety evaluations",
-        "url": "https://aiedgebriefing.com/2026-11-14/",
+        "url": "https://www.anthropic.com/research/building-strong-safety-evaluations",
         "category": "ai",
-        "image": "https://aiedgebriefing.com/2026-11-14/og.png"
+        "image": ""
       },
       {
-        "published": "2026-11-14",
-        "source": "The Guardian (reported by AI Weekly)",
-        "summary": "Finnish logician Jan von Plato told The Guardian that Claude helped transcribe and analyze Kurt Gödel’s shorthand notebooks, surfacing hundreds of theorems from the material. The account describes AI as an aid to a long-running scholarly effort, not independent verification of the results.",
-        "title": "Gödel’s notebooks and the use of Claude in extracting theorems",
-        "url": "https://aiweekly.co/ai-news-today/edition/2026-11-14",
+        "published": "2026-11-13",
+        "source": "The Guardian",
+        "summary": "Von Plato reports AI-assisted analysis of existing transcriptions, with proof-checking and corrections. This is a scholarly account.",
+        "title": "Claude helps study Gödel’s notebooks",
+        "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
         "category": "ai",
         "image": ""
       }
     ],
     "quantum": [
       {
-        "published": "2026-11-14",
-        "source": "The Morning Science",
-        "summary": "Atom Computing finalized an agreement for up to $100 million from the U.S. Department of Commerce to advance research and development of fault-tolerant, utility-scale neutral-atom quantum systems. The funding is intended to support engineering, testbed capacity and system performance.",
-        "title": "Atom Computing Finalizes $100 Million U.S. Department of Commerce R&D Agreement for Fault-Tolerant Quantum Systems",
-        "url": "https://themorning.science/topic/quantum-computing",
+        "published": "2026-11-13",
+        "source": "NIST / U.S. Department of Commerce",
+        "summary": "Commerce signed a final CHIPS R&D award of up to $100 million for Atom Computing. The award supports neutral-atom hardware and integration research toward utility-scale systems; it is a funding commitment, not demonstrated commercial quantum advantage.",
+        "title": "Commerce finalizes up to $100 million R&D award for Atom Computing",
+        "url": "https://www.nist.gov/news-events/news/2026/11/department-commerce-announces-finalization-chips-rd-award-atom-computing",
         "category": "quantum",
-        "image": "https://themorning.science/opengraph-image"
+        "image": ""
       },
       {
-        "published": "2026-11-14",
-        "source": "Quantum Zeitgeist",
-        "summary": "Researchers from AMD and IBM Research reported near-linear scaling for the Pêlagos quantum-error-correction decoder across as many as eight GPUs. The work, tested on AMD accelerators and deployed on Oak Ridge’s Lux system, aims to speed large-scale QEC simulation.",
-        "title": "Pêlagos Achieves Near-linear GPU Scaling",
-        "url": "https://quantumzeitgeist.com/pelagos-gpu-scaling-near-linear/",
-        "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/pelagos-near-linear-gpu-scaling-1200x630.jpg"
-      },
-      {
-        "published": "2026-11-14",
-        "source": "Quantum Zeitgeist",
-        "summary": "Researchers from RIKEN and Toshiba described an encoder for a [[30,6,5]] symplectic double code, designed to prepare encoded states with fewer resources. The report says the method uses 67 gates, compared with 108 for the standard approach, and targets more practical experiments with high-rate error-correcting codes.",
-        "title": "A [[30,6,5]] Code May Allow Quantum Experiments To Scale Up Faster",
-        "url": "https://quantumzeitgeist.com/riken-quantum-code-allow-experiments/",
-        "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/a-3065-code-may-allow-quantum-experiments-to-1200x630.jpg"
-      },
-      {
-        "published": "2026-11-14",
-        "source": "UXC News",
-        "summary": "IBM reportedly unveiled the 520-qubit Nighthawk r3 superconducting processor, claiming improved two-qubit gate fidelity and circuits capable of 10,000 two-qubit operations. The available report describes benchmark and engineering claims but does not link to an IBM announcement.",
-        "title": "IBM introduces the 520-qubit Nighthawk r3 processor, boosting two-qubit gate fidelity",
-        "url": "https://uxc.news/p/ibm-introduces-the-520-qubit-nighthawk-r3-processor-boosting-two-qubit-gate-fidelity",
-        "category": "quantum",
-        "image": "https://imagedelivery.net/SDsnwrKQlrw46MDRI_Q39w/719f924d-4081-4cd1-796e-b21148b58500/public"
-      },
-      {
-        "published": "2026-11-14",
-        "source": "Daily Synapse",
-        "summary": "A preprint by researchers at Harvard, Anthropic and QuEra reports that Claude helped design quantum circuits with lower resource requirements in seven of eight studied building blocks. The results are resource estimates, not demonstrations on quantum hardware.",
-        "title": "Claude designs quantum circuits with lower resource demands",
-        "url": "https://dailysynapse.com/news/claude-designs-quantum-circuits-with-lower-resource-demands/",
+        "published": "2026-11-12",
+        "source": "AMD and IBM researchers (arXiv preprint)",
+        "summary": "The preprint reports two-gross-code end-to-end speedups of 6.92× and 7.01× on eight AMD GPUs. Decode-only speedups reach 7.58× and 7.45×. These are classical simulation-throughput results, not real-time error correction demonstrated on a quantum processor.",
+        "title": "Pêlagos speeds quantum-error-correction simulation across eight GPUs",
+        "url": "https://arxiv.org/abs/2611.16285",
         "category": "quantum",
         "image": ""
       },
       {
         "published": "2026-11-14",
-        "source": "Quantum Zeitgeist",
-        "summary": "A report on work by researchers at LUMS and KAUST describes a batched parameter-shift method for training quantum neural networks that could reduce quantum-processor job submissions. In simulations involving models with 24 to 48 parameters, it required about one-fifth to one-half as many jobs as SPSA methods.",
-        "title": "Quantum Neural Networks May Need Fewer Cloud Jobs With New Method",
-        "url": "https://quantumzeitgeist.com/kaust-quantum-neural-networks-need-fewer/",
+        "source": "RIKEN",
+        "summary": "RIKEN reports an encoder preparing six logical qubits in the plus state using 67 CNOT gates rather than 108. Numerical simulations retain low logical error rates with fewer auxiliary resources. The Science Advances paper appeared November 13; RIKEN's announcement is dated November 14 in Japan.",
+        "title": "RIKEN encoder reduces CNOT gates for a high-rate quantum code",
+        "url": "https://www.riken.jp/press/2026/20261114_2/index.html",
         "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/quantum-neural-networks-need-fewer-cloud-1200x630.jpeg"
+        "image": ""
+      },
+      {
+        "published": "2026-11-11",
+        "source": "IBM",
+        "summary": "IBM says Nighthawk r3 is designed for 10,000 quantum operations on 520 programmable qubits and plans a linked 1,040-qubit system in 2027. These are roadmap targets, distinct from results on existing Nighthawk r2 processors and from demonstrated commercial advantage.",
+        "title": "IBM targets 520 programmable qubits with planned Nighthawk r3",
+        "url": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality%2C-with-plans-to-scale-beyond-1%2C000-qubits-in-2027",
+        "category": "quantum",
+        "image": ""
+      },
+      {
+        "published": "2026-10-16",
+        "source": "Anthropic",
+        "summary": "Anthropic's October research describes Claude proposing quantum circuits against an automated evaluator across eight design tasks. Reported improvements concern circuit resource estimates, not demonstrated quantum-hardware or commercial advantage.",
+        "title": "From October: Claude-assisted quantum circuit design reduces resource estimates",
+        "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+        "category": "quantum",
+        "image": ""
+      },
+      {
+        "published": "2026-11-12",
+        "source": "LUMS and KAUST researchers (arXiv preprint)",
+        "summary": "Simulations with 24–48 parameters used one-fifth to one-half as many jobs as SPSA. In three interleaved IBM ibm_fez runs at six and eight qubits, the batched optimizer matched SPSA's final training loss in 4–20 of its 50 jobs. This limited preprint experiment does not establish commercial advantage.",
+        "title": "Job-aware quantum training tested in simulation and small IBM hardware runs",
+        "url": "https://arxiv.org/abs/2611.16365",
+        "category": "quantum",
+        "image": ""
+      }
+    ]
+  },
+  "editorial_review": {
+    "reviewed": "2026-11-14",
+    "batch_id": "frontier-news-editorial-2026-11-14",
+    "note": "Source dates are separate from collection and review dates. Corrections apply to external headlines, not admission to reviewed evidence charts.",
+    "decisions": [
+      {
+        "category": "ai",
+        "original": {
+          "published": "2026-11-14",
+          "source": "Reuters",
+          "summary": "Reuters reports that Jensen Huang misled senior Nvidia leaders about his relationship with a Chinese businesswoman, citing people familiar with the matter and internal correspondence. The story comes amid a board investigation and Huang’s resignation as Nvidia CEO, with potential implications for leadership at the AI chipmaker.",
+          "title": "Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say",
+          "url": "https://www.reuters.com/5f374b32b07b/world/china/ex-nvidia-ceo-misled-top-lawyer-affair-with-chinese-businesswoman-sources-say-2026-11-14/",
+          "category": "ai",
+          "image": "https://www.reuters.com/resizer/v2/KAMWCBCAMVIEPFRGIKKJUIG32U.jpg?auth=904ddcc3c2e21434ae3b08bbaac08eb03cb61ffa7453633709ae9b507603ac87&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true"
+        },
+        "decision": "revision",
+        "reason": "Restore canonical Reuters URL; retain attribution to reporting.",
+        "source_url": "https://www.reuters.com/world/china/ex-nvidia-ceo-misled-top-lawyer-affair-with-chinese-businesswoman-sources-say-2026-11-14/",
+        "source_published": "2026-11-14"
+      },
+      {
+        "category": "ai",
+        "original": {
+          "published": "2026-11-14",
+          "source": "The Economic Times",
+          "summary": "A coalition of nonprofits sued OpenAI, Anthropic, Google, Meta, and SpaceX’s AI division, seeking to block further development of advanced AI models. The complaint argues that California unfair-business-practices law supports an injunction, though the case’s outcome and potential reach are uncertain.",
+          "title": "OpenAI, Google, Anthropic hit with lawsuit to halt AI development",
+          "url": "https://www.economictimes.indiatimes.com/markets/us-stocks/news/openai-google-anthropic-hit-with-lawsuit-to-halt-ai-development/printarticle/135820787.cms",
+          "category": "ai",
+          "image": "https://img.etimg.com/thumb/msid-135820899,width-1200,height-630,imgsize-97642,overlay-etmarkets/printarticle.jpg"
+        },
+        "decision": "revision",
+        "reason": "Restore originating report and date, not syndication or collection date.",
+        "source_url": "https://www.reuters.com/business/openai-google-anthropic-hit-with-lawsuit-seeking-halt-frontier-ai-development-2026-11-12/",
+        "source_published": "2026-11-12"
+      },
+      {
+        "category": "ai",
+        "original": {
+          "published": "2026-11-14",
+          "source": "The Economic Times",
+          "summary": "Chinese AI companies are reportedly seeking access to Nvidia-powered computing at overseas data centers, amid concern that US rules could tighten restrictions on remote access to advanced chips. The report, based on people familiar with the matter, highlights a potential enforcement challenge for export controls.",
+          "title": "Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of US curbs",
+          "url": "https://economictimes.indiatimes.com/ai/ai-insights/chinese-ai-firms-rush-to-secure-nvidia-chip-capacity-as-spy-scandal-stirs-fear-of-us-curbs/articleshow/135758167.cms",
+          "category": "ai",
+          "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-76162,resizemode-75,msid-135758167/ai/ai-insights/chinese-ai-firms-rush-to-secure-nvidia-chip-capacity-as-spy-scandal-stirs-fear-of-us-curbs.jpg"
+        },
+        "decision": "revision",
+        "reason": "Restore originating report and date.",
+        "source_url": "https://www.reuters.com/world/china/chinese-ai-firms-rush-secure-nvidia-chip-capacity-spy-scandal-stirs-fear-us-2026-11-12/",
+        "source_published": "2026-11-12"
+      },
+      {
+        "category": "ai",
+        "original": {
+          "published": "2026-11-14",
+          "source": "The AI Edge",
+          "summary": "Anthropic reported that Claude Fable 5.1’s performance on multi-turn safety evaluations differed substantially between its API and claude.ai configurations, by as much as 34 percentage points. The findings underscore that model behavior can vary with deployment setup and system prompts.",
+          "title": "Anthropic reports configuration differences in Claude safety evaluations",
+          "url": "https://aiedgebriefing.com/2026-11-14/",
+          "category": "ai",
+          "image": "https://aiedgebriefing.com/2026-11-14/og.png"
+        },
+        "decision": "revision",
+        "reason": "Use original evaluation-methodology report and date; company-reported test results, not deployment harm rates.",
+        "source_url": "https://www.anthropic.com/research/building-strong-safety-evaluations",
+        "source_published": "2026-11-13"
+      },
+      {
+        "category": "ai",
+        "original": {
+          "published": "2026-11-14",
+          "source": "The Guardian (reported by AI Weekly)",
+          "summary": "Finnish logician Jan von Plato told The Guardian that Claude helped transcribe and analyze Kurt Gödel’s shorthand notebooks, surfacing hundreds of theorems from the material. The account describes AI as an aid to a long-running scholarly effort, not independent verification of the results.",
+          "title": "Gödel’s notebooks and the use of Claude in extracting theorems",
+          "url": "https://aiweekly.co/ai-news-today/edition/2026-11-14",
+          "category": "ai",
+          "image": ""
+        },
+        "decision": "revision",
+        "reason": "Restore originating report/date; avoid attributing human transcription to Claude.",
+        "source_url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+        "source_published": "2026-11-13"
+      },
+      {
+        "category": "quantum",
+        "original": {
+          "published": "2026-11-14",
+          "source": "The Morning Science",
+          "summary": "Atom Computing finalized an agreement for up to $100 million from the U.S. Department of Commerce to advance research and development of fault-tolerant, utility-scale neutral-atom quantum systems. The funding is intended to support engineering, testbed capacity and system performance.",
+          "title": "Atom Computing Finalizes $100 Million U.S. Department of Commerce R&D Agreement for Fault-Tolerant Quantum Systems",
+          "url": "https://themorning.science/topic/quantum-computing",
+          "category": "quantum",
+          "image": "https://themorning.science/opengraph-image"
+        },
+        "decision": "revision",
+        "reason": "Replace topic aggregator with awarding agency and correct date; preserve up-to ceiling.",
+        "source_url": "https://www.nist.gov/news-events/news/2026/11/department-commerce-announces-finalization-chips-rd-award-atom-computing",
+        "source_published": "2026-11-13"
+      },
+      {
+        "category": "quantum",
+        "original": {
+          "published": "2026-11-14",
+          "source": "Quantum Zeitgeist",
+          "summary": "Researchers from AMD and IBM Research reported near-linear scaling for the Pêlagos quantum-error-correction decoder across as many as eight GPUs. The work, tested on AMD accelerators and deployed on Oak Ridge’s Lux system, aims to speed large-scale QEC simulation.",
+          "title": "Pêlagos Achieves Near-linear GPU Scaling",
+          "url": "https://quantumzeitgeist.com/pelagos-gpu-scaling-near-linear/",
+          "category": "quantum",
+          "image": "https://quantumzeitgeist.com/wp-content/uploads/pelagos-near-linear-gpu-scaling-1200x630.jpg"
+        },
+        "decision": "revision",
+        "reason": "Use primary preprint date and distinguish decode-only from end-to-end performance.",
+        "source_url": "https://arxiv.org/abs/2611.16285",
+        "source_published": "2026-11-12"
+      },
+      {
+        "category": "quantum",
+        "original": {
+          "published": "2026-11-14",
+          "source": "Quantum Zeitgeist",
+          "summary": "Researchers from RIKEN and Toshiba described an encoder for a [[30,6,5]] symplectic double code, designed to prepare encoded states with fewer resources. The report says the method uses 67 gates, compared with 108 for the standard approach, and targets more practical experiments with high-rate error-correcting codes.",
+          "title": "A [[30,6,5]] Code May Allow Quantum Experiments To Scale Up Faster",
+          "url": "https://quantumzeitgeist.com/riken-quantum-code-allow-experiments/",
+          "category": "quantum",
+          "image": "https://quantumzeitgeist.com/wp-content/uploads/a-3065-code-may-allow-quantum-experiments-to-1200x630.jpg"
+        },
+        "decision": "revision",
+        "reason": "Restore primary institution report and identify simulation, gate type and publication-timezone distinction.",
+        "source_url": "https://www.riken.jp/press/2026/20261114_2/index.html",
+        "source_published": "2026-11-14"
+      },
+      {
+        "category": "quantum",
+        "original": {
+          "published": "2026-11-14",
+          "source": "UXC News",
+          "summary": "IBM reportedly unveiled the 520-qubit Nighthawk r3 superconducting processor, claiming improved two-qubit gate fidelity and circuits capable of 10,000 two-qubit operations. The available report describes benchmark and engineering claims but does not link to an IBM announcement.",
+          "title": "IBM introduces the 520-qubit Nighthawk r3 processor, boosting two-qubit gate fidelity",
+          "url": "https://uxc.news/p/ibm-introduces-the-520-qubit-nighthawk-r3-processor-boosting-two-qubit-gate-fidelity",
+          "category": "quantum",
+          "image": "https://imagedelivery.net/SDsnwrKQlrw46MDRI_Q39w/719f924d-4081-4cd1-796e-b21148b58500/public"
+        },
+        "decision": "revision",
+        "reason": "Correct roadmap-versus-demonstrated-performance conflation and restore original announcement date.",
+        "source_url": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality%2C-with-plans-to-scale-beyond-1%2C000-qubits-in-2027",
+        "source_published": "2026-11-11"
+      },
+      {
+        "category": "quantum",
+        "original": {
+          "published": "2026-11-14",
+          "source": "Daily Synapse",
+          "summary": "A preprint by researchers at Harvard, Anthropic and QuEra reports that Claude helped design quantum circuits with lower resource requirements in seven of eight studied building blocks. The results are resource estimates, not demonstrations on quantum hardware.",
+          "title": "Claude designs quantum circuits with lower resource demands",
+          "url": "https://dailysynapse.com/news/claude-designs-quantum-circuits-with-lower-resource-demands/",
+          "category": "quantum",
+          "image": ""
+        },
+        "decision": "revision",
+        "reason": "Correct recycled October result presented as November news; retain claim attribution.",
+        "source_url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+        "source_published": "2026-10-16"
+      },
+      {
+        "category": "quantum",
+        "original": {
+          "published": "2026-11-14",
+          "source": "Quantum Zeitgeist",
+          "summary": "A report on work by researchers at LUMS and KAUST describes a batched parameter-shift method for training quantum neural networks that could reduce quantum-processor job submissions. In simulations involving models with 24 to 48 parameters, it required about one-fifth to one-half as many jobs as SPSA methods.",
+          "title": "Quantum Neural Networks May Need Fewer Cloud Jobs With New Method",
+          "url": "https://quantumzeitgeist.com/kaust-quantum-neural-networks-need-fewer/",
+          "category": "quantum",
+          "image": "https://quantumzeitgeist.com/wp-content/uploads/quantum-neural-networks-need-fewer-cloud-1200x630.jpeg"
+        },
+        "decision": "revision",
+        "reason": "Restore primary preprint/date and distinguish simulation findings from limited QPU experiments.",
+        "source_url": "https://arxiv.org/abs/2611.16365",
+        "source_published": "2026-11-12"
       }
     ]
   }
