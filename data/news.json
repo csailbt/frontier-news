@@ -3,60 +3,66 @@
   "categories": {
     "ai": [
       {
-        "published": "2026-11-15",
-        "source": "Reuters, via Malpass",
-        "summary": "The Federal Reserve’s latest financial-stability survey found that 87% of surveyed market contacts named AI as a salient risk, up from 50% in May. Respondents cited cyberattacks, complex financing and the risk of an AI-driven market correction.",
+        "published": "2026-11-13",
+        "source": "Federal Reserve, Financial Stability Report",
+        "summary": "In September–October, 87% of 23 surveyed market contacts cited AI as a salient financial-stability risk, versus 50% of 20 contacts in the spring survey. These are respondents’ views, not a probability of crisis or the Federal Reserve Board’s own risk ranking.",
         "title": "Federal Reserve survey puts AI at the top of financial-stability concerns",
-        "url": "https://malpass.co/top-ai-stories-2026-11-15/",
+        "url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf",
         "category": "ai",
-        "image": ""
+        "image": "",
+        "reviewed": "2026-11-15"
       },
       {
-        "published": "2026-11-15",
-        "source": "TechCrunch, via My2Cents",
-        "summary": "A petition seeking Nvidia board action to reinstate Jensen Huang reportedly passed 115,000 signatures, including current and former employees and shareholders. The episode reflects concerns about leadership uncertainty at a company central to AI chip supply.",
-        "title": "More than 115,000 people sign petition asking Nvidia to reinstate Huang",
-        "url": "https://www.my2cents.ai/news/2026-11-15/",
+        "published": "2026-11-14",
+        "source": "TechCrunch",
+        "summary": "TechCrunch reported that a petition seeking Jensen Huang’s reinstatement had exceeded 115,000 signatures by Saturday afternoon.",
+        "title": "Petition seeks Huang’s reinstatement",
+        "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
         "category": "ai",
-        "image": "https://www.my2cents.ai/og-default.png"
+        "image": "",
+        "reviewed": "2026-11-15"
       },
       {
-        "published": "2026-11-15",
-        "source": "The Decoder, via The Model Beat",
-        "summary": "Meituan released LongCat-2.5, an agent model with 1.6 trillion total parameters, and says it was trained without Nvidia GPUs. Its release highlights efforts to develop large AI systems using alternative compute hardware.",
-        "title": "Meituan releases a 1.6-trillion-parameter agent model without Nvidia GPUs",
-        "url": "https://themodelbeat.com/day/2026-11-15",
+        "published": "2026-11-10",
+        "source": "Meituan technical team",
+        "summary": "Meituan’s MIT-licensed multimodal agent model has 1.6 trillion total parameters, with about 48 billion active per token. The company describes long-sequence training and fine-tuning on domestic AI accelerators; this is a vendor engineering report, not independent proof of general hardware or commercial advantage.",
+        "title": "Meituan releases LongCat-2.5 and describes domestic-accelerator training",
+        "url": "https://tech.meituan.com/2026/11/10/Meituan-LongCat-2.5-Open-Source.html",
         "category": "ai",
-        "image": "https://themodelbeat.com/api/og?date=2026-11-15"
+        "image": "",
+        "reviewed": "2026-11-15"
       },
       {
-        "published": "2026-11-15",
-        "source": "AIB",
-        "summary": "Runway released Praxis-1’s model weights and inference and training code under the Apache 2.0 license. The roughly 27-billion-parameter model is designed to translate visual input and instructions into robot actions.",
+        "published": "2026-11-11",
+        "source": "Runway",
+        "summary": "Runway made Praxis-1’s weights and inference and fine-tuning code available under Apache 2.0. The company reports partner use on several robot types and benchmark results; these do not establish deployment-wide reliability or economic gains.",
         "title": "Runway releases Praxis-1 robot-control model under Apache 2.0",
-        "url": "https://www.aib.vote/en/news?keyword=vqqa",
+        "url": "https://runway.com/news/company-news/praxis-1-is-now-available",
         "category": "ai",
-        "image": ""
+        "image": "",
+        "reviewed": "2026-11-15"
       }
     ],
     "quantum": [
       {
-        "published": "2026-11-15",
-        "source": "The Morning Science",
-        "summary": "A newly reported cryogenic RF multiplexer combines superconducting-qubit control, readout and flux biasing at millikelvin temperatures with picowatt power consumption. The work addresses a key engineering challenge in scaling control hardware.",
-        "title": "CryoCMOS RF multiplexer for superconducting qubit control, readout and flux biasing at millikelvin temperatures with picowatt power consumption",
-        "url": "https://themorning.science/topic/quantum-computing",
+        "published": "2026-11-14",
+        "source": "npj Quantum Information; authors’ March 17 preprint",
+        "summary": "The authors report a CMOS RF multiplexer at 10 millikelvin with 200 pW static power consumption, readout and flux multiplexing, and XY drive multiplexing in principle. The November journal publication follows a March 17 preprint. Static device power is not total quantum-system energy use.",
+        "title": "Cryogenic multiplexer targets quantum-control wiring bottleneck",
+        "url": "https://www.nature.com/articles/s41534-026-01424-7",
         "category": "quantum",
-        "image": "https://themorning.science/opengraph-image"
+        "image": "",
+        "reviewed": "2026-11-15"
       },
       {
-        "published": "2026-11-15",
-        "source": "Quantum Index",
-        "summary": "Atom Computing finalized an agreement with the U.S. Department of Commerce worth up to $100 million for R&D on fault-tolerant, utility-scale quantum systems. The funding is intended to support technology development and expanded testing infrastructure.",
-        "title": "Atom Computing signs up to $100M U.S. Department of Commerce contract to support tens-of-thousands-qubit development",
-        "url": "https://en.quantumindex.jp/atom-computing-us-commerce-100m-rd-award/",
+        "published": "2026-11-13",
+        "source": "NIST / U.S. Department of Commerce",
+        "summary": "Commerce finalized an award of up to $100 million for neutral-atom quantum-computing R&D, including technology to control and validate tens of thousands of qubits. This is research funding for development goals, not a demonstrated fault-tolerant system or commercial advantage.",
+        "title": "Commerce finalizes up-to-$100M Atom Computing R&D award",
+        "url": "https://www.nist.gov/news-events/news/2026/11/department-commerce-announces-finalization-chips-rd-award-atom-computing",
         "category": "quantum",
-        "image": "https://en.quantumindex.jp/wp-content/uploads/2026/09/atom-computing.png"
+        "image": "",
+        "reviewed": "2026-11-15"
       },
       {
         "published": "2026-11-15",
@@ -68,14 +74,20 @@
         "image": "https://qubitwire.com/media/volume-ix/gallery/v9-pho-021.webp"
       },
       {
-        "published": "2026-11-15",
-        "source": "Quantum Zeitgeist",
-        "summary": "Researchers from École Normale Supérieure and Google Quantum AI reported a superconducting qubit design that suppresses sensitivity to dielectric loss through parity symmetry. Their measurements indicate that dielectric loss would limit the qubit lifetime to above 10 milliseconds, with flux noise remaining a constraint.",
-        "title": "Qubit parity symmetry protects against dielectric loss",
-        "url": "https://quantumzeitgeist.com/physique-lecole-qubit-parity-symmetry-protects/",
+        "published": "2026-11-12",
+        "source": "Roverc’h and colleagues, arXiv v2",
+        "summary": "The revised preprint reports dielectric-loss protection in a superconducting qubit, with a measured lifetime of 70 microseconds. The greater-than-10-millisecond figure is the inferred dielectric-loss limit, not measured overall lifetime; flux noise remains limiting. First preprint: March 13; revision: November 12.",
+        "title": "Parity-protected qubit experiment remains limited by flux noise",
+        "url": "https://arxiv.org/abs/2603.13114v2",
         "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/qubit-parity-symmetry-protects-against-dielectric-1200x630.png"
+        "image": "",
+        "reviewed": "2026-11-15"
       }
     ]
+  },
+  "editorialReview": {
+    "checkedAt": "2026-11-15T16:11:37.110Z",
+    "collectionUpdated": "2026-11-15T13:49:45.798Z",
+    "note": "Seven headline records corrected to originating sources and source dates. Original feed retained in Git history. RIKEN remains attributed secondary coverage of simulations; no raw candidate was promoted."
   }
 }
