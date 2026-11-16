@@ -1,93 +1,117 @@
 {
-  "updated": "2026-11-15T13:49:45.798Z",
+  "updated": "2026-11-16T15:48:52.584Z",
   "categories": {
     "ai": [
       {
-        "published": "2026-11-13",
-        "source": "Federal Reserve, Financial Stability Report",
-        "summary": "In September–October, 87% of 23 surveyed market contacts cited AI as a salient financial-stability risk, versus 50% of 20 contacts in the spring survey. These are respondents’ views, not a probability of crisis or the Federal Reserve Board’s own risk ranking.",
-        "title": "Federal Reserve survey puts AI at the top of financial-stability concerns",
-        "url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf",
+        "published": "2026-11-16",
+        "source": "Reuters",
+        "summary": "Alibaba launched Qwen4-Max, saying it improves performance on complex professional and scientific tasks while strengthening safeguards. The announcement adds to competition among Chinese and US developers of advanced AI models.",
+        "title": "Alibaba unveils new flagship AI model with safety upgrades",
+        "url": "https://www.reuters.com/business/retail-consumer/alibaba-unveils-new-flagship-ai-model-with-safety-upgrades-2026-11-16/",
         "category": "ai",
-        "image": "",
-        "reviewed": "2026-11-15"
+        "image": ""
       },
       {
-        "published": "2026-11-14",
-        "source": "TechCrunch",
-        "summary": "TechCrunch reported that a petition seeking Jensen Huang’s reinstatement had exceeded 115,000 signatures by Saturday afternoon.",
-        "title": "Petition seeks Huang’s reinstatement",
-        "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+        "published": "2026-11-16",
+        "source": "Reuters",
+        "summary": "The Trump administration plans to designate more than two dozen AI companies—including Nvidia, Amazon, Microsoft, OpenAI and Anthropic—as US “national champions,” according to a Wall Street Journal report cited by Reuters. The reported plan would put leading AI firms at the center of a national industry strategy.",
+        "title": "Trump administration to name Nvidia, other AI firms as US ‘national champions,’ WSJ reports",
+        "url": "https://www.reuters.com/business/retail-consumer/trump-administration-name-nvidia-other-ai-firms-us-national-champions-wsj-2026-11-16/",
         "category": "ai",
-        "image": "",
-        "reviewed": "2026-11-15"
+        "image": ""
       },
       {
-        "published": "2026-11-10",
-        "source": "Meituan technical team",
-        "summary": "Meituan’s MIT-licensed multimodal agent model has 1.6 trillion total parameters, with about 48 billion active per token. The company describes long-sequence training and fine-tuning on domestic AI accelerators; this is a vendor engineering report, not independent proof of general hardware or commercial advantage.",
-        "title": "Meituan releases LongCat-2.5 and describes domestic-accelerator training",
-        "url": "https://tech.meituan.com/2026/11/10/Meituan-LongCat-2.5-Open-Source.html",
+        "published": "2026-11-16",
+        "source": "Reuters, via U.S. News",
+        "summary": "The United States and nine partner countries signed a declaration to coordinate protection of AI-related technology and critical infrastructure. The agreement calls for cooperation on AI policy, supply chains, security and resilience amid competition with China.",
+        "title": "US, Allies Team up to Protect AI Tech and Infrastructure Amid China Rivalry",
+        "url": "https://www.usnews.com/news/top-news/articles/2026-11-16/us-allies-team-up-to-protect-ai-tech-and-infrastructure-amid-china-rivalry",
         "category": "ai",
-        "image": "",
-        "reviewed": "2026-11-15"
+        "image": ""
       },
       {
-        "published": "2026-11-11",
-        "source": "Runway",
-        "summary": "Runway made Praxis-1’s weights and inference and fine-tuning code available under Apache 2.0. The company reports partner use on several robot types and benchmark results; these do not establish deployment-wide reliability or economic gains.",
-        "title": "Runway releases Praxis-1 robot-control model under Apache 2.0",
-        "url": "https://runway.com/news/company-news/praxis-1-is-now-available",
+        "published": "2026-11-16",
+        "source": "The Indian Express",
+        "summary": "A study found hardware fingerprints consistent with restricted Nvidia Blackwell GPUs in six AI models from four Chinese companies. The researchers estimated several training runs involved roughly 12,000 chips, but said their evidence does not establish where the GPUs were located or how they were used.",
+        "title": "Did China use export-banned Nvidia chips to train its most advanced AI models?",
+        "url": "https://indianexpress.com/shorts/explained/china-ai-models-nvidia-blackwell-chips-us-export-curbs-10964842/",
         "category": "ai",
-        "image": "",
-        "reviewed": "2026-11-15"
+        "image": ""
+      },
+      {
+        "published": "2026-11-16",
+        "source": "Reuters",
+        "summary": "AI and semiconductor shares faced renewed pressure as investors looked ahead to Nvidia’s earnings and other major industry developments. The report described the results as a key test of investor confidence in the AI boom.",
+        "title": "AI selloff resumes as Nvidia earnings loom",
+        "url": "https://www.reuters.com/markets/europe/global-markets-view-europe-2026-11-16/",
+        "category": "ai",
+        "image": ""
+      },
+      {
+        "published": "2026-11-16",
+        "source": "Reuters Breakingviews",
+        "summary": "A commentary argues that political attention around Nvidia’s leadership upheaval could accelerate debate over US AI regulation and tighter controls on chip access to China. It also highlights the policy debate over open-weight models.",
+        "title": "Huang’s fall is a chance for better US AI policies",
+        "url": "https://www.reuters.com/commentary/breakingviews/huangs-fall-is-chance-better-us-ai-policies-2026-11-16/",
+        "category": "ai",
+        "image": ""
       }
     ],
     "quantum": [
       {
-        "published": "2026-11-14",
-        "source": "npj Quantum Information; authors’ March 17 preprint",
-        "summary": "The authors report a CMOS RF multiplexer at 10 millikelvin with 200 pW static power consumption, readout and flux multiplexing, and XY drive multiplexing in principle. The November journal publication follows a March 17 preprint. Static device power is not total quantum-system energy use.",
-        "title": "Cryogenic multiplexer targets quantum-control wiring bottleneck",
-        "url": "https://www.nature.com/articles/s41534-026-01424-7",
+        "published": "2026-11-16",
+        "source": "The Quantum Insider",
+        "summary": "Moth Quantum says its Tessa method encoded and recovered 1,568 values across an IBM Quantum Nighthawk r2 processor, using the data to reconstruct images. The result targets the practical challenge of loading and retrieving classical data; the company-reported demonstration is not itself evidence of a fault-tolerant computation.",
+        "title": "From Cat Pictures to DNA, Moth Quantum Reports Progress on Getting Everyday Data Into Quantum Computers",
+        "url": "https://thequantuminsider.com/2026/11/16/from-cat-pictures-to-dna-moth-quantum-reports-progress-on-getting-everyday-data-into-quantum-computers/",
         "category": "quantum",
-        "image": "",
-        "reviewed": "2026-11-15"
+        "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/image8.jpg"
       },
       {
-        "published": "2026-11-13",
-        "source": "NIST / U.S. Department of Commerce",
-        "summary": "Commerce finalized an award of up to $100 million for neutral-atom quantum-computing R&D, including technology to control and validate tens of thousands of qubits. This is research funding for development goals, not a demonstrated fault-tolerant system or commercial advantage.",
-        "title": "Commerce finalizes up-to-$100M Atom Computing R&D award",
-        "url": "https://www.nist.gov/news-events/news/2026/11/department-commerce-announces-finalization-chips-rd-award-atom-computing",
+        "published": "2026-11-16",
+        "source": "VAR India",
+        "summary": "IBM outlined plans for its Nighthawk r3 processor, designed for 520 programmable qubits and 10,000 quantum operations, and said it intends to link two processors into a system exceeding 1,000 qubits in 2027. The announcement also described cryogenic-module and chip-interconnect work intended to support modular scaling.",
+        "title": "IBM Quantum Nighthawk Sets New Benchmarks in Speed and Quality",
+        "url": "https://www.varindia.com/news/ibm-quantum-nighthawk-sets-new-benchmarks-in-speed-and-quality",
         "category": "quantum",
-        "image": "",
-        "reviewed": "2026-11-15"
+        "image": "https://newapi.varindia.com/storage/news/2026/11/1ioXiLFrETealw4rRoARrn4mfxu0dFX0jodUJinA.png"
       },
       {
-        "published": "2026-11-15",
-        "source": "Qubit Wire",
-        "summary": "RIKEN researchers reported a simulated method that reduces physical-qubit and gate requirements for preparing states in a quantum error-correcting code, while maintaining similar simulated logical-operation error rates. The result is a circuit-design study, not a hardware demonstration.",
-        "title": "RIKEN proposes fewer steps to prepare protected quantum bits",
-        "url": "https://qubitwire.com/articles/riken-quantum-code-state-preparation-simulation",
+        "published": "2026-11-16",
+        "source": "Yahoo Finance",
+        "summary": "AMD expanded quantum-computing collaborations with PsiQuantum, IBM and Oak Ridge National Laboratory. The work spans hybrid quantum-classical applications and co-design for quantum error correction, including integration of AMD computing hardware with quantum systems.",
+        "title": "Advanced Micro Devices (AMD) Deepens Quantum Push With New Research And Commercial Ties",
+        "url": "https://ca.finance.yahoo.com/news/advanced-micro-devices-amd-deepens-001906359.html",
         "category": "quantum",
-        "image": "https://qubitwire.com/media/volume-ix/gallery/v9-pho-021.webp"
+        "image": ""
       },
       {
-        "published": "2026-11-12",
-        "source": "Roverc’h and colleagues, arXiv v2",
-        "summary": "The revised preprint reports dielectric-loss protection in a superconducting qubit, with a measured lifetime of 70 microseconds. The greater-than-10-millisecond figure is the inferred dielectric-loss limit, not measured overall lifetime; flux noise remains limiting. First preprint: March 13; revision: November 12.",
-        "title": "Parity-protected qubit experiment remains limited by flux noise",
-        "url": "https://arxiv.org/abs/2603.13114v2",
+        "published": "2026-11-16",
+        "source": "Quantum Zeitgeist",
+        "summary": "Q-CTRL said it is combining its calibration, compilation and error-suppression tools into a more automated workflow for operating quantum processors. The company reported that its software characterized a cooled device in under an hour and recalibrated its gates in under four hours; these are company-reported results.",
+        "title": "Q-CTRL Aims To Run Quantum Computers Like Any Other Server",
+        "url": "https://quantumzeitgeist.com/q-ctrl-quantum-computers-aims-like/",
         "category": "quantum",
-        "image": "",
-        "reviewed": "2026-11-15"
+        "image": "https://quantumzeitgeist.com/wp-content/uploads/q-ctrl-aims-to-run-quantum-computers-like-1200x630.jpg"
+      },
+      {
+        "published": "2026-11-16",
+        "source": "Fidelity / PR Newswire",
+        "summary": "Moth Quantum announced that its Tessa method encoded 1,568 numbers on an IBM Nighthawk r2 processor and recovered the information to reconstruct an image. The report highlights a potentially useful data-encoding advance, though it is a company announcement and does not establish broad algorithmic advantage.",
+        "title": "A Breakthrough That Really Counts - New Record for Encoding and Reading Back Data on a Quantum Computer",
+        "url": "https://www.fidelity.com/news/article/default/202611160400PR_NEWS_USPR_____LN97002",
+        "category": "quantum",
+        "image": ""
+      },
+      {
+        "published": "2026-11-16",
+        "source": "Quantum Zeitgeist",
+        "summary": "Researchers reported demonstrations of genuine multipartite entanglement and nonlocality involving GHZ states with up to ten parties on quantum hardware. The work extends reported certification to larger systems and may support quantum-device benchmarking; it is a research result rather than a commercial application.",
+        "title": "Entangled Qubits May Show Hidden Links Between More Than Ten Particles",
+        "url": "https://quantumzeitgeist.com/quantum-qubits-multipartite-entanglement-witness-comparison-ghz/",
+        "category": "quantum",
+        "image": ""
       }
     ]
-  },
-  "editorialReview": {
-    "checkedAt": "2026-11-15T16:11:37.110Z",
-    "collectionUpdated": "2026-11-15T13:49:45.798Z",
-    "note": "Seven headline records corrected to originating sources and source dates. Original feed retained in Git history. RIKEN remains attributed secondary coverage of simulations; no raw candidate was promoted."
   }
 }
