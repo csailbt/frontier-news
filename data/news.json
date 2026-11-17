@@ -6,7 +6,7 @@
         "published": "2026-11-16",
         "source": "The New York Times",
         "summary": "The U.S. is moving to require licenses for some overseas data centers that provide substantial computing power to firms in high-risk countries, including China. The rule is intended to curb remote access to advanced U.S. AI chips and close a route around existing export restrictions.",
-        "title": "US moves to bar China's access to chips",
+        "title": "US tightens chip controls on data centers supplying remote access",
         "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html",
         "category": "ai",
         "image": ""
@@ -14,7 +14,7 @@
       {
         "published": "2026-11-16",
         "source": "NPR",
-        "summary": "California sued OpenAI, alleging it failed to safeguard the public from advanced AI systems and misled officials about their risks. The complaint cites the summer incident in which an OpenAI agent accessed Hugging Face systems, and seeks court-ordered changes and monetary remedies.",
+        "summary": "California sued OpenAI, alleging inadequate safeguards and monitoring contributed to a July 2026 cyberattack involving Hugging Face. The complaint seeks remedies under public-nuisance and unfair-competition law; its allegations have not been adjudicated.",
         "title": "California sues OpenAI over hacking risks",
         "url": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
         "category": "ai",
@@ -31,19 +31,10 @@
       },
       {
         "published": "2026-11-16",
-        "source": "ABC News",
-        "summary": "California’s attorney general filed suit accusing OpenAI of developing advanced AI without adequate safeguards, with the Hugging Face incident central to the case. OpenAI has said it has worked to address the incident and improve safety practices.",
-        "title": "California sues OpenAI, alleging AI development lacked adequate safeguards",
-        "url": "https://abcnews.com/Business/california-sues-openai-alleging-ai-development-lacked-adequate/story?id=138187223",
-        "category": "ai",
-        "image": "https://i.abcnewsfe.com/a/89344c7a-d50e-47c4-aa1d-84bc93c3f3cb/altman-ap-jef-261116_1794857612840_hpMain_16x9.jpg?w=992"
-      },
-      {
-        "published": "2026-11-16",
-        "source": "AMD / AI Weekly",
+        "source": "AMD",
         "summary": "AMD said it had completed its acquisition of AI research startup World Labs and that founder Fei-Fei Li would join as executive vice president and chief scientist. World Labs develops world models for interactive 3D environments and robotic learning.",
         "title": "AMD completes World Labs deal, names Fei-Fei Li chief scientist",
-        "url": "https://aiweekly.co/alerts/amd-completes-world-labs-deal-names-fei-fei-li-chief-scientist",
+        "url": "https://newsroom.amd.com/news/amd-completes-acquisition-world-labs/",
         "category": "ai",
         "image": ""
       },
@@ -52,35 +43,35 @@
         "source": "Reuters",
         "summary": "Washington’s latest restrictions on access to advanced AI chips helped put pressure on technology stocks as U.S.-China technology tensions intensified. Reuters reported that investors were also watching Nvidia’s upcoming results and the company’s leadership turmoil.",
         "title": "Markets shaken, not stirred, as US-China tech war heats up",
-        "url": "https://www.reuters.com/5f374b32b07b/world/china/global-markets-view-europe-2026-11-17",
+        "url": "https://www.reuters.com/world/china/global-markets-view-europe-2026-11-17/",
         "category": "ai",
         "image": "https://www.reuters.com/resizer/v2/SU7Z6STX6ZO6PIUE7FNVT24OTU.jpg?auth=4f87ea3f641a955bd4c5a15cd65b5dc4557f4387e2d4d2cc503823745a8f8381&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true"
       }
     ],
     "quantum": [
       {
-        "published": "2026-11-17",
+        "published": "2026-11-16",
         "source": "IBM",
         "summary": "IBM, NVIDIA and Fermilab announced plans for a quantum-classical codesign platform, bringing NVIDIA GPU systems together with IBM quantum computers. Researchers will use it to study error correction, hybrid applications and modular architectures linking multiple quantum processors.",
         "title": "IBM, Fermilab, and NVIDIA Announce Plans for New Co-Design Platform to Accelerate the Development of Next-Generation, Modular Quantum Computers",
-        "url": "https://aapnews.aap.com.au/news/cision20261116AE98582",
+        "url": "https://newsroom.ibm.com/2026-11-16-ibm,-fermilab,-and-nvidia-announce-plans-for-new-co-design-platform-to-accelerate-the-development-of-next-generation,-modular-quantum-computers",
         "category": "quantum",
         "image": "https://aapnews.imgdeliver.net/article/lead_image/233457/IBM-Conceptual-Hardware-Illustration.jpg?width=800"
       },
       {
         "published": "2026-11-16",
-        "source": "NVIDIA / GlobeNewswire",
-        "summary": "NVIDIA says its new TCBP-JOBS decoder can speed up some quantum error-correction research workloads by as much as 13,000 times. The result is a company-reported benchmark, not a general speedup for quantum computers or all decoding tasks.",
-        "title": "NVIDIA Announces Collaboration With IBM and Fermi National Accelerator Laboratory to Launch Quantum-Classical Codesign Platform, Plus Error-Correction Breakthrough",
-        "url": "https://www.globenewswire.com/news-release/2026/11/16/3403878/0/en/nvidia-announces-collaboration-with-ibm-and-fermi-national-accelerator-laboratory-to-launch-quantum-classical-codesign-platform-plus-error-correction-breakthrough-to-advance-practi.html",
+        "source": "NVIDIA research preprint",
+        "summary": "NVIDIA's TCBP-JOBS preprint reports up to 13,000 times faster decoding than unsparsified long-beam Tesseract on selected bivariate-bicycle-code benchmarks. Results depend on code, noise level and comparator settings; this is a classical decoding benchmark, not a general quantum-computing speedup.",
+        "title": "NVIDIA reports GPU decoding speedups on selected error-correction benchmarks",
+        "url": "https://arxiv.org/abs/2611.21321",
         "category": "quantum",
         "image": "https://ml.globenewswire.com/Resource/Download/e4f87d4e-7f8a-40a4-b953-fb09e62b960a"
       },
       {
         "published": "2026-11-17",
         "source": "Quantum Zeitgeist",
-        "summary": "Researchers from Forschungszentrum Jülich and the University of Cologne reported an error-correction framework that adapts to changing hardware noise. The article says it reduced logical infidelity by up to 18-fold versus a static approach in the studied qubit codes.",
-        "title": "Error Correction Adapts To Noise Drift, A Key Step For Scaling Qubits",
+        "summary": "Researchers report up to an 18-fold reduction in logical infidelity in simulations of qubit codes under modeled drifting noise, compared with the same learned code without adaptive retuning. The strongest result required slow drift and high sampling rates; it was not demonstrated on physical hardware. This November 17 article covers a preprint first posted September 4, 2025 and revised July 14, 2026.",
+        "title": "Adaptive Error Correction Improves Simulated Qubit Performance",
         "url": "https://quantumzeitgeist.com/forschungszentrum-julich-error-correction-adapts-noise/",
         "category": "quantum",
         "image": "https://quantumzeitgeist.com/wp-content/uploads/error-correction-adapts-noise-drift-key-1200x630.png"
@@ -88,8 +79,8 @@
       {
         "published": "2026-11-17",
         "source": "Quantum Zeitgeist",
-        "summary": "A reported pulse-design method uses closed paths on a sphere to suppress crosstalk in two- and three-qubit systems. The researchers say it remains robust to variations in coupling strength and qubit frequency, outperforming comparison methods by more than an order of magnitude in some tested conditions.",
-        "title": "Closed Loops On A 2-sphere Improve Qubit Gate Accuracy",
+        "summary": "A theoretical and numerical study designs closed-loop control pulses to suppress unwanted coupling during single-qubit gates in modeled two- and three-qubit systems. The November 17 coverage discusses a preprint first posted in March 2025 and revised in June 2026, not a new hardware demonstration.",
+        "title": "Numerical study uses geometric pulse design to improve modeled qubit gates",
         "url": "https://quantumzeitgeist.com/international-quantum-qubit-gate-accuracy-loops/",
         "category": "quantum",
         "image": "https://quantumzeitgeist.com/wp-content/uploads/loops-2-sphere-improve-qubit-gate-1200x630.jpeg"
@@ -105,10 +96,10 @@
       },
       {
         "published": "2026-11-16",
-        "source": "QuantumWire / PR Newswire",
+        "source": "Moth",
         "summary": "Moth says its Tessa method encoded 1,568 numbers across all 120 qubits of an IBM Quantum Nighthawk r2 processor and recovered the encoded image. The company described this as a data-encoding record; the report notes the hardware’s output remains imperfect.",
         "title": "A Breakthrough That Really Counts - New Record for Encoding and Reading Back Data on a Quantum Computer",
-        "url": "https://quantumwire.com/index.php/article/17948799008063.html",
+        "url": "https://mothquantum.com/news/2026/11/16/tessa-record-quantum-data-encoding",
         "category": "quantum",
         "image": ""
       }
