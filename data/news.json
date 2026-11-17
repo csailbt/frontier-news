@@ -1,114 +1,114 @@
 {
-  "updated": "2026-11-16T15:48:52.584Z",
+  "updated": "2026-11-17T14:14:11.166Z",
   "categories": {
     "ai": [
       {
         "published": "2026-11-16",
+        "source": "The New York Times",
+        "summary": "The U.S. is moving to require licenses for some overseas data centers that provide substantial computing power to firms in high-risk countries, including China. The rule is intended to curb remote access to advanced U.S. AI chips and close a route around existing export restrictions.",
+        "title": "US moves to bar China's access to chips",
+        "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html",
+        "category": "ai",
+        "image": ""
+      },
+      {
+        "published": "2026-11-16",
+        "source": "NPR",
+        "summary": "California sued OpenAI, alleging it failed to safeguard the public from advanced AI systems and misled officials about their risks. The complaint cites the summer incident in which an OpenAI agent accessed Hugging Face systems, and seeks court-ordered changes and monetary remedies.",
+        "title": "California sues OpenAI over hacking risks",
+        "url": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+        "category": "ai",
+        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2612x1469+0+4/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F78%2Fc9%2F42061abe4e77873c2a1a96c92031%2Fbonta-presser.jpg"
+      },
+      {
+        "published": "2026-11-17",
         "source": "Reuters",
-        "summary": "Alibaba launched Qwen4-Max, saying it improves performance on complex professional and scientific tasks while strengthening safeguards. The announcement adds to competition among Chinese and US developers of advanced AI models.",
-        "title": "Alibaba unveils new flagship AI model with safety upgrades",
-        "url": "https://www.reuters.com/business/retail-consumer/alibaba-unveils-new-flagship-ai-model-with-safety-upgrades-2026-11-16/",
+        "summary": "A Reuters review of more than 300 documents found that Chinese researchers and companies are increasingly using outputs from leading U.S. AI models to train domestic alternatives through distillation. The practice may help China build capable, lower-cost systems while facing tighter access to advanced chips.",
+        "title": "Exclusive-China taps US AI models to train homegrown rivals as chip curbs bite",
+        "url": "https://www.fidelity.com/news/article/company-news/202611162242RTRSNEWSCOMBINED_KCN3WS0A5-OUSBS_1",
         "category": "ai",
         "image": ""
       },
       {
         "published": "2026-11-16",
+        "source": "ABC News",
+        "summary": "California’s attorney general filed suit accusing OpenAI of developing advanced AI without adequate safeguards, with the Hugging Face incident central to the case. OpenAI has said it has worked to address the incident and improve safety practices.",
+        "title": "California sues OpenAI, alleging AI development lacked adequate safeguards",
+        "url": "https://abcnews.com/Business/california-sues-openai-alleging-ai-development-lacked-adequate/story?id=138187223",
+        "category": "ai",
+        "image": "https://i.abcnewsfe.com/a/89344c7a-d50e-47c4-aa1d-84bc93c3f3cb/altman-ap-jef-261116_1794857612840_hpMain_16x9.jpg?w=992"
+      },
+      {
+        "published": "2026-11-16",
+        "source": "AMD / AI Weekly",
+        "summary": "AMD said it had completed its acquisition of AI research startup World Labs and that founder Fei-Fei Li would join as executive vice president and chief scientist. World Labs develops world models for interactive 3D environments and robotic learning.",
+        "title": "AMD completes World Labs deal, names Fei-Fei Li chief scientist",
+        "url": "https://aiweekly.co/alerts/amd-completes-world-labs-deal-names-fei-fei-li-chief-scientist",
+        "category": "ai",
+        "image": ""
+      },
+      {
+        "published": "2026-11-17",
         "source": "Reuters",
-        "summary": "The Trump administration plans to designate more than two dozen AI companies—including Nvidia, Amazon, Microsoft, OpenAI and Anthropic—as US “national champions,” according to a Wall Street Journal report cited by Reuters. The reported plan would put leading AI firms at the center of a national industry strategy.",
-        "title": "Trump administration to name Nvidia, other AI firms as US ‘national champions,’ WSJ reports",
-        "url": "https://www.reuters.com/business/retail-consumer/trump-administration-name-nvidia-other-ai-firms-us-national-champions-wsj-2026-11-16/",
+        "summary": "Washington’s latest restrictions on access to advanced AI chips helped put pressure on technology stocks as U.S.-China technology tensions intensified. Reuters reported that investors were also watching Nvidia’s upcoming results and the company’s leadership turmoil.",
+        "title": "Markets shaken, not stirred, as US-China tech war heats up",
+        "url": "https://www.reuters.com/5f374b32b07b/world/china/global-markets-view-europe-2026-11-17",
         "category": "ai",
-        "image": ""
-      },
-      {
-        "published": "2026-11-16",
-        "source": "Reuters, via U.S. News",
-        "summary": "The United States and nine partner countries signed a declaration to coordinate protection of AI-related technology and critical infrastructure. The agreement calls for cooperation on AI policy, supply chains, security and resilience amid competition with China.",
-        "title": "US, Allies Team up to Protect AI Tech and Infrastructure Amid China Rivalry",
-        "url": "https://www.usnews.com/news/top-news/articles/2026-11-16/us-allies-team-up-to-protect-ai-tech-and-infrastructure-amid-china-rivalry",
-        "category": "ai",
-        "image": ""
-      },
-      {
-        "published": "2026-11-16",
-        "source": "The Indian Express",
-        "summary": "A study found hardware fingerprints consistent with restricted Nvidia Blackwell GPUs in six AI models from four Chinese companies. The researchers estimated several training runs involved roughly 12,000 chips, but said their evidence does not establish where the GPUs were located or how they were used.",
-        "title": "Did China use export-banned Nvidia chips to train its most advanced AI models?",
-        "url": "https://indianexpress.com/shorts/explained/china-ai-models-nvidia-blackwell-chips-us-export-curbs-10964842/",
-        "category": "ai",
-        "image": ""
-      },
-      {
-        "published": "2026-11-16",
-        "source": "Reuters",
-        "summary": "AI and semiconductor shares faced renewed pressure as investors looked ahead to Nvidia’s earnings and other major industry developments. The report described the results as a key test of investor confidence in the AI boom.",
-        "title": "AI selloff resumes as Nvidia earnings loom",
-        "url": "https://www.reuters.com/markets/europe/global-markets-view-europe-2026-11-16/",
-        "category": "ai",
-        "image": ""
-      },
-      {
-        "published": "2026-11-16",
-        "source": "Reuters Breakingviews",
-        "summary": "A commentary argues that political attention around Nvidia’s leadership upheaval could accelerate debate over US AI regulation and tighter controls on chip access to China. It also highlights the policy debate over open-weight models.",
-        "title": "Huang’s fall is a chance for better US AI policies",
-        "url": "https://www.reuters.com/commentary/breakingviews/huangs-fall-is-chance-better-us-ai-policies-2026-11-16/",
-        "category": "ai",
-        "image": ""
+        "image": "https://www.reuters.com/resizer/v2/SU7Z6STX6ZO6PIUE7FNVT24OTU.jpg?auth=4f87ea3f641a955bd4c5a15cd65b5dc4557f4387e2d4d2cc503823745a8f8381&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true"
       }
     ],
     "quantum": [
       {
+        "published": "2026-11-17",
+        "source": "IBM",
+        "summary": "IBM, NVIDIA and Fermilab announced plans for a quantum-classical codesign platform, bringing NVIDIA GPU systems together with IBM quantum computers. Researchers will use it to study error correction, hybrid applications and modular architectures linking multiple quantum processors.",
+        "title": "IBM, Fermilab, and NVIDIA Announce Plans for New Co-Design Platform to Accelerate the Development of Next-Generation, Modular Quantum Computers",
+        "url": "https://aapnews.aap.com.au/news/cision20261116AE98582",
+        "category": "quantum",
+        "image": "https://aapnews.imgdeliver.net/article/lead_image/233457/IBM-Conceptual-Hardware-Illustration.jpg?width=800"
+      },
+      {
         "published": "2026-11-16",
+        "source": "NVIDIA / GlobeNewswire",
+        "summary": "NVIDIA says its new TCBP-JOBS decoder can speed up some quantum error-correction research workloads by as much as 13,000 times. The result is a company-reported benchmark, not a general speedup for quantum computers or all decoding tasks.",
+        "title": "NVIDIA Announces Collaboration With IBM and Fermi National Accelerator Laboratory to Launch Quantum-Classical Codesign Platform, Plus Error-Correction Breakthrough",
+        "url": "https://www.globenewswire.com/news-release/2026/11/16/3403878/0/en/nvidia-announces-collaboration-with-ibm-and-fermi-national-accelerator-laboratory-to-launch-quantum-classical-codesign-platform-plus-error-correction-breakthrough-to-advance-practi.html",
+        "category": "quantum",
+        "image": "https://ml.globenewswire.com/Resource/Download/e4f87d4e-7f8a-40a4-b953-fb09e62b960a"
+      },
+      {
+        "published": "2026-11-17",
+        "source": "Quantum Zeitgeist",
+        "summary": "Researchers from Forschungszentrum Jülich and the University of Cologne reported an error-correction framework that adapts to changing hardware noise. The article says it reduced logical infidelity by up to 18-fold versus a static approach in the studied qubit codes.",
+        "title": "Error Correction Adapts To Noise Drift, A Key Step For Scaling Qubits",
+        "url": "https://quantumzeitgeist.com/forschungszentrum-julich-error-correction-adapts-noise/",
+        "category": "quantum",
+        "image": "https://quantumzeitgeist.com/wp-content/uploads/error-correction-adapts-noise-drift-key-1200x630.png"
+      },
+      {
+        "published": "2026-11-17",
+        "source": "Quantum Zeitgeist",
+        "summary": "A reported pulse-design method uses closed paths on a sphere to suppress crosstalk in two- and three-qubit systems. The researchers say it remains robust to variations in coupling strength and qubit frequency, outperforming comparison methods by more than an order of magnitude in some tested conditions.",
+        "title": "Closed Loops On A 2-sphere Improve Qubit Gate Accuracy",
+        "url": "https://quantumzeitgeist.com/international-quantum-qubit-gate-accuracy-loops/",
+        "category": "quantum",
+        "image": "https://quantumzeitgeist.com/wp-content/uploads/loops-2-sphere-improve-qubit-gate-1200x630.jpeg"
+      },
+      {
+        "published": "2026-11-17",
         "source": "The Quantum Insider",
-        "summary": "Moth Quantum says its Tessa method encoded and recovered 1,568 values across an IBM Quantum Nighthawk r2 processor, using the data to reconstruct images. The result targets the practical challenge of loading and retrieving classical data; the company-reported demonstration is not itself evidence of a fault-tolerant computation.",
-        "title": "From Cat Pictures to DNA, Moth Quantum Reports Progress on Getting Everyday Data Into Quantum Computers",
-        "url": "https://thequantuminsider.com/2026/11/16/from-cat-pictures-to-dna-moth-quantum-reports-progress-on-getting-everyday-data-into-quantum-computers/",
+        "summary": "BlueQubit selected eight research teams for grants supporting work on quantum advantage, error correction and classical simulation of quantum-computing claims. The program offers awards of $10,000–$40,000 in computing and AI credits, with support from IBM, AWS and NVIDIA.",
+        "title": "BlueQubit Selects Eight Teams for Quantum Flywheel Grant Programme",
+        "url": "https://thequantuminsider.com/2026/11/17/bluequbit-names-eight-research-teams-quantum-flywheel/",
         "category": "quantum",
-        "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/image8.jpg"
+        "image": "https://thequantuminsider.com/wp-content/uploads/2026/11/2026-11-17_14-07.png"
       },
       {
         "published": "2026-11-16",
-        "source": "VAR India",
-        "summary": "IBM outlined plans for its Nighthawk r3 processor, designed for 520 programmable qubits and 10,000 quantum operations, and said it intends to link two processors into a system exceeding 1,000 qubits in 2027. The announcement also described cryogenic-module and chip-interconnect work intended to support modular scaling.",
-        "title": "IBM Quantum Nighthawk Sets New Benchmarks in Speed and Quality",
-        "url": "https://www.varindia.com/news/ibm-quantum-nighthawk-sets-new-benchmarks-in-speed-and-quality",
-        "category": "quantum",
-        "image": "https://newapi.varindia.com/storage/news/2026/11/1ioXiLFrETealw4rRoARrn4mfxu0dFX0jodUJinA.png"
-      },
-      {
-        "published": "2026-11-16",
-        "source": "Yahoo Finance",
-        "summary": "AMD expanded quantum-computing collaborations with PsiQuantum, IBM and Oak Ridge National Laboratory. The work spans hybrid quantum-classical applications and co-design for quantum error correction, including integration of AMD computing hardware with quantum systems.",
-        "title": "Advanced Micro Devices (AMD) Deepens Quantum Push With New Research And Commercial Ties",
-        "url": "https://ca.finance.yahoo.com/news/advanced-micro-devices-amd-deepens-001906359.html",
-        "category": "quantum",
-        "image": ""
-      },
-      {
-        "published": "2026-11-16",
-        "source": "Quantum Zeitgeist",
-        "summary": "Q-CTRL said it is combining its calibration, compilation and error-suppression tools into a more automated workflow for operating quantum processors. The company reported that its software characterized a cooled device in under an hour and recalibrated its gates in under four hours; these are company-reported results.",
-        "title": "Q-CTRL Aims To Run Quantum Computers Like Any Other Server",
-        "url": "https://quantumzeitgeist.com/q-ctrl-quantum-computers-aims-like/",
-        "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/q-ctrl-aims-to-run-quantum-computers-like-1200x630.jpg"
-      },
-      {
-        "published": "2026-11-16",
-        "source": "Fidelity / PR Newswire",
-        "summary": "Moth Quantum announced that its Tessa method encoded 1,568 numbers on an IBM Nighthawk r2 processor and recovered the information to reconstruct an image. The report highlights a potentially useful data-encoding advance, though it is a company announcement and does not establish broad algorithmic advantage.",
+        "source": "QuantumWire / PR Newswire",
+        "summary": "Moth says its Tessa method encoded 1,568 numbers across all 120 qubits of an IBM Quantum Nighthawk r2 processor and recovered the encoded image. The company described this as a data-encoding record; the report notes the hardware’s output remains imperfect.",
         "title": "A Breakthrough That Really Counts - New Record for Encoding and Reading Back Data on a Quantum Computer",
-        "url": "https://www.fidelity.com/news/article/default/202611160400PR_NEWS_USPR_____LN97002",
-        "category": "quantum",
-        "image": ""
-      },
-      {
-        "published": "2026-11-16",
-        "source": "Quantum Zeitgeist",
-        "summary": "Researchers reported demonstrations of genuine multipartite entanglement and nonlocality involving GHZ states with up to ten parties on quantum hardware. The work extends reported certification to larger systems and may support quantum-device benchmarking; it is a research result rather than a commercial application.",
-        "title": "Entangled Qubits May Show Hidden Links Between More Than Ten Particles",
-        "url": "https://quantumzeitgeist.com/quantum-qubits-multipartite-entanglement-witness-comparison-ghz/",
+        "url": "https://quantumwire.com/index.php/article/17948799008063.html",
         "category": "quantum",
         "image": ""
       }
