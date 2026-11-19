@@ -61,29 +61,29 @@
       {
         "published": "2026-11-18",
         "source": "Q-CTRL",
-        "summary": "Q-CTRL reports an experimental demonstration of magic-state cultivation with lattice-surgery escape on IBM’s Nighthawk processor. The company says the work set three records, including a cultivated-state error probability of 2 × 10⁻⁵; these are results reported by the researchers.",
+        "summary": "Q-CTRL reports a cultivated magic-state error probability of 2 × 10⁻⁵ on IBM Nighthawk while retaining 25% of experimental shots. That figure precedes transfer into a larger code; after lattice-surgery escape and ten correction rounds, fidelity exceeded 99% with about 5% of shots retained. These postselected preprint results do not establish an operational fault-tolerant magic-state factory.",
         "title": "Cultivating record-fidelity magic states with lattice surgery on publicly accessible IBM quantum computers",
         "url": "https://q-ctrl.com/blog/cultivating-record-fidelity-magic-states-with-lattice-surgery-on-publicly-accessible-ibm-quantum-computers",
         "category": "quantum",
         "image": "https://cdn.prod.website-files.com/64fe49580f2049d94a40e0fe/6afd3ba63947d744492d32d0_6afd3b8b2fc321555b944ea4_magic-state-record-fidelity-hero.png"
       },
       {
-        "published": "2026-11-18",
-        "source": "Engineering.com",
-        "summary": "IBM, NVIDIA and Fermilab plan a codesign platform linking IBM quantum computers with NVIDIA accelerated systems to study error correction, modular architectures and scientific applications. NVIDIA also announced a decoder it says can speed some error-correction research workloads by up to 13,000 times.",
-        "title": "NVIDIA, IBM and Fermilab advance modular quantum computing",
-        "url": "https://www.engineering.com/nvidia-ibm-and-fermilab-advance-modular-quantum-computing/",
+        "published": "2026-11-16",
+        "source": "IBM Quantum",
+        "summary": "IBM says it will launch a modular quantum computing codesign platform with NVIDIA and Fermilab to explore computationally demanding problems in high-energy and nuclear physics. This is an announced research platform, not a demonstrated application advantage.",
+        "title": "IBM, NVIDIA and Fermilab plan a modular quantum codesign platform",
+        "url": "https://www.ibm.com/quantum/blog/sc26",
         "category": "quantum",
-        "image": "https://www.engineering.com/wp-content/uploads/2026/11/ibm-nvidia-fermilab-1.jpg"
+        "image": ""
       },
       {
-        "published": "2026-11-18",
-        "source": "ETH Zurich (via Quantum Zeitgeist)",
-        "summary": "Researchers report teleporting a logical qubit between processors using lattice surgery on superconducting hardware, coordinating 41 physical qubits. Repeated stabilizer measurements were used to suppress errors during the transfer, a step toward modular fault-tolerant systems.",
-        "title": "Logical Qubits Teleported With 41 Physical Qubits",
-        "url": "https://quantumzeitgeist.com/eth-zurich-logical-qubits-teleported-physical/",
+        "published": "2026-11-17",
+        "source": "ETH-led research team (arXiv preprint)",
+        "summary": "Researchers demonstrated lattice-surgery teleportation between two logical qubits encoded on one 41-qubit superconducting device, not between remote processors. The November 17 preprint tests X- and Z-basis states; arbitrary-state teleportation remains future work. This is a laboratory logical-operation demonstration, not a distributed quantum network.",
+        "title": "ETH-led team demonstrates logical teleportation within a 41-qubit device",
+        "url": "https://arxiv.org/abs/2611.23165",
         "category": "quantum",
-        "image": "https://quantumzeitgeist.com/wp-content/uploads/logical-qubits-teleported-41-physical-1200x630.jpg"
+        "image": ""
       },
       {
         "published": "2026-11-18",
