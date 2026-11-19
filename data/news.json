@@ -1,116 +1,116 @@
 {
-  "updated": "2026-11-18T21:16:55.337Z",
+  "updated": "2026-11-19T21:18:24.345Z",
   "categories": {
     "ai": [
       {
-        "published": "2026-11-18",
-        "source": "CBS News",
-        "summary": "Nvidia says it has stopped shipping Hopper-series AI data-center chips to China, including the H200, despite earlier U.S. approval for sales. Its board has also formed a committee to oversee national-security policy and export-control compliance.",
-        "title": "Nvidia says it will stop selling some AI data center chips to China",
-        "url": "https://www.cbsnews.com/news/nvidia-stops-shipping-hopper-chips-china/?linkId=1039633634",
-        "category": "ai",
-        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/17/b5e7d604-22bc-462f-8c19-345d366d6467/thumbnail/1200x630/f0cc1d7b9e607a58f64035c4c7067480/cbsn-fusion-nvidia-sees-strong-earnings-report-despite-jensen-huang-scandal-and-resignation-thumbnail.jpg"
-      },
-      {
-        "published": "2026-11-17",
-        "source": "OpenAI",
-        "summary": "OpenAI introduced GPT-6.2 Astra for complex work and GPT-6.2 Sol for everyday tasks, making both available through ChatGPT Work, Codex and its API. OpenAI says Astra’s API price is 20% lower than its predecessor and classifies it at the company’s “High” level for AI self-improvement risk.",
-        "title": "Introducing GPT-6.2 Astra and Sol",
-        "url": "https://openai.com/index/introducing-gpt-6-2-astra-and-sol/",
+        "published": "2026-11-19",
+        "source": "Reuters",
+        "summary": "Anthropic raised $81.3 billion in its IPO, valuing the Claude maker at about $1.5 trillion and making it the largest stock-market debut on record. The listing puts a major AI lab’s commercial prospects—and the risks and infrastructure costs of frontier AI—under public-market scrutiny.",
+        "title": "Anthropic raises record $81 billion in IPO at $1.5 trillion valuation",
+        "url": "https://www.reuters.com/legal/transactional/anthropic-prices-blockbuster-ipo-83-share-source-says-2026-11-18/",
         "category": "ai",
         "image": ""
       },
       {
-        "published": "2026-11-17",
-        "source": "NVIDIA Newsroom",
-        "summary": "Nvidia reported fiscal third-quarter results and said it expects continued revenue growth, with its CEO describing demand as accelerating. The company also announced expanded supply-chain commitments to support AI infrastructure production.",
-        "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
-        "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+        "published": "2026-11-19",
+        "source": "OpenAI",
+        "summary": "OpenAI says its models helped improve selected AMD GPU design blocks by up to 14% on power, performance, and area measures, and also reduced cell area in parts of its own inference chip. These are company-reported design results, not a claim that finished AMD GPUs deliver 14% better performance.",
+        "title": "OpenAI says its models can improve chip design",
+        "url": "https://ground.news/article/openai-says-its-models-found-up-to-14-ppa-gains-on-amd-flagship-gpu-ip",
         "category": "ai",
-        "image": "https://iprsoftwaremedia.com/219/files/20224/628c2a47b3aed32797213f6c_voyager-exterior-sign-2/voyager-exterior-sign-2_mid.jpg?v=1829ac3c-85ac-4929-8c67-5994c15c70c9"
+        "image": "https://web-api-cdn.ground.news/api/v04/images/story/r_1xzl1g8/webMetaImg?v=1"
       },
       {
-        "published": "2026-11-18",
-        "source": "The Christian Science Monitor",
-        "summary": "New U.S. Commerce Department rules require export licenses for certain advanced-chip and data-center services provided to China-linked customers. The rules also impose additional licensing requirements on facilities in several countries, aiming to limit access through overseas data centers.",
-        "title": "US tightens rules on chip exports. But divisions over AI and China persist.",
-        "url": "https://www.csmonitor.com/USA/Politics/2026/1118/nvidia-chips-export-bessent-lutnick",
+        "published": "2026-11-19",
+        "source": "California Office of the Governor / Record-Bee",
+        "summary": "California released recommendations calling for state-set AI safety standards, independent testing, expanded incident reporting, and emergency shutdown authority. The proposals also recommend limits on recursive self-improvement; they are recommendations, not themselves new law.",
+        "title": "California releases next steps on mandatory safety standards and oversight of AI safety framework",
+        "url": "https://www.record-bee.com/2026/11/19/california-releases-next-steps-on-mandatory-safety-standards-and-oversight-of-ai-safety-framework/",
         "category": "ai",
-        "image": "https://images.csmonitor.com/csm/2026/11/1222592_2_1118%20NCHIPS%20COMMERCE.jpg_standard.jpg?alias=standard_900x600"
+        "image": "https://www.record-bee.com/wp-content/uploads/2018/08/LRB-Filler-PhotoCORRECT-SIZE.png"
       },
       {
-        "published": "2026-11-18",
-        "source": "Associated Press",
-        "summary": "Nvidia’s stronger-than-expected quarterly results and outlook did not settle investor concerns about the durability of the AI boom; its shares and other AI-linked stocks swung sharply. The market’s reaction highlights ongoing uncertainty around industry growth and valuations.",
-        "title": "Wall Street wobbles as Nvidia and other AI stocks keep swinging sharply",
-        "url": "http://www.goskagit.com/news/ap_business/wall-street-wobbles-as-nvidia-and-other-ai-stocks-keep-swinging-sharply/article_77435855-f02f-5f83-8f0c-5f8874c480eb.html",
+        "published": "2026-11-19",
+        "source": "Financial Times",
+        "summary": "A Financial Times report said Anthropic had activated additional controls under its responsible-scaling policy after assessing its model progress against its risk thresholds. The disclosure has sharpened questions about how the company will balance rapid development with its safety commitments as it enters public markets.",
+        "title": "Anthropic’s AI advances trigger new safety fears on eve of IPO",
+        "url": "https://www.ft.com/content/d8be4655-211c-49a8-bfe4-18a00b8e8619?syn-25a6b1a6=1",
         "category": "ai",
-        "image": "https://bloximages.chicago2.vip.townnews.com/goskagit.com/content/tncms/assets/v3/editorial/c/3f/c3f6b11e-a8b2-5fbe-b50c-1f3823e8d331/6afc77c35bf82.image.jpg?crop=1763%2C926%2C0%2C124&amp;resize=1200%2C630&amp;order=crop%2Cresize"
+        "image": ""
       },
       {
-        "published": "2026-11-17",
-        "source": "NVIDIA Newsroom",
-        "summary": "Nvidia announced new agreements with Kinsus and Samsung Electro-Mechanics to increase substrate capacity and expand production at existing factories. The move addresses supply-chain capacity as demand for AI infrastructure grows.",
-        "title": "NVIDIA Expands Commitments With Supply Chain Partners to Support AI Infrastructure Buildout",
-        "url": "https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout",
+        "published": "2026-11-19",
+        "source": "Reuters",
+        "summary": "Reuters reported that Anthropic CEO Dario Amodei’s IPO-era safety stance includes warning that AI advances could outpace human control, while the company’s filing disclosed a pause in training a next-generation model over security concerns. The story highlights tensions between the lab’s safety posture and its growth ambitions.",
+        "title": "From anti-war physicist to AI power broker, Amodei takes his safety approach public",
+        "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3WU2UE?channel=frL012",
         "category": "ai",
-        "image": "https://iprsoftwaremedia.com/219/files/202611/84535693a1e9e3e78bc4527fb059d368/6afcc4ea3d6332640221300a_nvidia-supply-chain-partners/nvidia-supply-chain-partners_mid.jpg?v=0254b9a9-6c2c-455b-9cfa-df7b2323fa95"
+        "image": ""
+      },
+      {
+        "published": "2026-11-19",
+        "source": "Reuters",
+        "summary": "Anthropic’s debut was reported as a potential benchmark for other frontier AI companies considering public listings, amid debate over AI valuations and the sector’s reliance on enormous future computing commitments. Investors will be watching whether public-market demand can sustain the industry’s spending and growth expectations.",
+        "title": "Anthropic's historic debut to put AI's promise and peril on Wall St trial",
+        "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3WU1GL?channel=frL012",
+        "category": "ai",
+        "image": ""
       }
     ],
     "quantum": [
       {
-        "published": "2026-11-18",
-        "source": "Q-CTRL",
-        "summary": "Q-CTRL reports a cultivated magic-state error probability of 2 × 10⁻⁵ on IBM Nighthawk while retaining 25% of experimental shots. That figure precedes transfer into a larger code; after lattice-surgery escape and ten correction rounds, fidelity exceeded 99% with about 5% of shots retained. These postselected preprint results do not establish an operational fault-tolerant magic-state factory.",
-        "title": "Cultivating record-fidelity magic states with lattice surgery on publicly accessible IBM quantum computers",
-        "url": "https://q-ctrl.com/blog/cultivating-record-fidelity-magic-states-with-lattice-surgery-on-publicly-accessible-ibm-quantum-computers",
+        "published": "2026-11-19",
+        "source": "Quantum Computing Newsletter / Quantum Index",
+        "summary": "Q-CTRL reported a magic-state cultivation demonstration on IBM’s Nighthawk processor, with a stated logical error probability of 2.0×10⁻⁵. The result concerns an important ingredient for fault-tolerant computation; the reported comparison with Google’s result is the company’s claim.",
+        "title": "Q-CTRL demonstrates magic-state cultivation on IBM Nighthawk",
+        "url": "https://en.quantumindex.jp/qctrl-magic-state-cultivation-lattice-surgery-ibm-nighthawk/",
         "category": "quantum",
-        "image": "https://cdn.prod.website-files.com/64fe49580f2049d94a40e0fe/6afd3ba63947d744492d32d0_6afd3b8b2fc321555b944ea4_magic-state-record-fidelity-hero.png"
+        "image": "https://en.quantumindex.jp/wp-content/uploads/2026/09/q-ctrl.png"
       },
       {
-        "published": "2026-11-16",
-        "source": "IBM Quantum",
-        "summary": "IBM says it will launch a modular quantum computing codesign platform with NVIDIA and Fermilab to explore computationally demanding problems in high-energy and nuclear physics. This is an announced research platform, not a demonstrated application advantage.",
-        "title": "IBM, NVIDIA and Fermilab plan a modular quantum codesign platform",
-        "url": "https://www.ibm.com/quantum/blog/sc26",
-        "category": "quantum",
-        "image": ""
-      },
-      {
-        "published": "2026-11-17",
-        "source": "ETH-led research team (arXiv preprint)",
-        "summary": "Researchers demonstrated lattice-surgery teleportation between two logical qubits encoded on one 41-qubit superconducting device, not between remote processors. The November 17 preprint tests X- and Z-basis states; arbitrary-state teleportation remains future work. This is a laboratory logical-operation demonstration, not a distributed quantum network.",
-        "title": "ETH-led team demonstrates logical teleportation within a 41-qubit device",
-        "url": "https://arxiv.org/abs/2611.23165",
+        "published": "2026-11-19",
+        "source": "BusinessWire",
+        "summary": "IQM announced an upgrade program for its Halocene systems, offering a planned path from a 150-qubit system to systems exceeding 1,000 qubits. The company says upgrades will preserve software and HPC integration, but this is a product roadmap rather than a report of a delivered 1,000-qubit machine.",
+        "title": "IQM unveils Halocene upgrade program at SC26",
+        "url": "https://www.businesswirechina.com/en/news/64641.html",
         "category": "quantum",
         "image": ""
       },
       {
+        "published": "2026-11-19",
+        "source": "Infleqtion",
+        "summary": "Infleqtion and memQ signed an MoU to test interoperability between memQ’s quantum-networking technology and Infleqtion’s neutral-atom computer and software. The proposed work targets distributed quantum-computing configurations; the announcement does not report a completed networked system.",
+        "title": "memQ and Infleqtion Sign MoU to Advance Networked Quantum Computing",
+        "url": "https://infleqtion.com/newsroom/announcements/memq-and-infleqtion-sign-mou-to-advance-networked-quantum-computing/",
+        "category": "quantum",
+        "image": "https://infleqtion.com/wp-content/uploads/2026/08/hero-bg.jpg"
+      },
+      {
+        "published": "2026-11-19",
+        "source": "QuantumWire",
+        "summary": "QuEra and Lawrence Berkeley National Laboratory reported a Nature study using QuEra’s Aquila neutral-atom processor with NERSC’s Perlmutter supercomputer to investigate quantum dynamics. The work reports observations of phenomena in systems of up to 180 qubits, rather than a new general-purpose computing capability.",
+        "title": "QuEra and Lawrence Berkeley National Laboratory Publish Nature Study of Quantum Dynamics on Up to 180 Qubits",
+        "url": "https://quantumwire.com/index.php/article/17950632288111.html",
+        "category": "quantum",
+        "image": ""
+      },
+      {
+        "published": "2026-11-19",
+        "source": "Quantum Index",
+        "summary": "Quantum Machines described an integration of its OPX1000 control platform with NVIDIA CUDA-Q for transmitting error syndromes, decoding them, and returning correction results during a job. The reported latency tests used pre-generated syndromes, so they do not establish improved logical error rates on live hardware.",
+        "title": "Quantum Machines lowers QEC latency with NVIDIA CUDA‑Q",
+        "url": "https://en.quantumindex.jp/quantum-machines-opx1000-cuda-q-qec-decoding/",
+        "category": "quantum",
+        "image": "https://en.quantumindex.jp/wp-content/uploads/2026/09/quantum_machines-1.png"
+      },
+      {
         "published": "2026-11-18",
-        "source": "Alice & Bob (via Des Moines Register)",
-        "summary": "Alice & Bob announced a modular cat-qubit roadmap targeting 200 logical qubits by 2030, built from 3,600 physical qubits. The target is a company roadmap, not a delivered system; the firm says its architecture uses linked QPUs and cat qubits that suppress bit-flip errors.",
+        "source": "QuantumWire",
+        "summary": "Alice & Bob announced a roadmap targeting 200 logical qubits by 2030, using a planned modular architecture based on cat qubits. This is an ambitious future target; the company also described prototype work, but the roadmap milestones have not yet been achieved.",
         "title": "Alice & Bob Unveils Accelerated Roadmap on Modular Architecture: 200 Logical Qubits from 3,600 Physical Qubits by 2030",
-        "url": "https://www.desmoinesregister.com/press-release/story/155205/alice-bob-unveils-accelerated-roadmap-on-modular-architecture-200-logical-qubits-from-3600-physical-qubits-by-2030/",
+        "url": "https://quantumwire.com/index.php/article/17950621848109.html",
         "category": "quantum",
         "image": ""
-      },
-      {
-        "published": "2026-11-18",
-        "source": "Lawrence Berkeley National Laboratory and QuEra (via All80sZ1063)",
-        "summary": "QuEra and Berkeley Lab announced a Nature study using the Aquila neutral-atom processor with NERSC’s Perlmutter supercomputer to study quantum dynamics after a sudden change. The team reports observing a dynamical phase transition in a two-dimensional system.",
-        "title": "QuEra Computing and Lawrence Berkeley National Laboratory Publish Nature Study of Quantum Dynamics on Up to 180 Qubits",
-        "url": "https://lifestyle.all80sz1063.com/story/587814/quera-computing-and-lawrence-berkeley-national-laboratory-publish-nature-study-of-quantum-dynamics-on-up-to-180-qubits/",
-        "category": "quantum",
-        "image": "https://mmx.prnewswire.com/media/MS692121/QuEra-Computing-Logo.jpg?id=OA3086769"
-      },
-      {
-        "published": "2026-11-18",
-        "source": "Quantum Computing Report",
-        "summary": "Quandela, CNRS and NVIDIA researchers published a benchmark for when photonic quantum processors become harder to simulate exactly on a single NVIDIA H100 GPU. The study proposes a common throughput-based measure, aiming to make comparisons across photonic hardware and classical simulation methods more consistent.",
-        "title": "Quandela and NVIDIA Benchmark Photonic Quantum Simulability Frontiers on H100 GPUs",
-        "url": "https://quantumcomputingreport.com/quandela-and-nvidia-benchmark-photonic-quantum-simulability-frontiers-on-h100-gpus/",
-        "category": "quantum",
-        "image": "https://quantumcomputingreport.com/wp-content/uploads/2026/11/image-141.png"
       }
     ]
   }
