@@ -30,3 +30,9 @@ Alternatives: run `server.mjs` on Render, Fly, or AWS Lambda, or schedule a Lamb
 - Add categories to `CATEGORIES` in either script; tabs are created automatically.
 - Theme: edit the CSS variables `--bg --fg --acc --card` in the widget.
 - Cost: 2 Sonar calls per day.
+
+## Frontier Research Inbox deposit
+After each successful `daily-news` run, `.github/workflows/inbox-deposit.yml` runs `backend-node/deposit-inbox.mjs`, which sends the fresh `data/news.json` and `data/signals-candidates.json` to the Frontier Research Inbox (the upload-only drop box the site-building agent reads). Titles start with `Frontier News · YYYY-MM-DD ·` and `Weak-Signal Radar · YYYY-MM-DD ·`; both are unreviewed bot output. The reviewed radar (`data/signals.json`) is not sent.
+- Needs the repo secret `FRONTIER_INBOX_KEY`. The code is read from the environment only; never commit it.
+- A snapshot older than six hours is skipped, so a failed collection is not deposited twice. To resend, run the `inbox-deposit` workflow manually with `force` ticked.
+- The deposit runs as its own workflow, so a failed send cannot block the feed. Receipt numbers are printed in the workflow log.

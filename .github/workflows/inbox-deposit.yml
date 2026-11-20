@@ -1,0 +1,29 @@
+# Sends each day's automated research output (data/news.json and
+# data/signals-candidates.json) to the Frontier Research Inbox after the
+# daily-news workflow finishes. Kept separate so a failed deposit can never
+# block the feed. Needs repo secret FRONTIER_INBOX_KEY (the inbox upload code).
+name: inbox-deposit
+on:
+  workflow_run: { workflows: [daily-news], types: [completed] }
+  workflow_dispatch:
+    inputs:
+      force:
+        description: Send the current snapshots even if they are older than six hours
+        type: boolean
+        default: false
+permissions: { contents: read }
+concurrency: { group: inbox-deposit, cancel-in-progress: false }
+jobs:
+  deposit:
+    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: main }
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: cd backend-node && node deposit-inbox.mjs
+        env:
+          FRONTIER_INBOX_KEY: "${{ secrets.FRONTIER_INBOX_KEY }}"
+          FORCE: "${{ inputs.force && '1' || '0' }}"
