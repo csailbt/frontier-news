@@ -1,116 +1,89 @@
 {
-  "updated": "2026-11-19T21:18:24.345Z",
+  "updated": "2026-11-20T20:59:11.046Z",
   "categories": {
     "ai": [
       {
-        "published": "2026-11-19",
+        "published": "2026-11-20",
         "source": "Reuters",
-        "summary": "Anthropic raised $81.3 billion in its IPO, valuing the Claude maker at about $1.5 trillion and making it the largest stock-market debut on record. The listing puts a major AI lab’s commercial prospects—and the risks and infrastructure costs of frontier AI—under public-market scrutiny.",
-        "title": "Anthropic raises record $81 billion in IPO at $1.5 trillion valuation",
-        "url": "https://www.reuters.com/legal/transactional/anthropic-prices-blockbuster-ipo-83-share-source-says-2026-11-18/",
+        "summary": "Anthropic shares fell on Friday after their record-setting public debut, reflecting broader weakness in AI and technology stocks. Reuters reported the company raised $93.5 billion after underwriters exercised their option to buy additional shares.",
+        "title": "Anthropic's post-debut stumble delivers reality check for AI trade",
+        "url": "https://www.tri-cityherald.com/news/business/article318170984.html",
+        "category": "ai",
+        "image": "https://www.mcclatchy-wires.com/public/incoming/dea6xh/picture318170769/alternates/LANDSCAPE_1200/44b7ed78-0433-4302-9ef5-03d933eae4d0"
+      },
+      {
+        "published": "2026-11-20",
+        "source": "Reuters",
+        "summary": "Nvidia reported quarterly revenue of $115.8 billion, up 103% year over year, beating its prior forecast. The result underscores the scale of demand for AI computing infrastructure.",
+        "title": "Nvidia quarterly results and AI chip demand",
+        "url": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-column-roi-2026-11-20/",
         "category": "ai",
         "image": ""
       },
       {
-        "published": "2026-11-19",
-        "source": "OpenAI",
-        "summary": "OpenAI says its models helped improve selected AMD GPU design blocks by up to 14% on power, performance, and area measures, and also reduced cell area in parts of its own inference chip. These are company-reported design results, not a claim that finished AMD GPUs deliver 14% better performance.",
-        "title": "OpenAI says its models can improve chip design",
-        "url": "https://ground.news/article/openai-says-its-models-found-up-to-14-ppa-gains-on-amd-flagship-gpu-ip",
-        "category": "ai",
-        "image": "https://web-api-cdn.ground.news/api/v04/images/story/r_1xzl1g8/webMetaImg?v=1"
-      },
-      {
-        "published": "2026-11-19",
-        "source": "California Office of the Governor / Record-Bee",
-        "summary": "California released recommendations calling for state-set AI safety standards, independent testing, expanded incident reporting, and emergency shutdown authority. The proposals also recommend limits on recursive self-improvement; they are recommendations, not themselves new law.",
-        "title": "California releases next steps on mandatory safety standards and oversight of AI safety framework",
-        "url": "https://www.record-bee.com/2026/11/19/california-releases-next-steps-on-mandatory-safety-standards-and-oversight-of-ai-safety-framework/",
-        "category": "ai",
-        "image": "https://www.record-bee.com/wp-content/uploads/2018/08/LRB-Filler-PhotoCORRECT-SIZE.png"
-      },
-      {
-        "published": "2026-11-19",
-        "source": "Financial Times",
-        "summary": "A Financial Times report said Anthropic had activated additional controls under its responsible-scaling policy after assessing its model progress against its risk thresholds. The disclosure has sharpened questions about how the company will balance rapid development with its safety commitments as it enters public markets.",
-        "title": "Anthropic’s AI advances trigger new safety fears on eve of IPO",
-        "url": "https://www.ft.com/content/d8be4655-211c-49a8-bfe4-18a00b8e8619?syn-25a6b1a6=1",
+        "published": "2026-11-20",
+        "source": "The New News in AI",
+        "summary": "At its Ignite conference, Microsoft introduced a suite of AI models, including a coding model and a cybersecurity-focused model. The launch expands Microsoft's effort to compete with established AI model providers.",
+        "title": "Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic, OpenAI",
+        "url": "https://markmcneilly.substack.com/p/the-new-news-in-ai-112026-edition",
         "category": "ai",
         "image": ""
       },
       {
-        "published": "2026-11-19",
-        "source": "Reuters",
-        "summary": "Reuters reported that Anthropic CEO Dario Amodei’s IPO-era safety stance includes warning that AI advances could outpace human control, while the company’s filing disclosed a pause in training a next-generation model over security concerns. The story highlights tensions between the lab’s safety posture and its growth ambitions.",
-        "title": "From anti-war physicist to AI power broker, Amodei takes his safety approach public",
-        "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3WU2UE?channel=frL012",
+        "published": "2026-11-20",
+        "source": "What Claude Users Should Expect after the IPO",
+        "summary": "OpenAI released GPT-6.2 Astra for demanding professional tasks and GPT-6.2 Sol for everyday use, with both available through its products and API. The report says Astra's API prices are 20% below those of its predecessor.",
+        "title": "What Claude Users Should Expect after the IPO",
+        "url": "https://dcthemedian.substack.com/p/what-claude-users-should-expect-after",
         "category": "ai",
         "image": ""
       },
       {
-        "published": "2026-11-19",
-        "source": "Reuters",
-        "summary": "Anthropic’s debut was reported as a potential benchmark for other frontier AI companies considering public listings, amid debate over AI valuations and the sector’s reliance on enormous future computing commitments. Investors will be watching whether public-market demand can sustain the industry’s spending and growth expectations.",
-        "title": "Anthropic's historic debut to put AI's promise and peril on Wall St trial",
-        "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KCN3WU1GL?channel=frL012",
+        "published": "2026-11-20",
+        "source": "Morning edition — Friday 20 November 2026",
+        "summary": "A U.S. Senate permitting bill passed 62–33; the report says it would speed energy-project reviews and require data centers to pay for grid upgrades. The measure addresses infrastructure pressures associated with rising electricity demand, including from AI data centers.",
+        "title": "Morning edition — Friday 20 November 2026",
+        "url": "https://luongnv.com/news/reports/2026-11-20-morning.html",
         "category": "ai",
         "image": ""
       }
     ],
     "quantum": [
       {
-        "published": "2026-11-19",
-        "source": "Quantum Computing Newsletter / Quantum Index",
-        "summary": "Q-CTRL reported a magic-state cultivation demonstration on IBM’s Nighthawk processor, with a stated logical error probability of 2.0×10⁻⁵. The result concerns an important ingredient for fault-tolerant computation; the reported comparison with Google’s result is the company’s claim.",
-        "title": "Q-CTRL demonstrates magic-state cultivation on IBM Nighthawk",
-        "url": "https://en.quantumindex.jp/qctrl-magic-state-cultivation-lattice-surgery-ibm-nighthawk/",
-        "category": "quantum",
-        "image": "https://en.quantumindex.jp/wp-content/uploads/2026/09/q-ctrl.png"
-      },
-      {
-        "published": "2026-11-19",
-        "source": "BusinessWire",
-        "summary": "IQM announced an upgrade program for its Halocene systems, offering a planned path from a 150-qubit system to systems exceeding 1,000 qubits. The company says upgrades will preserve software and HPC integration, but this is a product roadmap rather than a report of a delivered 1,000-qubit machine.",
-        "title": "IQM unveils Halocene upgrade program at SC26",
-        "url": "https://www.businesswirechina.com/en/news/64641.html",
+        "published": "2026-11-20",
+        "source": "Google Quantum AI / Science",
+        "summary": "Google researchers reported contextuality experiments on Willow processors, including a 98.3% win rate in a four-qubit magic-square game—above the 88.9% classical limit—and tests on systems up to 105 qubits. The work offers a possible hardware diagnostic; it does not establish a general quantum-computing advantage.",
+        "title": "Google demonstrates quantum contextuality on Willow processors",
+        "url": "https://quantumcomputingreport.com/news/",
         "category": "quantum",
         "image": ""
       },
       {
-        "published": "2026-11-19",
-        "source": "Infleqtion",
-        "summary": "Infleqtion and memQ signed an MoU to test interoperability between memQ’s quantum-networking technology and Infleqtion’s neutral-atom computer and software. The proposed work targets distributed quantum-computing configurations; the announcement does not report a completed networked system.",
-        "title": "memQ and Infleqtion Sign MoU to Advance Networked Quantum Computing",
-        "url": "https://infleqtion.com/newsroom/announcements/memq-and-infleqtion-sign-mou-to-advance-networked-quantum-computing/",
+        "published": "2026-11-20",
+        "source": "Harvard Gazette",
+        "summary": "A Harvard-led collaboration received $12 million from the U.S. Department of Energy for ASQC, a project using AI to tailor quantum error-correction codes and decoders to scientific workloads. The team plans to test the methods on hardware at Harvard, MIT, and QuEra.",
+        "title": "Harvard-led team receives $12 million to advance quantum computing with AI",
+        "url": "https://news.harvard.edu/gazette/story/2026/11/harvard-led-team-receives-12-million-in-federal-funds-to-advance-quantum-computing-with-ai/",
         "category": "quantum",
-        "image": "https://infleqtion.com/wp-content/uploads/2026/08/hero-bg.jpg"
+        "image": "https://news.harvard.edu/wp-content/uploads/2026/11/sophie-and-Muqing-quantum-genesis-1280.jpg"
       },
       {
-        "published": "2026-11-19",
-        "source": "QuantumWire",
-        "summary": "QuEra and Lawrence Berkeley National Laboratory reported a Nature study using QuEra’s Aquila neutral-atom processor with NERSC’s Perlmutter supercomputer to investigate quantum dynamics. The work reports observations of phenomena in systems of up to 180 qubits, rather than a new general-purpose computing capability.",
-        "title": "QuEra and Lawrence Berkeley National Laboratory Publish Nature Study of Quantum Dynamics on Up to 180 Qubits",
-        "url": "https://quantumwire.com/index.php/article/17950632288111.html",
+        "published": "2026-11-20",
+        "source": "Quantum Computing Report",
+        "summary": "A French National Quantum Strategy-backed consortium led by VIQTHOR received €14 million to develop integrated qubit-control and readout systems using photonic and superconducting interconnects. Its stated targets include demonstrators for 1,000 qubits by 2028 and 10,000 by 2030.",
+        "title": "French strategy backs €14 million Qubit Control 2030 consortium",
+        "url": "https://www.quantumcomputingreport.com/news/",
         "category": "quantum",
         "image": ""
       },
       {
-        "published": "2026-11-19",
-        "source": "Quantum Index",
-        "summary": "Quantum Machines described an integration of its OPX1000 control platform with NVIDIA CUDA-Q for transmitting error syndromes, decoding them, and returning correction results during a job. The reported latency tests used pre-generated syndromes, so they do not establish improved logical error rates on live hardware.",
-        "title": "Quantum Machines lowers QEC latency with NVIDIA CUDA‑Q",
-        "url": "https://en.quantumindex.jp/quantum-machines-opx1000-cuda-q-qec-decoding/",
+        "published": "2026-11-20",
+        "source": "HUN-REN Wigner Research Centre for Physics",
+        "summary": "The AI4QT Hungarian-German project announced results including Simphony, a noise-aware simulator, and QUASAR, a compiler for star-topology architectures. The consortium also reported benchmarking 12 processors from six manufacturers using new metrics, with Quantinuum’s H2-1 achieving the highest Clifford volume in its tests.",
+        "title": "AI4QT project announces tools and benchmarks for quantum processors",
+        "url": "https://wigner.hu/en/artificial-intelligence-makes-quantum-computers-more-efficient-ai4qt-project-successfully-completed",
         "category": "quantum",
-        "image": "https://en.quantumindex.jp/wp-content/uploads/2026/09/quantum_machines-1.png"
-      },
-      {
-        "published": "2026-11-18",
-        "source": "QuantumWire",
-        "summary": "Alice & Bob announced a roadmap targeting 200 logical qubits by 2030, using a planned modular architecture based on cat qubits. This is an ambitious future target; the company also described prototype work, but the roadmap milestones have not yet been achieved.",
-        "title": "Alice & Bob Unveils Accelerated Roadmap on Modular Architecture: 200 Logical Qubits from 3,600 Physical Qubits by 2030",
-        "url": "https://quantumwire.com/index.php/article/17950621848109.html",
-        "category": "quantum",
-        "image": ""
+        "image": "https://wigner.hu/sites/default/files/inline-images/K%C3%A9p4_.png"
       }
     ]
   }
